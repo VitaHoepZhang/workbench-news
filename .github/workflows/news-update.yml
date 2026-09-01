@@ -1,0 +1,45 @@
+name: 资讯自动更新
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 北京时间 07:00
+    - cron: '0 5 * * *'    # 北京时间 13:00
+    - cron: '30 13 * * *'  # 北京时间 21:30
+  workflow_dispatch: {}    # 支持在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 抓取并生成资讯
+        run: node scripts/fetch-news.mjs
+        env:
+          # 可选：配置后会用 DeepSeek AI 生成科普解读与法律速递（费用极低）
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: 提交更新
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add news.json finance-news.json version.json
+          if git diff --cached --quiet; then
+            echo "内容无变化，跳过提交"
+          else
+            TS=$(TZ=Asia/Shanghai date +'%Y%m%d-%H%M')
+            git commit -m "chore: 自动更新资讯 ${TS}"
+            git push
+          fi
