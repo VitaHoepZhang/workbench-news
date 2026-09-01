@@ -1,52 +1,77 @@
 {
-  "updated_at": "2026-09-01T14:41:51+08:00",
-  "science": [],
+  "updated_at": "2026-09-01T14:54:05+08:00",
+  "science": [
+    {
+      "title": "今日热点速览 · 永久的友好近邻 真诚的合作伙伴",
+      "summary": "「永久的友好近邻 真诚的合作伙伴」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
+    },
+    {
+      "title": "今日热点速览 · 抖音崩了",
+      "summary": "「抖音崩了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
+    },
+    {
+      "title": "今日热点速览 · 一个年级90个班？多地初中现超大校额",
+      "summary": "「一个年级90个班？多地初中现超大校额」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
+    },
+    {
+      "title": "今日热点速览 · 新生入学如何准备",
+      "summary": "「新生入学如何准备」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
+    }
+  ],
   "tech_briefing": {
     "items": [
       {
-        "title": "无人配送车逆行挡停公交车，九识客服回应称初步判断系路线设置问题",
-        "url": "https://www.ithome.com/0/996/938.htm",
-        "summary": "<p data-vmark=\"1cad\">IT之家 9 月 1 日消息，据新京报报道，陕西西安灞桥区纺东街一辆无人配送车 8 月 31 日逆行挡停公交车。视频拍摄者孙先生说，当时是放学的高峰期，所有车都在路上排队，<strong>无人配送车",
+        "title": "机智连接推出 AI 纪要 TWS 耳机 Plaud One，内置 eSIM",
+        "url": "https://www.ithome.com/0/996/945.htm",
+        "summary": "<p data-vmark=\"b1a4\">IT之家 9 月 1 日消息，深圳 AI 纪要硬件企业机智连接 (Plaud) 上周宣布推出 Plaud One 耳机。这一设备<strong>主打随时随地的人工智能体验</strong>，内置 4",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Meta AI 编程工具 Muse Code 结束测试，新增多项功能并开启订阅服务",
-        "url": "https://www.ithome.com/0/996/937.htm",
-        "summary": "<p data-vmark=\"395c\">IT之家 9 月 1 日消息，Meta 今日宣布，旗下 AI 编程工具 Muse Code 已正式结束 Beta 测试，并推出多项新功能，包括会话间消息传递、工作流以及命令行界面的“回退”功能。同时",
+        "title": "华硕公布 ProArt P14 笔记本规格：英伟达 RTX Spark 平台，统一内存 24GB 起步",
+        "url": "https://www.ithome.com/0/996/944.htm",
+        "summary": "<p data-vmark=\"332d\">IT之家 9 月 1 日消息，科技媒体 Wccftech 今天（9 月 1 日）发布博文，<strong>报道称华硕公布 ProArt P14 笔记本详细配置。</strong>该机搭载英伟达 RT",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "12TB 旧 Steam 数据集流出，含《传送门 2》游戏多个可玩预发布版本",
-        "url": "https://www.ithome.com/0/996/936.htm",
-        "summary": "<p data-vmark=\"448b\">IT之家 9 月 1 日消息，科技媒体 Ars Technica 昨日（8 月 31 日）发布博文，<strong>报道称一份超过 12TB 的 Steam 历史内容档案近期以种子（BitTorre",
+        "title": "3 周内增长约 7 倍：Cybercab 发布在即，特斯拉悄悄扩张 Robotaxi 车队规模",
+        "url": "https://www.ithome.com/0/996/943.htm",
+        "summary": "<p data-vmark=\"7de2\">IT之家 9 月 1 日消息，外媒 Teslarati 援引众包平台 Robotaxi Tracker 汇总数据，透露特斯拉在 Cybercab 发布活动前夕正大幅扩张 Robotaxi 车队规模，",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小鹏汇天西部首个飞行汽车“6S”综合运营中心正式落户成都东安湖",
-        "url": "https://www.ithome.com/0/996/935.htm",
-        "summary": "<p data-vmark=\"8b82\">IT之家 9 月 1 日消息，小鹏汇天飞行汽车官方微博今日宣布，<strong>汇天西部首个飞行汽车“6S”综合运营中心正式落户成都东安湖</strong>。</p><p style=\"text-a",
+        "title": "OpenAI 否认窃取苹果商业机密：自己一手造成的还想赖别人",
+        "url": "https://www.ithome.com/0/996/942.htm",
+        "summary": "<p data-vmark=\"90db\">IT之家 9 月 1 日消息，据路透社报道，OpenAI 当地时间周一否认了苹果关于其窃取商业机密的指控，称这家 iPhone 制造商未能证明任何机密信息被离职员工带走。</p><p style=\"",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "王腾创业公司“今日宜休”深圳办公室启用，称可贴近供应链和产业资源",
-        "url": "https://www.ithome.com/0/996/934.htm",
-        "summary": "<p data-vmark=\"80fb\">IT之家 9 月 1 日消息，今日宜休创始人王腾在微信发文，称其公司“今日宜休”深圳办公室正式投入使用。</p><p data-vmark=\"553c\">王腾表示，公司总部在北京，深圳团队的定位是更",
+        "title": "东京电玩展前夜，卡普空 9 月 16 日举办 40 分钟发布会",
+        "url": "https://www.ithome.com/0/996/941.htm",
+        "summary": "<p data-vmark=\"2543\">IT之家 9 月 1 日消息，卡普空宣布将于太平洋时间 2026 年 9 月 16 日 7:00（北京时间 22:00）举办 Capcom Spotlight 发布会。本次发布会将为玩家带来卡普空最",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "日本 25 年历史 PC DIY 硬件品牌玄人志向更名 Crowxis",
-        "url": "https://www.ithome.com/0/996/930.htm",
-        "summary": "<p data-vmark=\"cc16\">IT之家 9 月 1 日消息，日本大型外设制造商 BUFFALO（巴法络）旗下 PC 组件与外设企业 CFD Sales 当地时间今日宣布<strong>，已有 25 年历史的 PC DIY 品牌“",
+        "title": "鸿蒙智行智界 V9 旗舰 MPV 官宣 8 月零售交付量 8312 台",
+        "url": "https://www.ithome.com/0/996/940.htm",
+        "summary": "<p data-vmark=\"d488\">IT之家 9 月 1 日消息，鸿蒙智行智界汽车官方今日宣布，<strong>智界 V9 旗舰 MPV 上月（即 8 月）零售交付量 8312 台</strong>。</p><p style=\"tex",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -106,7 +131,26 @@
     ]
   },
   "legal_briefing": {
-    "items": []
+    "items": [
+      {
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
+      }
+    ]
   },
   "hot_topics": [
     {
@@ -184,19 +228,19 @@
     {
       "title": "一年级小孩开学抱妈痛哭看呆学姐",
       "platform": "百度热搜/头条",
-      "hot": "15138717",
-      "url": "https://www.toutiao.com/trending/7679617565794209334/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679617565794209334%22%2C%22hot_board_impr_id%22%3A%222026090114414994837EEC5CBC080C4618%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A9%E5%BC%80%E5%AD%A6%E6%8A%B1%E5%A6%88%E7%97%9B%E5%93%AD%E7%9C%8B%E5%91%86%E5%AD%A6%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7679617565794209334"
+      "hot": "15215304",
+      "url": "https://www.toutiao.com/trending/7679617565794209334/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679617565794209334%22%2C%22hot_board_impr_id%22%3A%22202609011454027C5E30074BCF868D63B1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A9%E5%BC%80%E5%AD%A6%E6%8A%B1%E5%A6%88%E7%97%9B%E5%93%AD%E7%9C%8B%E5%91%86%E5%AD%A6%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7679617565794209334"
     },
     {
       "title": "杨瀚森倒地后被自家球迷拿球砸",
       "platform": "百度热搜/头条",
-      "hot": "13698077",
-      "url": "https://www.toutiao.com/trending/7680192835028664383/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680192835028664383%22%2C%22hot_board_impr_id%22%3A%222026090114414994837EEC5CBC080C4618%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%80%92%E5%9C%B0%E5%90%8E%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%90%83%E8%BF%B7%E6%8B%BF%E7%90%83%E7%A0%B8%22%7D&rank=&style_id=40132&topic_id=7680192835028664383"
+      "hot": "13767376",
+      "url": "https://www.toutiao.com/trending/7680192835028664383/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680192835028664383%22%2C%22hot_board_impr_id%22%3A%22202609011454027C5E30074BCF868D63B1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%80%92%E5%9C%B0%E5%90%8E%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%90%83%E8%BF%B7%E6%8B%BF%E7%90%83%E7%A0%B8%22%7D&rank=&style_id=40132&topic_id=7680192835028664383"
     },
     {
       "title": "科技助力田管 推动粮食稳产增收",
       "platform": "百度热搜/头条",
-      "hot": "12394533",
+      "hot": "12457237",
       "url": "https://www.toutiao.com/article/7680179637981069878"
     }
   ],
