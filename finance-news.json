@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-01T13:54:20+08:00",
+  "updated_at": "2026-09-01T14:41:51+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3987.42,
-      "change": 1.12,
-      "pct": 0.03
+      "value": 3981.66,
+      "change": -4.64,
+      "pct": -0.12
     },
     {
       "name": "深证成指",
-      "value": 13920.54,
-      "change": -94.46,
-      "pct": -0.67
+      "value": 13889.15,
+      "change": -125.85,
+      "pct": -0.9
     },
     {
       "name": "创业板指",
-      "value": 3410.5,
-      "change": -28.18,
-      "pct": -0.82
+      "value": 3399.66,
+      "change": -39.02,
+      "pct": -1.13
     }
   ],
   "sectors": [
@@ -27,31 +27,31 @@
     },
     {
       "name": "种子",
-      "change": 12.08
+      "change": 12.09
     },
     {
       "name": "种植业",
-      "change": 7.95
+      "change": 8.32
     },
     {
       "name": "文字媒体",
-      "change": 6.82
+      "change": 6.71
+    },
+    {
+      "name": "粮食种植",
+      "change": 6.46
     },
     {
       "name": "农业综合Ⅲ",
-      "change": 6.35
+      "change": 6.29
     },
     {
       "name": "农业综合Ⅱ",
-      "change": 6.35
+      "change": 6.29
     },
     {
       "name": "农用机械",
-      "change": 5.88
-    },
-    {
-      "name": "金融信息服务",
-      "change": 5.19
+      "change": 5.87
     }
   ],
   "macro": [],
