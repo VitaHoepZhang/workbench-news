@@ -128,6 +128,30 @@ async function genWithAI(hot, type) {
   } catch (e) { console.log("AI 生成降级:", e.message); return []; }
 }
 
+// ---------- 规则兜底（AI 不可用/失败时保证板块非空） ----------
+
+// 法律关键词：热点标题命中任一即视为法律相关
+const LEGAL_KWS = ["裁员","辞退","劳动","加班","工资","欠薪","合同","租房","押金","维权","赔偿","罚款","起诉","判决","法院","犯罪","诈骗","诈骗罪","股权","社保","公积金","个税","婚姻","继承","酒驾","违章","投诉","消费者","网购","贷款","借贷","拘留","被捕","受贿","反腐","事故责任","商标","版权","隐私","泄露"];
+// 内置大众法律话题模板（无法律热点时兜底展示）
+const LEGAL_TEMPLATES = [
+  { title: "被裁员，经济补偿 N / N+1 / 2N 怎么算？", summary: "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。", source: "普法", heat: "高" },
+  { title: "买到问题商品，消费者维权的 3 条路", summary: "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。", source: "普法", heat: "高" },
+  { title: "加班费三档标准：1.5 / 2 / 3 倍", summary: "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。", source: "普法", heat: "高" },
+];
+function legalFallback(hot) {
+  const hit = hot.filter((h) => LEGAL_KWS.some((kw) => (h.title || "").includes(kw))).slice(0, 3)
+    .map((h) => ({ title: "「" + h.title + "」涉及哪些法律点？", summary: "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。", source: "普法", heat: "高", url: h.url || "" }));
+  return hit.length ? hit : LEGAL_TEMPLATES;
+}
+// 科普兜底：无 AI 且 60s 源失败时，用今日热点生成速览
+function scienceFallback(hot) {
+  return hot.slice(0, 4).map((h, i) => ({
+    title: "今日热点速览 · " + (h.title || "要闻" + (i + 1)),
+    summary: "「" + (h.title || "") + "」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+    source: "热点速览", heat: "高",
+  }));
+}
+
 // ---------- 主流程 ----------
 const [bd, tt, news60] = await Promise.all([fetchBaidu(), fetchToutiao(), fetch60s()]);
 const [ithome, sspai] = await Promise.all([
@@ -142,14 +166,16 @@ const hot = [...bd, ...tt].filter((h) => {
   seen.add(h.title); return true;
 }).slice(0, 15).map((h, i) => ({ rank: i + 1, ...h }));
 
-// 科普：优先 AI 生成；无 key 用 60s 要闻解读兜底
+// 科普：优先 AI 生成；无 key/失败用 60s 要闻解读兜底；再失败用热点速览
 const scienceAI = await genWithAI(hot, "science");
-const science = scienceAI || news60.slice(0, 4).map((x) => ({
-  title: x.title, summary: x.summary, source: "60s读懂世界", url: "", heat: "中",
-}));
+const science = scienceAI && scienceAI.length ? scienceAI
+  : (news60.length ? news60.slice(0, 4).map((x) => ({
+      title: x.title, summary: x.summary, source: "60s读懂世界", url: "", heat: "中",
+    })) : scienceFallback(hot));
 
-// 法律速递：优先 AI；无 key 留空（前端知识库会为法律热点自动匹配科普）
-const legal = (await genWithAI(hot, "legal")) || [];
+// 法律速递：优先 AI；无 key/失败用规则兜底（关键词匹配热点 → 内置模板），保证板块永不为空
+const legalAI = await genWithAI(hot, "legal");
+const legal = legalAI && legalAI.length ? legalAI : legalFallback(hot);
 
 // 选题建议（模板）
 const suggested = hot.slice(0, 5).map((h) => ({
