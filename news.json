@@ -1,0 +1,349 @@
+{
+  "updated_at": "2026-09-01T13:54:20+08:00",
+  "science": [
+    {
+      "title": "为什么深圳校服全市统一还能在超市买到？",
+      "summary": "深圳校服是少有的全市统一款式，由教育局指定款式但非指定品牌，多家企业获授权生产，因此商超、网店都能买。这种模式通过标准化降低家长选择成本，同时用市场竞争控制价格，堪称‘校服版计划经济+市场经济’的混合体。",
+      "source": "科普",
+      "heat": "高"
+    },
+    {
+      "title": "一年级家长年龄相差近30岁：代际差异如何影响教育？",
+      "summary": "高龄家长（如40+）和低龄家长（如25-）同时出现在一年级，反映生育年龄跨度加大。不同年龄段家长在育儿理念（如鸡娃vs佛系）、科技使用（如智能手表管控）和沟通方式上差异显著，这会影响家校互动和孩子的社交环境。理解代际差异有助于减少家长间冲突。",
+      "source": "科普",
+      "heat": "高"
+    },
+    {
+      "title": "抖音崩了：服务器也会‘过载瘫痪’吗？",
+      "summary": "抖音崩溃通常是因为瞬时请求量超过服务器集群的承载极限，或某个核心服务（如推荐算法、消息推送）出现故障。平台会通过负载均衡和冗余备份来缓解，但极端流量（如热点事件）仍可能击穿系统。这就像高速公路突然涌入10倍车流，再宽的路也会堵死。",
+      "source": "科普",
+      "heat": "高"
+    },
+    {
+      "title": "一学期只有一次课堂紧急如厕机会：憋尿对身体的真实伤害",
+      "summary": "学校限制如厕次数多出于管理便利，但憋尿会过度拉伸膀胱壁，增加尿路感染和肾损伤风险，儿童尤其敏感。长期憋尿还可能导致膀胱括约肌功能紊乱，引发尿频或失禁。医学建议：有尿意应及时排出，课堂规则不应以牺牲健康为代价。",
+      "source": "科普",
+      "heat": "高"
+    }
+  ],
+  "tech_briefing": {
+    "items": [
+      {
+        "title": "Manus 宣布正式恢复独立运营，创始人肖弘及团队留任",
+        "url": "https://www.ithome.com/0/996/898.htm",
+        "summary": "<p data-vmark=\"e02c\">IT之家 9 月 1 日消息，Manus 宣布即日起正式恢复独立运营，由创始人肖弘（Red Xiao）、首席科学家季逸超（Peak Ji）及联合创始人张涛（Hidecloud）组成的创始团队将继续领",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "三星 Galaxy S27 Ultra 手机被爆测试 5000 万像素 4x 长焦镜头",
+        "url": "https://www.ithome.com/0/996/895.htm",
+        "summary": "<p data-vmark=\"c4d9\">IT之家 9 月 1 日消息，消息源 @phonefuturist 昨日（8 月 31 日）在 X 平台发布推文，爆料称针对 Galaxy S27 系列，<strong>三星正测试相机硬件共享策略，",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "希音正式登陆港交所：成 2026 年港股最大时尚品牌 IPO",
+        "url": "https://www.ithome.com/0/996/894.htm",
+        "summary": "<p data-vmark=\"b249\">IT之家 9 月 1 日消息，希音（SHEIN）今日上午正式在香港联合交易所主板挂牌上市。此次 IPO 使希音成为 2026 年港股规模最大的时尚品牌 IPO。</p><p style=\"text-",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "广发银行 Visa、万事达卡即日起支持绑定 Apple Pay，首绑消费返现至高 9 及 5 美元",
+        "url": "https://www.ithome.com/0/996/893.htm",
+        "summary": "<p data-vmark=\"fae3\">IT之家 9 月 1 日消息，广发银行 Visa 卡与万事达卡即日起支持绑定 Apple Pay，用于境外及跨境支付场景。广发银行也因此成为国内首家在同一天新增支持两大国际卡组织 Apple Pay",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
+        "url": "https://www.ithome.com/0/996/891.htm",
+        "summary": "<p data-vmark=\"2c6f\">IT之家 9 月 1 日消息，由中国科学院大连化学物理研究所（以下简称“大连化物所”）联合科大讯飞股份有限公司（以下简称“科大讯飞”）、阿里云计算有限公司（以下简称“阿里云”）等共同研发的<stro",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "消息称华为新平板切 OLED 屏设计：Air 搭载麒麟 T93 系处理器本月发布、Pad mini 二代加速中",
+        "url": "https://www.ithome.com/0/996/890.htm",
+        "summary": "<p data-vmark=\"ad89\">IT之家 9 月 1 日消息，博主 @数码闲聊站 今日发文爆料，华为新平板都开始切 OLED：</p><blockquote><ul class=\"medium-size list-paddingl",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      }
+    ]
+  },
+  "mzu_briefing": {
+    "items": [
+      {
+        "title": "台风 “沙德尔” 残余涡旋移入南海",
+        "summary": "台风 “沙德尔” 残余涡旋移入南海，或于未来 24 小时再度发展为台风；福建、广东、海南岛等地将有大暴雨",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "统计局：8 月份制造业采购经理指数为 49.8%",
+        "summary": "统计局：8 月份制造业采购经理指数为 49.8%，比上月上升 0.6 个百分点，景气水平回升",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "商务部等 7 部门：到 2030 年",
+        "summary": "商务部等 7 部门：到 2030 年，社会消费品零售总额达 60 万亿元左右",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "前 8 个月百强房企销售总额超 2 万亿元",
+        "summary": "前 8 个月百强房企销售总额超 2 万亿元，重点城市热销项目走出独立行情",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "上海医保新政：9 月起个人账户结余可抵 “分类自",
+        "summary": "上海医保新政：9 月起个人账户结余可抵 “分类自负” 费用",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "多所高校宣布中秋、国庆连放 13 天",
+        "summary": "多所高校宣布中秋、国庆连放 13 天，校方：避免学生反复往返耗费路费、体力",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "四川一中学收取 220 元入校门禁费",
+        "summary": "四川一中学收取 220 元入校门禁费，当地通报：系增值服务费，已停止相关业务，目前已全部退还",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "A 股 8 月收官：三大指数集体收涨",
+        "summary": "A 股 8 月收官：三大指数集体收涨，全月超 4200 股上涨，ETF 减仓超千亿",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "“三桶油” 上半年净赚 2154 亿元",
+        "summary": "“三桶油” 上半年净赚 2154 亿元，中国石油、中国海油盈利刷新纪录",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "最新财富报告：2025 年全球亿万富豪达 379",
+        "summary": "最新财富报告：2025 年全球亿万富豪达 3795 人创历史新高，资产超 500 亿美元有 29 人，AI 成财富增长主推力",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+        "url": "https://sspai.com/post/111081",
+        "summary": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Ap",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+        "url": "https://sspai.com/post/114055",
+        "summary": "少数派的近期动态能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章全球仅剩三位数的物种，科学家却连一个准数都数不出来屏幕之外，桌面之上 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+        "url": "https://sspai.com/post/114043",
+        "summary": "在多人联机游戏里， 你都跟同伴一起创造过怎样的回忆？<a href=&#34;https://sspai.com/post/114043&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/114041",
+        "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/114041&#34; target=&#34;_blank&",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+        "url": "https://sspai.com/prime/story/home-made-beverages-4",
+        "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
+        "url": "https://sspai.com/post/114027",
+        "summary": "<a href=&#34;https://sspai.com/post/114027&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      }
+    ]
+  },
+  "legal_briefing": {
+    "items": [
+      {
+        "title": "方文山再发文：交给律师了——网络侵权如何维权",
+        "summary": "若词作者方文山遭遇未经授权使用作品或名誉受损，可依据《著作权法》和《民法典》提起侵权诉讼。网络平台需承担“通知-删除”义务，权利人应保存证据并尽快公证，以防损失扩大。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "一学期只有一次课堂紧急如厕机会——学生权益与校规边界",
+        "summary": "学校制定校规不得侵犯学生基本生理健康权，限制如厕可能构成不合理管理。若因规定导致学生健康受损，家长可向教育主管部门投诉或依据《未成年人保护法》维权。",
+        "source": "普法",
+        "heat": "中"
+      },
+      {
+        "title": "深圳校服全市统一商超可买——价格垄断与消费者选择权",
+        "summary": "校服统一销售模式若排除竞争、抬高价格，可能涉嫌违反《反垄断法》或《价格法》。家长遇强制高价购买，可向市场监管部门举报，主张公平交易权。",
+        "source": "普法",
+        "heat": "中"
+      }
+    ]
+  },
+  "hot_topics": [
+    {
+      "title": "永久的友好近邻 真诚的合作伙伴",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B0%B8%E4%B9%85%E7%9A%84%E5%8F%8B%E5%A5%BD%E8%BF%91%E9%82%BB+%E7%9C%9F%E8%AF%9A%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4&sa=fyb_news"
+    },
+    {
+      "title": "抖音崩了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "一年级家长年龄相差近30岁",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%AE%B6%E9%95%BF%E5%B9%B4%E9%BE%84%E7%9B%B8%E5%B7%AE%E8%BF%9130%E5%B2%81&sa=fyb_news"
+    },
+    {
+      "title": "新生入学如何准备",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%A6%82%E4%BD%95%E5%87%86%E5%A4%87&sa=fyb_news"
+    },
+    {
+      "title": "深圳校服 全市统一商超可买",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D+%E5%85%A8%E5%B8%82%E7%BB%9F%E4%B8%80%E5%95%86%E8%B6%85%E5%8F%AF%E4%B9%B0&sa=fyb_news"
+    },
+    {
+      "title": "一学期只有一次课堂紧急如厕机会",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%AA%E6%9C%89%E4%B8%80%E6%AC%A1%E8%AF%BE%E5%A0%82%E7%B4%A7%E6%80%A5%E5%A6%82%E5%8E%95%E6%9C%BA%E4%BC%9A&sa=fyb_news"
+    },
+    {
+      "title": "网红曹奶奶离世",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%9B%B9%E5%A5%B6%E5%A5%B6%E7%A6%BB%E4%B8%96&sa=fyb_news"
+    },
+    {
+      "title": "方文山再发文：交给律师了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%96%B9%E6%96%87%E5%B1%B1%E5%86%8D%E5%8F%91%E6%96%87%EF%BC%9A%E4%BA%A4%E7%BB%99%E5%BE%8B%E5%B8%88%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "女子被踢845个群被迫离职 当地通报",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%A2845%E4%B8%AA%E7%BE%A4%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news"
+    },
+    {
+      "title": "横漂短剧女演员：不让家人看AI短剧",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%A8%AA%E6%BC%82%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%EF%BC%9A%E4%B8%8D%E8%AE%A9%E5%AE%B6%E4%BA%BA%E7%9C%8BAI%E7%9F%AD%E5%89%A7&sa=fyb_news"
+    },
+    {
+      "title": "退休阿姨81天环游20国 仅花3.7万元",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E9%80%80%E4%BC%91%E9%98%BF%E5%A7%A881%E5%A4%A9%E7%8E%AF%E6%B8%B820%E5%9B%BD+%E4%BB%85%E8%8A%B13.7%E4%B8%87%E5%85%83&sa=fyb_news"
+    },
+    {
+      "title": "车越重越安全系谣言",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E8%B6%8A%E9%87%8D%E8%B6%8A%E5%AE%89%E5%85%A8%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+    },
+    {
+      "title": "一年级小孩开学抱妈痛哭看呆学姐",
+      "platform": "百度热搜/头条",
+      "hot": "14826600",
+      "url": "https://www.toutiao.com/trending/7679617565794209334/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679617565794209334%22%2C%22hot_board_impr_id%22%3A%222026090113541234AFCA2A309807060BCF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A9%E5%BC%80%E5%AD%A6%E6%8A%B1%E5%A6%88%E7%97%9B%E5%93%AD%E7%9C%8B%E5%91%86%E5%AD%A6%E5%A7%90%22%7D&rank=&style_id=40132&topic_id=7679617565794209334"
+    },
+    {
+      "title": "杨瀚森倒地后被自家球迷拿球砸",
+      "platform": "百度热搜/头条",
+      "hot": "13415663",
+      "url": "https://www.toutiao.com/trending/7680192835028664383/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680192835028664383%22%2C%22hot_board_impr_id%22%3A%222026090113541234AFCA2A309807060BCF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%80%92%E5%9C%B0%E5%90%8E%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%90%83%E8%BF%B7%E6%8B%BF%E7%90%83%E7%A0%B8%22%7D&rank=&style_id=40132&topic_id=7680192835028664383"
+    },
+    {
+      "title": "科技助力田管 推动粮食稳产增收",
+      "platform": "百度热搜/头条",
+      "hot": "12138993",
+      "url": "https://www.toutiao.com/article/7680179637981069878"
+    }
+  ],
+  "suggested_topics": [
+    {
+      "title": "永久的友好近邻 真诚的合作伙伴",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    },
+    {
+      "title": "抖音崩了",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    },
+    {
+      "title": "一年级家长年龄相差近30岁",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    },
+    {
+      "title": "新生入学如何准备",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    },
+    {
+      "title": "深圳校服 全市统一商超可买",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    }
+  ]
+}
