@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-02T21:38:20+08:00",
+  "updated_at": "2026-09-03T07:01:43+08:00",
   "science": [
     {
-      "title": "今日热点速览 · “中国之治”的时代回响",
-      "summary": "「“中国之治”的时代回响」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平同埃及总统塞西会谈",
+      "summary": "「习近平同埃及总统塞西会谈」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -14,8 +14,8 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 房价会上涨吗",
-      "summary": "「房价会上涨吗」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “口袋空调”卖爆了",
+      "summary": "「“口袋空调”卖爆了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "英伟达 CEO 黄仁勋呼吁 G20 成员国加快发展、应用 AI，以促进经济增长",
-        "url": "https://www.ithome.com/0/997/665.htm",
-        "summary": "<p class=\"isSelectedEnd\" data-vmark=\"56c8\">IT之家 9 月 2 日消息，据彭博社今天（2 日）报道，英伟达 CEO 黄仁勋呼吁二十国集团（G20）成员<strong>加快发展和应用人工智能</st",
+        "title": "雷军：小米 18 Fold“中折叠”手机内外屏采用约 √2:1 标准纸张比例",
+        "url": "https://www.ithome.com/0/997/721.htm",
+        "summary": "<p data-vmark=\"82d6\">IT之家 9 月 3 日消息，小米创办人、董事长兼 CEO 雷军宣布，<strong>小米 18 Fold“中折叠”手机的内外屏采用约 √2:1 标准纸张比例</strong>。</p><p sty",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "299 元：ANBERNIC 安伯尼克 RG 35 竖版掌机开售，RK3326 芯片、3.5 寸屏幕",
-        "url": "https://www.ithome.com/0/997/664.htm",
-        "summary": "<p data-vmark=\"8b6c\">IT之家 9 月 2 日消息，ANBERNIC 安伯尼克 RG 35 掌机现已开售，新品采用竖版设计，可游玩各种复古游戏，<strong>定价 299 元</strong>。</p><p data-",
+        "title": "《塞尔达传说：时之笛》重制版由《异度神剑》工作室 Monolith Soft 开发，年内登陆任天堂 Switch 2",
+        "url": "https://www.ithome.com/0/997/720.htm",
+        "summary": "<p data-vmark=\"c090\">IT之家 9 月 3 日消息，挪威零售商 Elkjøp 的产品页面显示，《塞尔达传说：时之笛》重制版的开发商为 Monolith Soft，而非任天堂内部开发团队 EPD。</p><p data-v",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "高通披露新一代 Adreno GPU 细节：矩阵核心强化 AI 算力，有望进一步改善画面升频效果",
-        "url": "https://www.ithome.com/0/997/663.htm",
-        "summary": "<p class=\"isSelectedEnd\" data-vmark=\"6600\">IT之家 9 月 2 日消息，据外媒 Android Authority 今天（2 日）晚间报道，在公布下一代旗舰处理器的 CPU 升级细节后，高通又进一",
+        "title": "博主推测苹果 A20 Pro 芯片结构，预估升级 7 核 GPU",
+        "url": "https://www.ithome.com/0/997/719.htm",
+        "summary": "<p data-vmark=\"11dc\">IT之家 9 月 3 日消息，数码博主 @白饭炒白米饭 于 8 月 30 日发布微博，<strong>通过焊点图，反推苹果 A20 Pro 芯片的规模以及内部结构</strong>，目前已被 Not",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "中国科学院青岛能源所开发出新型高容量与强选择性海水提铀材料",
-        "url": "https://www.ithome.com/0/997/662.htm",
-        "summary": "<p data-vmark=\"2d88\">IT之家 9 月 2 日消息，中国科学院青岛生物能源与过程研究所（简称“青岛能源所”）宣布，<strong>该所研究团队近期在海水提铀材料领域取得系列进展</strong>。</p><p data-",
+        "title": "苹果 iOS 27 新增“iPhone 接力”功能，两部手机可共用同一号码",
+        "url": "https://www.ithome.com/0/997/718.htm",
+        "summary": "<p data-vmark=\"bea3\">IT之家 9 月 3 日消息，苹果在 iOS 27 中加入了一项名为“iPhone 接力”的新功能，允许用户在两部 iPhone 上使用同一个电话号码并支持切换。</p><p data-vmark=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "广汽传祺方盒子 SUV 越 7 开启预售：两驱、四驱共 4 款配置，权益价 17.18 万-21.78 万元",
-        "url": "https://www.ithome.com/0/997/659.htm",
-        "summary": "<p style=\"text-align: left;\" data-vmark=\"2b0f\">IT之家 9 月 2 日消息，广汽传祺全新方盒子 SUV 越 7 今天（2 日）晚间正式开启预售，新车提供 4 种不同配置，预售价区间为 17.9",
+        "title": "华为 CMM-AL10 鸿蒙手机入网：配备 6615mAh 大电池",
+        "url": "https://www.ithome.com/0/997/715.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 9 月 3 日消息，型号为 CMM-AL10 的华为 5G 新机已通过电信设备进网许可，未公布证件照。</p><p data-vmark=\"0001\">IT之家注意到，该机配备 <stro",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "奇瑞捷豹路虎神行者 8 首发限定版 1000 台售罄，锁单权益价 44.99 万元",
-        "url": "https://www.ithome.com/0/997/658.htm",
-        "summary": "<p data-vmark=\"9584\">IT之家 9 月 2 日消息，奇瑞捷豹路虎 FREELANDER 神行者官方今晚宣布，<strong>神行者 8 首发限定版 1000 台售罄</strong>。</p><p style=\"text",
+        "title": "博通 2026 财年第三财季归母净利润 130.88 亿美元，同比增长 216%",
+        "url": "https://www.ithome.com/0/997/713.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 9 月 3 日消息，博通今日发布 2026 财年（2025 年 11 月 3 日～2026 年 11 月 1 日）第三财季（2026 年 5 月 4 日～2026 年 8 月 2 日）报告",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,31 +133,20 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「为继承母亲手机号 姐弟三人打官司」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E4%B8%BA%E7%BB%A7%E6%89%BF%E6%AF%8D%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%8F%B7+%E5%A7%90%E5%BC%9F%E4%B8%89%E4%BA%BA%E6%89%93%E5%AE%98%E5%8F%B8&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "“中国之治”的时代回响",
+      "title": "习近平同埃及总统塞西会谈",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E2%80%9D%E7%9A%84%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%93%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%A1%9E%E8%A5%BF%E4%BC%9A%E8%B0%88&sa=fyb_news"
     },
     {
       "title": "多地小学老师转教初中",
@@ -166,10 +155,10 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E6%95%99%E5%88%9D%E4%B8%AD&sa=fyb_news"
     },
     {
-      "title": "房价会上涨吗",
+      "title": "“口袋空调”卖爆了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%88%BF%E4%BB%B7%E4%BC%9A%E4%B8%8A%E6%B6%A8%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8F%A3%E8%A2%8B%E7%A9%BA%E8%B0%83%E2%80%9D%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "读懂这个“50.9%”的分量",
@@ -178,46 +167,46 @@
       "url": "https://m.baidu.com/s?word=%E8%AF%BB%E6%87%82%E8%BF%99%E4%B8%AA%E2%80%9C50.9%25%E2%80%9D%E7%9A%84%E5%88%86%E9%87%8F&sa=fyb_news"
     },
     {
-      "title": "美国地勤暴力损坏中国飞机？国航回应",
+      "title": "告别机顶盒",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%9C%B0%E5%8B%A4%E6%9A%B4%E5%8A%9B%E6%8D%9F%E5%9D%8F%E4%B8%AD%E5%9B%BD%E9%A3%9E%E6%9C%BA%EF%BC%9F%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%91%8A%E5%88%AB%E6%9C%BA%E9%A1%B6%E7%9B%92&sa=fyb_news"
     },
     {
-      "title": "景区NPC酷似“玄奘”走红",
+      "title": "人教版语文教材新增这篇课文",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BANPC%E9%85%B7%E4%BC%BC%E2%80%9C%E7%8E%84%E5%A5%98%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%95%99%E7%89%88%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E6%96%B0%E5%A2%9E%E8%BF%99%E7%AF%87%E8%AF%BE%E6%96%87&sa=fyb_news"
     },
     {
-      "title": "西藏吉隆泥石流致21人遇难541人失联",
+      "title": "吉隆泥石流灾害发现遗物847件",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B421%E4%BA%BA%E9%81%87%E9%9A%BE541%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8F%91%E7%8E%B0%E9%81%97%E7%89%A9847%E4%BB%B6&sa=fyb_news"
     },
     {
-      "title": "手机涨价以为会疯抢结果询价都没人",
+      "title": "为继承母亲手机号 姐弟三人打官司",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BB%A5%E4%B8%BA%E4%BC%9A%E7%96%AF%E6%8A%A2%E7%BB%93%E6%9E%9C%E8%AF%A2%E4%BB%B7%E9%83%BD%E6%B2%A1%E4%BA%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E7%BB%A7%E6%89%BF%E6%AF%8D%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%8F%B7+%E5%A7%90%E5%BC%9F%E4%B8%89%E4%BA%BA%E6%89%93%E5%AE%98%E5%8F%B8&sa=fyb_news"
     },
     {
-      "title": "泉州一墓园突然坍塌 不少坟墓被毁",
+      "title": "李月汝因遗失护照落选女篮大名单",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B3%89%E5%B7%9E%E4%B8%80%E5%A2%93%E5%9B%AD%E7%AA%81%E7%84%B6%E5%9D%8D%E5%A1%8C+%E4%B8%8D%E5%B0%91%E5%9D%9F%E5%A2%93%E8%A2%AB%E6%AF%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E6%9C%88%E6%B1%9D%E5%9B%A0%E9%81%97%E5%A4%B1%E6%8A%A4%E7%85%A7%E8%90%BD%E9%80%89%E5%A5%B3%E7%AF%AE%E5%A4%A7%E5%90%8D%E5%8D%95&sa=fyb_news"
     },
     {
-      "title": "女生带马到武汉上大学",
+      "title": "张雪惊讶97岁李锦记掌门人喝冰可乐",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E5%B8%A6%E9%A9%AC%E5%88%B0%E6%AD%A6%E6%B1%89%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%83%8A%E8%AE%B697%E5%B2%81%E6%9D%8E%E9%94%A6%E8%AE%B0%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%96%9D%E5%86%B0%E5%8F%AF%E4%B9%90&sa=fyb_news"
     },
     {
-      "title": "《圣斗士星矢》作者被熟人骗46亿日元",
+      "title": "曹骏 断层第一",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%E3%80%8B%E4%BD%9C%E8%80%85%E8%A2%AB%E7%86%9F%E4%BA%BA%E9%AA%9746%E4%BA%BF%E6%97%A5%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9B%B9%E9%AA%8F+%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80&sa=fyb_news"
     },
     {
       "title": "“打疫苗破坏自身免疫系统”系误区",
@@ -226,27 +215,27 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%89%93%E7%96%AB%E8%8B%97%E7%A0%B4%E5%9D%8F%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E2%80%9D%E7%B3%BB%E8%AF%AF%E5%8C%BA&sa=fyb_news"
     },
     {
-      "title": "伊朗：4名士兵在美军袭击中死亡",
+      "title": "俄罗斯人拿人民币在黑河夜市疯狂扫货",
       "platform": "百度热搜/头条",
-      "hot": "17923590",
-      "url": "https://www.toutiao.com/trending/7680509153680556086/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680509153680556086%22%2C%22hot_board_impr_id%22%3A%2220260902213817B36DE6C1FBEE54E48EAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%EF%BC%9A4%E5%90%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E4%B8%AD%E6%AD%BB%E4%BA%A1%22%7D&rank=&style_id=40132&topic_id=7680509153680556086"
+      "hot": "24165296",
+      "url": "https://www.toutiao.com/trending/7680032340908408868/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680032340908408868%22%2C%22hot_board_impr_id%22%3A%2220260903070140AAF1C8EC7AA663CBA38D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%8B%BF%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9C%A8%E9%BB%91%E6%B2%B3%E5%A4%9C%E5%B8%82%E7%96%AF%E7%8B%82%E6%89%AB%E8%B4%A7%22%7D&rank=&style_id=40132&topic_id=7680032340908408868"
     },
     {
-      "title": "“梅姨”被提起公诉",
+      "title": "国台办回应郑丽文向西藏灾区捐款",
       "platform": "百度热搜/头条",
-      "hot": "16217934",
-      "url": "https://www.toutiao.com/trending/7680902764173459497/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680902764173459497%22%2C%22hot_board_impr_id%22%3A%2220260902213817B36DE6C1FBEE54E48EAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%22%7D&rank=&style_id=40132&topic_id=7680902764173459497"
+      "hot": "21865664",
+      "url": "https://www.toutiao.com/trending/7680517478992186921/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680517478992186921%22%2C%22hot_board_impr_id%22%3A%2220260903070140AAF1C8EC7AA663CBA38D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E9%83%91%E4%B8%BD%E6%96%87%E5%90%91%E8%A5%BF%E8%97%8F%E7%81%BE%E5%8C%BA%E6%8D%90%E6%AC%BE%22%7D&rank=&style_id=40132&topic_id=7680517478992186921"
     },
     {
       "title": "开学季，这份安全手册请查收",
       "platform": "百度热搜/头条",
-      "hot": "14674594",
+      "hot": "19784870",
       "url": "https://www.toutiao.com/article/7680820874815029823"
     }
   ],
   "suggested_topics": [
     {
-      "title": "“中国之治”的时代回响",
+      "title": "习近平同埃及总统塞西会谈",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -254,7 +243,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "房价会上涨吗",
+      "title": "“口袋空调”卖爆了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +251,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "美国地勤暴力损坏中国飞机？国航回应",
+      "title": "告别机顶盒",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
