@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-02T13:05:53+08:00",
+  "updated_at": "2026-09-02T21:38:20+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3941.36,
-      "change": -38.53,
+      "value": 3941.39,
+      "change": -38.5,
       "pct": -0.97
     },
     {
       "name": "深证成指",
-      "value": 13592.31,
-      "change": -280.07,
-      "pct": -2.02
+      "value": 13611.55,
+      "change": -260.83,
+      "pct": -1.88
     },
     {
       "name": "创业板指",
-      "value": 3307.65,
-      "change": -85.78,
-      "pct": -2.53
+      "value": 3312.24,
+      "change": -81.19,
+      "pct": -2.39
     }
   ],
   "sectors": [
     {
       "name": "地面兵装Ⅲ",
-      "change": 6.99
+      "change": 5.9
     },
     {
       "name": "地面兵装Ⅱ",
-      "change": 6.99
+      "change": 5.9
     },
     {
       "name": "化妆品制造及其他",
-      "change": 5.93
-    },
-    {
-      "name": "视频媒体",
-      "change": 4.51
-    },
-    {
-      "name": "其他橡胶制品",
-      "change": 4.49
+      "change": 5.27
     },
     {
       "name": "化妆品",
-      "change": 3.41
+      "change": 2.96
     },
     {
-      "name": "宠物食品",
-      "change": 2.89
+      "name": "其他橡胶制品",
+      "change": 2.56
     },
     {
       "name": "玻纤制造",
-      "change": 2.69
+      "change": 2.41
+    },
+    {
+      "name": "鞋帽及其他",
+      "change": 2.4
+    },
+    {
+      "name": "品牌消费电子",
+      "change": 2.25
     }
   ],
   "macro": [],
