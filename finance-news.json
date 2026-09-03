@@ -1,59 +1,26 @@
 {
-  "updated_at": "2026-09-03T13:38:58+08:00",
+  "updated_at": "2026-09-03T21:37:59+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3934.2,
-      "change": -7.19,
-      "pct": -0.18
+      "value": 3942.09,
+      "change": 0.7,
+      "pct": 0.02
     },
     {
       "name": "深证成指",
-      "value": 13566.35,
-      "change": -45.2,
-      "pct": -0.33
+      "value": 13625.12,
+      "change": 13.57,
+      "pct": 0.1
     },
     {
       "name": "创业板指",
-      "value": 3293.81,
-      "change": -18.43,
-      "pct": -0.56
+      "value": 3312.54,
+      "change": 0.3,
+      "pct": 0.01
     }
   ],
-  "sectors": [
-    {
-      "name": "旅游零售Ⅲ",
-      "change": 5.95
-    },
-    {
-      "name": "旅游零售Ⅱ",
-      "change": 5.95
-    },
-    {
-      "name": "白银",
-      "change": 4.2
-    },
-    {
-      "name": "金属包装",
-      "change": 3.44
-    },
-    {
-      "name": "涂料",
-      "change": 3.43
-    },
-    {
-      "name": "航运",
-      "change": 2.97
-    },
-    {
-      "name": "保险Ⅲ",
-      "change": 2.49
-    },
-    {
-      "name": "保险Ⅱ",
-      "change": 2.49
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
