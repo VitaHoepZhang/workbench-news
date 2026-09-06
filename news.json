@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:35:26+08:00",
+  "updated_at": "2026-09-07T07:01:42+08:00",
   "science": [
     {
       "title": "今日热点速览 · 迎头赶上 奋起直追 力争超越",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 3600亿元！8家中央金融企业大动作",
-      "summary": "「3600亿元！8家中央金融企业大动作」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 小区禁止新能源汽车进地库 律师解读",
+      "summary": "「小区禁止新能源汽车进地库 律师解读」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 爷爷提前剪葫芦是给流量的一记耳光",
-      "summary": "「爷爷提前剪葫芦是给流量的一记耳光」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 安徽 新“五子登科”",
+      "summary": "「安徽 新“五子登科”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -27,56 +27,7 @@
     }
   ],
   "tech_briefing": {
-    "items": [
-      {
-        "title": "便携式甲醛检测仪号称精度 99.9%？科普提醒多数产品检测结果不可信",
-        "url": "https://www.ithome.com/0/999/035.htm",
-        "summary": "<p data-vmark=\"2d85\">IT之家 9 月 6 日消息，新房装修过后，不少家庭担心室内甲醛超标，便携式甲醛检测仪凭借小巧便携、操作简单的特点，成为电商平台的热销商品。部分商家大肆宣传产品“精准度高达 99.9%”，声称可以精",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "比亚迪：今年受电池产能制约，闪充太受欢迎",
-        "url": "https://www.ithome.com/0/999/034.htm",
-        "summary": "<p data-vmark=\"f552\">IT之家 9 月 6 日消息，比亚迪于 9 月 4 日发布投资者关系活动记录表，其中指出，今年受电池产能制约，闪充太受欢迎。</p><ul class=\" list-paddingleft-2\"><",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "《文明 7》公布更新计划：2027 年推免费大更新 + 首个付费 DLC",
-        "url": "https://www.ithome.com/0/999/033.htm",
-        "summary": "<p data-vmark=\"8d85\">IT之家 9 月 6 日消息，在 PAX West 游戏展上，为庆祝《文明》系列迎来 35 周年，2K 与 Firaxis Games 今日公布了《席德 · 梅尔的文明 VII》（Sid Meier",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "帕拉丁也要出“方盒子”SUV？东风日产副总经理王骞发文暗示",
-        "url": "https://www.ithome.com/0/999/030.htm",
-        "summary": "<p data-vmark=\"6822\">IT之家 9 月 6 日消息，近日，有博主表示希望复活一台方盒子帕拉丁。对此，东风日产汽车销售有限公司副总经理王骞进行了转发，并表示：“<strong>收到！许愿池已开启</strong>”。</p",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "深光影像 AF 35mm F2.2 相机镜头新增富士 X 卡口，699 元起",
-        "url": "https://www.ithome.com/0/999/027.htm",
-        "summary": "<p data-vmark=\"e99f\">IT之家 9 月 6 日消息，深光影像宣布，AF 35mm F2.2 相机镜头新增富士 X 卡口，将于 9 月 7 日 10:00 开售，<strong>售价 699 元起</strong>：</p",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "“阳台太阳能”在美国市场兴起，多州放宽部署限制",
-        "url": "https://www.ithome.com/0/999/026.htm",
-        "summary": "<p data-vmark=\"878e\">IT之家 9 月 6 日消息，DIY 插电式太阳能套装，有时也被称为“阳台太阳能”，已经在欧洲安全、高效地运行了多年，如今也正在逐步进入美国市场，让更多普通家庭能够参与能源生产。</p><p sty",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      }
-    ]
+    "items": []
   },
   "mzu_briefing": {
     "items": [
@@ -133,11 +84,22 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「女子怀孕后工资从8000调到3000」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E5%B7%A5%E8%B5%84%E4%BB%8E8000%E8%B0%83%E5%88%B03000&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
@@ -149,16 +111,16 @@
       "url": "https://m.baidu.com/s?word=%E8%BF%8E%E5%A4%B4%E8%B5%B6%E4%B8%8A+%E5%A5%8B%E8%B5%B7%E7%9B%B4%E8%BF%BD+%E5%8A%9B%E4%BA%89%E8%B6%85%E8%B6%8A&sa=fyb_news"
     },
     {
-      "title": "3600亿元！8家中央金融企业大动作",
+      "title": "小区禁止新能源汽车进地库 律师解读",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93+%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB&sa=fyb_news"
     },
     {
-      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "title": "安徽 新“五子登科”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD+%E6%96%B0%E2%80%9C%E4%BA%94%E5%AD%90%E7%99%BB%E7%A7%91%E2%80%9D&sa=fyb_news"
     },
     {
       "title": "相约“青春华章”",
@@ -167,16 +129,22 @@
       "url": "https://m.baidu.com/s?word=%E7%9B%B8%E7%BA%A6%E2%80%9C%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "救援人员因害怕 放下灭火器后逃离",
+      "title": "滕王阁 终身免费票",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%9B%A0%E5%AE%B3%E6%80%95+%E6%94%BE%E4%B8%8B%E7%81%AD%E7%81%AB%E5%99%A8%E5%90%8E%E9%80%83%E7%A6%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%BB%95%E7%8E%8B%E9%98%81+%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%A5%A8&sa=fyb_news"
     },
     {
-      "title": "女子怀孕后工资从8000调到3000",
+      "title": "女篮世界杯中国队加时险胜捷克队",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E5%B7%A5%E8%B5%84%E4%BB%8E8000%E8%B0%83%E5%88%B03000&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%97%B6%E9%99%A9%E8%83%9C%E6%8D%B7%E5%85%8B%E9%98%9F&sa=fyb_news"
+    },
+    {
+      "title": "同名同姓同年同月同日生同校同专业",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E5%90%8C%E6%A0%A1%E5%90%8C%E4%B8%93%E4%B8%9A&sa=fyb_news"
     },
     {
       "title": "赴港看演唱会被取消低保？当地回应",
@@ -185,28 +153,22 @@
       "url": "https://m.baidu.com/s?word=%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "title": "抗癌博主离世曾忠告年轻人不要熬夜",
+      "title": "年轻人正在“忘记”打字",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E7%A6%BB%E4%B8%96%E6%9B%BE%E5%BF%A0%E5%91%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%86%AC%E5%A4%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A3%E5%9C%A8%E2%80%9C%E5%BF%98%E8%AE%B0%E2%80%9D%E6%89%93%E5%AD%97&sa=fyb_news"
     },
     {
-      "title": "上一次你开电视是什么时候",
+      "title": "除了惊天逆转 郑钦文还有高情商发言",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E4%B8%80%E6%AC%A1%E4%BD%A0%E5%BC%80%E7%94%B5%E8%A7%86%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%99%A4%E4%BA%86%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E9%83%91%E9%92%A6%E6%96%87%E8%BF%98%E6%9C%89%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "中国人为啥老说“多喝热水”",
+      "title": "演员郑国霖回应成NPC顶流：剧本多了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%80%81%E8%AF%B4%E2%80%9C%E5%A4%9A%E5%96%9D%E7%83%AD%E6%B0%B4%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "title": "北京可能没有Luke 遍地都是尚之桃",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E5%8F%AF%E8%83%BD%E6%B2%A1%E6%9C%89Luke+%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E5%B0%9A%E4%B9%8B%E6%A1%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E9%83%91%E5%9B%BD%E9%9C%96%E5%9B%9E%E5%BA%94%E6%88%90NPC%E9%A1%B6%E6%B5%81%EF%BC%9A%E5%89%A7%E6%9C%AC%E5%A4%9A%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "“一吨旧手机提炼200克黄金”不实",
@@ -217,20 +179,20 @@
     {
       "title": "多地严查赵一鸣等零食品牌",
       "platform": "百度热搜/头条",
-      "hot": "19085767",
-      "url": "https://www.toutiao.com/trending/7682073467651227691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682073467651227691%22%2C%22hot_board_impr_id%22%3A%222026090621352492D6F25C1AF8F6C4F1A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E7%AD%89%E9%9B%B6%E9%A3%9F%E5%93%81%E7%89%8C%22%7D&rank=&style_id=40132&topic_id=7682073467651227691"
+      "hot": "17803031",
+      "url": "https://www.toutiao.com/trending/7682073467651227691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682073467651227691%22%2C%22hot_board_impr_id%22%3A%2220260907070129FF35D1A4B370314455A7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E7%AD%89%E9%9B%B6%E9%A3%9F%E5%93%81%E7%89%8C%22%7D&rank=&style_id=40132&topic_id=7682073467651227691"
     },
     {
-      "title": "财政部将向中国太平注资70亿",
+      "title": "女生赴港看演唱会被取消低保",
       "platform": "百度热搜/头条",
-      "hot": "17269516",
-      "url": "https://www.toutiao.com/trending/7682330411086660106/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682330411086660106%22%2C%22hot_board_impr_id%22%3A%222026090621352492D6F25C1AF8F6C4F1A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%A4%AA%E5%B9%B3%E6%B3%A8%E8%B5%8470%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7682330411086660106"
+      "hot": "16108848",
+      "url": "https://www.toutiao.com/trending/7682359057683972658/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682359057683972658%22%2C%22hot_board_impr_id%22%3A%2220260907070129FF35D1A4B370314455A7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D%22%7D&rank=&style_id=40132&topic_id=7682359057683972658"
     },
     {
       "title": "中国节水账本里的“节约密码”",
       "platform": "百度热搜/头条",
-      "hot": "15626104",
-      "url": "https://www.toutiao.com/trending/7682259844115660838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682259844115660838%22%2C%22hot_board_impr_id%22%3A%222026090621352492D6F25C1AF8F6C4F1A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%8A%82%E6%B0%B4%E8%B4%A6%E6%9C%AC%E9%87%8C%E7%9A%84%E2%80%9C%E8%8A%82%E7%BA%A6%E5%AF%86%E7%A0%81%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682259844115660838"
+      "hot": "14575889",
+      "url": "https://www.toutiao.com/trending/7682259844115660838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682259844115660838%22%2C%22hot_board_impr_id%22%3A%2220260907070129FF35D1A4B370314455A7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%8A%82%E6%B0%B4%E8%B4%A6%E6%9C%AC%E9%87%8C%E7%9A%84%E2%80%9C%E8%8A%82%E7%BA%A6%E5%AF%86%E7%A0%81%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682259844115660838"
     }
   ],
   "suggested_topics": [
@@ -239,11 +201,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "3600亿元！8家中央金融企业大动作",
+      "title": "小区禁止新能源汽车进地库 律师解读",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "title": "安徽 新“五子登科”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -251,7 +213,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "救援人员因害怕 放下灭火器后逃离",
+      "title": "滕王阁 终身免费票",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
