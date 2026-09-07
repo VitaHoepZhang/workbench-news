@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-07T13:06:20+08:00",
+  "updated_at": "2026-09-07T21:39:28+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 习主席中亚中东行的三点启示",
-      "summary": "「习主席中亚中东行的三点启示」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国元首外交的思想启迪",
+      "summary": "「中国元首外交的思想启迪」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 多地楼市有新变化",
-      "summary": "「多地楼市有新变化」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 雷军发布小米迄今最贵手机",
+      "summary": "「雷军发布小米迄今最贵手机」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 贫困生能不能追星",
-      "summary": "「贫困生能不能追星」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 小米澎程N70 Pro版售价20.99万",
+      "summary": "「小米澎程N70 Pro版售价20.99万」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · “国家需要什么 我们就做什么”",
-      "summary": "「“国家需要什么 我们就做什么”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “学成了 希望你们能够回来”",
+      "summary": "「“学成了 希望你们能够回来”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "星宇股份已向 107 名被劝退毕业生补贴 1.5 万元，官方发布整改措施公告",
-        "url": "https://www.ithome.com/0/999/216.htm",
-        "summary": "<p data-vmark=\"cc71\">IT之家 9 月 7 日消息，星宇股份今日发布《关于我司近期调岗减员错误行为的相关情况及整改措施》公告，<strong>宣布已向被劝退毕业生补贴 1.5 万元</strong>，并公布了后续整改措施",
+        "title": "驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计",
+        "url": "https://www.ithome.com/0/999/473.htm",
+        "summary": "<p data-vmark=\"e0ce\">IT之家 9 月 7 日消息，驰为 (CHUWI) 在 IFA 2026 上公布了 2 款 AI 工作站迷你主机，分别是 UniBox AI495 Pro 和 UniBox AI395，<stron",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "飞利浦首款定制屏显剃须刀发布：照片一键上屏，3099 元起",
-        "url": "https://www.ithome.com/0/999/215.htm",
-        "summary": "<p data-vmark=\"6c82\">IT之家 9 月 7 日消息，飞利浦首款定制屏显剃须刀 —— 旋护新 9 系 Ultra 随心焕屏版今日正式发布，<strong>售价 3,099 元起</strong>。</p><p style=",
+        "title": "小米汽车无忧服务包上新：增程版 2399 元 / 年，增程系统免费保养",
+        "url": "https://www.ithome.com/0/999/472.htm",
+        "summary": "<p data-vmark=\"e441\">IT之家 9 月 7 日消息，小米汽车无忧服务包上新，可选标准版、Pro 版、增程版，IT之家整理如下：</p><p data-vmark=\"6ecb\"><strong>标准版 1299 元 / 年",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "智界 R7 焕新款实车内饰首曝：双联屏确认、鸿蒙智行专属 HarmonyOS 车机、换装 HUD 抬头显示",
-        "url": "https://www.ithome.com/0/999/214.htm",
-        "summary": "<p data-vmark=\"c54c\">IT之家 9 月 7 日消息，博主 @未来的学习笔记 今日继续爆料，此次首曝了智界 R7 焕新款的实车内饰。</p><p data-vmark=\"8b3f\" style=\"text-align: c",
+        "title": "小米澎程 N90 Max 探索版 1:18 合金车模发布，799 元",
+        "url": "https://www.ithome.com/0/999/469.htm",
+        "summary": "<p data-vmark=\"0487\">IT之家 9 月 7 日消息，小米澎程 N90 Max 探索版 1:18 合金车模今日正式发布，内含合金车模、露营套装摆件，<strong>售价 799 元</strong>，可在小米汽车 App ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小米澎程 N90 Max 升顶帐篷款官宣亮相，有望今晚发布会上登场",
-        "url": "https://www.ithome.com/0/999/213.htm",
-        "summary": "<p data-vmark=\"a221\">IT之家 9 月 7 日消息，小米汽车官方刚刚发文预热今晚的发布会，<strong>宣布澎程新车 19 点见</strong>。</p><p style=\"text-align: center;\" ",
+        "title": "泰坦军团公布 P2410R3 显示器：23.8\" QHD 180Hz Fast IPS",
+        "url": "https://www.ithome.com/0/999/468.htm",
+        "summary": "<p data-vmark=\"76aa\">IT之家 9 月 7 日消息，泰坦军团 (Titan Army) 近日公布显示器新品 P2410R3。这一型号基于 23.8\" Fast IPS 显示面板，拥有 QHD (2560×1440) 分辨",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "任天堂回应 Switch 2 游戏机大规模 Ban 机事件：系统临时故障",
-        "url": "https://www.ithome.com/0/999/210.htm",
-        "summary": "<p data-vmark=\"30ff\">IT之家 9 月 7 日消息，从 9 月 5 日晚间开始，全球各地玩家在贴吧、小红书、小黑盒、X 和 Reddit 等社交媒体发文称，他们的任天堂 Switch 2 游戏机遭遇 Ban 机（禁止使用",
+        "title": "售价 29.99 万元、自带原生电动升降顶，小米澎程 N90 Max 探索版正式发布",
+        "url": "https://www.ithome.com/0/999/467.htm",
+        "summary": "<p data-vmark=\"ff50\">IT之家 9 月 7 日消息，在今晚的小米秋季旗舰新品发布会上，小米澎程 N90 Max 探索版正式发布，自带原生电动升降顶，采用大五座布局，售价 29.99 万元。</p><p style=\"te",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Omdia：预计 2026 下半年中国面板厂商将占全球汽车显示屏出货量的 65%",
-        "url": "https://www.ithome.com/0/999/209.htm",
-        "summary": "<p data-vmark=\"39a2\">IT之家 9 月 7 日消息，Omdia 今日发布的最新研究报告显示，预计 2026 年下半年，<strong>中国面板厂商将占全球车载显示出货量的 65.2%</strong>，高于 2026 年",
+        "title": "消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀",
+        "url": "https://www.ithome.com/0/999/466.htm",
+        "summary": "<p data-vmark=\"f9f1\">IT之家 9 月 7 日消息，据韩媒 sedaily 消息，三星电子正加快其人形机器人原型机的研发，计划在明年 1 月于美国拉斯维加斯举办的 CES 2027 上，<strong>首次公开其自主研发",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,22 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "派评｜近期值得关注的 App",
+        "url": "https://sspai.com/post/114288",
+        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/114288&#34; target=&#34;_blank&#34",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+        "url": "https://sspai.com/post/113877",
+        "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？<a href=&#34;https://sspai.com/post/113877&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
         "url": "https://sspai.com/post/114103",
@@ -111,22 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "本周看什么 | 最近值得一看的 8 部作品",
-        "url": "https://sspai.com/post/114175",
-        "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...<a href=&#34;ht",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-        "url": "https://sspai.com/post/114110",
-        "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=&#34;https://sspai.com/post/114110&#34; target=&#34;_blank&#34;",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "习主席中亚中东行的三点启示",
+      "title": "中国元首外交的思想启迪",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E8%A1%8C%E7%9A%84%E4%B8%89%E7%82%B9%E5%90%AF%E7%A4%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%9D%E6%83%B3%E5%90%AF%E8%BF%AA&sa=fyb_news"
     },
     {
-      "title": "多地楼市有新变化",
+      "title": "雷军发布小米迄今最贵手机",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E6%A5%BC%E5%B8%82%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%BF%84%E4%BB%8A%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA&sa=fyb_news"
     },
     {
-      "title": "贫困生能不能追星",
+      "title": "小米澎程N70 Pro版售价20.99万",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%83%BD%E4%B8%8D%E8%83%BD%E8%BF%BD%E6%98%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
     },
     {
-      "title": "“国家需要什么 我们就做什么”",
+      "title": "“学成了 希望你们能够回来”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%9B%BD%E5%AE%B6%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88+%E6%88%91%E4%BB%AC%E5%B0%B1%E5%81%9A%E4%BB%80%E4%B9%88%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%AD%A6%E6%88%90%E4%BA%86+%E5%B8%8C%E6%9C%9B%E4%BD%A0%E4%BB%AC%E8%83%BD%E5%A4%9F%E5%9B%9E%E6%9D%A5%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "看演唱会全家被取消低保原帖已删除",
+      "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%AE%B6%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D%E5%8E%9F%E5%B8%96%E5%B7%B2%E5%88%A0%E9%99%A4&sa=fyb_news"
-    },
-    {
-      "title": "山寨版葫芦出现 葫芦爷爷最新发声",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%AF%A8%E7%89%88%E8%91%AB%E8%8A%A6%E5%87%BA%E7%8E%B0+%E8%91%AB%E8%8A%A6%E7%88%B7%E7%88%B7%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0&sa=fyb_news"
-    },
-    {
-      "title": "贵州3名未成年女孩接连失联",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%AD%A9%E6%8E%A5%E8%BF%9E%E5%A4%B1%E8%81%94&sa=fyb_news"
-    },
-    {
-      "title": "《给阿嬷的情书》王晓慧疑要进圈",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E7%8E%8B%E6%99%93%E6%85%A7%E7%96%91%E8%A6%81%E8%BF%9B%E5%9C%88&sa=fyb_news"
-    },
-    {
-      "title": "《交锋》尺度好大",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E4%BA%A4%E9%94%8B%E3%80%8B%E5%B0%BA%E5%BA%A6%E5%A5%BD%E5%A4%A7&sa=fyb_news"
-    },
-    {
-      "title": "李荣浩演唱会女子中亲签后激动晕倒",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%B3%E5%AD%90%E4%B8%AD%E4%BA%B2%E7%AD%BE%E5%90%8E%E6%BF%80%E5%8A%A8%E6%99%95%E5%80%92&sa=fyb_news"
-    },
-    {
-      "title": "郑钦文 美网认证Queen",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87+%E7%BE%8E%E7%BD%91%E8%AE%A4%E8%AF%81Queen&sa=fyb_news"
-    },
-    {
-      "title": "“毁草原种枸杞”系谣言",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%AF%81%E8%8D%89%E5%8E%9F%E7%A7%8D%E6%9E%B8%E6%9D%9E%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
-    },
-    {
-      "title": "美林肯号航母官兵5天消费1亿泰铢",
-      "platform": "百度热搜/头条",
-      "hot": "19772655",
-      "url": "https://www.toutiao.com/trending/7681940225756630571/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681940225756630571%22%2C%22hot_board_impr_id%22%3A%22202609071306177FB461FAC7EB77BA0AE6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%AE%98%E5%85%B55%E5%A4%A9%E6%B6%88%E8%B4%B91%E4%BA%BF%E6%B3%B0%E9%93%A2%22%7D&rank=&style_id=40132&topic_id=7681940225756630571"
+      "url": "https://m.baidu.com/s?word=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E9%81%AD%E5%A4%A7%E9%87%8F%E5%B7%AE%E8%AF%84&sa=fyb_news"
     },
     {
       "title": "高考444分被殡葬专业录取男孩已入学",
       "platform": "百度热搜/头条",
-      "hot": "17891038",
-      "url": "https://www.toutiao.com/trending/7682442446395031598/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682442446395031598%22%2C%22hot_board_impr_id%22%3A%22202609071306177FB461FAC7EB77BA0AE6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E8%80%83444%E5%88%86%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%E7%94%B7%E5%AD%A9%E5%B7%B2%E5%85%A5%E5%AD%A6%22%7D&rank=&style_id=40132&topic_id=7682442446395031598"
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%80%83444%E5%88%86%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%E7%94%B7%E5%AD%A9%E5%B7%B2%E5%85%A5%E5%AD%A6&sa=fyb_news"
     },
     {
-      "title": "8月经济发展看点有哪些",
+      "title": "华为时隔六年再次发布高性能芯片",
       "platform": "百度热搜/头条",
-      "hot": "16188481",
-      "url": "https://www.toutiao.com/article/7682576936728412681"
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87&sa=fyb_news"
+    },
+    {
+      "title": "余承东建议苹果用户买华为备用机",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA&sa=fyb_news"
+    },
+    {
+      "title": "浙江104岁老人每天睡觉18个小时",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
+    },
+    {
+      "title": "北上广的地铁好像没那么挤了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%9A%84%E5%9C%B0%E9%93%81%E5%A5%BD%E5%83%8F%E6%B2%A1%E9%82%A3%E4%B9%88%E6%8C%A4%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "整船黑色物质倒入长江仅用10秒",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%95%B4%E8%88%B9%E9%BB%91%E8%89%B2%E7%89%A9%E8%B4%A8%E5%80%92%E5%85%A5%E9%95%BF%E6%B1%9F%E4%BB%85%E7%94%A810%E7%A7%92&sa=fyb_news"
+    },
+    {
+      "title": "江西遂川万安这些涉灾信息不实",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E4%B8%87%E5%AE%89%E8%BF%99%E4%BA%9B%E6%B6%89%E7%81%BE%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+    },
+    {
+      "title": "小米18 Fold售价10999元起",
+      "platform": "百度热搜/头条",
+      "hot": "15668468",
+      "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260907213926F83570551F585FE6F825%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
+    },
+    {
+      "title": "郑钦文美网大逆转已锁定322万奖金",
+      "platform": "百度热搜/头条",
+      "hot": "14177416",
+      "url": "https://www.toutiao.com/trending/7682759563925261870/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682759563925261870%22%2C%22hot_board_impr_id%22%3A%2220260907213926F83570551F585FE6F825%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E5%A4%A7%E9%80%86%E8%BD%AC%E5%B7%B2%E9%94%81%E5%AE%9A322%E4%B8%87%E5%A5%96%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7682759563925261870"
+    },
+    {
+      "title": "让青春在科技强国征途中闪闪发光",
+      "platform": "百度热搜/头条",
+      "hot": "12828256",
+      "url": "https://www.toutiao.com/article/7682697272731271707"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习主席中亚中东行的三点启示",
+      "title": "中国元首外交的思想启迪",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "多地楼市有新变化",
+      "title": "雷军发布小米迄今最贵手机",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "贫困生能不能追星",
+      "title": "小米澎程N70 Pro版售价20.99万",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“国家需要什么 我们就做什么”",
+      "title": "“学成了 希望你们能够回来”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "看演唱会全家被取消低保原帖已删除",
+      "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
