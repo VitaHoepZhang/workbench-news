@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:39:32+08:00",
+  "updated_at": "2026-09-09T07:02:06+08:00",
   "science": [
     {
       "title": "今日热点速览 · 习近平同英国首相伯纳姆通电话",
@@ -14,8 +14,8 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 母亲为去世儿子销户民警含泪拥抱安慰",
-      "summary": "「母亲为去世儿子销户民警含泪拥抱安慰」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 这样的吃播该全面叫停了",
+      "summary": "「这样的吃播该全面叫停了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "9999 元：惠普推出新款战 99 16 英寸笔记本，酷睿 Ultra 7 255H 处理器",
-        "url": "https://www.ithome.com/0/999/927.htm",
-        "summary": "<p data-vmark=\"1f89\">IT之家 9 月 8 日消息，惠普现已推出新款战 99 16 英寸笔记本，新机采用酷睿 Ultra 7 255H 处理器，配备 16GB 内存，目前已在京东上架，<strong>定价 9999 元<",
+        "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
+        "url": "https://www.ithome.com/0/999/956.htm",
+        "summary": "<p data-vmark=\"d695\">IT之家 9 月 9 日消息，OpenAI 今天（9 月 9 日）官宣发布 ChatGPT Images 2.5，图像生成延迟最多降低 50%，并新增 Sketch 草图参考、模板库、图片内评论标注",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "“傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材",
-        "url": "https://www.ithome.com/0/999/926.htm",
-        "summary": "<p class=\"isSelectedEnd\" data-vmark=\"554d\">IT之家 9 月 8 日消息，Adobe 今天（8 日）宣布重新设计专业视频剪辑软件 Premiere 中的 AI 交互方式，新的“生成式媒体”工具支持直",
+        "title": "微软 Win11 自动深浅色模式已在路上：可按当地日出 / 日落时间或自定义时间触发",
+        "url": "https://www.ithome.com/0/999/955.htm",
+        "summary": "<p data-vmark=\"6632\">IT之家 9 月 9 日消息，Windows 爱好者 PhantomOfEarth 发现，微软正在为 Windows 11 开发一项用户期待已久的功能 —— 自动深色模式定时切换。相关代码已经出现在",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "高通与亚马逊达成合作，共同打造 AI 定制芯片与 1.6T 光互联解决方案",
-        "url": "https://www.ithome.com/0/999/925.htm",
-        "summary": "<p data-vmark=\"57fe\">IT之家 9 月 8 日消息，高通技术公司今日宣布与亚马逊达成一项跨多代产品的合作，双方将共同为大规模 AI 数据中心提供可规模化部署的定制芯片，并围绕 AI 推理展开合作。此外，两家公司还将共同开",
+        "title": "产品尚未发布，苹果已为 Beats 360 耳机推送新固件",
+        "url": "https://www.ithome.com/0/999/954.htm",
+        "summary": "<p data-vmark=\"ce3c\">IT之家 9 月 9 日消息，除了 iOS / iPadOS 26.6.2 正式版更新之外，苹果同时还为其即将推出的 Beats 360 头戴式耳机推送了固件更新（版本号 4A203）。这意味着产品",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "九州风神推出 AN600 VC 下压式散热器：升级 VC 2.0 均热板底座，3 年质保，299 元",
-        "url": "https://www.ithome.com/0/999/924.htm",
-        "summary": "<p data-vmark=\"eeab\">IT之家 9 月 8 日消息，九州风神现已在京东上架 AN600 VC 下压式散热器，该产品升级 VC 2.0 均热板底座，<strong>定价为 299 元</strong>，提供 3 年质保。<",
+        "title": "DeepSeek 官宣明日 flash 系列 AI 模型降价：输出为每百万 Token 4 元",
+        "url": "https://www.ithome.com/0/999/953.htm",
+        "summary": "<p data-vmark=\"6200\">IT之家 9 月 9 日消息，据 DeepSeek 开放平台公告，<strong>官方宣布将于北京时间明日（2026 年 9 月 10 日）12 时起执行新价格，调整 Flash 系列定价。</st",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为鸿蒙 HarmonyOS 7.0.0（API 26.0.0）设备量占比突破 5%",
-        "url": "https://www.ithome.com/0/999/923.htm",
-        "summary": "<p data-vmark=\"3987\">IT之家 9 月 8 日消息，华为开发者官网昨日更新了存量设备 API 版本使用数量参考。截至 2026 年 9 月 6 日，HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天",
+        "title": "微软发布 Win11 Beta 和 Experimental 预览版更新：跨设备恢复体验改进，无法启动时可直接从云端重装系统",
+        "url": "https://www.ithome.com/0/999/949.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 9 月 9 日消息，微软于当地时间 9 月 8 日面向 Beta 和 Experimental 频道的 Windows Insider 项目成员发布了适用于 Windows 11 的多个预",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iOS 27 代码“实锤”折叠屏 iPhone Ultra 采用触控 ID？先别急着下结论",
-        "url": "https://www.ithome.com/0/999/922.htm",
-        "summary": "<p data-vmark=\"37ef\">IT之家 9 月 8 日消息，代码研究者 pdfu 今日在 X 平台发文称，苹果 iOS 27 系统似乎确认了折叠屏 iPhone 将采用触控 ID。</p><p style=\"text-align",
+        "title": "小米回应试驾意外：客户误将油门当刹车，无人受伤",
+        "url": "https://www.ithome.com/0/999/952.htm",
+        "summary": "<p data-vmark=\"a9c0\">IT之家 9 月 9 日消息，小米辟谣官方号今日发文，就 9 月 8 日晚间一则试驾意外事件作出说明。</p><p data-vmark=\"9482\">小米指出，9 月 8 日一位客户在试驾途中，于",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -166,10 +166,10 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "母亲为去世儿子销户民警含泪拥抱安慰",
+      "title": "这样的吃播该全面叫停了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E9%94%80%E6%88%B7%E6%B0%91%E8%AD%A6%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%AE%89%E6%85%B0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%83%E6%92%AD%E8%AF%A5%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "让守信经营者得实惠",
@@ -178,46 +178,46 @@
       "url": "https://m.baidu.com/s?word=%E8%AE%A9%E5%AE%88%E4%BF%A1%E7%BB%8F%E8%90%A5%E8%80%85%E5%BE%97%E5%AE%9E%E6%83%A0&sa=fyb_news"
     },
     {
-      "title": "到底孩子多大可以有手机 能玩多久",
+      "title": "智己无方向盘车这你受得了吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%B0%E5%BA%95%E5%AD%A9%E5%AD%90%E5%A4%9A%E5%A4%A7%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%89%8B%E6%9C%BA+%E8%83%BD%E7%8E%A9%E5%A4%9A%E4%B9%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%99%BA%E5%B7%B1%E6%97%A0%E6%96%B9%E5%90%91%E7%9B%98%E8%BD%A6%E8%BF%99%E4%BD%A0%E5%8F%97%E5%BE%97%E4%BA%86%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "火腿肠 慢衰退",
+      "title": "仰卧、俯卧、侧卧哪种睡姿更健康",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%81%AB%E8%85%BF%E8%82%A0+%E6%85%A2%E8%A1%B0%E9%80%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BB%B0%E5%8D%A7%E3%80%81%E4%BF%AF%E5%8D%A7%E3%80%81%E4%BE%A7%E5%8D%A7%E5%93%AA%E7%A7%8D%E7%9D%A1%E5%A7%BF%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
     },
     {
-      "title": "洪秀柱参观张雪机车：我腿短跨不上去",
+      "title": "伊朗军方称捕获一艘美国无人潜艇",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%E5%8F%82%E8%A7%82%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%EF%BC%9A%E6%88%91%E8%85%BF%E7%9F%AD%E8%B7%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%8D%95%E8%8E%B7%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87&sa=fyb_news"
     },
     {
-      "title": "8月汽车销量前十已无燃油车",
+      "title": "卤米松原研药从30元涨到800元",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=8%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%A4%E7%B1%B3%E6%9D%BE%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%BB%8E30%E5%85%83%E6%B6%A8%E5%88%B0800%E5%85%83&sa=fyb_news"
     },
     {
-      "title": "三折叠、阔折叠、中折叠 你选谁",
+      "title": "高中生球员赵松源直接叩开国足大门",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%89%E6%8A%98%E5%8F%A0%E3%80%81%E9%98%94%E6%8A%98%E5%8F%A0%E3%80%81%E4%B8%AD%E6%8A%98%E5%8F%A0+%E4%BD%A0%E9%80%89%E8%B0%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%90%83%E5%91%98%E8%B5%B5%E6%9D%BE%E6%BA%90%E7%9B%B4%E6%8E%A5%E5%8F%A9%E5%BC%80%E5%9B%BD%E8%B6%B3%E5%A4%A7%E9%97%A8&sa=fyb_news"
     },
     {
-      "title": "“Token贷”来了",
+      "title": "狄龙中国行上武当练剑",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CToken%E8%B4%B7%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%8B%84%E9%BE%99%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%8A%E6%AD%A6%E5%BD%93%E7%BB%83%E5%89%91&sa=fyb_news"
     },
     {
-      "title": "中国博主在伦敦遭3人殴打 过程被直播",
+      "title": "河南范县成立调查组整治黑加油站问题",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%BC%A6%E6%95%A6%E9%81%AD3%E4%BA%BA%E6%AE%B4%E6%89%93+%E8%BF%87%E7%A8%8B%E8%A2%AB%E7%9B%B4%E6%92%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E8%8C%83%E5%8E%BF%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E6%95%B4%E6%B2%BB%E9%BB%91%E5%8A%A0%E6%B2%B9%E7%AB%99%E9%97%AE%E9%A2%98&sa=fyb_news"
     },
     {
       "title": "新疆中考科目及分值重大调整？不实",
@@ -228,20 +228,20 @@
     {
       "title": "这轮冷空气究竟有多猛",
       "platform": "百度热搜/头条",
-      "hot": "24546414",
-      "url": "https://www.toutiao.com/trending/7683122445766626859/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683122445766626859%22%2C%22hot_board_impr_id%22%3A%22202609082139296DB3541D34DBB5C2D96A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BF%99%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%8C%9B%22%7D&rank=&style_id=40132&topic_id=7683122445766626859"
+      "hot": "30133808",
+      "url": "https://www.toutiao.com/trending/7683122445766626859/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683122445766626859%22%2C%22hot_board_impr_id%22%3A%2220260909070202A93CCED6801FCD75B82C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BF%99%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%8C%9B%22%7D&rank=&style_id=40132&topic_id=7683122445766626859"
     },
     {
-      "title": "苹果即将发布三款新iPhone",
+      "title": "曾在中行工作的女博士有望成德总理",
       "platform": "百度热搜/头条",
-      "hot": "22210514",
-      "url": "https://www.toutiao.com/trending/7682282269948264511/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%229%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682282269948264511%22%2C%22hot_board_impr_id%22%3A%22202609082139296DB3541D34DBB5C2D96A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E6%96%B0iPhone%22%7D&rank=&style_id=40132&topic_id=7682282269948264511"
+      "hot": "27266197",
+      "url": "https://www.toutiao.com/trending/7682956741009145906/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682956741009145906%22%2C%22hot_board_impr_id%22%3A%2220260909070202A93CCED6801FCD75B82C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%BE%E5%9C%A8%E4%B8%AD%E8%A1%8C%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%9C%89%E6%9C%9B%E6%88%90%E5%BE%B7%E6%80%BB%E7%90%86%22%7D&rank=&style_id=40132&topic_id=7682956741009145906"
     },
     {
       "title": "我国进出口连续4个月保持两位数增长",
       "platform": "百度热搜/头条",
-      "hot": "20096904",
-      "url": "https://www.toutiao.com/trending/7682369162227944979/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682369162227944979%22%2C%22hot_board_impr_id%22%3A%22202609082139296DB3541D34DBB5C2D96A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%91%E5%9B%BD%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%BF%9E%E7%BB%AD4%E4%B8%AA%E6%9C%88%E4%BF%9D%E6%8C%81%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%A2%9E%E9%95%BF%22%7D&rank=&style_id=40132&topic_id=7682369162227944979"
+      "hot": "24671475",
+      "url": "https://www.toutiao.com/trending/7682369162227944979/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682369162227944979%22%2C%22hot_board_impr_id%22%3A%2220260909070202A93CCED6801FCD75B82C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%91%E5%9B%BD%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%BF%9E%E7%BB%AD4%E4%B8%AA%E6%9C%88%E4%BF%9D%E6%8C%81%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%A2%9E%E9%95%BF%22%7D&rank=&style_id=40132&topic_id=7682369162227944979"
     }
   ],
   "suggested_topics": [
@@ -254,7 +254,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "母亲为去世儿子销户民警含泪拥抱安慰",
+      "title": "这样的吃播该全面叫停了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "到底孩子多大可以有手机 能玩多久",
+      "title": "智己无方向盘车这你受得了吗",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
