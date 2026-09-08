@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-09-08T07:02:43+08:00",
+  "updated_at": "2026-09-08T13:06:27+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3932.7,
-      "change": 2.58,
-      "pct": 0.07
+      "value": 3941.02,
+      "change": 8.32,
+      "pct": 0.21
     },
     {
       "name": "深证成指",
-      "value": 13774.91,
-      "change": 257.94,
-      "pct": 1.91
+      "value": 13741.12,
+      "change": -33.79,
+      "pct": -0.25
     },
     {
       "name": "创业板指",
-      "value": 3398.68,
-      "change": 112.13,
-      "pct": 3.41
+      "value": 3378.17,
+      "change": -20.51,
+      "pct": -0.6
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "教育运营及其他",
+      "change": 9.45
+    },
+    {
+      "name": "粮食种植",
+      "change": 7.73
+    },
+    {
+      "name": "房产租赁经纪",
+      "change": 7.4
+    },
+    {
+      "name": "其他农产品加工",
+      "change": 7.23
+    },
+    {
+      "name": "磷肥及磷化工",
+      "change": 6.75
+    },
+    {
+      "name": "学历教育",
+      "change": 6.73
+    },
+    {
+      "name": "氮肥",
+      "change": 6.59
+    },
+    {
+      "name": "其他种植业",
+      "change": 6.23
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
