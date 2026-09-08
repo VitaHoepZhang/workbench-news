@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-08T13:06:27+08:00",
+  "updated_at": "2026-09-08T21:39:32+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3941.02,
-      "change": 8.32,
-      "pct": 0.21
+      "value": 3940.55,
+      "change": 7.85,
+      "pct": 0.2
     },
     {
       "name": "深证成指",
-      "value": 13741.12,
-      "change": -33.79,
-      "pct": -0.25
+      "value": 13703.21,
+      "change": -71.7,
+      "pct": -0.52
     },
     {
       "name": "创业板指",
-      "value": 3378.17,
-      "change": -20.51,
-      "pct": -0.6
+      "value": 3359.72,
+      "change": -38.96,
+      "pct": -1.15
     }
   ],
   "sectors": [
     {
-      "name": "教育运营及其他",
-      "change": 9.45
-    },
-    {
       "name": "粮食种植",
-      "change": 7.73
+      "change": 7.8
     },
     {
       "name": "房产租赁经纪",
-      "change": 7.4
-    },
-    {
-      "name": "其他农产品加工",
-      "change": 7.23
+      "change": 7.53
     },
     {
       "name": "磷肥及磷化工",
-      "change": 6.75
+      "change": 7.01
+    },
+    {
+      "name": "其他农产品加工",
+      "change": 6.95
     },
     {
       "name": "学历教育",
-      "change": 6.73
+      "change": 6.84
     },
     {
       "name": "氮肥",
-      "change": 6.59
+      "change": 6.66
     },
     {
-      "name": "其他种植业",
-      "change": 6.23
+      "name": "教育运营及其他",
+      "change": 6.52
+    },
+    {
+      "name": "焦炭Ⅲ",
+      "change": 6.01
     }
   ],
   "macro": [],
