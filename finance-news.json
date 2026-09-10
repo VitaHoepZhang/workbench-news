@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-09-10T07:01:46+08:00",
+  "updated_at": "2026-09-10T13:06:17+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3951.51,
-      "change": 10.96,
-      "pct": 0.28
+      "value": 3940.73,
+      "change": -10.78,
+      "pct": -0.27
     },
     {
       "name": "深证成指",
-      "value": 13723.32,
-      "change": 20.11,
-      "pct": 0.15
+      "value": 13660.52,
+      "change": -62.8,
+      "pct": -0.46
     },
     {
       "name": "创业板指",
-      "value": 3354.97,
-      "change": -4.75,
-      "pct": -0.14
+      "value": 3351.93,
+      "change": -3.04,
+      "pct": -0.09
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "卫浴电器",
+      "change": 6.45
+    },
+    {
+      "name": "玻纤制造",
+      "change": 4.04
+    },
+    {
+      "name": "玻璃玻纤",
+      "change": 2.76
+    },
+    {
+      "name": "航海装备Ⅲ",
+      "change": 2.59
+    },
+    {
+      "name": "航海装备Ⅱ",
+      "change": 2.59
+    },
+    {
+      "name": "印制电路板",
+      "change": 2.53
+    },
+    {
+      "name": "水力发电",
+      "change": 2.3
+    },
+    {
+      "name": "厨卫电器",
+      "change": 2.16
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
