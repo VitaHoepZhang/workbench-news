@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:38:37+08:00",
+  "updated_at": "2026-09-12T07:01:48+08:00",
   "science": [
     {
       "title": "今日热点速览 · “大金砖合作” 何以成其大",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 手机厂商不能把用户逼向险境",
-      "summary": "「手机厂商不能把用户逼向险境」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 一天已经不足24小时了",
+      "summary": "「一天已经不足24小时了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 美高官称对华开展间谍活动 中方正告",
-      "summary": "「美高官称对华开展间谍活动 中方正告」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “10台手机卖不出1台折叠屏”",
+      "summary": "「“10台手机卖不出1台折叠屏”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "vivo X500 Pro Max 手机四款配色公布，9 月 21 日发布",
-        "url": "https://www.ithome.com/1/001/456.htm",
-        "summary": "<p data-vmark=\"315f\">IT之家 9 月 11 日消息，vivo X500 Pro Max 手机四款配色官图今日公布，新机将于 9 月 21 日发布。</p><blockquote><p data-vmark=\"c135\"",
+        "title": "火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准",
+        "url": "https://www.ithome.com/1/001/482.htm",
+        "summary": "<p data-vmark=\"c680\">IT之家 9 月 12 日消息，火箭实验室（Rocket Lab）今日宣布，已向美国政府问责局（GAO）提交正式抗议，抗议 NASA 将价值 7 亿美元<span class=\"exch-money",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "三星持续嘲讽苹果，请来名叫蒂姆 · 库克的新西兰房产经纪人“评测”Galaxy Z Fold8",
-        "url": "https://www.ithome.com/1/001/455.htm",
-        "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"112d\">IT之家 9 月 11 日消息，iPhone Duo 正式亮相后，三星也使出各种招数，提醒大家别忘了 Galaxy Z",
+        "title": "Fairphone 旗下 Fairbuds 2 耳机外观谍照曝光：可选黑 / 绿双色，今年第四季度上市",
+        "url": "https://www.ithome.com/1/001/481.htm",
+        "summary": "<p data-vmark=\"8471\">IT之家 9 月 12 日消息，外媒 NieuweMobiel 现已曝光了 Fairphone 旗下 Fairbuds 2 耳机外观谍照，该机将于今年第四季度上市。</p><p data-vmark",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "机械革命无界 14S 2026 笔记本锐龙版上架：R7 H 255 处理器，24GB+512GB 售价 4699 元（国补后 3994.15 元）",
-        "url": "https://www.ithome.com/1/001/454.htm",
-        "summary": "<p data-vmark=\"97bc\">IT之家 9 月 11 日消息，机械革命无界 14S 2026 笔记本锐龙版现已上架电商平台，将于 9 月 16 日 10:00 正式开售，搭载 R7 H 255 处理器，<strong>24GB+",
+        "title": "时速 350 公里巢马高铁开启联调联试，开通运营进入倒计时",
+        "url": "https://www.ithome.com/1/001/480.htm",
+        "summary": "<p data-vmark=\"1fe6\">IT之家 9 月 12 日消息，据中国铁路上海局集团有限公司官方消息，9 月 11 日 13 时 6 分，首趟检测列车从巢湖东站开出驶向马鞍山东站方向，进行轨道和接触网检测，<strong>标志着巢",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "荣耀手表 6 Pro 将于 9 月 28 日发布，首发心脏停搏监测",
-        "url": "https://www.ithome.com/1/001/453.htm",
-        "summary": "<p data-vmark=\"1fb8\">IT之家 9 月 11 日消息，荣耀手表 6 Pro 将于 9 月 28 日发布，<strong>首发心脏停搏监测，紧急情况主动求救</strong>；搭载灵瞳感知系统，实现无感血压监测出值。</p",
+        "title": "消息称高通原计划采用三星 2nm 制程打造新一代移动平台芯片，但因价格未谈拢导致量产推迟至 2027 年",
+        "url": "https://www.ithome.com/1/001/479.htm",
+        "summary": "<p data-vmark=\"7963\">IT之家 9 月 12 日消息，据外媒 The Bell 报道，高通原计划采用三星 2nm 制程打造新一代移动平台芯片，以应对苹果 A20 系列芯片竞争，尽管目前高通与三星目前在 2nm 芯片合作上",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "上海“明珠星座计划”发布，计划到 2030 年逐步形成全球服务网络",
-        "url": "https://www.ithome.com/1/001/452.htm",
-        "summary": "<p data-vmark=\"2ee9\">IT之家 9 月 11 日消息，据科创板日报消息，9 月 11 日下午，在 2026 浦江创新论坛成果发布会上，东方天算正式发布“明珠星座计划”。</p><p data-vmark=\"4bb9\">该",
+        "title": "微软重启 Win11 管理员保护功能，预计随 26H2 发布",
+        "url": "https://www.ithome.com/1/001/478.htm",
+        "summary": "<p data-vmark=\"6290\">IT之家 9 月 12 日消息，微软正在为 Windows 11 准备一项名为“管理员保护”的安全功能，该功能预计将随 26H2 版本在今年晚些时候正式向公众开放。</p><p data-vmark",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "美国一律师用 ChatGPT 生成诉讼文书却出现伪造警察证词，被罚款 5000 美元",
-        "url": "https://www.ithome.com/1/001/451.htm",
-        "summary": "<p data-vmark=\"d114\">IT之家 9 月 11 日消息，据路透社今天（11 日）报道，美国新墨西哥州最高法院宣布，辩护律师斯蒂芬 · 阿伦斯在为一名被判谋杀罪的当事人提出上诉时，提交的文书中出现了<strong>虚构证人和",
+        "title": "联想 Googlebook 15 笔记本完整规格曝光：Ultra 5 325 处理器、15.3 英寸 120Hz OLED 面板",
+        "url": "https://www.ithome.com/1/001/477.htm",
+        "summary": "<p data-vmark=\"2843\">IT之家 9 月 12 日消息，外媒 MacObserver 现已曝光了联想 Googlebook 15 笔记本完整配置信息，这款产品并非传统意义上的入门级 Chromebook，而是一款面向生产力",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E2%80%9D+%E4%BD%95%E4%BB%A5%E6%88%90%E5%85%B6%E5%A4%A7&sa=fyb_news"
     },
     {
-      "title": "手机厂商不能把用户逼向险境",
+      "title": "一天已经不足24小时了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E4%B8%8D%E8%83%BD%E6%8A%8A%E7%94%A8%E6%88%B7%E9%80%BC%E5%90%91%E9%99%A9%E5%A2%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "美高官称对华开展间谍活动 中方正告",
+      "title": "“10台手机卖不出1台折叠屏”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%AB%98%E5%AE%98%E7%A7%B0%E5%AF%B9%E5%8D%8E%E5%BC%80%E5%B1%95%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8+%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%91%8A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
     },
     {
       "title": "2030年进入世界汽车强国行列",
@@ -178,34 +178,34 @@
       "url": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
     },
     {
-      "title": "“葫芦爷爷”回应重挂葫芦",
+      "title": "公司中秋国庆连放13.5天发2000元",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E7%88%B7%E7%88%B7%E2%80%9D%E5%9B%9E%E5%BA%94%E9%87%8D%E6%8C%82%E8%91%AB%E8%8A%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
     },
     {
-      "title": "周星驰御用配角求职做景区NPC",
+      "title": "住建局副局长群内辱骂业主",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%B1%82%E8%81%8C%E5%81%9A%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%BE%A4%E5%86%85%E8%BE%B1%E9%AA%82%E4%B8%9A%E4%B8%BB&sa=fyb_news"
     },
     {
-      "title": "奥运冠军巩立姣退役后减重60斤",
+      "title": "韦世豪遭重罚",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E6%96%A4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%96%E8%B1%AA%E9%81%AD%E9%87%8D%E7%BD%9A&sa=fyb_news"
     },
     {
-      "title": "lululemon为什么卖不动了",
+      "title": "河南一高校奖了老师983万",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=lululemon%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%96%E4%BA%86%E8%80%81%E5%B8%88983%E4%B8%87&sa=fyb_news"
     },
     {
-      "title": "爱马仕上新1.1万元宠物拾便袋收纳包",
+      "title": "携程 杀熟",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%8A%E6%96%B01.1%E4%B8%87%E5%85%83%E5%AE%A0%E7%89%A9%E6%8B%BE%E4%BE%BF%E8%A2%8B%E6%94%B6%E7%BA%B3%E5%8C%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B+%E6%9D%80%E7%86%9F&sa=fyb_news"
     },
     {
       "title": "刀郎问徐子尧为什么老唱自己的歌",
@@ -214,10 +214,10 @@
       "url": "https://m.baidu.com/s?word=%E5%88%80%E9%83%8E%E9%97%AE%E5%BE%90%E5%AD%90%E5%B0%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%94%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E6%AD%8C&sa=fyb_news"
     },
     {
-      "title": "日本的梅毒到底严重到什么地步",
+      "title": "丁俊晖战胜凯伦·威尔逊晋级四强",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%A2%85%E6%AF%92%E5%88%B0%E5%BA%95%E4%B8%A5%E9%87%8D%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%88%98%E8%83%9C%E5%87%AF%E4%BC%A6%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA&sa=fyb_news"
     },
     {
       "title": "“往鲜花饼里吐痰”系造谣",
@@ -228,19 +228,19 @@
     {
       "title": "中方正告美方立即停止对华间谍活动",
       "platform": "百度热搜/头条",
-      "hot": "8830329",
-      "url": "https://www.toutiao.com/trending/7684236026994282011/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684236026994282011%22%2C%22hot_board_impr_id%22%3A%2220260911213834808539E88DB801CFAA62%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%91%8A%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8D%8E%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7684236026994282011"
+      "hot": "10911025",
+      "url": "https://www.toutiao.com/trending/7684236026994282011/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684236026994282011%22%2C%22hot_board_impr_id%22%3A%2220260912070144C25C55434AF5BDB5D525%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%91%8A%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8D%8E%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7684236026994282011"
     },
     {
       "title": "打假网红铁头一审获刑8年",
       "platform": "百度热搜/头条",
-      "hot": "7990012",
-      "url": "https://www.toutiao.com/trending/7684220300552195622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684220300552195622%22%2C%22hot_board_impr_id%22%3A%2220260911213834808539E88DB801CFAA62%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4%22%7D&rank=&style_id=40132&topic_id=7684220300552195622"
+      "hot": "9872704",
+      "url": "https://www.toutiao.com/trending/7684220300552195622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684220300552195622%22%2C%22hot_board_impr_id%22%3A%2220260912070144C25C55434AF5BDB5D525%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4%22%7D&rank=&style_id=40132&topic_id=7684220300552195622"
     },
     {
       "title": "服贸会多项硬核成果落地",
       "platform": "百度热搜/头条",
-      "hot": "7229662",
+      "hot": "8933192",
       "url": "https://www.toutiao.com/article/7684153847152935443"
     }
   ],
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "手机厂商不能把用户逼向险境",
+      "title": "一天已经不足24小时了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "美高官称对华开展间谍活动 中方正告",
+      "title": "“10台手机卖不出1台折叠屏”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“葫芦爷爷”回应重挂葫芦",
+      "title": "公司中秋国庆连放13.5天发2000元",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
