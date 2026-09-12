@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T21:35:00+08:00",
+  "updated_at": "2026-09-13T07:01:33+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 习近平抵达新德里",
-      "summary": "「习近平抵达新德里」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 2027 金砖相约中国",
+      "summary": "「2027 金砖相约中国」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -14,8 +14,8 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 钟南山：超过90%的肺结节都属良性",
-      "summary": "「钟南山：超过90%的肺结节都属良性」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 地库接连躺人司机躲过一个又一个",
+      "summary": "「地库接连躺人司机躲过一个又一个」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "漫步者花再 Halo PixelBar 桌面音箱强化版开售：支持实时歌词显示，419 元",
-        "url": "https://www.ithome.com/1/001/643.htm",
-        "summary": "<p data-vmark=\"6347\">IT之家 9 月 12 日消息，漫步者旗下品牌花再 Halo PixelBar 桌面音箱强化版（26 年新款）现已开售，<strong>售价 419 元</strong>，部分地区国补到手价 377",
+        "title": "微软拾遗：32 位 Windows 限制 4GB RAM 内存并非技术受限，而是出于驱动稳定性考虑",
+        "url": "https://www.ithome.com/1/001/673.htm",
+        "summary": "<p data-vmark=\"d67a\">IT之家 9 月 13 日消息，据外媒 WindowsLatest 报道，不少用户认为，32 位 Windows 最多只能使用 4GB 内存，是因为 32 位地址只能表示 2³² 种组合，因此地址空",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "一句话加油、买电影票，理想汽车联合支付宝升级智舱全场景生态服务",
-        "url": "https://www.ithome.com/1/001/642.htm",
-        "summary": "<p data-vmark=\"f129\">IT之家 9 月 12 日消息，9 月 11 日，理想汽车亮相 2026 支付宝外滩大会，双方在原有车端支付宝停车缴费基础上升级智舱全场景生态服务。</p><p data-vmark=\"a250\">",
+        "title": "特斯拉 10 月 1 日举办全新活动，展示新一代 Roadster 超跑",
+        "url": "https://www.ithome.com/1/001/672.htm",
+        "summary": "<p data-vmark=\"6b7c\">IT之家 9 月 13 日消息，特斯拉今日更新美国官网，<strong>宣布将于 10 月 1 日举办新活动</strong>，展示新一代 Roadster 电动超跑。</p><p style=\"t",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
-        "url": "https://www.ithome.com/1/001/641.htm",
-        "summary": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以",
+        "title": "苹果在美国市场扩展 Apple Upgrade 租赁计划：新增 Mac / iPad 可选，每月支付 11.99 美元起",
+        "url": "https://www.ithome.com/1/001/671.htm",
+        "summary": "<p data-vmark=\"9017\">IT之家 9 月 13 日消息，苹果今年 7 月以 Klarna 运营的 Apple Upgrade 租赁计划取代此前的 iPhone Upgrade Program，如今该计划覆盖范围已不再局限于",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Counterpoint 预测：2026-2030 年折叠屏手机面板出货将增长 74%",
-        "url": "https://www.ithome.com/1/001/639.htm",
-        "summary": "<p data-vmark=\"56d0\">IT之家 9 月 12 日消息，根据 Counterpoint 最新报告，预计 2026 年至 2030 年，折叠屏智能手机面板出货量将增长 74%，对应约 15% 的复合年增长率（CAGR）。<s",
+        "title": "苹果披露 iPhone 18 Pro / Duo 系列新品环境可持续报告：包装使用纤维基材料、Apple Watch Ultra 4 再生材料占比达 45%",
+        "url": "https://www.ithome.com/1/001/670.htm",
+        "summary": "<p data-vmark=\"c065\">IT之家 9 月 13 日消息，据外媒 Macobserver 报道，苹果现已披露了 iPhone 18 Pro / Pro Max、iPhone Duo 及 Apple Watch Series ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "VGN 推出蜻蜓 3 Turbo 系列鼠标：PAW 3950/3955 Extreme，269 元起",
-        "url": "https://www.ithome.com/1/001/638.htm",
-        "summary": "<p data-vmark=\"fc09\">IT之家 9 月 12 日消息，VGN 今日发布了蜻蜓 3 Turbo 系列鼠标，将于 9 月 14 日 20:00 发售，<strong>售价 269 元起</strong>：</p><ul cl",
+        "title": "奥尔特曼确认：OpenAI 今年不会上市",
+        "url": "https://www.ithome.com/1/001/669.htm",
+        "summary": "<p data-vmark=\"3a27\">IT之家 9 月 13 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼本周五接受《财富》杂志采访，确认公司不会在今年上市。</p><p style=\"text-align: center;\" d",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "创维数字：与谷歌签署智能家居合作协议，首批产品覆盖欧洲 14 国",
-        "url": "https://www.ithome.com/1/001/636.htm",
-        "summary": "<p data-vmark=\"5e63\">IT之家 9 月 12 日消息，创维数字 9 月 11 日在业绩说明会上表示，近日，公司与 Google Asia PacificPte. Ltd 正式签署《智能家居合作协议》。</p><p dat",
+        "title": "开发商 Shift Up 确认任天堂 Switch 2 版《剑星完全版》采用 32GB 容量卡带",
+        "url": "https://www.ithome.com/1/001/668.htm",
+        "summary": "<p data-vmark=\"024e\">IT之家 9 月 13 日消息，开发商 Shift Up 进一步确认旗下动作游戏《剑星完全版（Stellar Blade）》任天堂 Switch 2 版实体版采用 32GB 容量卡带，游戏文件大小约",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -154,10 +154,10 @@
   },
   "hot_topics": [
     {
-      "title": "习近平抵达新德里",
+      "title": "2027 金砖相约中国",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E6%96%B0%E5%BE%B7%E9%87%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2027+%E9%87%91%E7%A0%96%E7%9B%B8%E7%BA%A6%E4%B8%AD%E5%9B%BD&sa=fyb_news"
     },
     {
       "title": "下周上班时间有变",
@@ -166,10 +166,10 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E6%9C%89%E5%8F%98&sa=fyb_news"
     },
     {
-      "title": "钟南山：超过90%的肺结节都属良性",
+      "title": "地库接连躺人司机躲过一个又一个",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%92%9F%E5%8D%97%E5%B1%B1%EF%BC%9A%E8%B6%85%E8%BF%8790%25%E7%9A%84%E8%82%BA%E7%BB%93%E8%8A%82%E9%83%BD%E5%B1%9E%E8%89%AF%E6%80%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E5%BA%93%E6%8E%A5%E8%BF%9E%E8%BA%BA%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%BA%B2%E8%BF%87%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA&sa=fyb_news"
     },
     {
       "title": "中国在金砖机制中发挥非常重要作用",
@@ -178,46 +178,46 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%87%91%E7%A0%96%E6%9C%BA%E5%88%B6%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8&sa=fyb_news"
     },
     {
-      "title": "“永乐大典”1元起拍：未鉴定真伪",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%B8%E4%B9%90%E5%A4%A7%E5%85%B8%E2%80%9D1%E5%85%83%E8%B5%B7%E6%8B%8D%EF%BC%9A%E6%9C%AA%E9%89%B4%E5%AE%9A%E7%9C%9F%E4%BC%AA&sa=fyb_news"
-    },
-    {
-      "title": "无堂食外卖店员工光膀子徒手做烤鸡",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A0%E5%A0%82%E9%A3%9F%E5%A4%96%E5%8D%96%E5%BA%97%E5%91%98%E5%B7%A5%E5%85%89%E8%86%80%E5%AD%90%E5%BE%92%E6%89%8B%E5%81%9A%E7%83%A4%E9%B8%A1&sa=fyb_news"
-    },
-    {
-      "title": "海姆立克法步骤更新了",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95%E6%AD%A5%E9%AA%A4%E6%9B%B4%E6%96%B0%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "title": "郎平看不下去了",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%83%8E%E5%B9%B3%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "title": "大衣哥称助农直播给钱都不要",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%A7%B0%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E7%BB%99%E9%92%B1%E9%83%BD%E4%B8%8D%E8%A6%81&sa=fyb_news"
-    },
-    {
       "title": "1300张票1000张黄牛 罗永浩吐槽",
       "platform": "百度热搜/头条",
       "hot": "热",
       "url": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
     },
     {
-      "title": "普京抵达印度 保镖紧随其后贴身护卫",
+      "title": "试驾小米澎程误操作用户已锁单",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E5%8D%B0%E5%BA%A6+%E4%BF%9D%E9%95%96%E7%B4%A7%E9%9A%8F%E5%85%B6%E5%90%8E%E8%B4%B4%E8%BA%AB%E6%8A%A4%E5%8D%AB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AF%AF%E6%93%8D%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B7%B2%E9%94%81%E5%8D%95&sa=fyb_news"
+    },
+    {
+      "title": "胖东来网红大月饼暂停门店线下销售",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BD%91%E7%BA%A2%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%9A%82%E5%81%9C%E9%97%A8%E5%BA%97%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE&sa=fyb_news"
+    },
+    {
+      "title": "iPhone18Pro以旧换新政策",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news"
+    },
+    {
+      "title": "警方通报公职人员醉驾致五旬夫妻身亡",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E8%87%B4%E4%BA%94%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+    },
+    {
+      "title": "机器狗治沙一天干完三天活",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E7%8B%97%E6%B2%BB%E6%B2%99%E4%B8%80%E5%A4%A9%E5%B9%B2%E5%AE%8C%E4%B8%89%E5%A4%A9%E6%B4%BB&sa=fyb_news"
+    },
+    {
+      "title": "已灭绝“奥氏马”容貌被复原",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%B7%B2%E7%81%AD%E7%BB%9D%E2%80%9C%E5%A5%A5%E6%B0%8F%E9%A9%AC%E2%80%9D%E5%AE%B9%E8%B2%8C%E8%A2%AB%E5%A4%8D%E5%8E%9F&sa=fyb_news"
     },
     {
       "title": "上海一幼儿园收集家长职务信息不实",
@@ -228,25 +228,25 @@
     {
       "title": "中国将于2027年接任金砖主席国",
       "platform": "百度热搜/头条",
-      "hot": "7553210",
-      "url": "https://www.toutiao.com/trending/7684437120370851883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684437120370851883%22%2C%22hot_board_impr_id%22%3A%2220260912213458B2DB9FE09DCBC2046C07%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%BA%8E2027%E5%B9%B4%E6%8E%A5%E4%BB%BB%E9%87%91%E7%A0%96%E4%B8%BB%E5%B8%AD%E5%9B%BD%22%7D&rank=&style_id=40132&topic_id=7684437120370851883"
+      "hot": "11484425",
+      "url": "https://www.toutiao.com/trending/7684437120370851883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684437120370851883%22%2C%22hot_board_impr_id%22%3A%2220260913070130C642046954D6E09FF5DD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%BA%8E2027%E5%B9%B4%E6%8E%A5%E4%BB%BB%E9%87%91%E7%A0%96%E4%B8%BB%E5%B8%AD%E5%9B%BD%22%7D&rank=&style_id=40132&topic_id=7684437120370851883"
     },
     {
-      "title": "雷军为车主开车门 现场大人小孩围满",
+      "title": "男生去年考上北大放弃今年又考进北大",
       "platform": "百度热搜/头条",
-      "hot": "6834427",
-      "url": "https://www.toutiao.com/trending/7684560547068562971/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684560547068562971%22%2C%22hot_board_impr_id%22%3A%2220260912213458B2DB9FE09DCBC2046C07%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E4%B8%BA%E8%BD%A6%E4%B8%BB%E5%BC%80%E8%BD%A6%E9%97%A8+%E7%8E%B0%E5%9C%BA%E5%A4%A7%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%9B%B4%E6%BB%A1%22%7D&rank=&style_id=40132&topic_id=7684560547068562971"
+      "hot": "10391537",
+      "url": "https://www.toutiao.com/trending/7683701620468072499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683701620468072499%22%2C%22hot_board_impr_id%22%3A%2220260913070130C642046954D6E09FF5DD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E7%94%9F%E5%8E%BB%E5%B9%B4%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%94%BE%E5%BC%83%E4%BB%8A%E5%B9%B4%E5%8F%88%E8%80%83%E8%BF%9B%E5%8C%97%E5%A4%A7%22%7D&rank=&style_id=40132&topic_id=7683701620468072499"
     },
     {
       "title": "看懂中国贸易出海新模式",
       "platform": "百度热搜/头条",
-      "hot": "6184045",
+      "hot": "9402651",
       "url": "https://www.toutiao.com/article/7684561989149999659"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平抵达新德里",
+      "title": "2027 金砖相约中国",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -254,7 +254,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "钟南山：超过90%的肺结节都属良性",
+      "title": "地库接连躺人司机躲过一个又一个",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“永乐大典”1元起拍：未鉴定真伪",
+      "title": "1300张票1000张黄牛 罗永浩吐槽",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
