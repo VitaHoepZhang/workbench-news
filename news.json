@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:35:26+08:00",
+  "updated_at": "2026-09-14T07:01:42+08:00",
   "science": [
     {
       "title": "今日热点速览 · 筑牢金砖合作根基 壮大全球南方力量",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 女生做水被农夫山泉索赔 律师：涉侵权",
-      "summary": "「女生做水被农夫山泉索赔 律师：涉侵权」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 造假景区“早就没人了”",
+      "summary": "「造假景区“早就没人了”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 烧烤店被检查15次：系1人投诉116次",
-      "summary": "「烧烤店被检查15次：系1人投诉116次」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 渔民落水11天后事都办了 人回来了",
+      "summary": "「渔民落水11天后事都办了 人回来了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "专为缓解程序员视疲劳设计，英特尔保留 One Mono 开源字体项目",
-        "url": "https://www.ithome.com/1/001/852.htm",
-        "summary": "<p data-vmark=\"71d6\">IT之家 9 月 13 日消息，英特尔推翻了此前的决定，不再搁置其专为开发者打造的开源字体 One Mono 项目。本周早些时候，该字体的 GitHub 代码仓库已被归档，但据消息，英特尔现已恢复该",
+        "title": "微软 CEO 纳德拉：支持 AI 审慎发展与独立审计，AI 行为准则明日公布",
+        "url": "https://www.ithome.com/1/001/876.htm",
+        "summary": "<p data-vmark=\"b08d\">IT之家 9 月 14 日消息，微软首席执行官萨蒂亚 · 纳德拉今天在 X 平台发文，谈及微软的前沿 AI 发展理念。</p><p data-vmark=\"d384\">纳德拉表示，任何对超级智能的探",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "销售外卖抢单“物理外挂”判赔 300 万，最高法公布不正当竞争案例",
-        "url": "https://www.ithome.com/1/001/851.htm",
-        "summary": "<p data-vmark=\"f03b\">IT之家 9 月 13 日消息，最高人民法院近日发布 2026 年人民法院反不正当竞争典型案例，其中一起销售外卖抢单“物理外挂”不正当竞争案件备受关注。IT之家附主要内容如下：</p><h3 dat",
+        "title": "微软宣布将 xAI 旗下 Grok 模型整合进 Office 三件套，为用户提供 OpenAI 以外模型选择",
+        "url": "https://www.ithome.com/1/001/875.htm",
+        "summary": "<p data-vmark=\"ef65\">IT之家 9 月 14 日消息，微软去年开始逐步放弃 Microsoft 365 Copilot 仅使用 OpenAI 模型的策略，先后将 Anthropic 的 Claude 模型引入 Resea",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
-        "url": "https://www.ithome.com/1/001/849.htm",
-        "summary": "<p data-vmark=\"de2e\">IT之家 9 月 13 日消息，中国联通今日宣布，<strong>支持获得入网证的所有品牌、所有型号 eSIM 手机业务办理</strong>，“支持设备”清单将依据上市首销时间同步更新。</p><",
+        "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
+        "url": "https://www.ithome.com/1/001/874.htm",
+        "summary": "<p data-vmark=\"f854\">IT之家 9 月 14 日消息，据外媒 electrek 报道，苏黎世机场联合中国自动驾驶企业文远知行（WeRide），在机场部署了两辆全自动驾驶电动摆渡车。</p><p data-vmark=\"5",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "宽度仅 50.2 厘米，全球最窄可行驶汽车获吉尼斯认证",
-        "url": "https://www.ithome.com/1/001/848.htm",
-        "summary": "<p data-vmark=\"5b7b\">IT之家 9 月 13 日消息，全球最窄可行驶汽车宽度仅 50.20 厘米，比大部分登机箱还要窄，大约只有普通自行车一半宽，刷新了人们对一台能正常行驶的汽车到底最少需要多大空间的认知。</p><p ",
+        "title": "苹果更新 App Store 审核指南，将清理“约会、手电筒、壁纸、音效”等低质量应用",
+        "url": "https://www.ithome.com/1/001/873.htm",
+        "summary": "<p data-vmark=\"c73b\">IT之家 9 月 14 日消息，苹果现已更新旗下 App Store 审核指南 4.3 (b) 条款，官方将移除长期未更新或无法吸引用户的“约会、手电筒、壁纸、音效、简单计时器、算命”等类型应用。<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "AL 战胜 BLG 战队夺得《英雄联盟》2026 LPL 总冠军，一号种子出征 S16",
-        "url": "https://www.ithome.com/1/001/847.htm",
-        "summary": "<p data-vmark=\"84c7\">IT之家 9 月 13 日消息，在刚刚结束的《英雄联盟》2026 LPL 总决赛中，AL 战队以 3 比 1 战胜 BLG 战队夺得总冠军，捧起队史首座银龙杯，并将作为 LPL 赛区一号种子出征 2",
+        "title": "CDPR《赛博朋克 2077》将登陆暴雪战网平台，《守望先锋》明年新增《边缘行者》联动",
+        "url": "https://www.ithome.com/1/001/872.htm",
+        "summary": "<p data-vmark=\"c547\">IT之家 9 月 14 日消息，<strong>CD Projekt RED 今天宣布，《赛博朋克 2077》游戏将在今年内登陆暴雪战网（<span class=\"link-text-start-w",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "全国首台：煤化工行业的“国之重器”晋华炉顺利投运，日“吞”3000 吨煤化为气",
-        "url": "https://www.ithome.com/1/001/846.htm",
-        "summary": "<p data-vmark=\"1a93\">IT之家 9 月 13 日消息，据科技日报今日（13 日）报道，由山西潞安化工机械（集团）有限公司制造的<strong>全国首台单炉日投煤量 3000 吨的“晋华炉”</strong>，已在河南心连",
+        "title": "冲击全球最大 IPO：曝 Anthropic 选定纳斯达克上市，目标估值约 2 万亿美元",
+        "url": "https://www.ithome.com/1/001/871.htm",
+        "summary": "<p data-vmark=\"0502\">IT之家 9 月 14 日消息，科技媒体 Business Insider 今天（9 月 14 日）发布博文，报道称人工智能公司 Anthropic 已选定纳斯达克作为潜在首次公开募股（IPO）地点",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -137,7 +137,7 @@
         "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
         "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1%EF%BC%9A%E7%B3%BB1%E4%BA%BA%E6%8A%95%E8%AF%89116%E6%AC%A1&sa=fyb_news"
+        "url": "https://www.toutiao.com/trending/7684515215014199338/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684515215014199338%22%2C%22hot_board_impr_id%22%3A%22202609140701388EC04F0B9B0F74C9E9A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1%EF%BC%9A%E7%B3%BB1%E4%BA%BA%E6%8A%95%E8%AF%89116%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7684515215014199338"
       }
     ]
   },
@@ -149,16 +149,16 @@
       "url": "https://m.baidu.com/s?word=%E7%AD%91%E7%89%A2%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%A0%B9%E5%9F%BA+%E5%A3%AE%E5%A4%A7%E5%85%A8%E7%90%83%E5%8D%97%E6%96%B9%E5%8A%9B%E9%87%8F&sa=fyb_news"
     },
     {
-      "title": "女生做水被农夫山泉索赔 律师：涉侵权",
+      "title": "造假景区“早就没人了”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E5%81%9A%E6%B0%B4%E8%A2%AB%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E7%B4%A2%E8%B5%94+%E5%BE%8B%E5%B8%88%EF%BC%9A%E6%B6%89%E4%BE%B5%E6%9D%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%80%A0%E5%81%87%E6%99%AF%E5%8C%BA%E2%80%9C%E6%97%A9%E5%B0%B1%E6%B2%A1%E4%BA%BA%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "烧烤店被检查15次：系1人投诉116次",
+      "title": "渔民落水11天后事都办了 人回来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1%EF%BC%9A%E7%B3%BB1%E4%BA%BA%E6%8A%95%E8%AF%89116%E6%AC%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%94%E6%B0%91%E8%90%BD%E6%B0%B411%E5%A4%A9%E5%90%8E%E4%BA%8B%E9%83%BD%E5%8A%9E%E4%BA%86+%E4%BA%BA%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "寻找“金砖温度”的答案",
@@ -167,46 +167,46 @@
       "url": "https://m.baidu.com/s?word=%E5%AF%BB%E6%89%BE%E2%80%9C%E9%87%91%E7%A0%96%E6%B8%A9%E5%BA%A6%E2%80%9D%E7%9A%84%E7%AD%94%E6%A1%88&sa=fyb_news"
     },
     {
-      "title": "一夜之间 多家顶级AI公司想踩刹车",
+      "title": "四大国有行今年缩招7000余人",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4+%E5%A4%9A%E5%AE%B6%E9%A1%B6%E7%BA%A7AI%E5%85%AC%E5%8F%B8%E6%83%B3%E8%B8%A9%E5%88%B9%E8%BD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%A4%A7%E5%9B%BD%E6%9C%89%E8%A1%8C%E4%BB%8A%E5%B9%B4%E7%BC%A9%E6%8B%9B7000%E4%BD%99%E4%BA%BA&sa=fyb_news"
     },
     {
-      "title": "高校摆600余桌宴席请新生家长吃饭",
+      "title": "亚朵店长叫“现长”店助叫“政委”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E6%91%86600%E4%BD%99%E6%A1%8C%E5%AE%B4%E5%B8%AD%E8%AF%B7%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E5%90%83%E9%A5%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E6%9C%B5%E5%BA%97%E9%95%BF%E5%8F%AB%E2%80%9C%E7%8E%B0%E9%95%BF%E2%80%9D%E5%BA%97%E5%8A%A9%E5%8F%AB%E2%80%9C%E6%94%BF%E5%A7%94%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "科普作家吴京平突发脑梗去世",
+      "title": "iPhone 17大降价",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%A7%91%E6%99%AE%E4%BD%9C%E5%AE%B6%E5%90%B4%E4%BA%AC%E5%B9%B3%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8E%BB%E4%B8%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=iPhone+17%E5%A4%A7%E9%99%8D%E4%BB%B7&sa=fyb_news"
     },
     {
-      "title": "22岁侄子扛行李送19岁叔叔上大学",
+      "title": "借5万盘下小店面 如今企业年产值3亿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=22%E5%B2%81%E4%BE%84%E5%AD%90%E6%89%9B%E8%A1%8C%E6%9D%8E%E9%80%8119%E5%B2%81%E5%8F%94%E5%8F%94%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%80%9F5%E4%B8%87%E7%9B%98%E4%B8%8B%E5%B0%8F%E5%BA%97%E9%9D%A2+%E5%A6%82%E4%BB%8A%E4%BC%81%E4%B8%9A%E5%B9%B4%E4%BA%A7%E5%80%BC3%E4%BA%BF&sa=fyb_news"
     },
     {
-      "title": "45岁后体检别省这项 能保命",
+      "title": "明星扎堆“入职”景区NPC",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=45%E5%B2%81%E5%90%8E%E4%BD%93%E6%A3%80%E5%88%AB%E7%9C%81%E8%BF%99%E9%A1%B9+%E8%83%BD%E4%BF%9D%E5%91%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E2%80%9C%E5%85%A5%E8%81%8C%E2%80%9D%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
     },
     {
-      "title": "AL夺2026LPL总冠军",
+      "title": "罗永浩骂苹果骂对了吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=AL%E5%A4%BA2026LPL%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%AA%82%E8%8B%B9%E6%9E%9C%E9%AA%82%E5%AF%B9%E4%BA%86%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "女儿房间怪味难消爸爸挪开柜子看傻",
+      "title": "“次抛衣”走红",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%84%BF%E6%88%BF%E9%97%B4%E6%80%AA%E5%91%B3%E9%9A%BE%E6%B6%88%E7%88%B8%E7%88%B8%E6%8C%AA%E5%BC%80%E6%9F%9C%E5%AD%90%E7%9C%8B%E5%82%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%AC%A1%E6%8A%9B%E8%A1%A3%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news"
     },
     {
       "title": "网民造谣商业街发生枪战被拘",
@@ -217,20 +217,20 @@
     {
       "title": "金砖国家领导人集体合影",
       "platform": "百度热搜/头条",
-      "hot": "94237881",
-      "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091321352547D51406FDF3128C6C5B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+      "hot": "112415534",
+      "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%22202609140701388EC04F0B9B0F74C9E9A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
     },
     {
-      "title": "伊朗股市单日大涨逾15万点",
+      "title": "烧烤店被检查15次：系1人投诉116次",
       "platform": "百度热搜/头条",
-      "hot": "85269961",
-      "url": "https://www.toutiao.com/trending/7684952072471363627/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684952072471363627%22%2C%22hot_board_impr_id%22%3A%222026091321352547D51406FDF3128C6C5B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E8%82%A1%E5%B8%82%E5%8D%95%E6%97%A5%E5%A4%A7%E6%B6%A8%E9%80%BE15%E4%B8%87%E7%82%B9%22%7D&rank=&style_id=40132&topic_id=7684952072471363627"
+      "hot": "101717782",
+      "url": "https://www.toutiao.com/trending/7684515215014199338/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684515215014199338%22%2C%22hot_board_impr_id%22%3A%22202609140701388EC04F0B9B0F74C9E9A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%83%A7%E7%83%A4%E5%BA%97%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1%EF%BC%9A%E7%B3%BB1%E4%BA%BA%E6%8A%95%E8%AF%89116%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7684515215014199338"
     },
     {
       "title": "透过服贸会，外资抢抓三大新机遇",
       "platform": "百度热搜/头条",
-      "hot": "77155452",
-      "url": "https://www.toutiao.com/trending/7684986203564772910/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684986203564772910%22%2C%22hot_board_impr_id%22%3A%222026091321352547D51406FDF3128C6C5B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%80%8F%E8%BF%87%E6%9C%8D%E8%B4%B8%E4%BC%9A%EF%BC%8C%E5%A4%96%E8%B5%84%E6%8A%A2%E6%8A%93%E4%B8%89%E5%A4%A7%E6%96%B0%E6%9C%BA%E9%81%87%22%7D&rank=&style_id=40132&topic_id=7684986203564772910"
+      "hot": "92038055",
+      "url": "https://www.toutiao.com/trending/7684986203564772910/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684986203564772910%22%2C%22hot_board_impr_id%22%3A%22202609140701388EC04F0B9B0F74C9E9A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%80%8F%E8%BF%87%E6%9C%8D%E8%B4%B8%E4%BC%9A%EF%BC%8C%E5%A4%96%E8%B5%84%E6%8A%A2%E6%8A%93%E4%B8%89%E5%A4%A7%E6%96%B0%E6%9C%BA%E9%81%87%22%7D&rank=&style_id=40132&topic_id=7684986203564772910"
     }
   ],
   "suggested_topics": [
@@ -239,11 +239,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "女生做水被农夫山泉索赔 律师：涉侵权",
+      "title": "造假景区“早就没人了”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "烧烤店被检查15次：系1人投诉116次",
+      "title": "渔民落水11天后事都办了 人回来了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -251,7 +251,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "一夜之间 多家顶级AI公司想踩刹车",
+      "title": "四大国有行今年缩招7000余人",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
