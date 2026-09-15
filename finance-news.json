@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-15T07:01:47+08:00",
+  "updated_at": "2026-09-15T13:06:51+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3885.33,
-      "change": -2.78,
-      "pct": -0.07
+      "value": 3879.67,
+      "change": -5.66,
+      "pct": -0.15
     },
     {
       "name": "深证成指",
-      "value": 13384.57,
-      "change": -86.69,
-      "pct": -0.64
+      "value": 13371.45,
+      "change": -13.12,
+      "pct": -0.1
     },
     {
       "name": "创业板指",
-      "value": 3285.58,
-      "change": -36.46,
-      "pct": -1.1
+      "value": 3273.03,
+      "change": -12.55,
+      "pct": -0.38
     }
   ],
   "sectors": [
     {
-      "name": "医疗研发外包",
-      "change": 5.75
+      "name": "风电零部件",
+      "change": 5.07
     },
     {
-      "name": "胶黏剂及胶带",
-      "change": 4.44
+      "name": "钨",
+      "change": 4.93
     },
     {
-      "name": "医疗服务",
-      "change": 4.09
+      "name": "风电设备",
+      "change": 4.73
     },
     {
-      "name": "诊断服务",
-      "change": 4.03
+      "name": "锂电专用设备",
+      "change": 3.7
     },
     {
-      "name": "横向通用软件",
-      "change": 3.96
+      "name": "半导体设备",
+      "change": 3.22
     },
     {
-      "name": "商用载客车",
-      "change": 3.87
+      "name": "风电整机",
+      "change": 2.97
     },
     {
-      "name": "摩托车",
-      "change": 3.62
+      "name": "集成电路封测",
+      "change": 2.59
     },
     {
-      "name": "其他生物制品",
-      "change": 3.2
+      "name": "其他化学纤维",
+      "change": 2.22
     }
   ],
   "macro": [],
