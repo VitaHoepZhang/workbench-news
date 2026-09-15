@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-15T13:06:51+08:00",
+  "updated_at": "2026-09-15T21:39:02+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3879.67,
-      "change": -5.66,
-      "pct": -0.15
+      "value": 3864.28,
+      "change": -21.05,
+      "pct": -0.54
     },
     {
       "name": "深证成指",
-      "value": 13371.45,
-      "change": -13.12,
-      "pct": -0.1
+      "value": 13287.97,
+      "change": -96.6,
+      "pct": -0.72
     },
     {
       "name": "创业板指",
-      "value": 3273.03,
-      "change": -12.55,
-      "pct": -0.38
+      "value": 3247.92,
+      "change": -37.66,
+      "pct": -1.15
     }
   ],
   "sectors": [
     {
-      "name": "风电零部件",
-      "change": 5.07
+      "name": "钨",
+      "change": 5.88
     },
     {
-      "name": "钨",
-      "change": 4.93
+      "name": "风电零部件",
+      "change": 4.78
     },
     {
       "name": "风电设备",
-      "change": 4.73
+      "change": 4.2
     },
     {
-      "name": "锂电专用设备",
-      "change": 3.7
+      "name": "教育运营及其他",
+      "change": 2.88
     },
     {
       "name": "半导体设备",
-      "change": 3.22
-    },
-    {
-      "name": "风电整机",
-      "change": 2.97
+      "change": 2.86
     },
     {
       "name": "集成电路封测",
-      "change": 2.59
+      "change": 2.35
     },
     {
-      "name": "其他化学纤维",
-      "change": 2.22
+      "name": "锂电专用设备",
+      "change": 2.31
+    },
+    {
+      "name": "电子化学品Ⅲ",
+      "change": 2.1
     }
   ],
   "macro": [],
