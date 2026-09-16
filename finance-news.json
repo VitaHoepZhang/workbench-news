@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-16T13:06:18+08:00",
+  "updated_at": "2026-09-16T21:38:46+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3883.47,
-      "change": 19.19,
-      "pct": 0.5
+      "value": 3891.6,
+      "change": 27.32,
+      "pct": 0.71
     },
     {
       "name": "深证成指",
-      "value": 13447.4,
-      "change": 159.43,
-      "pct": 1.2
+      "value": 13454.74,
+      "change": 166.77,
+      "pct": 1.26
     },
     {
       "name": "创业板指",
-      "value": 3311.42,
-      "change": 63.5,
+      "value": 3311.47,
+      "change": 63.55,
       "pct": 1.96
     }
   ],
   "sectors": [
     {
+      "name": "运动服装",
+      "change": 7.34
+    },
+    {
       "name": "炭黑",
-      "change": 6.6
+      "change": 6.75
     },
     {
       "name": "半导体材料",
-      "change": 6.13
+      "change": 6.14
     },
     {
       "name": "林业Ⅲ",
-      "change": 6.11
+      "change": 5.97
     },
     {
       "name": "林业Ⅱ",
-      "change": 6.11
-    },
-    {
-      "name": "运动服装",
-      "change": 5.8
+      "change": 5.97
     },
     {
       "name": "光学元件",
-      "change": 5.51
+      "change": 5.37
     },
     {
-      "name": "半导体设备",
-      "change": 5.26
+      "name": "激光设备",
+      "change": 5.15
     },
     {
       "name": "跨境电商",
-      "change": 5.03
+      "change": 5.09
     }
   ],
   "macro": [],
