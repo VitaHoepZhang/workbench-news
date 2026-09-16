@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-16T07:01:26+08:00",
+  "updated_at": "2026-09-16T13:06:18+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 100秒看习近平南亚之行三大成果",
-      "summary": "「100秒看习近平南亚之行三大成果」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平致吉林大学建校80周年的贺信",
+      "summary": "「习近平致吉林大学建校80周年的贺信」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 专家：楼市基本触底",
-      "summary": "「专家：楼市基本触底」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 影院不再只放电影",
+      "summary": "「影院不再只放电影」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 男子30年前存一万定期忘取 法院判了",
-      "summary": "「男子30年前存一万定期忘取 法院判了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 电动汽车充电不花钱 多地试点",
+      "summary": "「电动汽车充电不花钱 多地试点」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 平陆运河将带来哪些新变化",
-      "summary": "「平陆运河将带来哪些新变化」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 世纪工程4年完工",
+      "summary": "「世纪工程4年完工」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "英伟达黄仁勋受邀出席，微软官宣 10 月 7 日举办 Windows 和 Surface 发布会",
-        "url": "https://www.ithome.com/1/002/832.htm",
-        "summary": "<p data-vmark=\"058d\">IT之家 9 月 16 日消息，微软宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办发布会，<strong>主题为本地人工智能如何塑造 P",
+        "title": "香港将推动全民 AI 培训、推进跨境自动驾驶发展、助力国产飞机打进世界市场",
+        "url": "https://www.ithome.com/1/003/019.htm",
+        "summary": "<p data-vmark=\"2778\">IT之家 9 月 16 日消息，据中央广播电视总台大湾区之声报道，香港特区行政长官李家超今日（16 日）公布《香港特别行政区经济和社会发展第一个五年规划（2026—2030 年）》（《香港第一个五年",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI 奥尔特曼回应监管：相信行业能安全开发，不会伤害公众",
-        "url": "https://www.ithome.com/1/002/831.htm",
-        "summary": "<p data-vmark=\"3186\">北京时间 9 月 16 日，据彭博社报道，OpenAI CEO 萨姆 · 奥尔特曼 (Sam Altman) 表示，他相信 AI 公司能够安全地开发这项技术，不会给广大民众造成重大伤害。</p><p",
+        "title": "Win11 26H2 前瞻，微软称将带来用户可感知的体验升级",
+        "url": "https://www.ithome.com/1/003/018.htm",
+        "summary": "<p data-vmark=\"b87c\">IT之家 9 月 16 日消息，科技媒体 Windows Latest 昨日（9 月 15 日）发布博文，报道称微软 Windows 与设备部门设计及研究负责人马库斯 · 阿什（Marcus Ash",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
-        "url": "https://www.ithome.com/1/002/830.htm",
-        "summary": "<p data-vmark=\"bbad\">IT之家 9 月 16 日消息，小米米家石墨烯暖风机 C 现已开售，建议零售价 249 元，新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style",
+        "title": "得物发布 11 周年全员信：AI 时代下组织分工升级，让团队对完整结果负责",
+        "url": "https://www.ithome.com/1/003/017.htm",
+        "summary": "<p data-vmark=\"69c8\">9 月 16 日上午消息，近日，得物发布 11 周年全员信，信中提到，“<strong>AI 正在打破过去必须靠层层分工才能完成工作的边界，让同一个团队能够独立掌握更多业务环节</strong>。”",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "携程集团：坚决落实在线酒店预订行业合规要求",
-        "url": "https://www.ithome.com/1/002/829.htm",
-        "summary": "<p data-vmark=\"326e\">IT之家 9 月 16 日消息，市场监管总局会同文化和旅游部昨日（9 月 15 日）召开在线酒店预订平台服务行业行政指导会，要求美团、抖音、京东、携程、同程、飞猪等平台企业，严格落实合规主体责任，防",
+        "title": "HBO 总裁回应苹果 Apple TV 首夺艾美奖第一平台：有点压力",
+        "url": "https://www.ithome.com/1/003/015.htm",
+        "summary": "<p data-vmark=\"9643\">IT之家 9 月 16 日消息，科技媒体 9to5Mac 昨日（9 月 15 日）发布博文，报道称 Apple TV 在第 78 届艾美奖颁奖典礼上大获全胜后，<strong>HBO 总裁凯西 · ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "谷歌 TPU AI 基建规模迈入 100 万级，核心瓶颈从“缺芯”转向“缺电”",
-        "url": "https://www.ithome.com/1/002/828.htm",
-        "summary": "<p data-vmark=\"8a0f\">IT之家 9 月 16 日消息，在 SEMICON Taiwan 2026 活动中，谷歌宣布其 TPU 系统已扩展至 100 万芯片级规模，<strong>而电力供应成为 AI 基础设施扩张的核心瓶",
+        "title": "理光发布 GR IV“GR 30 周年特别版”相机：全球限量 6000 台，11499 元",
+        "url": "https://www.ithome.com/1/003/014.htm",
+        "summary": "<p data-vmark=\"6385\">IT之家 9 月 16 日消息，理光映像今日欣然宣布，为纪念“GR”系列诞生 30 周年，将在<strong>全球限量发售 6,000 台</strong>特别规格的高端紧凑型数码相机「RICOH ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "一箭九星：引力一号遥三火箭发射成功，我国火箭单次海上发射载荷重量创新高",
-        "url": "https://www.ithome.com/1/002/827.htm",
-        "summary": "<p data-vmark=\"8787\">IT之家 9 月 16 日消息，北京时间 9 月 16 日 6 时 00 分，我国太原卫星发射中心在上海东部海域使用引力一号遥三运载火箭，将千帆极轨 26 组卫星及 EUHT 技术试验卫星共 9 颗",
+        "title": "行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL",
+        "url": "https://www.ithome.com/1/003/013.htm",
+        "summary": "<p data-vmark=\"cc6f\">IT之家 9 月 16 日消息，中国移动今日宣布，面向全球开源行业内首个连接 VLA / WAM 模型与机器人本体的通用工程底座 —— <strong>Open-RAIL</strong>。</p>",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,22 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+        "url": "https://sspai.com/post/113295",
+        "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。<a href=&#34;https://sspai.com/post/113295&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+        "url": "https://sspai.com/post/114638",
+        "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。<a href=&#34;https://sspai.com/post/114638&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
         "url": "https://sspai.com/post/114613",
@@ -111,109 +127,97 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "派评｜近期值得关注的 App",
-        "url": "https://sspai.com/post/114577",
-        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/114577&#34; target=&#34;_blank&#34",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-        "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-        "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=&#34;https://sspai.com/prime/story/ai-assisted-sp",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "「男子30年前存一万定期忘取 法院判了」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%9030%E5%B9%B4%E5%89%8D%E5%AD%98%E4%B8%80%E4%B8%87%E5%AE%9A%E6%9C%9F%E5%BF%98%E5%8F%96+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news"
+        "heat": "高"
       },
       {
-        "title": "「娃哈哈因拖欠公积金被查封办公楼」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%A8%83%E5%93%88%E5%93%88%E5%9B%A0%E6%8B%96%E6%AC%A0%E5%85%AC%E7%A7%AF%E9%87%91%E8%A2%AB%E6%9F%A5%E5%B0%81%E5%8A%9E%E5%85%AC%E6%A5%BC&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "100秒看习近平南亚之行三大成果",
+      "title": "习近平致吉林大学建校80周年的贺信",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E5%BB%BA%E6%A0%A180%E5%91%A8%E5%B9%B4%E7%9A%84%E8%B4%BA%E4%BF%A1&sa=fyb_news"
     },
     {
-      "title": "专家：楼市基本触底",
+      "title": "影院不再只放电影",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%A5%BC%E5%B8%82%E5%9F%BA%E6%9C%AC%E8%A7%A6%E5%BA%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%94%BE%E7%94%B5%E5%BD%B1&sa=fyb_news"
     },
     {
-      "title": "男子30年前存一万定期忘取 法院判了",
+      "title": "电动汽车充电不花钱 多地试点",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%9030%E5%B9%B4%E5%89%8D%E5%AD%98%E4%B8%80%E4%B8%87%E5%AE%9A%E6%9C%9F%E5%BF%98%E5%8F%96+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E4%B8%8D%E8%8A%B1%E9%92%B1+%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9&sa=fyb_news"
     },
     {
-      "title": "平陆运河将带来哪些新变化",
+      "title": "世纪工程4年完工",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%96%E7%BA%AA%E5%B7%A5%E7%A8%8B4%E5%B9%B4%E5%AE%8C%E5%B7%A5&sa=fyb_news"
     },
     {
-      "title": "日本梅毒大暴发：为何买不到青霉素",
+      "title": "我不得不把才华埋葬在昨天",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E5%A4%A7%E6%9A%B4%E5%8F%91%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%9D%92%E9%9C%89%E7%B4%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%88%91%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%8A%8A%E6%89%8D%E5%8D%8E%E5%9F%8B%E8%91%AC%E5%9C%A8%E6%98%A8%E5%A4%A9&sa=fyb_news"
     },
     {
-      "title": "娃哈哈因拖欠公积金被查封办公楼",
+      "title": "祖国统一的大势滚滚向前 不可阻挡",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A8%83%E5%93%88%E5%93%88%E5%9B%A0%E6%8B%96%E6%AC%A0%E5%85%AC%E7%A7%AF%E9%87%91%E8%A2%AB%E6%9F%A5%E5%B0%81%E5%8A%9E%E5%85%AC%E6%A5%BC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E5%A4%A7%E5%8A%BF%E6%BB%9A%E6%BB%9A%E5%90%91%E5%89%8D+%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1&sa=fyb_news"
     },
     {
-      "title": "曝陈建州突发心肌梗塞紧急手术",
+      "title": "昔日“彩电大王”要退市了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E9%99%88%E5%BB%BA%E5%B7%9E%E7%AA%81%E5%8F%91%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E7%B4%A7%E6%80%A5%E6%89%8B%E6%9C%AF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%98%94%E6%97%A5%E2%80%9C%E5%BD%A9%E7%94%B5%E5%A4%A7%E7%8E%8B%E2%80%9D%E8%A6%81%E9%80%80%E5%B8%82%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "北方多地出现“飞行的硫酸”",
+      "title": "老人接到女儿离世噩耗 导游助其回家",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E2%80%9C%E9%A3%9E%E8%A1%8C%E7%9A%84%E7%A1%AB%E9%85%B8%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%8E%A5%E5%88%B0%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%E5%99%A9%E8%80%97+%E5%AF%BC%E6%B8%B8%E5%8A%A9%E5%85%B6%E5%9B%9E%E5%AE%B6&sa=fyb_news"
     },
     {
-      "title": "AI正在惩罚用它写作业的中学生",
+      "title": "女子凌晨回家 客厅有戴口罩陌生男子",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E5%9B%9E%E5%AE%B6+%E5%AE%A2%E5%8E%85%E6%9C%89%E6%88%B4%E5%8F%A3%E7%BD%A9%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90&sa=fyb_news"
     },
     {
-      "title": "七旬老太入冰棺后又睁眼“复活”",
+      "title": "医生建议生气时暂停3秒",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E7%94%9F%E6%B0%94%E6%97%B6%E6%9A%82%E5%81%9C3%E7%A7%92&sa=fyb_news"
     },
     {
-      "title": "男子买蚯蚓放后备箱忘取出一夜跑光",
+      "title": "赵露思自导自演新剧《告别信》",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E4%B9%B0%E8%9A%AF%E8%9A%93%E6%94%BE%E5%90%8E%E5%A4%87%E7%AE%B1%E5%BF%98%E5%8F%96%E5%87%BA%E4%B8%80%E5%A4%9C%E8%B7%91%E5%85%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%96%B0%E5%89%A7%E3%80%8A%E5%91%8A%E5%88%AB%E4%BF%A1%E3%80%8B&sa=fyb_news"
     },
     {
       "title": "不良信息一键举报 共建清朗空间",
@@ -222,43 +226,43 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5+%E5%85%B1%E5%BB%BA%E6%B8%85%E6%9C%97%E7%A9%BA%E9%97%B4&sa=fyb_news"
     },
     {
-      "title": "存1万定期1年但忘了30年",
+      "title": "崔天凯：一劳永逸解决台湾问题",
       "platform": "百度热搜/头条",
-      "hot": "7498345",
-      "url": "https://www.toutiao.com/trending/7685521416808054803/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685521416808054803%22%2C%22hot_board_impr_id%22%3A%2220260916070122A82B44F9F02B6F77F019%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%981%E4%B8%87%E5%AE%9A%E6%9C%9F1%E5%B9%B4%E4%BD%86%E5%BF%98%E4%BA%8630%E5%B9%B4%22%7D&rank=&style_id=40132&topic_id=7685521416808054803"
+      "hot": "11143504",
+      "url": "https://www.toutiao.com/trending/7685701201656054318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685701201656054318%22%2C%22hot_board_impr_id%22%3A%22202609161306153B6A33C092147F50E2E3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B4%94%E5%A4%A9%E5%87%AF%EF%BC%9A%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7685701201656054318"
     },
     {
-      "title": "中方回应美军称已拥有在轨太空武器",
+      "title": "一线城市房价涨了",
       "platform": "百度热搜/头条",
-      "hot": "6784783",
-      "url": "https://www.toutiao.com/trending/7685728890727271982/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685728890727271982%22%2C%22hot_board_impr_id%22%3A%2220260916070122A82B44F9F02B6F77F019%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%B7%B2%E6%8B%A5%E6%9C%89%E5%9C%A8%E8%BD%A8%E5%A4%AA%E7%A9%BA%E6%AD%A6%E5%99%A8%22%7D&rank=&style_id=40132&topic_id=7685728890727271982"
+      "hot": "10083059",
+      "url": "https://www.toutiao.com/trending/7685663412193447470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685663412193447470%22%2C%22hot_board_impr_id%22%3A%22202609161306153B6A33C092147F50E2E3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%B6%A8%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7685663412193447470"
     },
     {
-      "title": "一组数据看8月份国民经济运行平稳",
+      "title": "一组数字解码平陆运河",
       "platform": "百度热搜/头条",
-      "hot": "6139125",
-      "url": "https://www.toutiao.com/trending/7684590075107380772/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684590075107380772%22%2C%22hot_board_impr_id%22%3A%2220260916070122A82B44F9F02B6F77F019%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B8%E6%9C%88%E4%BB%BD%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%B9%B3%E7%A8%B3%22%7D&rank=&style_id=40132&topic_id=7684590075107380772"
+      "hot": "9123529",
+      "url": "https://www.toutiao.com/article/7685916623164817962"
     }
   ],
   "suggested_topics": [
     {
-      "title": "100秒看习近平南亚之行三大成果",
+      "title": "习近平致吉林大学建校80周年的贺信",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "专家：楼市基本触底",
+      "title": "影院不再只放电影",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "男子30年前存一万定期忘取 法院判了",
+      "title": "电动汽车充电不花钱 多地试点",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "平陆运河将带来哪些新变化",
+      "title": "世纪工程4年完工",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "日本梅毒大暴发：为何买不到青霉素",
+      "title": "我不得不把才华埋葬在昨天",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
