@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:38:06+08:00",
+  "updated_at": "2026-09-18T07:01:28+08:00",
   "science": [
     {
       "title": "今日热点速览 · 总书记引领科技强国路",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 全款买房的人越来越多了",
-      "summary": "「全款买房的人越来越多了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 楼市进入“二手房时代”",
+      "summary": "「楼市进入“二手房时代”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 义乌开始卖飞碟了",
-      "summary": "「义乌开始卖飞碟了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 苹果最贵手机还没开售就翻车了吗",
+      "summary": "「苹果最贵手机还没开售就翻车了吗」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "品牌首款独立开发 SUV 车型，曝 AMG GT 纯电 SUV 将于 10 月 17 日发布",
-        "url": "https://www.ithome.com/1/003/836.htm",
-        "summary": "<p data-vmark=\"abd8\">IT之家 9 月 17 日消息，据外媒 motor1 今天（17 日）晚间报道，梅赛德斯-AMG 首款独立开发 SUV——AMG GT 的轮廓逐渐明朗。在官宣之前，有消息称新车计划 2026 年 1",
+        "title": "小岛秀夫分享新作《OD》开发进展：正按照原定计划推进游戏音频录制工作",
+        "url": "https://www.ithome.com/1/003/883.htm",
+        "summary": "<p data-vmark=\"4b3e\">IT之家 9 月 18 日消息，小岛秀夫近日在东京电玩展期间分享了旗下游戏新作《OD》开发进展。受此前美国演员工会（SAG-AFTRA）罢工影响，《OD》的表演捕捉、对白及其他声音录制工作一度暂停，",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为 MatePad Mini 平板获鸿蒙 HarmonyOS 7.0.0.107 更新，新增直连供电功能",
-        "url": "https://www.ithome.com/1/003/835.htm",
-        "summary": "<p data-vmark=\"4737\">IT之家 9 月 17 日消息，华为 MatePad Mini 平板现已迎来鸿蒙 HarmonyOS 7.0.0.107 SP8 更新，<strong>新增直连供电等功能</strong>，大小 1",
+        "title": "英特尔 Nova Lake 平台加速推进，华擎 5 款 Z990 主板货运记录曝光",
+        "url": "https://www.ithome.com/1/003/882.htm",
+        "summary": "<p data-vmark=\"72d8\">IT之家 9 月 18 日消息，科技媒体 Club386 昨日（9 月 17 日）发布博文，通过挖掘海关物流追踪平台 NBD 货运记录，<strong>发现了 Intel Z990 主板的相关踪迹。",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "9 月 23 日见：全新吉利银河 E5 官宣搭载全栈 800V 高压平台，峰值 6C 超充倍率",
-        "url": "https://www.ithome.com/1/003/834.htm",
-        "summary": "<p data-vmark=\"f468\">IT之家 9 月 17 日消息，吉利银河官微今天（17 日）下午宣布，全新吉利银河 E5 将于 9 月 23 日正式亮相。同时，官方公布了新车的一部分升级点。</p><ul class=\" list",
+        "title": "安全顾虑成普及关键：外媒调查显示超七成受访者不愿令 OpenClaw 等 AI 工具完全控制自己的电脑",
+        "url": "https://www.ithome.com/1/003/881.htm",
+        "summary": "<p data-vmark=\"0b54\">IT之家 9 月 18 日消息，大语言模型（LLM）问世仅数年，但如今已经逐渐走出聊天窗口。从回答问题、修改邮件，到如今 OpenClaw 诞生，可代替用户操作电脑，减少大量重复劳动，</p><p ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为智选车产品总监彭磊详解享界 V8 二排空间，新车全系标配电动招财猫座椅",
-        "url": "https://www.ithome.com/1/003/833.htm",
-        "summary": "<p data-vmark=\"eaaa\">IT之家 9 月 17 日消息，鸿蒙智行今日公布享界 V8 车型的更多设计细节，包括超大侧滑门开度、二排座椅电动旋转等。</p><p style=\"text-align: center;\" data",
+        "title": "苹果 iPhone 18 Pro 系列电池保外更换费用上调 10 美元，现价 1048 元",
+        "url": "https://www.ithome.com/1/003/880.htm",
+        "summary": "<p data-vmark=\"9781\">IT之家 9 月 18 日消息，Macrumors 今日发现，苹果已经上调了 iPhone 18 Pro 与 iPhone 18 Pro Max 的保外电池更换费用。</p><p data-vmar",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小鹏 G9L 正式上市：限时优惠价 23.18 万-29.98 万元，定位黄金大五座科技旗舰",
-        "url": "https://www.ithome.com/1/003/832.htm",
-        "summary": "<p data-vmark=\"292b\">IT之家 9 月 17 日消息，小鹏 G9L 汽车今天（17 日）晚间正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择。</p><h2 data-vmark=\"7768\">超级增",
+        "title": "谷歌详解旗下全新 Noto 3D Emoji 表情符号设计理念：极简、克制、易辨识",
+        "url": "https://www.ithome.com/1/003/879.htm",
+        "summary": "<p data-vmark=\"7102\">IT之家 9 月 18 日消息，谷歌发文，介绍了旗下 Noto 3D Emoji 表情符号的设计理念，解释了“如何在保留经典表情辨识度的同时，将原本的 2D 图形转化为 3D 形态”。</p><p ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "黄仁勋：英伟达明年芯片销量将是今年的两倍",
-        "url": "https://www.ithome.com/1/003/831.htm",
-        "summary": "<p data-vmark=\"8ed2\">IT之家 9 月 17 日消息，英伟达 CEO 黄仁勋当地时间周四表示，预计公司 2027 年的芯片销量将是 2026 年的约两倍。</p><p style=\"text-align: center;",
+        "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
+        "url": "https://www.ithome.com/1/003/878.htm",
+        "summary": "<p data-vmark=\"e6eb\">IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。</p><p style=\"text-ali",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E8%B7%AF&sa=fyb_news"
     },
     {
-      "title": "全款买房的人越来越多了",
+      "title": "楼市进入“二手房时代”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%A5%BC%E5%B8%82%E8%BF%9B%E5%85%A5%E2%80%9C%E4%BA%8C%E6%89%8B%E6%88%BF%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "义乌开始卖飞碟了",
+      "title": "苹果最贵手机还没开售就翻车了吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%89%E4%B9%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%A3%9E%E7%A2%9F%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%BF%98%E6%B2%A1%E5%BC%80%E5%94%AE%E5%B0%B1%E7%BF%BB%E8%BD%A6%E4%BA%86%E5%90%97&sa=fyb_news"
     },
     {
       "title": "夏粮旺季收购基本结束",
@@ -178,22 +178,34 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%8F%E7%B2%AE%E6%97%BA%E5%AD%A3%E6%94%B6%E8%B4%AD%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9D%9F&sa=fyb_news"
     },
     {
-      "title": "千万别试！一个操作让苹果手机死机",
+      "title": "婚服29.9元婚车自家车 极简婚礼火了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%95%EF%BC%81%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E8%AE%A9%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%AD%BB%E6%9C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A9%9A%E6%9C%8D29.9%E5%85%83%E5%A9%9A%E8%BD%A6%E8%87%AA%E5%AE%B6%E8%BD%A6+%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "坠亡幼童父亲举报妻子侵犯肖像权",
+      "title": "人民日报钟声：病根不除 日本没有未来",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%EF%BC%9A%E7%97%85%E6%A0%B9%E4%B8%8D%E9%99%A4+%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5&sa=fyb_news"
     },
     {
-      "title": "HYROX失禁选手道歉",
+      "title": "全款买房的人越来越多了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=HYROX%E5%A4%B1%E7%A6%81%E9%80%89%E6%89%8B%E9%81%93%E6%AD%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "国产榴莲大丰收",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A7%E6%A6%B4%E8%8E%B2%E5%A4%A7%E4%B8%B0%E6%94%B6&sa=fyb_news"
+    },
+    {
+      "title": "孙颖莎谈第一次住邮轮",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B0%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%8F%E9%82%AE%E8%BD%AE&sa=fyb_news"
     },
     {
       "title": "UFO高速飞过墨西哥城上空",
@@ -202,22 +214,10 @@
       "url": "https://m.baidu.com/s?word=UFO%E9%AB%98%E9%80%9F%E9%A3%9E%E8%BF%87%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E%E4%B8%8A%E7%A9%BA&sa=fyb_news"
     },
     {
-      "title": "TES战胜iG",
+      "title": "戚薇：不想被时代碾过去 就跳上火车",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=TES%E6%88%98%E8%83%9CiG&sa=fyb_news"
-    },
-    {
-      "title": "华谊兄弟终于等来“救兵”",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E7%BB%88%E4%BA%8E%E7%AD%89%E6%9D%A5%E2%80%9C%E6%95%91%E5%85%B5%E2%80%9D&sa=fyb_news"
-    },
-    {
-      "title": "陈建州晒术后合照 王力宏等站病床边",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B7%9E%E6%99%92%E6%9C%AF%E5%90%8E%E5%90%88%E7%85%A7+%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%AD%89%E7%AB%99%E7%97%85%E5%BA%8A%E8%BE%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%88%9A%E8%96%87%EF%BC%9A%E4%B8%8D%E6%83%B3%E8%A2%AB%E6%97%B6%E4%BB%A3%E7%A2%BE%E8%BF%87%E5%8E%BB+%E5%B0%B1%E8%B7%B3%E4%B8%8A%E7%81%AB%E8%BD%A6&sa=fyb_news"
     },
     {
       "title": "网传“外卖员向餐食吐口水”系摆拍",
@@ -226,22 +226,22 @@
       "url": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E5%A4%96%E5%8D%96%E5%91%98%E5%90%91%E9%A4%90%E9%A3%9F%E5%90%90%E5%8F%A3%E6%B0%B4%E2%80%9D%E7%B3%BB%E6%91%86%E6%8B%8D&sa=fyb_news"
     },
     {
-      "title": "台民众：打起来一定输美国不可能帮忙",
+      "title": "中美外长通电话",
       "platform": "百度热搜/头条",
-      "hot": "36343551",
-      "url": "https://www.toutiao.com/trending/7686137849058410532/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686137849058410532%22%2C%22hot_board_impr_id%22%3A%222026091721380239B8C959C7A260BADE78%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%B0%91%E4%BC%97%EF%BC%9A%E6%89%93%E8%B5%B7%E6%9D%A5%E4%B8%80%E5%AE%9A%E8%BE%93%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%B8%AE%E5%BF%99%22%7D&rank=&style_id=40132&topic_id=7686137849058410532"
+      "hot": "45072782",
+      "url": "https://www.toutiao.com/trending/7686476800251363371/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686476800251363371%22%2C%22hot_board_impr_id%22%3A%2220260918070125E1AFE83B18DCE0EA32B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D%22%7D&rank=&style_id=40132&topic_id=7686476800251363371"
     },
     {
-      "title": "猪景房8888元一晚还送一头猪",
+      "title": "王毅：中美双方要筹备好下阶段高层交往",
       "platform": "百度热搜/头条",
-      "hot": "32885005",
-      "url": "https://www.toutiao.com/trending/7686269165757595689/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686269165757595689%22%2C%22hot_board_impr_id%22%3A%222026091721380239B8C959C7A260BADE78%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8C%AA%E6%99%AF%E6%88%BF8888%E5%85%83%E4%B8%80%E6%99%9A%E8%BF%98%E9%80%81%E4%B8%80%E5%A4%B4%E7%8C%AA%22%7D&rank=&style_id=40132&topic_id=7686269165757595689"
+      "hot": "40783540",
+      "url": "https://www.toutiao.com/trending/7686506613791985198/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686506613791985198%22%2C%22hot_board_impr_id%22%3A%2220260918070125E1AFE83B18DCE0EA32B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%AF%85%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E8%A6%81%E7%AD%B9%E5%A4%87%E5%A5%BD%E4%B8%8B%E9%98%B6%E6%AE%B5%E9%AB%98%E5%B1%82%E4%BA%A4%E5%BE%80%22%7D&rank=&style_id=40132&topic_id=7686506613791985198"
     },
     {
       "title": "平陆运河激活西部“新动脉”",
       "platform": "百度热搜/头条",
-      "hot": "29755583",
-      "url": "https://www.toutiao.com/trending/7686477486456180270/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686477486456180270%22%2C%22hot_board_impr_id%22%3A%222026091721380239B8C959C7A260BADE78%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%BF%80%E6%B4%BB%E8%A5%BF%E9%83%A8%E2%80%9C%E6%96%B0%E5%8A%A8%E8%84%89%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7686477486456180270"
+      "hot": "36902473",
+      "url": "https://www.toutiao.com/trending/7686477486456180270/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686477486456180270%22%2C%22hot_board_impr_id%22%3A%2220260918070125E1AFE83B18DCE0EA32B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%BF%80%E6%B4%BB%E8%A5%BF%E9%83%A8%E2%80%9C%E6%96%B0%E5%8A%A8%E8%84%89%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7686477486456180270"
     }
   ],
   "suggested_topics": [
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "全款买房的人越来越多了",
+      "title": "楼市进入“二手房时代”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "义乌开始卖飞碟了",
+      "title": "苹果最贵手机还没开售就翻车了吗",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "千万别试！一个操作让苹果手机死机",
+      "title": "婚服29.9元婚车自家车 极简婚礼火了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
