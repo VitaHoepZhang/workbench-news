@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-17T07:01:53+08:00",
+  "updated_at": "2026-09-17T13:06:41+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3891.6,
-      "change": 27.32,
-      "pct": 0.71
+      "value": 3879.96,
+      "change": -11.64,
+      "pct": -0.3
     },
     {
       "name": "深证成指",
-      "value": 13454.74,
-      "change": 166.77,
-      "pct": 1.26
+      "value": 13433.7,
+      "change": -21.04,
+      "pct": -0.16
     },
     {
       "name": "创业板指",
-      "value": 3311.47,
-      "change": 63.55,
-      "pct": 1.96
+      "value": 3312.78,
+      "change": 1.31,
+      "pct": 0.04
     }
   ],
   "sectors": [
     {
-      "name": "运动服装",
-      "change": 7.34
+      "name": "种子",
+      "change": 6.42
     },
     {
-      "name": "炭黑",
-      "change": 6.75
+      "name": "视频媒体",
+      "change": 6.17
     },
     {
-      "name": "半导体材料",
-      "change": 6.14
+      "name": "房产租赁经纪",
+      "change": 4.97
     },
     {
-      "name": "林业Ⅲ",
-      "change": 5.97
+      "name": "其他养殖",
+      "change": 4.86
     },
     {
-      "name": "林业Ⅱ",
-      "change": 5.97
+      "name": "种植业",
+      "change": 4.27
     },
     {
-      "name": "光学元件",
-      "change": 5.37
+      "name": "汽车经销商",
+      "change": 3.77
     },
     {
-      "name": "激光设备",
-      "change": 5.15
+      "name": "印染",
+      "change": 3.21
     },
     {
-      "name": "跨境电商",
-      "change": 5.09
+      "name": "商用载客车",
+      "change": 3.19
     }
   ],
   "macro": [],

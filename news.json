@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-17T07:01:53+08:00",
+  "updated_at": "2026-09-17T13:06:41+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 为推动全球南方团结自强凝聚力量",
-      "summary": "「为推动全球南方团结自强凝聚力量」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 服务国家战略 造就栋梁之材",
+      "summary": "「服务国家战略 造就栋梁之材」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 大学毕业生举报资助人是间谍",
-      "summary": "「大学毕业生举报资助人是间谍」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 机顶盒将成为历史",
+      "summary": "「机顶盒将成为历史」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 中国十大消费县排行",
-      "summary": "「中国十大消费县排行」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 严禁AI魔改",
+      "summary": "「严禁AI魔改」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 平陆运河“全能管家”有多硬核",
-      "summary": "「平陆运河“全能管家”有多硬核」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 2000多年了 我们为什么执着于挖运河",
+      "summary": "「2000多年了 我们为什么执着于挖运河」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”",
-        "url": "https://www.ithome.com/1/003/347.htm",
-        "summary": "<p data-vmark=\"bf94\">IT之家 9 月 17 日消息，科技媒体 9to5Mac 昨日（9 月 16 日）发布博文，报道称通过挖掘 iOS 27.2 Beta 1 更新代码，发现苹果公司计划新增系统管理迁移流程，<stro",
+        "title": "英伟达展示 DSX MaxLPS 技术，AI 工厂每兆瓦 token 吞吐量最高提升 40%",
+        "url": "https://www.ithome.com/1/003/557.htm",
+        "summary": "<p data-vmark=\"7d9f\">IT之家 9 月 17 日消息，科技媒体 Wccftech 昨日（9 月 16 日）发布博文，报道称在 AI 基础设施峰会上，英伟达展示了面向 AI 工厂的 DSX MaxLPS 功耗调度系统，<s",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
-        "url": "https://www.ithome.com/1/003/345.htm",
-        "summary": "<p style=\"text-align: center;\" data-vmark=\"0000\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p data-vmark=\"0001\"> I",
+        "title": "别克至境 E7 焕新款定档 9 月 23 日上市，现款车型 14.99 万元起",
+        "url": "https://www.ithome.com/1/003/556.htm",
+        "summary": "<p data-vmark=\"8eb4\">IT之家 9 月 17 日消息，别克官方今日宣布别克至境 E7 焕新款将于 9 月 23 日正式上市。然而，截至目前官方尚未公布该车更多信息。</p><p style=\"text-align: ce",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布，初步支持原生 Mac 窗口控件渲染",
-        "url": "https://www.ithome.com/1/003/344.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta",
+        "title": "小米直播训练 MiMo-V2.6 模型，罗福莉称沉寂半年钻研一件事",
+        "url": "https://www.ithome.com/1/003/555.htm",
+        "summary": "<p data-vmark=\"01d0\">IT之家 9 月 17 日消息，小米 MiMo 大模型负责人罗福莉今日发文，自 4 月份开源 MiMo-v2.5 后，小米沉寂了近半年，花时间研究了一件事 —— <strong>强化学习究竟能扩展到",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
-        "url": "https://www.ithome.com/1/003/343.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 更新（内部版本号：26B5086k），本次更新距离上次发布 Beta / RC 间隔",
+        "title": "SteamOS 游戏生态扩容：Valve 完善兼容层，瞄准 Win11/Arm/ 安卓",
+        "url": "https://www.ithome.com/1/003/554.htm",
+        "summary": "<p data-vmark=\"962c\">IT之家 9 月 17 日消息，科技媒体 Ars Technica 今天（9 月 17 日）发布博文，报道称 Valve 为扩展其 VR 头显 Steam Frame 的应用兼容体验，在现有 Pro",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果发布 iOS 27.2 首个测试版：跳过 27.1 为 iPhone Duo 让路，为中国用户带来存储覆写擦除选项",
-        "url": "https://www.ithome.com/1/003/342.htm",
-        "summary": "<p data-vmark=\"0000\" style=\"text-align: center;\">【<a href=\"#profile-download\">点此直达升级教程</a>】</p><p data-vmark=\"0001\">IT之家",
+        "title": "任天堂 Switch 2 游戏《火焰纹章：万缕千丝》发售：IGN 打出 10 分满分，港区售价 499 港币",
+        "url": "https://www.ithome.com/1/003/553.htm",
+        "summary": "<p data-vmark=\"e64a\">IT之家 9 月 17 日消息，由 Intelligent Systems 开发、任天堂发行的回合制策略角色扮演游戏《火焰之纹章：万缕千丝》（日版写作《万紫千红》）今日正式发售，为 Switch 2",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争",
-        "url": "https://www.ithome.com/1/003/338.htm",
-        "summary": "<p data-vmark=\"b5d2\">IT之家 9 月 16 日消息，据彭博社今天（16 日）晚间报道，联合国秘书长安东尼奥 · 古特雷斯呼吁各国共同推进 AI 监管，并加强对技术的监督。“我们不能忽视已经出现的担忧，尤其不能忽视那些<",
+        "title": "猛士 X700 内饰首秀：9 月 28 日开启预售，搭载华为乾崑全栈智能",
+        "url": "https://www.ithome.com/1/003/551.htm",
+        "summary": "<p data-vmark=\"0979\">IT之家 9 月 17 日消息，猛士汽车猛士 X700 将于 9 月 28 日开启预售，官方今日公布了其内饰官图。新车已于 2026 成都车展亮相，是猛士品牌 X 系列的首款产品。</p><p da",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,22 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+        "url": "https://sspai.com/post/114451",
+        "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=&#34;https://sspai.com/post/114451&#34; target",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+        "url": "https://sspai.com/post/114658",
+        "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=&#34;https://sspai.com/post/114658&#34; target=&#34;_",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "探秘柬埔寨，千年吴哥窟",
         "url": "https://sspai.com/post/114454",
@@ -111,158 +127,131 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-        "url": "https://sspai.com/post/114613",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-        "url": "https://sspai.com/post/114565",
-        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=&#34;https://sspai.com/post/114565&#34; target=&#34;_b",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「快递小哥救摔倒老人被索赔 法院判了」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://www.toutiao.com/trending/7686034967914201098/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686034967914201098%22%2C%22hot_board_impr_id%22%3A%22202609171306382DD52F36691322AB42CF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%95%91%E6%91%94%E5%80%92%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7686034967914201098"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "为推动全球南方团结自强凝聚力量",
+      "title": "服务国家战略 造就栋梁之材",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E6%8E%A8%E5%8A%A8%E5%85%A8%E7%90%83%E5%8D%97%E6%96%B9%E5%9B%A2%E7%BB%93%E8%87%AA%E5%BC%BA%E5%87%9D%E8%81%9A%E5%8A%9B%E9%87%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%8D%E5%8A%A1%E5%9B%BD%E5%AE%B6%E6%88%98%E7%95%A5+%E9%80%A0%E5%B0%B1%E6%A0%8B%E6%A2%81%E4%B9%8B%E6%9D%90&sa=fyb_news"
     },
     {
-      "title": "大学毕业生举报资助人是间谍",
+      "title": "机顶盒将成为历史",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BE%E6%8A%A5%E8%B5%84%E5%8A%A9%E4%BA%BA%E6%98%AF%E9%97%B4%E8%B0%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%B0%86%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2&sa=fyb_news"
     },
     {
-      "title": "中国十大消费县排行",
+      "title": "严禁AI魔改",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E6%B6%88%E8%B4%B9%E5%8E%BF%E6%8E%92%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%A5%E7%A6%81AI%E9%AD%94%E6%94%B9&sa=fyb_news"
     },
     {
-      "title": "平陆运河“全能管家”有多硬核",
+      "title": "2000多年了 我们为什么执着于挖运河",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E2%80%9C%E5%85%A8%E8%83%BD%E7%AE%A1%E5%AE%B6%E2%80%9D%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2000%E5%A4%9A%E5%B9%B4%E4%BA%86+%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E6%8C%96%E8%BF%90%E6%B2%B3&sa=fyb_news"
     },
     {
-      "title": "多国运动员被困日本机场：又困又饿",
+      "title": "胖东来员工中秋福利：每人7箱",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E8%A2%AB%E5%9B%B0%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%EF%BC%9A%E5%8F%88%E5%9B%B0%E5%8F%88%E9%A5%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%AD%E7%A7%8B%E7%A6%8F%E5%88%A9%EF%BC%9A%E6%AF%8F%E4%BA%BA7%E7%AE%B1&sa=fyb_news"
     },
     {
-      "title": "大一新生1000块一个月到底够花吗",
+      "title": "英格兰一村庄宣布“独立”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F1000%E5%9D%97%E4%B8%80%E4%B8%AA%E6%9C%88%E5%88%B0%E5%BA%95%E5%A4%9F%E8%8A%B1%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%80%E6%9D%91%E5%BA%84%E5%AE%A3%E5%B8%83%E2%80%9C%E7%8B%AC%E7%AB%8B%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "南医大坠亡事件导师学生聊天记录",
+      "title": "众多央视主持人悼念送别敬一丹",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BC%97%E5%A4%9A%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%82%BC%E5%BF%B5%E9%80%81%E5%88%AB%E6%95%AC%E4%B8%80%E4%B8%B9&sa=fyb_news"
     },
     {
-      "title": "张一鸣成亚洲首富",
+      "title": "日本首相高市早苗改组内阁",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%90%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%B9%E7%BB%84%E5%86%85%E9%98%81&sa=fyb_news"
     },
     {
-      "title": "女演员心脏骤停康复5年后重新拍戏",
+      "title": "国羽被困机场 贾一凡带队自救",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E6%BC%94%E5%91%98%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%BA%B7%E5%A4%8D5%E5%B9%B4%E5%90%8E%E9%87%8D%E6%96%B0%E6%8B%8D%E6%88%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E7%BE%BD%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA+%E8%B4%BE%E4%B8%80%E5%87%A1%E5%B8%A6%E9%98%9F%E8%87%AA%E6%95%91&sa=fyb_news"
     },
     {
-      "title": "时隔3年多 美联储加息25个基点",
+      "title": "倪萍写信告别敬一丹",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%943%E5%B9%B4%E5%A4%9A+%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%E5%86%99%E4%BF%A1%E5%91%8A%E5%88%AB%E6%95%AC%E4%B8%80%E4%B8%B9&sa=fyb_news"
     },
     {
-      "title": "王曼昱回应首次登顶女单世界第一",
+      "title": "湖南卫视一口气推出89部大剧",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E9%A6%96%E6%AC%A1%E7%99%BB%E9%A1%B6%E5%A5%B3%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%A3%E6%B0%94%E6%8E%A8%E5%87%BA89%E9%83%A8%E5%A4%A7%E5%89%A7&sa=fyb_news"
     },
     {
-      "title": "官方辟谣国盛民安养老补贴惠民工程",
+      "title": "亚运会中国代表团自带食材水源不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%BD%E7%9B%9B%E6%B0%91%E5%AE%89%E5%85%BB%E8%80%81%E8%A1%A5%E8%B4%B4%E6%83%A0%E6%B0%91%E5%B7%A5%E7%A8%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%87%AA%E5%B8%A6%E9%A3%9F%E6%9D%90%E6%B0%B4%E6%BA%90%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "此次美联储议息会议为什么这么重要",
+      "title": "高市内阁全体阁僚提交辞呈",
       "platform": "百度热搜/头条",
-      "hot": "19619577",
-      "url": "https://www.toutiao.com/trending/7686088830515940874/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686088830515940874%22%2C%22hot_board_impr_id%22%3A%2220260917070151220B65E04E95BCC1B867%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A4%E6%AC%A1%E7%BE%8E%E8%81%94%E5%82%A8%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%22%7D&rank=&style_id=40132&topic_id=7686088830515940874"
+      "hot": "12301419",
+      "url": "https://www.toutiao.com/trending/7686330044544896550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686330044544896550%22%2C%22hot_board_impr_id%22%3A%22202609171306382DD52F36691322AB42CF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%B8%82%E5%86%85%E9%98%81%E5%85%A8%E4%BD%93%E9%98%81%E5%83%9A%E6%8F%90%E4%BA%A4%E8%BE%9E%E5%91%88%22%7D&rank=&style_id=40132&topic_id=7686330044544896550"
     },
     {
-      "title": "战火烧到波兰门口 乌还能撑多久",
+      "title": "各地多措并举护航粮食稳产增收",
       "platform": "百度热搜/头条",
-      "hot": "17752528",
-      "url": "https://www.toutiao.com/trending/7686137685596966450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686137685596966450%22%2C%22hot_board_impr_id%22%3A%2220260917070151220B65E04E95BCC1B867%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%98%E7%81%AB%E7%83%A7%E5%88%B0%E6%B3%A2%E5%85%B0%E9%97%A8%E5%8F%A3+%E4%B9%8C%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85%22%7D&rank=&style_id=40132&topic_id=7686137685596966450"
+      "hot": "11130784",
+      "url": "https://www.toutiao.com/article/7686298323673760297"
     },
     {
-      "title": "夏粮收购总量超1亿吨",
+      "title": "快递小哥救摔倒老人被索赔 法院判了",
       "platform": "百度热搜/头条",
-      "hot": "16063151",
-      "url": "https://www.toutiao.com/article/7686037458551390783"
+      "hot": "10071550",
+      "url": "https://www.toutiao.com/trending/7686034967914201098/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686034967914201098%22%2C%22hot_board_impr_id%22%3A%22202609171306382DD52F36691322AB42CF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%95%91%E6%91%94%E5%80%92%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7686034967914201098"
     }
   ],
   "suggested_topics": [
     {
-      "title": "为推动全球南方团结自强凝聚力量",
+      "title": "服务国家战略 造就栋梁之材",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "大学毕业生举报资助人是间谍",
+      "title": "机顶盒将成为历史",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国十大消费县排行",
+      "title": "严禁AI魔改",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "平陆运河“全能管家”有多硬核",
+      "title": "2000多年了 我们为什么执着于挖运河",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "多国运动员被困日本机场：又困又饿",
+      "title": "胖东来员工中秋福利：每人7箱",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
