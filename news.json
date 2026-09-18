@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-18T13:05:49+08:00",
+  "updated_at": "2026-09-18T21:37:06+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 为加快构建现代化产业体系铸牢骨干",
-      "summary": "「为加快构建现代化产业体系铸牢骨干」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 总书记为先进制造业指明方向",
+      "summary": "「总书记为先进制造业指明方向」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 宁德时代 至暗时刻",
-      "summary": "「宁德时代 至暗时刻」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 全球下单！小石头卖出600亿元",
+      "summary": "「全球下单！小石头卖出600亿元」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 十一 高铁票涨价",
-      "summary": "「十一 高铁票涨价」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 吃夜宵后多人测出吸毒阳性",
+      "summary": "「吃夜宵后多人测出吸毒阳性」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 吾辈自强 勿忘九一八",
-      "summary": "「吾辈自强 勿忘九一八」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 绘就丰收画卷 这四个地方给出答案",
+      "summary": "「绘就丰收画卷 这四个地方给出答案」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "网友偶遇华为余承东、奇瑞尹同跃“边走边聊”，智界 R7 焕新款将至",
-        "url": "https://www.ithome.com/1/004/064.htm",
-        "summary": "<p data-vmark=\"d6d9\">IT之家 9 月 18 日消息，有多位网友今日发帖，在华为坂田基地偶遇华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东，以及奇瑞董事长尹同跃，<strong>二人在看改款智界 R7</",
+        "title": "华为徐钦松内部讲话曝光：明确要做好鸿蒙智行品牌，问界并未“完全脱钩”、“四界”主导权整合",
+        "url": "https://www.ithome.com/1/004/328.htm",
+        "summary": "<p data-vmark=\"1b9b\">IT之家 9 月 18 日消息，据 21 汽车 · 一见 Auto 消息，知情人士透露，本周一，华为终端中国区总裁徐钦松在内部作了一次讲话，面向终端智选车全体员工，<strong>明确要做好鸿蒙智行",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Unicode 18.0 发布：收录 11328 个篆书，约占新增字符 87%",
-        "url": "https://www.ithome.com/1/004/063.htm",
-        "summary": "<p data-vmark=\"1ebf\">IT之家 9 月 18 日消息，科技媒体 Linuxiac 昨日（9 月 17 日）发布博文，报道称 Unicode 联盟宣布推出 Unicode 18.0，新增 13,007 个字符，字符总数升至",
+        "title": "千寻智能联合创始人高阳：人形机器人最快明年就能“听懂人话”，真正“帮人做事”仍需时日",
+        "url": "https://www.ithome.com/1/004/327.htm",
+        "summary": "<p data-vmark=\"e209\">IT之家 9 月 18 日消息，据路透社今天（18 日）晚间报道，清华大学机器人学助理教授、千寻智能联合创始人兼首席科学家高阳预计，最快从明年开始，人形机器人就能<strong>听懂口头指令并完成大",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "全国首个海洋 Token 工厂落地青岛：算力规模超 800P，AI 像用水用电一样即开即用",
-        "url": "https://www.ithome.com/1/004/062.htm",
-        "summary": "<p data-vmark=\"f31c\">IT之家 9 月 18 日消息，2026 海洋合作发展论坛“探索深海 —— 海洋未来产业的价值变革”平行论坛 9 月 17 日举行，全国首个面向海洋产业的智能要素供给平台 —— 海洋 Token 工",
+        "title": "闲鱼：坚决打击色情违规内容，今年已冻结风险账号 9.8 万个",
+        "url": "https://www.ithome.com/1/004/326.htm",
+        "summary": "<p data-vmark=\"0a7d\">IT之家 9 月 18 日消息，闲鱼今日发布关于持续严打色情引流的公告，称闲鱼持续致力于打造安全、健康、可信的社区交易环境。<strong>针对平台上利用色情内容进行引流、欺诈等行为</strong",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "智谱 GLM-5.3-FlashX 模型上线，更快、更流畅",
-        "url": "https://www.ithome.com/1/004/061.htm",
-        "summary": "<p data-vmark=\"092a\">IT之家 9 月 18 日消息，智谱今日宣布推出 <strong>GLM-5.3-FlashX（最高 200 tokens/s）</strong>，为企业与开发者带来更快、更流畅的模型体验。</p>",
+        "title": "与索尼 A7C 系列竞争，消息称尼康下周发布 Z5IIC 全画幅相机",
+        "url": "https://www.ithome.com/1/004/325.htm",
+        "summary": "<p data-vmark=\"9a6b\">IT之家 9 月 18 日消息，据 NikonRumors 消息，<strong>尼康将于下周发布 Z5IIC 相机</strong>。</p><p data-vmark=\"1718\">爆料的产品信",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "赛力斯副总裁康波：问界将择机进入轿车、MPV 及其他有竞争力的产品市场",
-        "url": "https://www.ithome.com/1/004/060.htm",
-        "summary": "<p data-vmark=\"c4a4\">IT之家 9 月 18 日消息，鸿蒙智行和问界汽车 9 月 15 日同日发布说明，宣布即日起问界在鸿蒙智行合作框架下探索新合作模式，<a href=\"https://www.ithome.com/1",
+        "title": "钙钛矿光伏 I-V 测试有了“统一标尺”，新国标填补空白",
+        "url": "https://www.ithome.com/1/004/324.htm",
+        "summary": "<p data-vmark=\"32db\">IT之家 9 月 18 日消息，近日，市场监管总局（国家标准委）发布首个钙钛矿光伏领域国家标准《光伏器件第 12 部分：钙钛矿光伏电池及组件的电流-电压（I-V）特性测量方法》（GB/T 6495.",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "微软解释为何点击 Win11 关机操作并不等同于彻底关机",
-        "url": "https://www.ithome.com/1/004/059.htm",
-        "summary": "<p data-vmark=\"a0b2\">IT之家 9 月 18 日消息，科技媒体 Windows Latest 今天（9 月 18 日）发布博文，通过挖掘微软官方支持文档，介绍了在启用默认快速启动（Fast Startup）后，<stro",
+        "title": "全面追赶 OpenAI，消息称 Anthropic 计划在今年年底前拥有约 5 吉瓦可用算力、明年年底翻倍",
+        "url": "https://www.ithome.com/1/004/322.htm",
+        "summary": "<p data-vmark=\"629b\">IT之家 9 月 18 日消息，在争夺顶尖模型性能的较量中，OpenAI 与 Anthropic 的竞争已进入白热化阶段。而这场较量的核心，正是训练与部署这些模型不可或缺的基础设施 —— 算力。</",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,22 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/114716",
+        "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...<a href=&#34;ht",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+        "url": "https://sspai.com/post/114555",
+        "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
         "url": "https://sspai.com/post/114670",
@@ -111,22 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
-        "url": "https://sspai.com/post/114643",
-        "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。<a href=&#34;https://sspai.com/post/114643&#34; target=&#34;_blank&#34;>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
-        "url": "https://sspai.com/post/114451",
-        "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=&#34;https://sspai.com/post/114451&#34; target",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,70 +154,70 @@
   },
   "hot_topics": [
     {
-      "title": "为加快构建现代化产业体系铸牢骨干",
+      "title": "总书记为先进制造业指明方向",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E4%BD%93%E7%B3%BB%E9%93%B8%E7%89%A2%E9%AA%A8%E5%B9%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news"
     },
     {
-      "title": "宁德时代 至暗时刻",
+      "title": "全球下单！小石头卖出600亿元",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3+%E8%87%B3%E6%9A%97%E6%97%B6%E5%88%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E4%B8%8B%E5%8D%95%EF%BC%81%E5%B0%8F%E7%9F%B3%E5%A4%B4%E5%8D%96%E5%87%BA600%E4%BA%BF%E5%85%83&sa=fyb_news"
     },
     {
-      "title": "十一 高铁票涨价",
+      "title": "吃夜宵后多人测出吸毒阳性",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%81%E4%B8%80+%E9%AB%98%E9%93%81%E7%A5%A8%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%83%E5%A4%9C%E5%AE%B5%E5%90%8E%E5%A4%9A%E4%BA%BA%E6%B5%8B%E5%87%BA%E5%90%B8%E6%AF%92%E9%98%B3%E6%80%A7&sa=fyb_news"
     },
     {
-      "title": "吾辈自强 勿忘九一八",
+      "title": "绘就丰收画卷 这四个地方给出答案",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA+%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BB%98%E5%B0%B1%E4%B8%B0%E6%94%B6%E7%94%BB%E5%8D%B7+%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%BB%99%E5%87%BA%E7%AD%94%E6%A1%88&sa=fyb_news"
     },
     {
-      "title": "上门女婿创业翻身改儿子姓氏起争议",
+      "title": "中国男篮不敌日本无缘决赛",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E9%97%A8%E5%A5%B3%E5%A9%BF%E5%88%9B%E4%B8%9A%E7%BF%BB%E8%BA%AB%E6%94%B9%E5%84%BF%E5%AD%90%E5%A7%93%E6%B0%8F%E8%B5%B7%E4%BA%89%E8%AE%AE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "title": "小时候最害怕的事情还是发生了",
+      "title": "巴菲特：时间老人已对我十分慷慨",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E6%97%B6%E5%80%99%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%BA%8B%E6%83%85%E8%BF%98%E6%98%AF%E5%8F%91%E7%94%9F%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E8%8F%B2%E7%89%B9%EF%BC%9A%E6%97%B6%E9%97%B4%E8%80%81%E4%BA%BA%E5%B7%B2%E5%AF%B9%E6%88%91%E5%8D%81%E5%88%86%E6%85%B7%E6%85%A8&sa=fyb_news"
     },
     {
-      "title": "马来西亚女子昆明街头认出外公照片",
+      "title": "男子买下1层4户把公共走廊圈进家",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A5%B3%E5%AD%90%E6%98%86%E6%98%8E%E8%A1%97%E5%A4%B4%E8%AE%A4%E5%87%BA%E5%A4%96%E5%85%AC%E7%85%A7%E7%89%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E4%B9%B0%E4%B8%8B1%E5%B1%824%E6%88%B7%E6%8A%8A%E5%85%AC%E5%85%B1%E8%B5%B0%E5%BB%8A%E5%9C%88%E8%BF%9B%E5%AE%B6&sa=fyb_news"
     },
     {
-      "title": "生娃失明失聪女子原本是英语老师",
+      "title": "记录母亲临终前14天男子：医院没误诊",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%9F%E5%A8%83%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%E5%8E%9F%E6%9C%AC%E6%98%AF%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%AE%B0%E5%BD%95%E6%AF%8D%E4%BA%B2%E4%B8%B4%E7%BB%88%E5%89%8D14%E5%A4%A9%E7%94%B7%E5%AD%90%EF%BC%9A%E5%8C%BB%E9%99%A2%E6%B2%A1%E8%AF%AF%E8%AF%8A&sa=fyb_news"
     },
     {
-      "title": "妈妈嘱咐双胞胎一个别惹事一个别怂",
+      "title": "明年薯条要变小",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E5%98%B1%E5%92%90%E5%8F%8C%E8%83%9E%E8%83%8E%E4%B8%80%E4%B8%AA%E5%88%AB%E6%83%B9%E4%BA%8B%E4%B8%80%E4%B8%AA%E5%88%AB%E6%80%82&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%98%8E%E5%B9%B4%E8%96%AF%E6%9D%A1%E8%A6%81%E5%8F%98%E5%B0%8F&sa=fyb_news"
     },
     {
-      "title": "男子称儿女都非亲生 妻子转移1400万",
+      "title": "胡歌回应将参加《人间有味》",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%84%BF%E5%A5%B3%E9%83%BD%E9%9D%9E%E4%BA%B2%E7%94%9F+%E5%A6%BB%E5%AD%90%E8%BD%AC%E7%A7%BB1400%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E5%B0%86%E5%8F%82%E5%8A%A0%E3%80%8A%E4%BA%BA%E9%97%B4%E6%9C%89%E5%91%B3%E3%80%8B&sa=fyb_news"
     },
     {
-      "title": "九一八事变爆发95周年",
+      "title": "《被裁掉的女孩》走红背后",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news"
     },
     {
       "title": "抹黑英雄必受严惩 歪曲历史绝不容忍",
@@ -226,43 +226,43 @@
       "url": "https://m.baidu.com/s?word=%E6%8A%B9%E9%BB%91%E8%8B%B1%E9%9B%84%E5%BF%85%E5%8F%97%E4%B8%A5%E6%83%A9+%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D&sa=fyb_news"
     },
     {
-      "title": "黄牛称iPhone 18 Pro没人要",
+      "title": "住建部：4楼及以上住宅都要加装电梯",
       "platform": "百度热搜/头条",
-      "hot": "7658511",
-      "url": "https://www.toutiao.com/trending/7685652234345398308/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685652234345398308%22%2C%22hot_board_impr_id%22%3A%2220260918130547F632CD40C71826A09044%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E7%89%9B%E7%A7%B0iPhone+18+Pro%E6%B2%A1%E4%BA%BA%E8%A6%81%22%7D&rank=&style_id=40132&topic_id=7685652234345398308"
+      "hot": "25247428",
+      "url": "https://www.toutiao.com/trending/7685740175528394815/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685740175528394815%22%2C%22hot_board_impr_id%22%3A%2220260918213703845FA950BAB77FEA1B02%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A4%E6%A5%BC%E5%8F%8A%E4%BB%A5%E4%B8%8A%E4%BD%8F%E5%AE%85%E9%83%BD%E8%A6%81%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%22%7D&rank=&style_id=40132&topic_id=7685740175528394815"
     },
     {
-      "title": "马来西亚女子昆明认出外公照片",
+      "title": "菲船加速冲撞中国海警船",
       "platform": "百度热搜/头条",
-      "hot": "6929707",
-      "url": "https://www.toutiao.com/trending/7686433319790755886/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686433319790755886%22%2C%22hot_board_impr_id%22%3A%2220260918130547F632CD40C71826A09044%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A5%B3%E5%AD%90%E6%98%86%E6%98%8E%E8%AE%A4%E5%87%BA%E5%A4%96%E5%85%AC%E7%85%A7%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7686433319790755886"
+      "hot": "22844817",
+      "url": "https://www.toutiao.com/trending/7686263443418660905/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686263443418660905%22%2C%22hot_board_impr_id%22%3A%2220260918213703845FA950BAB77FEA1B02%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8F%B2%E8%88%B9%E5%8A%A0%E9%80%9F%E5%86%B2%E6%92%9E%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%22%7D&rank=&style_id=40132&topic_id=7686263443418660905"
     },
     {
-      "title": "中国先进制造接连“上新”",
+      "title": "平陆运河释放多重红利",
       "platform": "百度热搜/头条",
-      "hot": "6270258",
-      "url": "https://www.toutiao.com/article/7686610835522814527"
+      "hot": "20670845",
+      "url": "https://www.toutiao.com/article/7686112510558175786"
     }
   ],
   "suggested_topics": [
     {
-      "title": "为加快构建现代化产业体系铸牢骨干",
+      "title": "总书记为先进制造业指明方向",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "宁德时代 至暗时刻",
+      "title": "全球下单！小石头卖出600亿元",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "十一 高铁票涨价",
+      "title": "吃夜宵后多人测出吸毒阳性",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "吾辈自强 勿忘九一八",
+      "title": "绘就丰收画卷 这四个地方给出答案",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "上门女婿创业翻身改儿子姓氏起争议",
+      "title": "中国男篮不敌日本无缘决赛",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]

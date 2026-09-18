@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-18T13:05:49+08:00",
+  "updated_at": "2026-09-18T21:37:06+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3913.45,
-      "change": 37.85,
-      "pct": 0.98
+      "value": 3911.87,
+      "change": 36.27,
+      "pct": 0.94
     },
     {
       "name": "深证成指",
-      "value": 13642.48,
-      "change": 232.57,
-      "pct": 1.73
+      "value": 13640.87,
+      "change": 230.96,
+      "pct": 1.72
     },
     {
       "name": "创业板指",
-      "value": 3378.88,
-      "change": 80.57,
-      "pct": 2.44
+      "value": 3372.68,
+      "change": 74.37,
+      "pct": 2.25
     }
   ],
   "sectors": [
     {
       "name": "其他医疗服务",
-      "change": 6.82
+      "change": 6.72
     },
     {
-      "name": "集成电路制造",
-      "change": 5.75
-    },
-    {
-      "name": "分立器件",
-      "change": 5.36
+      "name": "房产租赁经纪",
+      "change": 4.86
     },
     {
       "name": "半导体设备",
-      "change": 5.2
-    },
-    {
-      "name": "诊断服务",
-      "change": 5.01
+      "change": 4.83
     },
     {
       "name": "数字芯片设计",
-      "change": 4.94
+      "change": 4.68
+    },
+    {
+      "name": "集成电路制造",
+      "change": 4.59
+    },
+    {
+      "name": "光伏加工设备",
+      "change": 4.52
+    },
+    {
+      "name": "分立器件",
+      "change": 4.46
     },
     {
       "name": "集成电路封测",
-      "change": 4.89
-    },
-    {
-      "name": "模拟芯片设计",
-      "change": 4.83
+      "change": 4.43
     }
   ],
   "macro": [],
