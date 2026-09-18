@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:37:06+08:00",
+  "updated_at": "2026-09-19T07:01:58+08:00",
   "science": [
     {
       "title": "今日热点速览 · 总书记为先进制造业指明方向",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 全球下单！小石头卖出600亿元",
-      "summary": "「全球下单！小石头卖出600亿元」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 养生的风终于吹到了月饼行业",
+      "summary": "「养生的风终于吹到了月饼行业」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 吃夜宵后多人测出吸毒阳性",
-      "summary": "「吃夜宵后多人测出吸毒阳性」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 运动员展示亚运房间：全是纸板做的",
+      "summary": "「运动员展示亚运房间：全是纸板做的」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "华为徐钦松内部讲话曝光：明确要做好鸿蒙智行品牌，问界并未“完全脱钩”、“四界”主导权整合",
-        "url": "https://www.ithome.com/1/004/328.htm",
-        "summary": "<p data-vmark=\"1b9b\">IT之家 9 月 18 日消息，据 21 汽车 · 一见 Auto 消息，知情人士透露，本周一，华为终端中国区总裁徐钦松在内部作了一次讲话，面向终端智选车全体员工，<strong>明确要做好鸿蒙智行",
+        "title": "微软发布 Win11 Beta 和 Experimental 多预览版更新：新增鼠标指示器动画，修复多种 Bug",
+        "url": "https://www.ithome.com/1/004/344.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 9 月 19 日消息，微软于当地时间 9 月 18 日面向 Beta 和 Experimental 频道的 Windows Insider 项目成员推送了适用于 Windows 11 的多",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "千寻智能联合创始人高阳：人形机器人最快明年就能“听懂人话”，真正“帮人做事”仍需时日",
-        "url": "https://www.ithome.com/1/004/327.htm",
-        "summary": "<p data-vmark=\"e209\">IT之家 9 月 18 日消息，据路透社今天（18 日）晚间报道，清华大学机器人学助理教授、千寻智能联合创始人兼首席科学家高阳预计，最快从明年开始，人形机器人就能<strong>听懂口头指令并完成大",
+        "title": "全球唯一例外：美版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器",
+        "url": "https://www.ithome.com/1/004/353.htm",
+        "summary": "<p data-vmark=\"bdc4\">IT之家 9 月 19 日消息，根据市场调查机构 TechInsights 公布的最新拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器，<strong>成为",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "闲鱼：坚决打击色情违规内容，今年已冻结风险账号 9.8 万个",
-        "url": "https://www.ithome.com/1/004/326.htm",
-        "summary": "<p data-vmark=\"0a7d\">IT之家 9 月 18 日消息，闲鱼今日发布关于持续严打色情引流的公告，称闲鱼持续致力于打造安全、健康、可信的社区交易环境。<strong>针对平台上利用色情内容进行引流、欺诈等行为</strong",
+        "title": "Take-Two 因《NBA 2K》系列游戏遭诉讼，法庭证词暗示公司并未计划开发跨代作品虚拟货币转移功能",
+        "url": "https://www.ithome.com/1/004/352.htm",
+        "summary": "<p data-vmark=\"f304\">IT之家 9 月 19 日消息，据外媒 Insider-Gaming 报道，一位未成年人“JA”及其母亲于 2023 年向 Take-Two 发起诉讼，主要涉及“未成年人游玩游戏及参与游戏内 VC（",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "与索尼 A7C 系列竞争，消息称尼康下周发布 Z5IIC 全画幅相机",
-        "url": "https://www.ithome.com/1/004/325.htm",
-        "summary": "<p data-vmark=\"9a6b\">IT之家 9 月 18 日消息，据 NikonRumors 消息，<strong>尼康将于下周发布 Z5IIC 相机</strong>。</p><p data-vmark=\"1718\">爆料的产品信",
+        "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+        "url": "https://www.ithome.com/1/004/351.htm",
+        "summary": "<p data-vmark=\"7c87\">IT之家 9 月 19 日消息，Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，<str",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "钙钛矿光伏 I-V 测试有了“统一标尺”，新国标填补空白",
-        "url": "https://www.ithome.com/1/004/324.htm",
-        "summary": "<p data-vmark=\"32db\">IT之家 9 月 18 日消息，近日，市场监管总局（国家标准委）发布首个钙钛矿光伏领域国家标准《光伏器件第 12 部分：钙钛矿光伏电池及组件的电流-电压（I-V）特性测量方法》（GB/T 6495.",
+        "title": "中老跨境数字支付互联互通正式启动，数字人民币可在老挝扫码支付",
+        "url": "https://www.ithome.com/1/004/350.htm",
+        "summary": "<p data-vmark=\"c77f\">IT之家 9 月 19 日消息，2026 年 9 月 18 日，中国人民银行与老挝人民民主共和国银行在广西南宁联合举办中老跨境数字支付互联互通启动会。</p><p data-vmark=\"c4b5\"",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "全面追赶 OpenAI，消息称 Anthropic 计划在今年年底前拥有约 5 吉瓦可用算力、明年年底翻倍",
-        "url": "https://www.ithome.com/1/004/322.htm",
-        "summary": "<p data-vmark=\"629b\">IT之家 9 月 18 日消息，在争夺顶尖模型性能的较量中，OpenAI 与 Anthropic 的竞争已进入白热化阶段。而这场较量的核心，正是训练与部署这些模型不可或缺的基础设施 —— 算力。</",
+        "title": "苹果介绍旗下首款折叠屏手机 iPhone Duo 设计理念：灵感源自纸质笔记本尺寸、铰链阻尼拥有“可变扭矩曲线”",
+        "url": "https://www.ithome.com/1/004/349.htm",
+        "summary": "<p data-vmark=\"764c\">IT之家 9 月 19 日消息，苹果设计团队在接受外媒《GQ》采访时，详细介绍了折叠屏手机 iPhone Duo 的设计理念、软件交互以及未来发展方向。本次参与采访者包括苹果 CEO John Te",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news"
     },
     {
-      "title": "全球下单！小石头卖出600亿元",
+      "title": "养生的风终于吹到了月饼行业",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E4%B8%8B%E5%8D%95%EF%BC%81%E5%B0%8F%E7%9F%B3%E5%A4%B4%E5%8D%96%E5%87%BA600%E4%BA%BF%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%BB%E7%94%9F%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%9C%88%E9%A5%BC%E8%A1%8C%E4%B8%9A&sa=fyb_news"
     },
     {
-      "title": "吃夜宵后多人测出吸毒阳性",
+      "title": "运动员展示亚运房间：全是纸板做的",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%90%83%E5%A4%9C%E5%AE%B5%E5%90%8E%E5%A4%9A%E4%BA%BA%E6%B5%8B%E5%87%BA%E5%90%B8%E6%AF%92%E9%98%B3%E6%80%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%90%E5%8A%A8%E5%91%98%E5%B1%95%E7%A4%BA%E4%BA%9A%E8%BF%90%E6%88%BF%E9%97%B4%EF%BC%9A%E5%85%A8%E6%98%AF%E7%BA%B8%E6%9D%BF%E5%81%9A%E7%9A%84&sa=fyb_news"
     },
     {
       "title": "绘就丰收画卷 这四个地方给出答案",
@@ -184,63 +184,63 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "title": "巴菲特：时间老人已对我十分慷慨",
+      "title": "陕西秦王级大墓或为秦始皇嫡祖母",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E8%8F%B2%E7%89%B9%EF%BC%9A%E6%97%B6%E9%97%B4%E8%80%81%E4%BA%BA%E5%B7%B2%E5%AF%B9%E6%88%91%E5%8D%81%E5%88%86%E6%85%B7%E6%85%A8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E7%A7%A6%E7%8E%8B%E7%BA%A7%E5%A4%A7%E5%A2%93%E6%88%96%E4%B8%BA%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%AB%A1%E7%A5%96%E6%AF%8D&sa=fyb_news"
     },
     {
-      "title": "男子买下1层4户把公共走廊圈进家",
+      "title": "美驻日使馆9月18日发帖 日本网民破防",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E4%B9%B0%E4%B8%8B1%E5%B1%824%E6%88%B7%E6%8A%8A%E5%85%AC%E5%85%B1%E8%B5%B0%E5%BB%8A%E5%9C%88%E8%BF%9B%E5%AE%B6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news"
     },
     {
-      "title": "记录母亲临终前14天男子：医院没误诊",
+      "title": "高中生自制综艺走红 邓超李晨也参与",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%AE%B0%E5%BD%95%E6%AF%8D%E4%BA%B2%E4%B8%B4%E7%BB%88%E5%89%8D14%E5%A4%A9%E7%94%B7%E5%AD%90%EF%BC%9A%E5%8C%BB%E9%99%A2%E6%B2%A1%E8%AF%AF%E8%AF%8A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%B5%B0%E7%BA%A2+%E9%82%93%E8%B6%85%E6%9D%8E%E6%99%A8%E4%B9%9F%E5%8F%82%E4%B8%8E&sa=fyb_news"
     },
     {
-      "title": "明年薯条要变小",
+      "title": "高校考试开考9分钟试卷就被外传",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%98%8E%E5%B9%B4%E8%96%AF%E6%9D%A1%E8%A6%81%E5%8F%98%E5%B0%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0&sa=fyb_news"
     },
     {
-      "title": "胡歌回应将参加《人间有味》",
+      "title": "超慢跑是一种更加友好的运动方式",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E5%9B%9E%E5%BA%94%E5%B0%86%E5%8F%82%E5%8A%A0%E3%80%8A%E4%BA%BA%E9%97%B4%E6%9C%89%E5%91%B3%E3%80%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B6%85%E6%85%A2%E8%B7%91%E6%98%AF%E4%B8%80%E7%A7%8D%E6%9B%B4%E5%8A%A0%E5%8F%8B%E5%A5%BD%E7%9A%84%E8%BF%90%E5%8A%A8%E6%96%B9%E5%BC%8F&sa=fyb_news"
     },
     {
-      "title": "《被裁掉的女孩》走红背后",
+      "title": "于东来正被自己的人设绑架",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8B%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E8%AE%BE%E7%BB%91%E6%9E%B6&sa=fyb_news"
     },
     {
-      "title": "抹黑英雄必受严惩 歪曲历史绝不容忍",
+      "title": "绵阳一养猪场单日死亡500头猪不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8A%B9%E9%BB%91%E8%8B%B1%E9%9B%84%E5%BF%85%E5%8F%97%E4%B8%A5%E6%83%A9+%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BB%B5%E9%98%B3%E4%B8%80%E5%85%BB%E7%8C%AA%E5%9C%BA%E5%8D%95%E6%97%A5%E6%AD%BB%E4%BA%A1500%E5%A4%B4%E7%8C%AA%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+    },
+    {
+      "title": "博主：战争正在逼近日本",
+      "platform": "百度热搜/头条",
+      "hot": "39962110",
+      "url": "https://www.toutiao.com/trending/7686886503816891958/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686886503816891958%22%2C%22hot_board_impr_id%22%3A%22202609190701560B416B123AA4F874DB53%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%9A%E4%B8%BB%EF%BC%9A%E6%88%98%E4%BA%89%E6%AD%A3%E5%9C%A8%E9%80%BC%E8%BF%91%E6%97%A5%E6%9C%AC%22%7D&rank=&style_id=40132&topic_id=7686886503816891958"
     },
     {
       "title": "住建部：4楼及以上住宅都要加装电梯",
       "platform": "百度热搜/头条",
-      "hot": "25247428",
-      "url": "https://www.toutiao.com/trending/7685740175528394815/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685740175528394815%22%2C%22hot_board_impr_id%22%3A%2220260918213703845FA950BAB77FEA1B02%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A4%E6%A5%BC%E5%8F%8A%E4%BB%A5%E4%B8%8A%E4%BD%8F%E5%AE%85%E9%83%BD%E8%A6%81%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%22%7D&rank=&style_id=40132&topic_id=7685740175528394815"
-    },
-    {
-      "title": "菲船加速冲撞中国海警船",
-      "platform": "百度热搜/头条",
-      "hot": "22844817",
-      "url": "https://www.toutiao.com/trending/7686263443418660905/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686263443418660905%22%2C%22hot_board_impr_id%22%3A%2220260918213703845FA950BAB77FEA1B02%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8F%B2%E8%88%B9%E5%8A%A0%E9%80%9F%E5%86%B2%E6%92%9E%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%22%7D&rank=&style_id=40132&topic_id=7686263443418660905"
+      "hot": "36159213",
+      "url": "https://www.toutiao.com/trending/7685740175528394815/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685740175528394815%22%2C%22hot_board_impr_id%22%3A%22202609190701560B416B123AA4F874DB53%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A4%E6%A5%BC%E5%8F%8A%E4%BB%A5%E4%B8%8A%E4%BD%8F%E5%AE%85%E9%83%BD%E8%A6%81%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%22%7D&rank=&style_id=40132&topic_id=7685740175528394815"
     },
     {
       "title": "平陆运河释放多重红利",
       "platform": "百度热搜/头条",
-      "hot": "20670845",
+      "hot": "32718209",
       "url": "https://www.toutiao.com/article/7686112510558175786"
     }
   ],
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "全球下单！小石头卖出600亿元",
+      "title": "养生的风终于吹到了月饼行业",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "吃夜宵后多人测出吸毒阳性",
+      "title": "运动员展示亚运房间：全是纸板做的",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
