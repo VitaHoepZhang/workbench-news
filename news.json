@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:35:37+08:00",
+  "updated_at": "2026-09-20T07:01:41+08:00",
   "science": [
     {
       "title": "今日热点速览 · 持续做大做强先进制造业",
@@ -14,8 +14,8 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 许嵩官宣结婚",
-      "summary": "「许嵩官宣结婚」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 传统豪车集体降价续命",
+      "summary": "「传统豪车集体降价续命」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "“工作垃圾”飞来飞去，曾大力拥抱 AI 的科技大佬开始“踩刹车”了",
-        "url": "https://www.ithome.com/1/004/560.htm",
-        "summary": "<p data-vmark=\"9cfb\">IT之家 9 月 19 日消息，当地时间 17 日，据《财富》杂志网站报道，曾经把 AI 吹捧为释放员工全部潜力关键的科技行业领导者，正开始逐渐改变说法。</p><p data-vmark=\"c97",
+        "title": "Monet Launcher 启动器发布，专门面向 Android TV 智能电视大屏环境优化",
+        "url": "https://www.ithome.com/1/004/577.htm",
+        "summary": "<p data-vmark=\"9ac9\">IT之家 9 月 20 日消息，据外媒 XDA 报道，近期一款名为 Monet Launcher 的安卓启动器上架 Google Play 商店，该启动器专门针对 Android TV 智能电视进行",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "649 美元的“第二设备”，Clicks Communicator 全键盘手机 12 月发货",
-        "url": "https://www.ithome.com/1/004/559.htm",
-        "summary": "<p data-vmark=\"78d1\">IT之家 9 月 19 日消息，Clicks 首款智能手机 Clicks Communicator 定于 12 月开始发货，时间点距离在 CES 2026 首次亮相接近一年。</p><p data-",
+        "title": "苹果 M6 芯片 GPU 跑分曝光，相比 M5 提升约 20%",
+        "url": "https://www.ithome.com/1/004/576.htm",
+        "summary": "<p data-vmark=\"ab1f\">IT之家 9 月 20 日消息，苹果 M6 芯片近日出现在 Geekbench 跑分数据库中，其 12 核 GPU 分别录得 4071 分、22783 分的单核 / 多核成绩，已经能够在多核方面追平",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "璇玑动力中型智能四足机器人全球首发：最大陡坡攀爬 45°，支持自动充电",
-        "url": "https://www.ithome.com/1/004/558.htm",
-        "summary": "<p data-vmark=\"44ee\">IT之家 9 月 19 日消息，璇玑动力中型智能四足机器人及智能技术全球首发，正式推出 Hypertron-SW01 泛行业中型智能四足机器人。</p><p data-vmark=\"2495\" st",
+        "title": "R 星《GTA6: The Album》官方原声专辑上线，官方同步放出多张全新艺术插画",
+        "url": "https://www.ithome.com/1/004/575.htm",
+        "summary": "<p data-vmark=\"86f8\">IT之家 9 月 20 日消息，R 星近日正式公布《GTA6: The Album》官方原声专辑，宣传物料同步放出露西娅与杰森多张全新艺术插画。</p><p style=\"text-align: c",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称新能源车险定价区间对标燃油车，保费将走向“一车一价”",
-        "url": "https://www.ithome.com/1/004/557.htm",
-        "summary": "<p data-vmark=\"b48f\">IT之家 9 月 19 日消息，据中新经纬从业内了解到，<strong>新能源商业车险自主定价系数区间预计调整为 0.5-1.5，与燃油车保持一致</strong>。</p><p data-vmar",
+        "title": "HBO Max 官方 Reddit 账号遭黑客入侵，针对苹果 Mac 用户发起 ClickFix 钓鱼攻击",
+        "url": "https://www.ithome.com/1/004/574.htm",
+        "summary": "<p data-vmark=\"920c\">IT之家 9 月 20 日消息，据外媒 borncity 报道，近期有黑客攻击者入侵了 HBO Max 官方 Reddit 账号，并利用该账号针对 Mac 用户开展一场持续约 48 小时的 Clic",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "中国空间站稳定运行五年，我国航天健康保障体系总体达到国际先进水平",
-        "url": "https://www.ithome.com/1/004/556.htm",
-        "summary": "<p data-vmark=\"1f0d\">IT之家 9 月 19 日消息，今天（19 日）晚间的央视《新闻联播》报道，中国空间站稳定运行五年来，我国航天健康保障体系总体达到国际先进水平，空间站长期驻留保障能力持续提升。</p><p styl",
+        "title": "消息称索尼延续谨慎供货策略，PS5 Pro 直到明年年初都将供不应求",
+        "url": "https://www.ithome.com/1/004/572.htm",
+        "summary": "<p data-vmark=\"e061\">IT之家 9 月 19 日消息，当地时间 9 月 16 日，外媒 PlayFront 援引索尼发给经销合作伙伴的内部消息称，PS5 Pro 供不应求的局面<strong>将持续到 2027 年初</",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "达尔优 A5 头戴式游戏耳机发布：CS / 三角洲行动 / 竞技模式一键切换，预售 369 元起",
-        "url": "https://www.ithome.com/1/004/555.htm",
-        "summary": "<p data-vmark=\"a48e\">IT之家 9 月 19 日消息，达尔优 A5 头戴式游戏耳机今日发布，9 月 21 日 20:00 全平台开售，Pro 版预售 369 元，Max 版 459 元。</p><p style=\"tex",
+        "title": "迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局",
+        "url": "https://www.ithome.com/1/004/570.htm",
+        "summary": "<p data-vmark=\"3292\" style=\"text-align: left;\">IT之家 9 月 19 日消息，据美国 CNBC 报道，当地时间 18 日，迪士尼宣布，原 <span class=\"link-text-star",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,22 +133,11 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「男子花千元找回被母亲当废纸卖的合同」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%8D%83%E5%85%83%E6%89%BE%E5%9B%9E%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%BD%93%E5%BA%9F%E7%BA%B8%E5%8D%96%E7%9A%84%E5%90%88%E5%90%8C&sa=fyb_news"
       }
     ]
   },
@@ -166,10 +155,10 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
     },
     {
-      "title": "许嵩官宣结婚",
+      "title": "传统豪车集体降价续命",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%B5%A9%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BC%A0%E7%BB%9F%E8%B1%AA%E8%BD%A6%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD&sa=fyb_news"
     },
     {
       "title": "体育赛事融合多领域发展",
@@ -178,46 +167,46 @@
       "url": "https://m.baidu.com/s?word=%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B%E8%9E%8D%E5%90%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95&sa=fyb_news"
     },
     {
-      "title": "邻居：知道梅姨真实身份感觉错过100万",
+      "title": "北大复旦校长接连发出警告",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%82%BB%E5%B1%85%EF%BC%9A%E7%9F%A5%E9%81%93%E6%A2%85%E5%A7%A8%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD%E6%84%9F%E8%A7%89%E9%94%99%E8%BF%87100%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E5%A4%8D%E6%97%A6%E6%A0%A1%E9%95%BF%E6%8E%A5%E8%BF%9E%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A&sa=fyb_news"
     },
     {
-      "title": "新高一学生 不愿意住校",
+      "title": "亚运会4000人住邮轮 21日台风来袭",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%96%B0%E9%AB%98%E4%B8%80%E5%AD%A6%E7%94%9F+%E4%B8%8D%E6%84%BF%E6%84%8F%E4%BD%8F%E6%A0%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD&sa=fyb_news"
     },
     {
-      "title": "网传《三十五而已》刚开机就黄了",
+      "title": "深圳一高中女老师上课讲话爆火",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E3%80%8A%E4%B8%89%E5%8D%81%E4%BA%94%E8%80%8C%E5%B7%B2%E3%80%8B%E5%88%9A%E5%BC%80%E6%9C%BA%E5%B0%B1%E9%BB%84%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%B8%80%E9%AB%98%E4%B8%AD%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E8%AE%B2%E8%AF%9D%E7%88%86%E7%81%AB&sa=fyb_news"
     },
     {
-      "title": "“不得报销烟酒、扑克牌”",
+      "title": "啄木鸟被曝换开关收2800后态度反转",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%8D%E5%BE%97%E6%8A%A5%E9%94%80%E7%83%9F%E9%85%92%E3%80%81%E6%89%91%E5%85%8B%E7%89%8C%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%95%84%E6%9C%A8%E9%B8%9F%E8%A2%AB%E6%9B%9D%E6%8D%A2%E5%BC%80%E5%85%B3%E6%94%B62800%E5%90%8E%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC&sa=fyb_news"
     },
     {
-      "title": "《爱情公寓》主演合体",
+      "title": "乡间稻田竟驶出一艘“巨轮”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E4%B8%BB%E6%BC%94%E5%90%88%E4%BD%93&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A1%E9%97%B4%E7%A8%BB%E7%94%B0%E7%AB%9F%E9%A9%B6%E5%87%BA%E4%B8%80%E8%89%98%E2%80%9C%E5%B7%A8%E8%BD%AE%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "19岁初中文化小伙操盘30亿围标案",
+      "title": "亚运首个金牌日",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=19%E5%B2%81%E5%88%9D%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E4%BC%99%E6%93%8D%E7%9B%9830%E4%BA%BF%E5%9B%B4%E6%A0%87%E6%A1%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E9%A6%96%E4%B8%AA%E9%87%91%E7%89%8C%E6%97%A5&sa=fyb_news"
     },
     {
-      "title": "申聪回家后2年长高10公分",
+      "title": "男子花千元找回被母亲当废纸卖的合同",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B3%E8%81%AA%E5%9B%9E%E5%AE%B6%E5%90%8E2%E5%B9%B4%E9%95%BF%E9%AB%9810%E5%85%AC%E5%88%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%8D%83%E5%85%83%E6%89%BE%E5%9B%9E%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%BD%93%E5%BA%9F%E7%BA%B8%E5%8D%96%E7%9A%84%E5%90%88%E5%90%8C&sa=fyb_news"
     },
     {
       "title": "彭州山区蛇患严重致人死亡系谣言",
@@ -226,22 +215,22 @@
       "url": "https://m.baidu.com/s?word=%E5%BD%AD%E5%B7%9E%E5%B1%B1%E5%8C%BA%E8%9B%87%E6%82%A3%E4%B8%A5%E9%87%8D%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "莎拉做好接任总统准备？菲总统府回应",
+      "title": "多家银行上调存款利率",
       "platform": "百度热搜/头条",
-      "hot": "15787697",
-      "url": "https://www.toutiao.com/trending/7687185276362522687/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687185276362522687%22%2C%22hot_board_impr_id%22%3A%2220260919213534B0D9E790DEC0C529F47D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%8E%E6%8B%89%E5%81%9A%E5%A5%BD%E6%8E%A5%E4%BB%BB%E6%80%BB%E7%BB%9F%E5%87%86%E5%A4%87%EF%BC%9F%E8%8F%B2%E6%80%BB%E7%BB%9F%E5%BA%9C%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7687185276362522687"
+      "hot": "18906376",
+      "url": "https://www.toutiao.com/trending/7686771402967368219/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686771402967368219%22%2C%22hot_board_impr_id%22%3A%22202609200701384CC16EE2FA12984C419E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%22%7D&rank=&style_id=40132&topic_id=7686771402967368219"
     },
     {
       "title": "各地开展不同形式国防教育活动",
       "platform": "百度热搜/头条",
-      "hot": "14285299",
-      "url": "https://www.toutiao.com/trending/7687041377834975241/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687041377834975241%22%2C%22hot_board_impr_id%22%3A%2220260919213534B0D9E790DEC0C529F47D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%84%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B8%8D%E5%90%8C%E5%BD%A2%E5%BC%8F%E5%9B%BD%E9%98%B2%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7687041377834975241"
+      "hot": "17107196",
+      "url": "https://www.toutiao.com/trending/7687041377834975241/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687041377834975241%22%2C%22hot_board_impr_id%22%3A%22202609200701384CC16EE2FA12984C419E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%84%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B8%8D%E5%90%8C%E5%BD%A2%E5%BC%8F%E5%9B%BD%E9%98%B2%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7687041377834975241"
     },
     {
-      "title": "多家银行上调存款利率",
+      "title": "莎拉做好接任总统准备？菲总统府回应",
       "platform": "百度热搜/头条",
-      "hot": "12925873",
-      "url": "https://www.toutiao.com/trending/7686771402967368219/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227686771402967368219%22%2C%22hot_board_impr_id%22%3A%2220260919213534B0D9E790DEC0C529F47D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%22%7D&rank=&style_id=40132&topic_id=7686771402967368219"
+      "hot": "15479231",
+      "url": "https://www.toutiao.com/trending/7687185276362522687/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687185276362522687%22%2C%22hot_board_impr_id%22%3A%22202609200701384CC16EE2FA12984C419E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%8E%E6%8B%89%E5%81%9A%E5%A5%BD%E6%8E%A5%E4%BB%BB%E6%80%BB%E7%BB%9F%E5%87%86%E5%A4%87%EF%BC%9F%E8%8F%B2%E6%80%BB%E7%BB%9F%E5%BA%9C%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7687185276362522687"
     }
   ],
   "suggested_topics": [
@@ -254,7 +243,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "许嵩官宣结婚",
+      "title": "传统豪车集体降价续命",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +251,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "邻居：知道梅姨真实身份感觉错过100万",
+      "title": "北大复旦校长接连发出警告",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
