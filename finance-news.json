@@ -1,59 +1,26 @@
 {
-  "updated_at": "2026-09-21T13:07:04+08:00",
+  "updated_at": "2026-09-21T21:37:56+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3931.97,
-      "change": 20.1,
-      "pct": 0.51
+      "value": 3949.91,
+      "change": 38.04,
+      "pct": 0.97
     },
     {
       "name": "深证成指",
-      "value": 13673.7,
-      "change": 32.83,
-      "pct": 0.24
+      "value": 13730.02,
+      "change": 89.15,
+      "pct": 0.65
     },
     {
       "name": "创业板指",
-      "value": 3386.42,
-      "change": 13.74,
-      "pct": 0.41
+      "value": 3399.59,
+      "change": 26.91,
+      "pct": 0.8
     }
   ],
-  "sectors": [
-    {
-      "name": "其他医疗服务",
-      "change": 7.51
-    },
-    {
-      "name": "房产租赁经纪",
-      "change": 6.62
-    },
-    {
-      "name": "视频媒体",
-      "change": 6.36
-    },
-    {
-      "name": "会展服务",
-      "change": 6.07
-    },
-    {
-      "name": "宠物食品",
-      "change": 5.77
-    },
-    {
-      "name": "其他家电Ⅲ",
-      "change": 5.71
-    },
-    {
-      "name": "其他家电Ⅱ",
-      "change": 5.71
-    },
-    {
-      "name": "诊断服务",
-      "change": 5.08
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
