@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-23T08:59:52+08:00",
+  "updated_at": "2026-09-23T17:40:50+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 跨越山海续写“鼓岭情缘”",
-      "summary": "「跨越山海续写“鼓岭情缘”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 走出一条新时代大国正确相处之道",
+      "summary": "「走出一条新时代大国正确相处之道」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 六神花露水 拿在手里像验钞",
-      "summary": "「六神花露水 拿在手里像验钞」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平离京对美国进行国事访问",
+      "summary": "「习近平离京对美国进行国事访问」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 朱广权 秋天的秋到底是什么秋",
-      "summary": "「朱广权 秋天的秋到底是什么秋」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 张展硕亚运男子200自夺冠",
+      "summary": "「张展硕亚运男子200自夺冠」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 5G+6G 生产生活将有哪些变化",
-      "summary": "「5G+6G 生产生活将有哪些变化」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “十五五”教师发展国家行动来了",
+      "summary": "「“十五五”教师发展国家行动来了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "打入 BBA 大本营：中国首次成德国最大汽车进口来源国",
-        "url": "https://www.ithome.com/1/006/052.htm",
-        "summary": "<p data-vmark=\"bd1b\">IT之家 9 月 23 日消息，德国联邦统计局 9 月 21 日公布的数据显示，2026 年前 7 个月，德国汽车出口量降至约 200 万辆，同比减少 4.0%；出口额下降 8.9% 至 735 亿",
+        "title": "全球首个：康奈尔大学研发出可感知并改变环境温度的微型机器人",
+        "url": "https://www.ithome.com/1/006/389.htm",
+        "summary": "<p data-vmark=\"2f93\">IT之家 9 月 23 日消息，康奈尔大学（Cornell University）的物理学研究人员开发出一种微型机器人。据研究团队介绍，这些机器人首次具备了感知周围环境温度，并协同做出反应、改变环境",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Goodram 推出 RIVAL Charge DDR5 内存模组：单条至高 32GB，可选 6800CL34",
-        "url": "https://www.ithome.com/1/006/051.htm",
-        "summary": "<p data-vmark=\"e925\">IT之家 9 月 23 日消息，波兰存储器模组品牌 Goodram 当地时间 22 日宣布推出 RIVAL Charge DDR5 系列 UDIMM 内存模组。</p><p style=\"text-",
+        "title": "我国将适度超前、系统推进新一代通信网建设，推进宽带网络向双万兆演进",
+        "url": "https://www.ithome.com/1/006/388.htm",
+        "summary": "<p data-vmark=\"af50\">IT之家 9 月 23 日消息，据央视新闻从今天（23 日）的中国国际信息通信展览会上了解到，“十五五”时期，我国将把握新一代通信网络建设的战略机遇，<strong>适度超前、系统推进新一代通信网建",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果更新 M5 Pro/M6 Mac mini 支持文档，SSD 模块不再列为二手可更换部件",
-        "url": "https://www.ithome.com/1/006/050.htm",
-        "summary": "<p data-vmark=\"8184\">IT之家 9 月 23 日消息，苹果公司于 9 月 21 日更新支持文档，显示在官方维修体系中，<strong>M5 Pro 和 M6 芯片 Mac mini 不再将 SSD 模块列为可更换部件。<",
+        "title": "AMD 为 Linux 内核显卡驱动添加 GDDR7 显存支持",
+        "url": "https://www.ithome.com/1/006/387.htm",
+        "summary": "<p data-vmark=\"0620\">IT之家 9 月 23 日消息，参考外媒 Phoronix 报道，AMD 本月 21 日向 Linux 内核显卡驱动 <span class=\"no-auto-spacing\">drm/amdgpu",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "荣耀 MagicPad 4 平板预售：12.1 英寸 165Hz 屏幕、第四代骁龙 8s，3299 元起",
-        "url": "https://www.ithome.com/1/006/049.htm",
-        "summary": "<p data-vmark=\"e63e\">IT之家 9 月 23 日消息，荣耀官方今日宣布，荣耀 MagicPad 4 现已开启全款预售，<strong>售价 3299 元起</strong>，国补到手价 2804.15 元起。</p><u",
+        "title": "甲骨文裁员文件泄露，云业务部门遭重创",
+        "url": "https://www.ithome.com/1/006/385.htm",
+        "summary": "<p data-vmark=\"f522\">IT之家 9 月 23 日消息，当地时间 22 日，《商业内幕》披露了一份泄露文件，提供了迄今最清晰的图景，揭示甲骨文最新一轮裁员如何重组至关重要的云业务。</p><p data-vmark=\"d8",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "AMD 展示新型“四面体笼”光线追踪技术，BVH 显存占用从 80GB 降至 1.7 GB",
-        "url": "https://www.ithome.com/1/006/047.htm",
-        "summary": "<p data-vmark=\"b1f8\">IT之家 9 月 23 日消息，AMD 发布了一篇 GPUOpen 博客，展示了一项名为“四面体笼”（Tetrahedral Cages）的光线追踪技术。</p><p data-vmark=\"bae",
+        "title": "ID-COOLING 预告 FLOW 500：前置电源 M-ATX 兼容机箱，10 月见",
+        "url": "https://www.ithome.com/1/006/383.htm",
+        "summary": "<p data-vmark=\"4c35\">IT之家 9 月 23 日消息，ID-COOLING（酷凛）今早表示其机箱新品 FLOW 500 即将于 10 月上市。</p><p data-vmark=\"4cb2\" style=\"text-al",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "799 元起：唯卓仕 4 款 L 卡口全画幅镜头开售，含 14mm F4.0、20mm F2.8、40mm F2.5、50mm F2.0",
-        "url": "https://www.ithome.com/1/006/045.htm",
-        "summary": "<p data-vmark=\"c88f\">IT之家 9 月 23 日消息，唯卓仕昨晚正式发布了 4 款 L 卡口全画幅镜头，<strong>售价 799 元起</strong>：</p><ul class=\"medium-size list",
+        "title": "小马智行 2026 上半年归母净亏损 1.1 亿美元，同比亏损扩大 14.74%",
+        "url": "https://www.ithome.com/1/006/377.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 9 月 23 日消息，小马智行今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：</p><ul class=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,22 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
+        "summary": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+        "url": "https://sspai.com/post/114211",
+        "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。<a href=&#34;https://sspai.com/post/114211&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
         "url": "https://sspai.com/post/114889",
@@ -105,25 +121,9 @@
         "heat": "高"
       },
       {
-        "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+        "title": "Coast：用十年经验，给记账这件事一个「终点」",
         "url": "https://sspai.com/post/114479",
         "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-        "url": "https://sspai.com/post/114823",
-        "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-        "url": "https://sspai.com/post/114840",
-        "summary": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=&#34;htt",
         "source": "少数派",
         "category": "科技",
         "heat": "高"
@@ -154,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "跨越山海续写“鼓岭情缘”",
+      "title": "走出一条新时代大国正确相处之道",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E7%BB%AD%E5%86%99%E2%80%9C%E9%BC%93%E5%B2%AD%E6%83%85%E7%BC%98%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B5%B0%E5%87%BA%E4%B8%80%E6%9D%A1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%A4%A7%E5%9B%BD%E6%AD%A3%E7%A1%AE%E7%9B%B8%E5%A4%84%E4%B9%8B%E9%81%93&sa=fyb_news"
     },
     {
-      "title": "六神花露水 拿在手里像验钞",
+      "title": "习近平离京对美国进行国事访问",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%AD%E7%A5%9E%E8%8A%B1%E9%9C%B2%E6%B0%B4+%E6%8B%BF%E5%9C%A8%E6%89%8B%E9%87%8C%E5%83%8F%E9%AA%8C%E9%92%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
     },
     {
-      "title": "朱广权 秋天的秋到底是什么秋",
+      "title": "张展硕亚运男子200自夺冠",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%B1%E5%B9%BF%E6%9D%83+%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%A7%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%A7%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B1%95%E7%A1%95%E4%BA%9A%E8%BF%90%E7%94%B7%E5%AD%90200%E8%87%AA%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "title": "5G+6G 生产生活将有哪些变化",
+      "title": "“十五五”教师发展国家行动来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E5%9B%BD%E5%AE%B6%E8%A1%8C%E5%8A%A8%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "马斯克建议有时间一定要去中国",
+      "title": "“考虑了两天两夜 不能对不起孩子”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BB%BA%E8%AE%AE%E6%9C%89%E6%97%B6%E9%97%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E4%B8%AD%E5%9B%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%80%83%E8%99%91%E4%BA%86%E4%B8%A4%E5%A4%A9%E4%B8%A4%E5%A4%9C+%E4%B8%8D%E8%83%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%AD%A9%E5%AD%90%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "“China Haul”火了",
+      "title": "车企集体和宁德提“分手”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9CChina+Haul%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E4%BC%81%E9%9B%86%E4%BD%93%E5%92%8C%E5%AE%81%E5%BE%B7%E6%8F%90%E2%80%9C%E5%88%86%E6%89%8B%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "日本人身高不及中韩 日媒列3大原因",
+      "title": "闲鱼公布涉黄调查结果",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BA%AB%E9%AB%98%E4%B8%8D%E5%8F%8A%E4%B8%AD%E9%9F%A9+%E6%97%A5%E5%AA%92%E5%88%973%E5%A4%A7%E5%8E%9F%E5%9B%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%97%B2%E9%B1%BC%E5%85%AC%E5%B8%83%E6%B6%89%E9%BB%84%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&sa=fyb_news"
     },
     {
-      "title": "中国女排夺冠！3-0横扫日本",
+      "title": "国乒女团晋级亚运会决赛",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "title": "11岁男孩一口流利英语帮邻居谈下大单",
+      "title": "第一地级市冲刺6万亿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=11%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E5%8F%A3%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD%E5%B8%AE%E9%82%BB%E5%B1%85%E8%B0%88%E4%B8%8B%E5%A4%A7%E5%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E5%9C%B0%E7%BA%A7%E5%B8%82%E5%86%B2%E5%88%BA6%E4%B8%87%E4%BA%BF&sa=fyb_news"
     },
     {
-      "title": "男子称因超龄被当赠品卖进电诈园区",
+      "title": "好日子里品丰收",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%B6%85%E9%BE%84%E8%A2%AB%E5%BD%93%E8%B5%A0%E5%93%81%E5%8D%96%E8%BF%9B%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%BD%E6%97%A5%E5%AD%90%E9%87%8C%E5%93%81%E4%B8%B0%E6%94%B6&sa=fyb_news"
     },
     {
-      "title": "今日秋分",
+      "title": "张博恒跳马申诉成功",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E6%97%A5%E7%A7%8B%E5%88%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E5%8D%9A%E6%81%92%E8%B7%B3%E9%A9%AC%E7%94%B3%E8%AF%89%E6%88%90%E5%8A%9F&sa=fyb_news"
     },
     {
-      "title": "编造“创始人不喝自家饮料”被拘",
+      "title": "0添加等于更安全、更健康吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BC%96%E9%80%A0%E2%80%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E5%96%9D%E8%87%AA%E5%AE%B6%E9%A5%AE%E6%96%99%E2%80%9D%E8%A2%AB%E6%8B%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=0%E6%B7%BB%E5%8A%A0%E7%AD%89%E4%BA%8E%E6%9B%B4%E5%AE%89%E5%85%A8%E3%80%81%E6%9B%B4%E5%81%A5%E5%BA%B7%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "日本已没有举办大型赛事的能力了吗",
+      "title": "中美元首半年内实现互访",
       "platform": "百度热搜/头条",
-      "hot": "13696432",
-      "url": "https://www.toutiao.com/trending/7688240521302527551/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688240521302527551%22%2C%22hot_board_impr_id%22%3A%222026092308594705D78424100560CEF470%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%B2%A1%E6%9C%89%E4%B8%BE%E5%8A%9E%E5%A4%A7%E5%9E%8B%E8%B5%9B%E4%BA%8B%E7%9A%84%E8%83%BD%E5%8A%9B%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7688240521302527551"
+      "hot": "20348169",
+      "url": "https://www.toutiao.com/trending/7687889715441389119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687889715441389119%22%2C%22hot_board_impr_id%22%3A%22202609231740456DEEC8532CCD6AF45DAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8A%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E4%BA%92%E8%AE%BF%22%7D&rank=&style_id=40132&topic_id=7687889715441389119"
     },
     {
-      "title": "中国女排：23天破局续写女排精神",
+      "title": "解锁文旅消费新图景",
       "platform": "百度热搜/头条",
-      "hot": "12393044",
-      "url": "https://www.toutiao.com/trending/7688406774294183999/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688406774294183999%22%2C%22hot_board_impr_id%22%3A%222026092308594705D78424100560CEF470%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%EF%BC%9A23%E5%A4%A9%E7%A0%B4%E5%B1%80%E7%BB%AD%E5%86%99%E5%A5%B3%E6%8E%92%E7%B2%BE%E7%A5%9E%22%7D&rank=&style_id=40132&topic_id=7688406774294183999"
+      "hot": "18411785",
+      "url": "https://www.toutiao.com/trending/7688538921299607588/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688538921299607588%22%2C%22hot_board_impr_id%22%3A%22202609231740456DEEC8532CCD6AF45DAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%A3%E9%94%81%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E6%99%AF%22%7D&rank=&style_id=40132&topic_id=7688538921299607588"
     },
     {
-      "title": "新一批重大外资项目密集落地投产",
+      "title": "中国男足小组第一进8强",
       "platform": "百度热搜/头条",
-      "hot": "11213690",
-      "url": "https://www.toutiao.com/article/7688219712819380790"
+      "hot": "16659672",
+      "url": "https://www.toutiao.com/trending/7688629009797631538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688629009797631538%22%2C%22hot_board_impr_id%22%3A%22202609231740456DEEC8532CCD6AF45DAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E8%BF%9B8%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7688629009797631538"
     }
   ],
   "suggested_topics": [
     {
-      "title": "跨越山海续写“鼓岭情缘”",
+      "title": "走出一条新时代大国正确相处之道",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "六神花露水 拿在手里像验钞",
+      "title": "习近平离京对美国进行国事访问",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "朱广权 秋天的秋到底是什么秋",
+      "title": "张展硕亚运男子200自夺冠",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "5G+6G 生产生活将有哪些变化",
+      "title": "“十五五”教师发展国家行动来了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "马斯克建议有时间一定要去中国",
+      "title": "“考虑了两天两夜 不能对不起孩子”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]

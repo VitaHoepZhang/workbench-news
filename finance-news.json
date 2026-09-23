@@ -1,59 +1,7 @@
 {
-  "updated_at": "2026-09-23T08:59:52+08:00",
-  "indices": [
-    {
-      "name": "上证指数",
-      "value": 3951.96,
-      "change": -0.17,
-      "pct": 0
-    },
-    {
-      "name": "深证成指",
-      "value": 13723.74,
-      "change": 0,
-      "pct": 0
-    },
-    {
-      "name": "创业板指",
-      "value": 3399.93,
-      "change": 0,
-      "pct": 0
-    }
-  ],
-  "sectors": [
-    {
-      "name": "多元金融",
-      "change": 0
-    },
-    {
-      "name": "体育Ⅲ",
-      "change": 0
-    },
-    {
-      "name": "体育Ⅱ",
-      "change": 0
-    },
-    {
-      "name": "医疗服务",
-      "change": 0
-    },
-    {
-      "name": "钛白粉",
-      "change": 0
-    },
-    {
-      "name": "医药流通",
-      "change": 0
-    },
-    {
-      "name": "半导体",
-      "change": 0
-    },
-    {
-      "name": "照明设备Ⅲ",
-      "change": 0
-    }
-  ],
+  "updated_at": "2026-09-23T17:40:50+08:00",
+  "indices": [],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
