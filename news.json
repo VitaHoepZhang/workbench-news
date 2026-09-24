@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T01:53:47+08:00",
+  "updated_at": "2026-09-24T08:56:39+08:00",
   "science": [
     {
       "title": "今日热点速览 · 以正确相处之道推动中美关系行稳致远",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 习近平离京对美国进行国事访问",
-      "summary": "「习近平离京对美国进行国事访问」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平抵达美国首都华盛顿",
+      "summary": "「习近平抵达美国首都华盛顿」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 打一针管数月的降压疫苗要来了",
-      "summary": "「打一针管数月的降压疫苗要来了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平：中国和美国都是伟大的国家",
+      "summary": "「习近平：中国和美国都是伟大的国家」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "谷歌推出 Gemini 3.8 Flash / Flash-Lite 文本转语音模型，每一行台词都能精确控制",
-        "url": "https://www.ithome.com/1/006/509.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 9 月 23 日消息，谷歌今日宣布，Gemini 家族新增两款全新文本转语音模型，将语音生成<strong>从静态预设转变为动态创意工作室</strong>，能够帮助创作者、开发者和企业打",
+        "title": "苹果播客迈入“可视化”： Podcasts 订阅支持浏览独家视频内容",
+        "url": "https://www.ithome.com/1/006/542.htm",
+        "summary": "<p data-vmark=\"a83e\">IT之家 9 月 24 日消息，苹果昨日（9 月 23 日）发布新闻稿，宣布内容创作者未来可在 Apple Podcasts 中，<strong>向全球 170 多个国家和地区的订阅用户提供专属视频",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Anthropic 工程师解释为何 Claude 写作变差：模型被训练成写给 AI 看而非写给人看",
-        "url": "https://www.ithome.com/1/006/510.htm",
-        "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"8cff\">IT之家 9 月 23 日消息，AI 模型在数学、编程和推理能力上进步迅速，写作水平却停滞不前，甚至有所退步，Anth",
+        "title": "全新华为 FreeBuds Neo 开启预售，售价 699 元",
+        "url": "https://www.ithome.com/1/006/540.htm",
+        "summary": "<p data-vmark=\"fb2b\">IT之家 9 月 24 日消息，华为本月初在海外发布了 FreeBuds Neo 耳机，官方售价为 129 欧元<span class=\"exch-money-value \">（IT之家注：现汇率约",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为 WATCH GT Runner 2 智能手表开启 HarmonyOS 7 花粉 Beta 版升级尝鲜招募",
-        "url": "https://www.ithome.com/1/006/508.htm",
-        "summary": "<p data-vmark=\"48ef\">IT之家 9 月 23 日消息，华为官方今日宣布，<strong>HUAWEI WATCH GT Runner 2 开启 HarmonyOS 7 花粉 Beta 版升级尝鲜招募</strong>。<",
+        "title": "罗技 G 带来 TKL 磁轴键盘 PRO X2 RAPID，集成 OLED 竖屏",
+        "url": "https://www.ithome.com/1/006/539.htm",
+        "summary": "<p data-vmark=\"26d8\">IT之家 9 月 24 日消息，Logitech G（罗技 G）在当地时间 23 日启动的 PLAY 2026 趣玩日活动上发布了一系列外设产品，本篇聚焦于其中的键盘产品线。</p><p data-",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "迄今最长卫星观测记录：半个世纪极地冰层消失 11.3 万亿吨，海平面上升 3 厘米",
-        "url": "https://www.ithome.com/1/006/506.htm",
-        "summary": "<p data-vmark=\"e53e\">IT之家 9 月 23 日消息，研究人员发现，自 20 世纪 70 年代以来，格陵兰岛和南极洲已经累计损失约 11.3 万亿吨极地冰层，规模之大令人震惊。</p><p style=\"text-ali",
+        "title": "Meta 首款轻量化 VR 眼镜发布：约 100g 重、同类首款 IMAX Enhanced 认证，售 1299.99 美元",
+        "url": "https://www.ithome.com/1/006/537.htm",
+        "summary": "<p data-vmark=\"bbd4\">IT之家 9 月 24 日消息，Meta 今日在 Connect 大会上发布了旗下首款轻量化 VR 眼镜，类似于古尔曼曾经描述的那款轻量化的 Vision Pro（疑似被砍），名字就叫 Meta V",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "我国成功发射卫星互联网低轨 26 组卫星",
-        "url": "https://www.ithome.com/1/006/505.htm",
-        "summary": "<p data-vmark=\"c48a\">IT之家 9 月 23 日消息，据央视新闻，23 日（今天）21 时 32 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 26 组卫星发射升空，卫星顺利进入预定轨道，发射",
+        "title": "苹果 256GB M6 版 Mac mini SSD 性能测试：较 M4 版顺序写入快 48.9%、读取快 15%",
+        "url": "https://www.ithome.com/1/006/536.htm",
+        "summary": "<p data-vmark=\"cb1c\">IT之家 9 月 24 日消息，科技媒体 AAPL Ch 昨日（9 月 23 日）发布博文，测试指出 256GB 版苹果 M6 Mac mini 采用单颗 NAND 板载 SSD，<strong>实",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "YouTube 推出全新 AI 智能体，能帮创作者“翻红”老视频",
-        "url": "https://www.ithome.com/1/006/503.htm",
-        "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"c419\">IT之家 9 月 23 日消息，在今天（23 日）的年度创作者活动 Made on YouTube 上，YouTube",
+        "title": "华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起",
+        "url": "https://www.ithome.com/1/006/535.htm",
+        "summary": "<p data-vmark=\"83cf\">IT之家 9 月 24 日消息，华为今日官宣平板 Air 系列家族实力更新 —— 华为 MatePad Air Z 闪亮登场，<strong>9 月 24 日 10:08 正式预售</strong>",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%AD%A3%E7%A1%AE%E7%9B%B8%E5%A4%84%E4%B9%8B%E9%81%93%E6%8E%A8%E5%8A%A8%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news"
     },
     {
-      "title": "习近平离京对美国进行国事访问",
+      "title": "习近平抵达美国首都华盛顿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF&sa=fyb_news"
     },
     {
-      "title": "打一针管数月的降压疫苗要来了",
+      "title": "习近平：中国和美国都是伟大的国家",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%89%93%E4%B8%80%E9%92%88%E7%AE%A1%E6%95%B0%E6%9C%88%E7%9A%84%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%83%BD%E6%98%AF%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6&sa=fyb_news"
     },
     {
       "title": "中国接受过高等教育人口达2.7亿",
@@ -178,34 +178,34 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%8F%97%E8%BF%87%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%BA%BA%E5%8F%A3%E8%BE%BE2.7%E4%BA%BF&sa=fyb_news"
     },
     {
-      "title": "余额宝将无法直接付款了吗",
+      "title": "特朗普夫妇机场迎接",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BD%99%E9%A2%9D%E5%AE%9D%E5%B0%86%E6%97%A0%E6%B3%95%E7%9B%B4%E6%8E%A5%E4%BB%98%E6%AC%BE%E4%BA%86%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5&sa=fyb_news"
     },
     {
-      "title": "中国女排夺冠 香港记者激动落泪",
+      "title": "特朗普挥手并目送习近平专车离开",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0+%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%A5%E6%89%8B%E5%B9%B6%E7%9B%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%93%E8%BD%A6%E7%A6%BB%E5%BC%80&sa=fyb_news"
     },
     {
-      "title": "高端酒水为何卖不动了",
+      "title": "打一针管数月的降压疫苗要来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E7%AB%AF%E9%85%92%E6%B0%B4%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%89%93%E4%B8%80%E9%92%88%E7%AE%A1%E6%95%B0%E6%9C%88%E7%9A%84%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "教育部回应“13岁于子迪亚运夺2金”",
+      "title": "沿途人群唱起《我的祖国》欢迎习主席",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%BF%E9%80%94%E4%BA%BA%E7%BE%A4%E5%94%B1%E8%B5%B7%E3%80%8A%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E3%80%8B%E6%AC%A2%E8%BF%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD&sa=fyb_news"
     },
     {
-      "title": "5300多万名老年人享受老年人补贴",
+      "title": "四年级男孩车间熟练打包",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=5300%E5%A4%9A%E4%B8%87%E5%90%8D%E8%80%81%E5%B9%B4%E4%BA%BA%E4%BA%AB%E5%8F%97%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%A5%E8%B4%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B9%B4%E7%BA%A7%E7%94%B7%E5%AD%A9%E8%BD%A6%E9%97%B4%E7%86%9F%E7%BB%83%E6%89%93%E5%8C%85&sa=fyb_news"
     },
     {
       "title": "“十五五”时期将推动制定养老服务法",
@@ -226,22 +226,22 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%91%E6%83%A0%E9%80%9AAPP%E5%8F%AF%E5%8F%91%E9%AB%98%E9%BE%84%E8%A1%A5%E8%B4%B4%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "中美元首半年内实现互访",
+      "title": "习近平抵美 特朗普夫妇热情迎接",
       "platform": "百度热搜/头条",
-      "hot": "19593452",
-      "url": "https://www.toutiao.com/trending/7687889715441389119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687889715441389119%22%2C%22hot_board_impr_id%22%3A%2220260924015344F4E5D33D6BB8F3EB3A4D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8A%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E4%BA%92%E8%AE%BF%22%7D&rank=&style_id=40132&topic_id=7687889715441389119"
+      "hot": "22235881",
+      "url": "https://www.toutiao.com/video/7688879579649589769"
     },
     {
-      "title": "小米18Pro价格",
+      "title": "习近平：中美应成为伙伴而不是对手",
       "platform": "百度热搜/头条",
-      "hot": "17728888",
-      "url": "https://www.toutiao.com/trending/7688701472178966054/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688701472178966054%22%2C%22hot_board_impr_id%22%3A%2220260924015344F4E5D33D6BB8F3EB3A4D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318Pro%E4%BB%B7%E6%A0%BC%22%7D&rank=&style_id=40132&topic_id=7688701472178966054"
+      "hot": "20119857",
+      "url": "https://www.toutiao.com/article/7688883250584683042"
     },
     {
       "title": "世界技能博览会在上海开幕",
       "platform": "百度热搜/头条",
-      "hot": "16041761",
-      "url": "https://www.toutiao.com/trending/7688537461459419178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688537461459419178%22%2C%22hot_board_impr_id%22%3A%2220260924015344F4E5D33D6BB8F3EB3A4D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%B9%95%22%7D&rank=&style_id=40132&topic_id=7688537461459419178"
+      "hot": "18205200",
+      "url": "https://www.toutiao.com/trending/7688537461459419178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688537461459419178%22%2C%22hot_board_impr_id%22%3A%2220260924085636BCA57139AC310A8020F8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%B9%95%22%7D&rank=&style_id=40132&topic_id=7688537461459419178"
     }
   ],
   "suggested_topics": [
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "习近平离京对美国进行国事访问",
+      "title": "习近平抵达美国首都华盛顿",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "打一针管数月的降压疫苗要来了",
+      "title": "习近平：中国和美国都是伟大的国家",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "余额宝将无法直接付款了吗",
+      "title": "特朗普夫妇机场迎接",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
