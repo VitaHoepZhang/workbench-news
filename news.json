@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:10:28+08:00",
+  "updated_at": "2026-09-29T10:21:23+08:00",
   "science": [
     {
       "title": "今日热点速览 · 坚定不移贯彻总体国家安全观",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 林诗栋4比0王楚钦男单夺冠",
-      "summary": "「林诗栋4比0王楚钦男单夺冠」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · Tiffany中国区负责人致歉",
+      "summary": "「Tiffany中国区负责人致歉」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 骗子骗了8省11地超1亿元补贴",
-      "summary": "「骗子骗了8省11地超1亿元补贴」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 羽毛球选手吐槽亚运会：要运动员的命",
+      "summary": "「羽毛球选手吐槽亚运会：要运动员的命」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "苹果 watchOS 27.0.1 正式版发布",
-        "url": "https://www.ithome.com/1/008/070.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。</p> ",
+        "title": "联想正式发布其首款 Googlebook 笔电。搭载英特尔酷睿 Ultra 5 处理器 325",
+        "url": "https://www.ithome.com/1/008/133.htm",
+        "summary": "<p data-vmark=\"d267\">IT之家 9 月 29 日消息，联想当地时间 28 日正式发布了其首款 Googlebook 笔记本电脑：Lenovo Googlebook15 (Lenovo GB 15IPH12)。</p><p",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iPadOS 26.7.1 正式版发布",
-        "url": "https://www.ithome.com/1/008/069.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。</p> <p style=\"text-align: ",
+        "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
+        "url": "https://www.ithome.com/1/008/132.htm",
+        "summary": "<p data-vmark=\"76af\">IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进人工智能有可能给人类带来“灾难性乃至生存性风险”。一家依靠该项技术谋求商业收益",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 visionOS 27.0.1 正式版发布",
-        "url": "https://www.ithome.com/1/008/068.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。</p> ",
+        "title": "2026 款亚马逊 Fire TV Stick 4K 电视棒宣传图曝光：方正设计，遥控器新增背光动画 Home 键",
+        "url": "https://www.ithome.com/1/008/130.htm",
+        "summary": "<p data-vmark=\"1a45\">IT之家 9 月 29 日消息，科技媒体 WinFuture 昨日（9 月 28 日）发布博文，分享了一组宣传图片，<strong>展示了 2026 款亚马逊 Fire TV Stick 4K 电视",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 macOS 27.0.1 正式版发布",
-        "url": "https://www.ithome.com/1/008/067.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。</p> <p style",
+        "title": "2026 世界智能网联汽车大会 10 月 21 日至 23 日在北京举办",
+        "url": "https://www.ithome.com/1/008/129.htm",
+        "summary": "<p data-vmark=\"2da6\">IT之家 9 月 29 日消息，2026 世界智能网联汽车大会新闻发布会于 9 月 28 日在北京召开，介绍 2026 世界智能网联汽车大会筹备情况，并围绕行业热点话题答记者问。</p><p dat",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iOS/iPadOS 27.0.1 正式版发布",
-        "url": "https://www.ithome.com/1/008/066.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。",
+        "title": "全新华为 FreeBuds Neo 无线耳机开售：智感降噪 + 星闪音频、HarmonyOS 7，首发 669 元",
+        "url": "https://www.ithome.com/1/008/128.htm",
+        "summary": "<p data-vmark=\"fb2b\">IT之家 9 月 29 日消息，华为 FreeBuds Neo 今日 10:08 正式开售，<strong>定价 699 元、首发价 669 元、学生优惠后 639 元</strong>，提供星河银",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "马斯克 SpaceX 成功完成星舰第 14 次试飞，首次入轨、返回、溅落并部署 26 颗卫星",
-        "url": "https://www.ithome.com/1/008/065.htm",
-        "summary": "<p data-vmark=\"a5f1\">IT之家 9 月 28 日消息，北京时间 20 时 48 分，SpaceX 星舰在得克萨斯州星际基地开启第 14 次试飞，首次尝试将上级飞船送入地球轨道。</p><p data-vmark=\"acc",
+        "title": "别克君越第 150 万辆整车下线，全新君越同步亮相",
+        "url": "https://www.ithome.com/1/008/127.htm",
+        "summary": "<p data-vmark=\"3b9f\">IT之家 9 月 29 日消息，今天（29 日）上午，别克通过公众号宣布，别克君越第 150 万辆整车迎来正式下线，全新君越同步亮相。</p><p data-vmark=\"89c7\" style=\"",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,14 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+        "url": "https://sspai.com/post/115134",
+        "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "派评 | 近期值得关注的 App",
         "url": "https://sspai.com/post/115094",
@@ -119,14 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-        "url": "https://sspai.com/post/115056",
-        "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……<a href=&#34;https://sspai.com/post/115056&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB%E8%B4%AF%E5%BD%BB%E6%80%BB%E4%BD%93%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E8%A7%82&sa=fyb_news"
     },
     {
-      "title": "林诗栋4比0王楚钦男单夺冠",
+      "title": "Tiffany中国区负责人致歉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
     },
     {
-      "title": "骗子骗了8省11地超1亿元补贴",
+      "title": "羽毛球选手吐槽亚运会：要运动员的命",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%AA%97%E5%AD%90%E9%AA%97%E4%BA%868%E7%9C%8111%E5%9C%B0%E8%B6%851%E4%BA%BF%E5%85%83%E8%A1%A5%E8%B4%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%80%89%E6%89%8B%E5%90%90%E6%A7%BD%E4%BA%9A%E8%BF%90%E4%BC%9A%EF%BC%9A%E8%A6%81%E8%BF%90%E5%8A%A8%E5%91%98%E7%9A%84%E5%91%BD&sa=fyb_news"
     },
     {
       "title": "美民众热切期待见到“平平”“福双”",
@@ -178,46 +178,46 @@
       "url": "https://m.baidu.com/s?word=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E5%88%87%E6%9C%9F%E5%BE%85%E8%A7%81%E5%88%B0%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "购房者加价抢购上海“老破小”",
+      "title": "鲍师傅超长蛋挞 全是皮没蛋液",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B4%AD%E6%88%BF%E8%80%85%E5%8A%A0%E4%BB%B7%E6%8A%A2%E8%B4%AD%E4%B8%8A%E6%B5%B7%E2%80%9C%E8%80%81%E7%A0%B4%E5%B0%8F%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E+%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&sa=fyb_news"
     },
     {
-      "title": "“这三天谁能有心思上班”",
+      "title": "文旅局回应那英临时加唱《弯弯的月亮》",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%99%E4%B8%89%E5%A4%A9%E8%B0%81%E8%83%BD%E6%9C%89%E5%BF%83%E6%80%9D%E4%B8%8A%E7%8F%AD%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B&sa=fyb_news"
     },
     {
-      "title": "日媒惊呼中国队出了怪物级天才",
+      "title": "应急办大楼传出麻将声？街道办回应",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E5%AA%92%E6%83%8A%E5%91%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E4%BA%86%E6%80%AA%E7%89%A9%E7%BA%A7%E5%A4%A9%E6%89%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BA%94%E6%80%A5%E5%8A%9E%E5%A4%A7%E6%A5%BC%E4%BC%A0%E5%87%BA%E9%BA%BB%E5%B0%86%E5%A3%B0%EF%BC%9F%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "title": "中介带看三个月得知买卖双方已成交",
+      "title": "张继科：我与樊振东马龙是男单最强3人",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BB%8B%E5%B8%A6%E7%9C%8B%E4%B8%89%E4%B8%AA%E6%9C%88%E5%BE%97%E7%9F%A5%E4%B9%B0%E5%8D%96%E5%8F%8C%E6%96%B9%E5%B7%B2%E6%88%90%E4%BA%A4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E7%BB%A7%E7%A7%91%EF%BC%9A%E6%88%91%E4%B8%8E%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99%E6%98%AF%E7%94%B7%E5%8D%95%E6%9C%80%E5%BC%BA3%E4%BA%BA&sa=fyb_news"
     },
     {
-      "title": "女孩中秋节离世 母亲称不愿再过中秋",
+      "title": "女子欠房租搬走 留13岁儿子在出租屋",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%A9%E4%B8%AD%E7%A7%8B%E8%8A%82%E7%A6%BB%E4%B8%96+%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%8D%E6%84%BF%E5%86%8D%E8%BF%87%E4%B8%AD%E7%A7%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%AC%A0%E6%88%BF%E7%A7%9F%E6%90%AC%E8%B5%B0+%E7%95%9913%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B&sa=fyb_news"
     },
     {
-      "title": "SpaceX“星舰”首次成功进入地球轨道",
+      "title": "接力夺冠姑娘们把国旗叠得方方正正",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=SpaceX%E2%80%9C%E6%98%9F%E8%88%B0%E2%80%9D%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E8%BF%9B%E5%85%A5%E5%9C%B0%E7%90%83%E8%BD%A8%E9%81%93&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%8E%A5%E5%8A%9B%E5%A4%BA%E5%86%A0%E5%A7%91%E5%A8%98%E4%BB%AC%E6%8A%8A%E5%9B%BD%E6%97%97%E5%8F%A0%E5%BE%97%E6%96%B9%E6%96%B9%E6%AD%A3%E6%AD%A3&sa=fyb_news"
     },
     {
-      "title": "5万亿元城市“开抢”年轻人",
+      "title": "水贝金饰降价卖爆了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=5%E4%B8%87%E4%BA%BF%E5%85%83%E5%9F%8E%E5%B8%82%E2%80%9C%E5%BC%80%E6%8A%A2%E2%80%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B0%B4%E8%B4%9D%E9%87%91%E9%A5%B0%E9%99%8D%E4%BB%B7%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "“给12306发信息能抢到票”不实",
@@ -226,22 +226,22 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%BB%9912306%E5%8F%91%E4%BF%A1%E6%81%AF%E8%83%BD%E6%8A%A2%E5%88%B0%E7%A5%A8%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "陈妤颉再添一金",
+      "title": "为什么越来越多人不愿交物业费了",
       "platform": "百度热搜/头条",
-      "hot": "14356820",
-      "url": "https://www.toutiao.com/trending/7690571775981407794/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690571775981407794%22%2C%22hot_board_impr_id%22%3A%2220260929041024023A9784CDF4F350A093%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E5%A6%A4%E9%A2%89%E5%86%8D%E6%B7%BB%E4%B8%80%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7690571775981407794"
-    },
-    {
-      "title": "黄金技术面全面破位",
-      "platform": "百度热搜/头条",
-      "hot": "12990588",
-      "url": "https://www.toutiao.com/trending/7690594097433677348/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690594097433677348%22%2C%22hot_board_impr_id%22%3A%2220260929041024023A9784CDF4F350A093%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E9%87%91%E6%8A%80%E6%9C%AF%E9%9D%A2%E5%85%A8%E9%9D%A2%E7%A0%B4%E4%BD%8D%22%7D&rank=&style_id=40132&topic_id=7690594097433677348"
+      "hot": "16496674",
+      "url": "https://www.toutiao.com/trending/7690724364248944182/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690724364248944182%22%2C%22hot_board_impr_id%22%3A%2220260929102120FE1AD72312249526BC9D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E4%B8%8D%E6%84%BF%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7690724364248944182"
     },
     {
       "title": "美中加强农业合作是双赢之举",
       "platform": "百度热搜/头条",
-      "hot": "11754370",
+      "hot": "14926808",
       "url": "https://www.toutiao.com/article/7690466603774820891"
+    },
+    {
+      "title": "王楚钦下领奖台迅速摘掉银牌离场",
+      "platform": "百度热搜/头条",
+      "hot": "13506334",
+      "url": "https://www.toutiao.com/trending/7690764064175361587/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690764064175361587%22%2C%22hot_board_impr_id%22%3A%2220260929102120FE1AD72312249526BC9D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8B%E9%A2%86%E5%A5%96%E5%8F%B0%E8%BF%85%E9%80%9F%E6%91%98%E6%8E%89%E9%93%B6%E7%89%8C%E7%A6%BB%E5%9C%BA%22%7D&rank=&style_id=40132&topic_id=7690764064175361587"
     }
   ],
   "suggested_topics": [
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "林诗栋4比0王楚钦男单夺冠",
+      "title": "Tiffany中国区负责人致歉",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "骗子骗了8省11地超1亿元补贴",
+      "title": "羽毛球选手吐槽亚运会：要运动员的命",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "购房者加价抢购上海“老破小”",
+      "title": "鲍师傅超长蛋挞 全是皮没蛋液",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
