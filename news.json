@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-29T10:21:23+08:00",
+  "updated_at": "2026-09-29T19:00:49+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 坚定不移贯彻总体国家安全观",
-      "summary": "「坚定不移贯彻总体国家安全观」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 书写中美关系历史新篇",
+      "summary": "「书写中美关系历史新篇」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · Tiffany中国区负责人致歉",
-      "summary": "「Tiffany中国区负责人致歉」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 重磅！贷款买房国家贴息",
+      "summary": "「重磅！贷款买房国家贴息」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 羽毛球选手吐槽亚运会：要运动员的命",
-      "summary": "「羽毛球选手吐槽亚运会：要运动员的命」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国最北高铁 正式开通",
+      "summary": "「中国最北高铁 正式开通」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 美民众热切期待见到“平平”“福双”",
-      "summary": "「美民众热切期待见到“平平”“福双”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 未来五年 汽车产业迎来新图景",
+      "summary": "「未来五年 汽车产业迎来新图景」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "联想正式发布其首款 Googlebook 笔电。搭载英特尔酷睿 Ultra 5 处理器 325",
-        "url": "https://www.ithome.com/1/008/133.htm",
-        "summary": "<p data-vmark=\"d267\">IT之家 9 月 29 日消息，联想当地时间 28 日正式发布了其首款 Googlebook 笔记本电脑：Lenovo Googlebook15 (Lenovo GB 15IPH12)。</p><p",
+        "title": "荷兰政府计划放弃微软 Windows 系统，转投本土替代产品 NixOS",
+        "url": "https://www.ithome.com/1/008/440.htm",
+        "summary": "<p data-vmark=\"56fb\">IT之家 9 月 29 日消息，据科技媒体 TechRadar 今天报道，荷兰政府宣布推出 DAWO（政府自主数字工作环境）计划，考虑放弃微软 Windows 操作系统，转向开源替代方案。</p><",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
-        "url": "https://www.ithome.com/1/008/132.htm",
-        "summary": "<p data-vmark=\"76af\">IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进人工智能有可能给人类带来“灾难性乃至生存性风险”。一家依靠该项技术谋求商业收益",
+        "title": "欧洲首个：微信支付接入意大利北方铁路，支持购买火车 & 地铁票",
+        "url": "https://www.ithome.com/1/008/439.htm",
+        "summary": "<p data-vmark=\"f898\">IT之家 9 月 29 日消息，微信支付官方今日发文，宣布已接入意大利北方铁路 Trenord 的自动售货机，支持购买车票。</p><p data-vmark=\"3a9d\">这意味着，到意大利旅游的",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "2026 款亚马逊 Fire TV Stick 4K 电视棒宣传图曝光：方正设计，遥控器新增背光动画 Home 键",
-        "url": "https://www.ithome.com/1/008/130.htm",
-        "summary": "<p data-vmark=\"1a45\">IT之家 9 月 29 日消息，科技媒体 WinFuture 昨日（9 月 28 日）发布博文，分享了一组宣传图片，<strong>展示了 2026 款亚马逊 Fire TV Stick 4K 电视",
+        "title": "华为 HarmonyOS 7 超空间存储支持设备名单更新：覆盖 Mate、Pura、nova、畅享等系列，1TB 机型最多节省 109GB 空间",
+        "url": "https://www.ithome.com/1/008/435.htm",
+        "summary": "<p data-vmark=\"853b\">IT之家 9 月 29 日消息，华为 HarmonyOS 7 的“超空间存储”支持设备名单已更新。</p><p data-vmark=\"c535\">截至 2026 年 9 月 28 日，该功能已覆盖",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "2026 世界智能网联汽车大会 10 月 21 日至 23 日在北京举办",
-        "url": "https://www.ithome.com/1/008/129.htm",
-        "summary": "<p data-vmark=\"2da6\">IT之家 9 月 29 日消息，2026 世界智能网联汽车大会新闻发布会于 9 月 28 日在北京召开，介绍 2026 世界智能网联汽车大会筹备情况，并围绕行业热点话题答记者问。</p><p dat",
+        "title": "1299 元：富士 Instax Pal 2 掌上相机开售，1/3.06 英寸 10MP 传感器",
+        "url": "https://www.ithome.com/1/008/434.htm",
+        "summary": "<p data-vmark=\"3f03\">IT之家 9 月 29 日消息，富士 Instax Pal 2 掌上相机今天开售。新品采用复古外观设计，拥有类似胶片相机腰平取景的拍照体验，可连接智能手机、富士打印机等设备，<strong>售价 1",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "全新华为 FreeBuds Neo 无线耳机开售：智感降噪 + 星闪音频、HarmonyOS 7，首发 669 元",
-        "url": "https://www.ithome.com/1/008/128.htm",
-        "summary": "<p data-vmark=\"fb2b\">IT之家 9 月 29 日消息，华为 FreeBuds Neo 今日 10:08 正式开售，<strong>定价 699 元、首发价 669 元、学生优惠后 639 元</strong>，提供星河银",
+        "title": "EVGA 内部人士回顾与英伟达合作：公版显卡的出现导致 AIC 承压，曾亏本销售 MSRP 型号",
+        "url": "https://www.ithome.com/1/008/428.htm",
+        "summary": "<p data-vmark=\"ca7b\">IT之家 9 月 29 日消息，前 EVGA 产品经理布兰登 · 雷 · 赫德里克（Brendon Ray Hedrick）在其个人博客回顾了自己在 EVGA 任职期间的经历，披露了一些关于显卡行业",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "别克君越第 150 万辆整车下线，全新君越同步亮相",
-        "url": "https://www.ithome.com/1/008/127.htm",
-        "summary": "<p data-vmark=\"3b9f\">IT之家 9 月 29 日消息，今天（29 日）上午，别克通过公众号宣布，别克君越第 150 万辆整车迎来正式下线，全新君越同步亮相。</p><p data-vmark=\"89c7\" style=\"",
+        "title": "《巫师 3：狂猎 — 重制版》游戏今日上线，原版玩家可免费升级",
+        "url": "https://www.ithome.com/1/008/427.htm",
+        "summary": "<p data-vmark=\"f9bf\">IT之家 9 月 29 日消息，CDPR 旗下游戏《巫师 3：狂猎 — 重制版》今日上线，<strong>拥有原版游戏的玩家可免费升级</strong>。本作带来一系列改进，包括画面、玩法等多方面升",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,30 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "url": "https://sspai.com/post/115153",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+        "url": "https://sspai.com/post/115061",
+        "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？<a href=&#34;https://sspai.com/post/115061&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "可塑的白昼：ColorOS17 深度评测",
+        "url": "https://sspai.com/post/114728",
+        "summary": "时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
         "url": "https://sspai.com/post/115134",
@@ -103,166 +127,138 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-        "url": "https://sspai.com/post/114972",
-        "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。<a href=&#34;https://sspai.com/post/114972&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
-        "url": "https://sspai.com/post/114967",
-        "summary": "节后再说！<a href=&#34;https://sspai.com/post/114967&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：OpenAI 称与苹果合作效果不佳",
-        "url": "https://sspai.com/post/115079",
-        "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「重磅！贷款买房国家贴息」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E9%87%8D%E7%A3%85%EF%BC%81%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%9B%BD%E5%AE%B6%E8%B4%B4%E6%81%AF&sa=fyb_news"
       },
       {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "title": "「受贿2.63亿余元！彭晓春被判死缓」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF2.63%E4%BA%BF%E4%BD%99%E5%85%83%EF%BC%81%E5%BD%AD%E6%99%93%E6%98%A5%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "坚定不移贯彻总体国家安全观",
+      "title": "书写中美关系历史新篇",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB%E8%B4%AF%E5%BD%BB%E6%80%BB%E4%BD%93%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E8%A7%82&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A6%E5%86%99%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E7%AF%87&sa=fyb_news"
     },
     {
-      "title": "Tiffany中国区负责人致歉",
+      "title": "重磅！贷款买房国家贴息",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E7%A3%85%EF%BC%81%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%9B%BD%E5%AE%B6%E8%B4%B4%E6%81%AF&sa=fyb_news"
     },
     {
-      "title": "羽毛球选手吐槽亚运会：要运动员的命",
+      "title": "中国最北高铁 正式开通",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%80%89%E6%89%8B%E5%90%90%E6%A7%BD%E4%BA%9A%E8%BF%90%E4%BC%9A%EF%BC%9A%E8%A6%81%E8%BF%90%E5%8A%A8%E5%91%98%E7%9A%84%E5%91%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%8C%97%E9%AB%98%E9%93%81+%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A&sa=fyb_news"
     },
     {
-      "title": "美民众热切期待见到“平平”“福双”",
+      "title": "未来五年 汽车产业迎来新图景",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E5%88%87%E6%9C%9F%E5%BE%85%E8%A7%81%E5%88%B0%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4+%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E8%BF%8E%E6%9D%A5%E6%96%B0%E5%9B%BE%E6%99%AF&sa=fyb_news"
     },
     {
-      "title": "鲍师傅超长蛋挞 全是皮没蛋液",
+      "title": "羽毛球女双决赛太悲壮了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E+%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "文旅局回应那英临时加唱《弯弯的月亮》",
+      "title": "受贿2.63亿余元！彭晓春被判死缓",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF2.63%E4%BA%BF%E4%BD%99%E5%85%83%EF%BC%81%E5%BD%AD%E6%99%93%E6%98%A5%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
     },
     {
-      "title": "应急办大楼传出麻将声？街道办回应",
+      "title": "最高减近5万元！官方解读贴息政策",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BA%94%E6%80%A5%E5%8A%9E%E5%A4%A7%E6%A5%BC%E4%BC%A0%E5%87%BA%E9%BA%BB%E5%B0%86%E5%A3%B0%EF%BC%9F%E8%A1%97%E9%81%93%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%80%E9%AB%98%E5%87%8F%E8%BF%915%E4%B8%87%E5%85%83%EF%BC%81%E5%AE%98%E6%96%B9%E8%A7%A3%E8%AF%BB%E8%B4%B4%E6%81%AF%E6%94%BF%E7%AD%96&sa=fyb_news"
     },
     {
-      "title": "张继科：我与樊振东马龙是男单最强3人",
+      "title": "河北廊坊市地震",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E7%BB%A7%E7%A7%91%EF%BC%9A%E6%88%91%E4%B8%8E%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99%E6%98%AF%E7%94%B7%E5%8D%95%E6%9C%80%E5%BC%BA3%E4%BA%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E5%BB%8A%E5%9D%8A%E5%B8%82%E5%9C%B0%E9%9C%87&sa=fyb_news"
     },
     {
-      "title": "女子欠房租搬走 留13岁儿子在出租屋",
+      "title": "房贷贴息1个百分点",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%AC%A0%E6%88%BF%E7%A7%9F%E6%90%AC%E8%B5%B0+%E7%95%9913%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF1%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9&sa=fyb_news"
     },
     {
-      "title": "接力夺冠姑娘们把国旗叠得方方正正",
+      "title": "张家齐妈妈：快被大家“烧糊”了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8E%A5%E5%8A%9B%E5%A4%BA%E5%86%A0%E5%A7%91%E5%A8%98%E4%BB%AC%E6%8A%8A%E5%9B%BD%E6%97%97%E5%8F%A0%E5%BE%97%E6%96%B9%E6%96%B9%E6%AD%A3%E6%AD%A3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%EF%BC%9A%E5%BF%AB%E8%A2%AB%E5%A4%A7%E5%AE%B6%E2%80%9C%E7%83%A7%E7%B3%8A%E2%80%9D%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "水贝金饰降价卖爆了",
+      "title": "丁俊晖连丢两赛点遭绝杀一轮游",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B0%B4%E8%B4%9D%E9%87%91%E9%A5%B0%E9%99%8D%E4%BB%B7%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E8%BF%9E%E4%B8%A2%E4%B8%A4%E8%B5%9B%E7%82%B9%E9%81%AD%E7%BB%9D%E6%9D%80%E4%B8%80%E8%BD%AE%E6%B8%B8&sa=fyb_news"
     },
     {
-      "title": "“给12306发信息能抢到票”不实",
+      "title": "网传“电竞将退出亚运会”不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%BB%9912306%E5%8F%91%E4%BF%A1%E6%81%AF%E8%83%BD%E6%8A%A2%E5%88%B0%E7%A5%A8%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E7%AB%9E%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "为什么越来越多人不愿交物业费了",
+      "title": "房贷贴息",
       "platform": "百度热搜/头条",
-      "hot": "16496674",
-      "url": "https://www.toutiao.com/trending/7690724364248944182/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690724364248944182%22%2C%22hot_board_impr_id%22%3A%2220260929102120FE1AD72312249526BC9D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E4%B8%8D%E6%84%BF%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7690724364248944182"
+      "hot": "32821815",
+      "url": "https://www.toutiao.com/trending/7689972419951591434/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689972419951591434%22%2C%22hot_board_impr_id%22%3A%222026092919004719E40C6A84D218DC7FC6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF%22%7D&rank=&style_id=40132&topic_id=7689972419951591434"
     },
     {
-      "title": "美中加强农业合作是双赢之举",
+      "title": "特朗普评中美会晤：满分10分我打12分",
       "platform": "百度热搜/头条",
-      "hot": "14926808",
-      "url": "https://www.toutiao.com/article/7690466603774820891"
+      "hot": "29698406",
+      "url": "https://www.toutiao.com/trending/7690091446392651839/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690091446392651839%22%2C%22hot_board_impr_id%22%3A%222026092919004719E40C6A84D218DC7FC6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%EF%BC%9A%E6%BB%A1%E5%88%8610%E5%88%86%E6%88%91%E6%89%9312%E5%88%86%22%7D&rank=&style_id=40132&topic_id=7690091446392651839"
     },
     {
-      "title": "王楚钦下领奖台迅速摘掉银牌离场",
+      "title": "今年我国粮食丰收在望",
       "platform": "百度热搜/头条",
-      "hot": "13506334",
-      "url": "https://www.toutiao.com/trending/7690764064175361587/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690764064175361587%22%2C%22hot_board_impr_id%22%3A%2220260929102120FE1AD72312249526BC9D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8B%E9%A2%86%E5%A5%96%E5%8F%B0%E8%BF%85%E9%80%9F%E6%91%98%E6%8E%89%E9%93%B6%E7%89%8C%E7%A6%BB%E5%9C%BA%22%7D&rank=&style_id=40132&topic_id=7690764064175361587"
+      "hot": "26872229",
+      "url": "https://www.toutiao.com/article/7690772313251316264"
     }
   ],
   "suggested_topics": [
     {
-      "title": "坚定不移贯彻总体国家安全观",
+      "title": "书写中美关系历史新篇",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "Tiffany中国区负责人致歉",
+      "title": "重磅！贷款买房国家贴息",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "羽毛球选手吐槽亚运会：要运动员的命",
+      "title": "中国最北高铁 正式开通",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "美民众热切期待见到“平平”“福双”",
+      "title": "未来五年 汽车产业迎来新图景",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "鲍师傅超长蛋挞 全是皮没蛋液",
+      "title": "羽毛球女双决赛太悲壮了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]

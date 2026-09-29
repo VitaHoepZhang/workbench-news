@@ -1,59 +1,26 @@
 {
-  "updated_at": "2026-09-29T10:21:23+08:00",
+  "updated_at": "2026-09-29T19:00:49+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3813.19,
-      "change": -10.43,
-      "pct": -0.27
+      "value": 3830.45,
+      "change": 6.83,
+      "pct": 0.18
     },
     {
       "name": "深证成指",
-      "value": 12851.27,
-      "change": -7.48,
-      "pct": -0.06
+      "value": 12901.95,
+      "change": 43.2,
+      "pct": 0.34
     },
     {
       "name": "创业板指",
-      "value": 3132.29,
-      "change": -7.53,
-      "pct": -0.24
+      "value": 3142.56,
+      "change": 2.74,
+      "pct": 0.09
     }
   ],
-  "sectors": [
-    {
-      "name": "文字媒体",
-      "change": 7.03
-    },
-    {
-      "name": "燃料电池",
-      "change": 6.71
-    },
-    {
-      "name": "视频媒体",
-      "change": 5.38
-    },
-    {
-      "name": "锂电专用设备",
-      "change": 4.96
-    },
-    {
-      "name": "数字媒体",
-      "change": 3.2
-    },
-    {
-      "name": "房地产综合服务",
-      "change": 3.13
-    },
-    {
-      "name": "电池",
-      "change": 2.95
-    },
-    {
-      "name": "蓄电池及其他电池",
-      "change": 2.86
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
