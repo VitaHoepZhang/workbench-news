@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:45:59+08:00",
+  "updated_at": "2026-09-30T09:41:39+08:00",
   "science": [
     {
       "title": "今日热点速览 · 三张照片 见证中美关系的刻度",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 房地产迎来史诗级大招",
-      "summary": "「房地产迎来史诗级大招」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 烈士纪念日向人民英雄敬献花篮",
+      "summary": "「烈士纪念日向人民英雄敬献花篮」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 于和伟获金鹰奖最佳男主角",
-      "summary": "「于和伟获金鹰奖最佳男主角」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 买房也有“国补”了",
+      "summary": "「买房也有“国补”了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "150 毫秒极速响应：OpenAI 推出 Decisions API，让 AI 从“聊天”走向“实时决策”",
-        "url": "https://www.ithome.com/1/008/531.htm",
-        "summary": "<p data-vmark=\"8037\">IT之家 9 月 30 日消息，在今天召开的 2026 开发者日活动中，OpenAI 宣布推出 Decisions API，这是一个面向实时、低延迟分类与路由场景的全新 API，<strong>可以",
+        "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+        "url": "https://www.ithome.com/1/008/589.htm",
+        "summary": "<p data-vmark=\"c826\">IT之家 9 月 30 日消息，随着 AI 巨头 Anthropic 筹备 IPO 上市，路透社查阅的文件显示，这家企业已经和 SpaceX 签署了价值数百亿美元的算力协议。SpaceX 完成 IP",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI 推出 ChatGPT 资料空间、动态页面、协作式幻灯片等 AI 协同工具",
-        "url": "https://www.ithome.com/1/008/530.htm",
-        "summary": "<p data-vmark=\"ffb8\">IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 推出了多个 AI 协同工具。IT之家汇总如下：</p><h",
+        "title": "赛睿正式推出 Sensei / Rival Pro 鼠标：UWB + 换电 + PAW3955",
+        "url": "https://www.ithome.com/1/008/588.htm",
+        "summary": "<p data-vmark=\"fe87\">IT之家 9 月 30 日消息，SteelSeries（赛睿）当地时间 29 日正式推出了新一代旗舰鼠标 Sensei &nbsp;Pro（对称）、Rival Pro（右手），均提供标准尺寸和 Mi",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI ChatGPT 账号变身“万能钥匙”：可一键登录网站，Notion / GitLab 率先接入",
-        "url": "https://www.ithome.com/1/008/529.htm",
-        "summary": "<p data-vmark=\"946d\">IT之家 9 月 30 日消息，在今天召开的 2026 开发者日活动中，OpenAI 推出“使用 ChatGPT 登录”（Sign in with ChatGPT）功能，<strong>支持用户直接",
+        "title": "全国铁路今天预计发送旅客 1976 万人次、加开列车 2053 列",
+        "url": "https://www.ithome.com/1/008/587.htm",
+        "summary": "<p data-vmark=\"0fae\">IT之家 9 月 30 日消息，央视新闻从国铁集团了解到，今天（9 月 30 日）全国铁路<strong>预计发送旅客 1976 万人次，预计加开列车 2053 列</strong>，热门线路加开夜",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化",
-        "url": "https://www.ithome.com/1/008/528.htm",
-        "summary": "<p data-vmark=\"d21f\">IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。</p><p data-vmark=\"0",
+        "title": "微信朋友圈贷款广告突然消失、花呗白条等必须和支付工具分开展示，金融产品网络营销新规今起实施",
+        "url": "https://www.ithome.com/1/008/586.htm",
+        "summary": "<p data-vmark=\"ff14\">IT之家 9 月 30 日消息，据央视新闻今日报道，最近朋友圈里那些喊着“秒批秒放”“低利率”的贷款广告突然消失了，不少搜索平台的贷款广告也看不到了，就连“贷款中介集体删除朋友圈”都冲上了热搜榜第一",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5",
-        "url": "https://www.ithome.com/1/008/527.htm",
-        "summary": "<p data-vmark=\"4180\">IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者活动日中，官方正式宣布推出 GPT-6.1 Sol 模型，在性能接近 Astra 的同时，其费用仅为 Astra 的五分之一，<st",
+        "title": "AT&T 与康宁达成超 30 亿美元光纤与电缆供应协议",
+        "url": "https://www.ithome.com/1/008/585.htm",
+        "summary": "<p data-vmark=\"b85b\">IT之家 9 月 30 日消息，美国电信运营商 AT&amp;T 当地时间 29 日宣布与 Corning（康宁）达成一项价值超过 30 亿美元<span class=\"exch-money-val",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
-        "url": "https://www.ithome.com/1/008/526.htm",
-        "summary": "<p data-vmark=\"526b\">IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。</p><p st",
+        "title": "赛力斯康波：问界充电权益正式接入宝马、奔驰合资共建的逸安启超充网络",
+        "url": "https://www.ithome.com/1/008/584.htm",
+        "summary": "<p data-vmark=\"cd43\">IT之家 9 月 30 日消息，今天（30 日）上午，赛力斯集团董事、副总裁康波宣布，即日起，问界充电权益正式接入宝马、奔驰合资共建的逸安启超充网络。</p><p data-vmark=\"da91\"",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,14 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+        "url": "https://sspai.com/post/115197",
+        "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。<a href=&#34;https://sspai.com/post/115197&#34; target=&#34;",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
         "url": "https://sspai.com/post/115153",
@@ -119,36 +127,17 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "基于 Termux 的 Android 手机开发服务器实操",
-        "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-        "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。<a href=&#34;https://sspai.com/prime/story/dev-env-on-android-with-termux&#34;",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「老板心疼加班员工要为其出8.8万彩礼」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://www.toutiao.com/trending/7690821129497264170/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690821129497264170%22%2C%22hot_board_impr_id%22%3A%22202609300941359632B681E3651D26A36A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E6%9D%BF%E5%BF%83%E7%96%BC%E5%8A%A0%E7%8F%AD%E5%91%98%E5%B7%A5%E8%A6%81%E4%B8%BA%E5%85%B6%E5%87%BA8.8%E4%B8%87%E5%BD%A9%E7%A4%BC%22%7D&rank=&style_id=40132&topic_id=7690821129497264170"
       }
     ]
   },
@@ -160,16 +149,16 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87+%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%BB%E5%BA%A6&sa=fyb_news"
     },
     {
-      "title": "房地产迎来史诗级大招",
+      "title": "烈士纪念日向人民英雄敬献花篮",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E6%8B%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE&sa=fyb_news"
     },
     {
-      "title": "于和伟获金鹰奖最佳男主角",
+      "title": "买房也有“国补”了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%B0%E6%88%BF%E4%B9%9F%E6%9C%89%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "中国已建成世界规模最大的教育体系",
@@ -178,46 +167,46 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&sa=fyb_news"
     },
     {
-      "title": "重大利好！央行“四箭齐发”",
+      "title": "空姐跪地道歉？东航客服回应",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%A9%BA%E5%A7%90%E8%B7%AA%E5%9C%B0%E9%81%93%E6%AD%89%EF%BC%9F%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "title": "金鹰奖获奖名单",
+      "title": "今天 念给你听这八个年轻的名字",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%87%91%E9%B9%B0%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%A4%A9+%E5%BF%B5%E7%BB%99%E4%BD%A0%E5%90%AC%E8%BF%99%E5%85%AB%E4%B8%AA%E5%B9%B4%E8%BD%BB%E7%9A%84%E5%90%8D%E5%AD%97&sa=fyb_news"
     },
     {
-      "title": "老人报警丢4万民警找出23万",
+      "title": "山河永念 我们从未忘记",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9C%AA%E5%BF%98%E8%AE%B0&sa=fyb_news"
     },
     {
-      "title": "“小孩姐”陈妤颉极限逆转",
+      "title": "25岁抗癌博主去世 常熬夜12点到2点",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%A7%90%E2%80%9D%E9%99%88%E5%A6%A4%E9%A2%89%E6%9E%81%E9%99%90%E9%80%86%E8%BD%AC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=25%E5%B2%81%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%8E%BB%E4%B8%96+%E5%B8%B8%E7%86%AC%E5%A4%9C12%E7%82%B9%E5%88%B02%E7%82%B9&sa=fyb_news"
     },
     {
-      "title": "《生命树》获金鹰奖最佳电视剧",
+      "title": "房地产迎来史诗级大招",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E7%94%9F%E5%91%BD%E6%A0%91%E3%80%8B%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E6%8B%9B&sa=fyb_news"
     },
     {
-      "title": "于和伟：奖项应该给吴石将军",
+      "title": "8天卖了1千多万元的超长蛋挞全是皮",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8E%E5%92%8C%E4%BC%9F%EF%BC%9A%E5%A5%96%E9%A1%B9%E5%BA%94%E8%AF%A5%E7%BB%99%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&sa=fyb_news"
     },
     {
-      "title": "充电器忘拔烧毁整个家",
+      "title": "江西师范迎新晚会女老师酷似刘亦菲",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E5%B8%88%E8%8C%83%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A%E5%A5%B3%E8%80%81%E5%B8%88%E9%85%B7%E4%BC%BC%E5%88%98%E4%BA%A6%E8%8F%B2&sa=fyb_news"
     },
     {
       "title": "网传“电竞将退出亚运会”不实",
@@ -226,21 +215,21 @@
       "url": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E7%AB%9E%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "房贷贴息",
+      "title": "老板心疼加班员工要为其出8.8万彩礼",
       "platform": "百度热搜/头条",
-      "hot": "19130868",
-      "url": "https://www.toutiao.com/trending/7689972419951591434/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689972419951591434%22%2C%22hot_board_impr_id%22%3A%222026093002455748E91BFC97B2D9D275C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF%22%7D&rank=&style_id=40132&topic_id=7689972419951591434"
+      "hot": "23864054",
+      "url": "https://www.toutiao.com/trending/7690821129497264170/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690821129497264170%22%2C%22hot_board_impr_id%22%3A%22202609300941359632B681E3651D26A36A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E6%9D%BF%E5%BF%83%E7%96%BC%E5%8A%A0%E7%8F%AD%E5%91%98%E5%B7%A5%E8%A6%81%E4%B8%BA%E5%85%B6%E5%87%BA8.8%E4%B8%87%E5%BD%A9%E7%A4%BC%22%7D&rank=&style_id=40132&topic_id=7690821129497264170"
     },
     {
-      "title": "宋佳金鹰奖最佳女主",
+      "title": "陈妤颉：3金1银我真牛啊",
       "platform": "百度热搜/头条",
-      "hot": "17310325",
-      "url": "https://www.toutiao.com/trending/7690477164835258404/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227690477164835258404%22%2C%22hot_board_impr_id%22%3A%222026093002455748E91BFC97B2D9D275C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%8B%E4%BD%B3%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%22%7D&rank=&style_id=40132&topic_id=7690477164835258404"
+      "hot": "21593089",
+      "url": "https://www.toutiao.com/trending/7691094430367125042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691094430367125042%22%2C%22hot_board_impr_id%22%3A%22202609300941359632B681E3651D26A36A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E5%A6%A4%E9%A2%89%EF%BC%9A3%E9%87%911%E9%93%B6%E6%88%91%E7%9C%9F%E7%89%9B%E5%95%8A%22%7D&rank=&style_id=40132&topic_id=7691094430367125042"
     },
     {
       "title": "人民英雄 永垂不朽",
       "platform": "百度热搜/头条",
-      "hot": "15663030",
+      "hot": "19538235",
       "url": "https://www.toutiao.com/article/7690868680439169570"
     }
   ],
@@ -250,11 +239,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "房地产迎来史诗级大招",
+      "title": "烈士纪念日向人民英雄敬献花篮",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "于和伟获金鹰奖最佳男主角",
+      "title": "买房也有“国补”了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +251,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "重大利好！央行“四箭齐发”",
+      "title": "空姐跪地道歉？东航客服回应",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
