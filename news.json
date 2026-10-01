@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-01T09:38:29+08:00",
+  "updated_at": "2026-10-01T19:17:55+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 国庆77周年招待会在京举行",
-      "summary": "「国庆77周年招待会在京举行」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 伟大的中华人民共和国万岁！",
+      "summary": "「伟大的中华人民共和国万岁！」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 这就是中国排面！国旗护卫队步步铿锵",
-      "summary": "「这就是中国排面！国旗护卫队步步铿锵」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 游客躲避人潮 反向涌入小县城",
+      "summary": "「游客躲避人潮 反向涌入小县城」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 为看升旗 天安门前长队一眼望不到头",
-      "summary": "「为看升旗 天安门前长队一眼望不到头」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 张译在人民日报撰文",
+      "summary": "「张译在人民日报撰文」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 感受各地浓厚国庆氛围",
-      "summary": "「感受各地浓厚国庆氛围」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 今天一起感受最美中国红",
+      "summary": "「今天一起感受最美中国红」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,7 +29,15 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：小米超 4 万台，华境 S 大六座 SUV 交付 7416 台",
+        "title": "育碧公布新品牌：创意事业部 2 更名 Massive Entertainment，统一管理多款知名 IP",
+        "url": "https://www.ithome.com/1/009/135.htm",
+        "summary": "<p data-vmark=\"e5df\">IT之家 10 月 1 日消息，育碧于当地时间 9 月 30 日宣布将开发部门“创意事业部 2”（Creative House 2）正式更名为“Massive Entertainment”，并启用全",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：吉利 29.2 万辆，比亚迪超 46 万辆",
         "url": "https://www.ithome.com/1/008/990.htm",
         "summary": "<p data-vmark=\"2d73\">IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。</p><ul class=\" list-paddinglef",
         "source": "IT之家",
@@ -37,41 +45,33 @@
         "heat": "高"
       },
       {
-        "title": "黑爵带来 AJ159 V2 ULTRA 鼠标：PAW3955，换电设计，319 元起",
-        "url": "https://www.ithome.com/1/008/931.htm",
-        "summary": "<p data-vmark=\"f94e\" style=\"text-align: justify;\">IT之家 9 月 30 日消息，黑爵 (AJAZZ) 近日带来了 AJ159 V2 ULTRA 三模鼠标。这一型号采用对称式模具，质量 54",
+        "title": "吉利汽车 9 月销量 29.2 万辆，同比增长约 7%",
+        "url": "https://www.ithome.com/1/009/133.htm",
+        "summary": "<p data-vmark=\"1e86\">IT之家 10 月 1 日消息，吉利汽车今日发布未经审核之 2026 年 9 月销量，共销售汽车 292,168 辆，较去年同期增长约 7%。</p><p data-vmark=\"ed94\">IT之",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "HAVN HS 360 机箱发售：标准版 999 元，VGPU 套装 1499 元",
-        "url": "https://www.ithome.com/1/008/989.htm",
-        "summary": "<p data-vmark=\"84e9\">IT之家 10 月 1 日消息，HAVN（辉帆）现已在电商平台销售 HS 360 机箱，标准版 999 元、显卡竖装套件（含 PCIe Gen5 延长线、风道导流板）的 VGPU 套装 1499 元",
+        "title": "华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约",
+        "url": "https://www.ithome.com/1/009/131.htm",
+        "summary": "<p data-vmark=\"ad71\">IT之家 10 月 1 日消息，鸿蒙智行官方刚刚宣布华为与赛力斯达成新的五年合作。据介绍，目前问界用户已突破 120 万。</p><p data-vmark=\"62bb\">9 月 30 日，鸿蒙智行",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Take-Two 新协议曝光：XBOX“Project Helix”并非单台主机，而是硬件全家桶",
-        "url": "https://www.ithome.com/1/008/988.htm",
-        "summary": "<p data-vmark=\"61a0\">IT之家 10 月 1 日消息，《GTA 6》的发行商 Take‑Two 已经签署了一份全新协议。根据这份协议，Take‑Two 有权在全部 XBOX 设备上制作并销售适配 XBOX 平台的新款游戏",
+        "title": "2GB 版树莓派 4 与树莓派 5 售价双双上调 12.5 美元，涨幅最高约 22.7%",
+        "url": "https://www.ithome.com/1/009/130.htm",
+        "summary": "<p data-vmark=\"2243\">IT之家 10 月 1 日消息，树莓派今天宣布 2GB 内存版树莓派 4、树莓派 5 单板电脑涨价。两款型号售价均上调 12.5 美元<span class=\"exch-money-value\">（",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术",
-        "url": "https://www.ithome.com/1/008/940.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 9 月 30 日消息，谷歌今日推出 <strong>SynthID Bio</strong>，将数字水印技术引入合成生物学领域。该技术可将不可感知的签名直接嵌入生物编码，不仅能在数字模型上",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "华境 S 大六座 SUV 9 月交付 7416 台：连续 5 个月增长，标配华为乾崑智驾 ADS 5 Pro",
-        "url": "https://www.ithome.com/1/008/985.htm",
-        "summary": "<p data-vmark=\"cb75\">IT之家 10 月 1 日消息，华境汽车官方今日宣布，<strong>旗下华境 S 大六座 SUV 9 月交付 7416 台</strong>。该车标配华为乾崑智驾 ADS 5 Pro，实现连续 5",
+        "title": "比亚迪 9 月汽车销量 463561 辆同比增长 16.98%：今年累计销量 313 万辆，方程豹 43181 辆同比暴涨 79%",
+        "url": "https://www.ithome.com/1/009/129.htm",
+        "summary": "<p data-vmark=\"33da\">IT之家 10 月 1 日消息，比亚迪刚刚公布了最新的 2026 年 9 月产销数据。当月新能源汽车销量为 463,561 辆同比增长 16.98%，其中乘用车 456,713 辆，商用车 6,84",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,125 +133,136 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「喝无醇啤酒开车不算酒驾？不实」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%96%9D%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%BC%80%E8%BD%A6%E4%B8%8D%E7%AE%97%E9%85%92%E9%A9%BE%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "国庆77周年招待会在京举行",
+      "title": "伟大的中华人民共和国万岁！",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%81&sa=fyb_news"
     },
     {
-      "title": "这就是中国排面！国旗护卫队步步铿锵",
+      "title": "游客躲避人潮 反向涌入小县城",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%EF%BC%81%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E6%AD%A5%E6%AD%A5%E9%93%BF%E9%94%B5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E8%BA%B2%E9%81%BF%E4%BA%BA%E6%BD%AE+%E5%8F%8D%E5%90%91%E6%B6%8C%E5%85%A5%E5%B0%8F%E5%8E%BF%E5%9F%8E&sa=fyb_news"
     },
     {
-      "title": "为看升旗 天安门前长队一眼望不到头",
+      "title": "张译在人民日报撰文",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E7%9C%8B%E5%8D%87%E6%97%97+%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%95%BF%E9%98%9F%E4%B8%80%E7%9C%BC%E6%9C%9B%E4%B8%8D%E5%88%B0%E5%A4%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E8%AF%91%E5%9C%A8%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%92%B0%E6%96%87&sa=fyb_news"
     },
     {
-      "title": "感受各地浓厚国庆氛围",
+      "title": "今天一起感受最美中国红",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%84%9F%E5%8F%97%E5%90%84%E5%9C%B0%E6%B5%93%E5%8E%9A%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%84%9F%E5%8F%97%E6%9C%80%E7%BE%8E%E4%B8%AD%E5%9B%BD%E7%BA%A2&sa=fyb_news"
     },
     {
-      "title": "美国6只熊猫 日本0只",
+      "title": "昔日明星电动车彻底卖不动了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%BB%E5%BA%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "今年国庆档 没有铺天盖地的切片",
+      "title": "华为与赛力斯达成新五年合作",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%A1%A3+%E6%B2%A1%E6%9C%89%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0%E7%9A%84%E5%88%87%E7%89%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C&sa=fyb_news"
     },
     {
-      "title": "雷军带火的11元早餐3个月了还在排队",
+      "title": "村里开免费食堂 老人却抢着“倒贴”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%B8%A6%E7%81%AB%E7%9A%8411%E5%85%83%E6%97%A9%E9%A4%903%E4%B8%AA%E6%9C%88%E4%BA%86%E8%BF%98%E5%9C%A8%E6%8E%92%E9%98%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%91%E9%87%8C%E5%BC%80%E5%85%8D%E8%B4%B9%E9%A3%9F%E5%A0%82+%E8%80%81%E4%BA%BA%E5%8D%B4%E6%8A%A2%E7%9D%80%E2%80%9C%E5%80%92%E8%B4%B4%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "我爱你中国！庆祝新中国成立77周年",
+      "title": "多位球星点赞C罗退集训声明",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%EF%BC%81%E5%BA%86%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E4%BD%8D%E7%90%83%E6%98%9F%E7%82%B9%E8%B5%9EC%E7%BD%97%E9%80%80%E9%9B%86%E8%AE%AD%E5%A3%B0%E6%98%8E&sa=fyb_news"
     },
     {
-      "title": "这是中国人独有的浪漫",
+      "title": "被汉口江滩的无人机表演震撼到了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E6%B1%89%E5%8F%A3%E6%B1%9F%E6%BB%A9%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "U23国足主帅回应韩国球员疑似手球",
+      "title": "原来升旗仪式是这样切换的",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=U23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E7%90%83%E5%91%98%E7%96%91%E4%BC%BC%E6%89%8B%E7%90%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E6%98%AF%E8%BF%99%E6%A0%B7%E5%88%87%E6%8D%A2%E7%9A%84&sa=fyb_news"
     },
     {
-      "title": "周深人民日报撰文",
+      "title": "爸爸扛60多斤女儿30多分钟看升旗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%B7%B1%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%92%B0%E6%96%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF30%E5%A4%9A%E5%88%86%E9%92%9F%E7%9C%8B%E5%8D%87%E6%97%97&sa=fyb_news"
     },
     {
-      "title": "喝无醇啤酒开车不算酒驾？不实",
+      "title": "绵阳越王楼将被拆除？不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%96%9D%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%BC%80%E8%BD%A6%E4%B8%8D%E7%AE%97%E9%85%92%E9%A9%BE%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "天安门广场国庆升旗仪式",
+      "title": "中国人一放假全世界都知道了",
       "platform": "百度热搜/头条",
-      "hot": "29554378",
-      "url": "https://www.toutiao.com/trending/7691465972502253098/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691465972502253098%22%2C%22hot_board_impr_id%22%3A%22202610010938258C3CB9AEAAD5E44B2A5D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%22%7D&rank=&style_id=40132&topic_id=7691465972502253098"
+      "hot": "18719970",
+      "url": "https://www.toutiao.com/trending/7691263214683963438/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691263214683963438%22%2C%22hot_board_impr_id%22%3A%2220261001191753A6CE5A3732E22C7CBBDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E6%94%BE%E5%81%87%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7691263214683963438"
     },
     {
-      "title": "成都天府广场4万余人观看升旗仪式",
+      "title": "余承东：华为已实现连续可变光圈",
       "platform": "百度热搜/头条",
-      "hot": "26741907",
-      "url": "https://www.toutiao.com/trending/7691286887235878975/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691286887235878975%22%2C%22hot_board_impr_id%22%3A%22202610010938258C3CB9AEAAD5E44B2A5D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%B9%BF%E5%9C%BA4%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%9C%8B%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%22%7D&rank=&style_id=40132&topic_id=7691286887235878975"
+      "hot": "16938529",
+      "url": "https://www.toutiao.com/trending/7691034688252641306/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691034688252641306%22%2C%22hot_board_impr_id%22%3A%2220261001191753A6CE5A3732E22C7CBBDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E5%8D%8E%E4%B8%BA%E5%B7%B2%E5%AE%9E%E7%8E%B0%E8%BF%9E%E7%BB%AD%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7691034688252641306"
     },
     {
-      "title": "清澈的爱，只为中国！",
+      "title": "我国秋粮开始大面积收获",
       "platform": "百度热搜/头条",
-      "hot": "24197078",
-      "url": "https://www.toutiao.com/article/7691193915227914802"
+      "hot": "15326615",
+      "url": "https://www.toutiao.com/article/7691569796610671145"
     }
   ],
   "suggested_topics": [
     {
-      "title": "国庆77周年招待会在京举行",
+      "title": "伟大的中华人民共和国万岁！",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "这就是中国排面！国旗护卫队步步铿锵",
+      "title": "游客躲避人潮 反向涌入小县城",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "为看升旗 天安门前长队一眼望不到头",
+      "title": "张译在人民日报撰文",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "感受各地浓厚国庆氛围",
+      "title": "今天一起感受最美中国红",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "美国6只熊猫 日本0只",
+      "title": "昔日明星电动车彻底卖不动了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
