@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-01T19:17:55+08:00",
+  "updated_at": "2026-10-02T02:57:52+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 伟大的中华人民共和国万岁！",
-      "summary": "「伟大的中华人民共和国万岁！」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 跟着习近平总书记一起唱响《歌唱祖国》",
+      "summary": "「跟着习近平总书记一起唱响《歌唱祖国》」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 游客躲避人潮 反向涌入小县城",
-      "summary": "「游客躲避人潮 反向涌入小县城」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 我们的飞机不用再飞第二遍了",
+      "summary": "「我们的飞机不用再飞第二遍了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 张译在人民日报撰文",
-      "summary": "「张译在人民日报撰文」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 一时恍惚分不清是在中国还是在澳洲",
+      "summary": "「一时恍惚分不清是在中国还是在澳洲」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 今天一起感受最美中国红",
-      "summary": "「今天一起感受最美中国红」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国人专属仪式感",
+      "summary": "「中国人专属仪式感」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "育碧公布新品牌：创意事业部 2 更名 Massive Entertainment，统一管理多款知名 IP",
-        "url": "https://www.ithome.com/1/009/135.htm",
-        "summary": "<p data-vmark=\"e5df\">IT之家 10 月 1 日消息，育碧于当地时间 9 月 30 日宣布将开发部门“创意事业部 2”（Creative House 2）正式更名为“Massive Entertainment”，并启用全",
+        "title": "长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%",
+        "url": "https://www.ithome.com/1/009/170.htm",
+        "summary": "<p data-vmark=\"ac62\">IT之家 10 月 1 日消息，长安汽车 9 月交付 22.89 万辆新车，其中海外交付 96200 辆同比增长 73.8%。IT之家从官方获悉，长安汽车 9 月交付新能源汽车 113200 辆，同",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：吉利 29.2 万辆，比亚迪超 46 万辆",
-        "url": "https://www.ithome.com/1/008/990.htm",
-        "summary": "<p data-vmark=\"2d73\">IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。</p><ul class=\" list-paddinglef",
+        "title": "英伟达为 GTX 700-10 系显卡发布 582.78 安全更新，修复 114 个漏洞",
+        "url": "https://www.ithome.com/1/009/169.htm",
+        "summary": "<p data-vmark=\"2bb5\">IT之家 10 月 1 日消息，英伟达于当地时间 30 日推出 GeForce 安全更新驱动程序 582.78，适用于 Maxwell、Pascal 和 Volta 架构显卡，涵盖 GTX 700 ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "吉利汽车 9 月销量 29.2 万辆，同比增长约 7%",
-        "url": "https://www.ithome.com/1/009/133.htm",
-        "summary": "<p data-vmark=\"1e86\">IT之家 10 月 1 日消息，吉利汽车今日发布未经审核之 2026 年 9 月销量，共销售汽车 292,168 辆，较去年同期增长约 7%。</p><p data-vmark=\"ed94\">IT之",
+        "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
+        "url": "https://www.ithome.com/1/009/167.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。</p>",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约",
-        "url": "https://www.ithome.com/1/009/131.htm",
-        "summary": "<p data-vmark=\"ad71\">IT之家 10 月 1 日消息，鸿蒙智行官方刚刚宣布华为与赛力斯达成新的五年合作。据介绍，目前问界用户已突破 120 万。</p><p data-vmark=\"62bb\">9 月 30 日，鸿蒙智行",
+        "title": "2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万",
+        "url": "https://www.ithome.com/1/009/168.htm",
+        "summary": "<p data-vmark=\"897f\">IT之家 10 月 1 日消息，2026 年 9 月汽车销量 / 交付数据现已陆续公布。比亚迪拿出交付 463,561 辆的答卷，<strong>继续稳坐头把交椅</strong>。上汽集团凭销售 ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "2GB 版树莓派 4 与树莓派 5 售价双双上调 12.5 美元，涨幅最高约 22.7%",
-        "url": "https://www.ithome.com/1/009/130.htm",
-        "summary": "<p data-vmark=\"2243\">IT之家 10 月 1 日消息，树莓派今天宣布 2GB 内存版树莓派 4、树莓派 5 单板电脑涨价。两款型号售价均上调 12.5 美元<span class=\"exch-money-value\">（",
+        "title": "华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能",
+        "url": "https://www.ithome.com/1/009/166.htm",
+        "summary": "<p data-vmark=\"28ef\">IT之家 10 月 1 日消息，华为官方宣布，Pura 70 Pro / Pro+ / Ultra 机型迎来了鸿蒙 <strong>HarmonyOS 7.0.0.109SP8</strong> 版",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "比亚迪 9 月汽车销量 463561 辆同比增长 16.98%：今年累计销量 313 万辆，方程豹 43181 辆同比暴涨 79%",
-        "url": "https://www.ithome.com/1/009/129.htm",
-        "summary": "<p data-vmark=\"33da\">IT之家 10 月 1 日消息，比亚迪刚刚公布了最新的 2026 年 9 月产销数据。当月新能源汽车销量为 463,561 辆同比增长 16.98%，其中乘用车 456,713 辆，商用车 6,84",
+        "title": "奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组",
+        "url": "https://www.ithome.com/1/009/165.htm",
+        "summary": "<p data-vmark=\"a993\">IT之家 10 月 1 日消息，奇安信旗下盘古石取证团队昨日宣布，盘古石手机取证 R8.8.0 版本完成多项升级，围绕提取、解析、安全管控三大方向进行更新。</p><p data-vmark=\"e2",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -154,28 +154,28 @@
   },
   "hot_topics": [
     {
-      "title": "伟大的中华人民共和国万岁！",
+      "title": "跟着习近平总书记一起唱响《歌唱祖国》",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B7%9F%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E8%B5%B7%E5%94%B1%E5%93%8D%E3%80%8A%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%E3%80%8B&sa=fyb_news"
     },
     {
-      "title": "游客躲避人潮 反向涌入小县城",
+      "title": "我们的飞机不用再飞第二遍了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E8%BA%B2%E9%81%BF%E4%BA%BA%E6%BD%AE+%E5%8F%8D%E5%90%91%E6%B6%8C%E5%85%A5%E5%B0%8F%E5%8E%BF%E5%9F%8E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%88%91%E4%BB%AC%E7%9A%84%E9%A3%9E%E6%9C%BA%E4%B8%8D%E7%94%A8%E5%86%8D%E9%A3%9E%E7%AC%AC%E4%BA%8C%E9%81%8D%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "张译在人民日报撰文",
+      "title": "一时恍惚分不清是在中国还是在澳洲",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BC%A0%E8%AF%91%E5%9C%A8%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%92%B0%E6%96%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%97%B6%E6%81%8D%E6%83%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%9C%A8%E6%BE%B3%E6%B4%B2&sa=fyb_news"
     },
     {
-      "title": "今天一起感受最美中国红",
+      "title": "中国人专属仪式感",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8A%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%84%9F%E5%8F%97%E6%9C%80%E7%BE%8E%E4%B8%AD%E5%9B%BD%E7%BA%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%93%E5%B1%9E%E4%BB%AA%E5%BC%8F%E6%84%9F&sa=fyb_news"
     },
     {
       "title": "昔日明星电动车彻底卖不动了",
@@ -184,40 +184,40 @@
       "url": "https://m.baidu.com/s?word=%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%BB%E5%BA%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "华为与赛力斯达成新五年合作",
+      "title": "13岁男孩2小时手搓爱国电视机",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E4%B8%8E%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%BE%BE%E6%88%90%E6%96%B0%E4%BA%94%E5%B9%B4%E5%90%88%E4%BD%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A92%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E7%88%B1%E5%9B%BD%E7%94%B5%E8%A7%86%E6%9C%BA&sa=fyb_news"
     },
     {
-      "title": "村里开免费食堂 老人却抢着“倒贴”",
+      "title": "中方敦促日方严惩凶犯",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%91%E9%87%8C%E5%BC%80%E5%85%8D%E8%B4%B9%E9%A3%9F%E5%A0%82+%E8%80%81%E4%BA%BA%E5%8D%B4%E6%8A%A2%E7%9D%80%E2%80%9C%E5%80%92%E8%B4%B4%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E4%B8%A5%E6%83%A9%E5%87%B6%E7%8A%AF&sa=fyb_news"
     },
     {
-      "title": "多位球星点赞C罗退集训声明",
+      "title": "高速服务区新能源车充电像排队打饭",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E4%BD%8D%E7%90%83%E6%98%9F%E7%82%B9%E8%B5%9EC%E7%BD%97%E9%80%80%E9%9B%86%E8%AE%AD%E5%A3%B0%E6%98%8E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD&sa=fyb_news"
     },
     {
-      "title": "被汉口江滩的无人机表演震撼到了",
+      "title": "闪身步已经闪到台湾了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E6%B1%89%E5%8F%A3%E6%B1%9F%E6%BB%A9%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%97%AA%E8%BA%AB%E6%AD%A5%E5%B7%B2%E7%BB%8F%E9%97%AA%E5%88%B0%E5%8F%B0%E6%B9%BE%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "原来升旗仪式是这样切换的",
+      "title": "C罗退队惊动葡萄牙总理",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%E6%98%AF%E8%BF%99%E6%A0%B7%E5%88%87%E6%8D%A2%E7%9A%84&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86&sa=fyb_news"
     },
     {
-      "title": "爸爸扛60多斤女儿30多分钟看升旗",
+      "title": "爸爸扛60多斤女儿看升旗硬扛30多分钟",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF30%E5%A4%9A%E5%88%86%E9%92%9F%E7%9C%8B%E5%8D%87%E6%97%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%89%9B60%E5%A4%9A%E6%96%A4%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%8D%87%E6%97%97%E7%A1%AC%E6%89%9B30%E5%A4%9A%E5%88%86%E9%92%9F&sa=fyb_news"
     },
     {
       "title": "绵阳越王楼将被拆除？不实",
@@ -226,39 +226,39 @@
       "url": "https://m.baidu.com/s?word=%E7%BB%B5%E9%98%B3%E8%B6%8A%E7%8E%8B%E6%A5%BC%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "中国人一放假全世界都知道了",
+      "title": "国庆出行有车辆仅剩1%电量后“趴窝”",
       "platform": "百度热搜/头条",
-      "hot": "18719970",
-      "url": "https://www.toutiao.com/trending/7691263214683963438/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691263214683963438%22%2C%22hot_board_impr_id%22%3A%2220261001191753A6CE5A3732E22C7CBBDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E6%94%BE%E5%81%87%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7691263214683963438"
+      "hot": "27568962",
+      "url": "https://www.toutiao.com/trending/7691309888852672554/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691309888852672554%22%2C%22hot_board_impr_id%22%3A%222026100202575038EADED44E1E15877791%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E6%9C%89%E8%BD%A6%E8%BE%86%E4%BB%85%E5%89%A91%25%E7%94%B5%E9%87%8F%E5%90%8E%E2%80%9C%E8%B6%B4%E7%AA%9D%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7691309888852672554"
     },
     {
-      "title": "余承东：华为已实现连续可变光圈",
+      "title": "华为赛力斯为何光速“复合”",
       "platform": "百度热搜/头条",
-      "hot": "16938529",
-      "url": "https://www.toutiao.com/trending/7691034688252641306/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691034688252641306%22%2C%22hot_board_impr_id%22%3A%2220261001191753A6CE5A3732E22C7CBBDD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E5%8D%8E%E4%B8%BA%E5%B7%B2%E5%AE%9E%E7%8E%B0%E8%BF%9E%E7%BB%AD%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7691034688252641306"
+      "hot": "24945428",
+      "url": "https://www.toutiao.com/trending/7691705577122041385/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691705577122041385%22%2C%22hot_board_impr_id%22%3A%222026100202575038EADED44E1E15877791%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E4%B8%BA%E4%BD%95%E5%85%89%E9%80%9F%E2%80%9C%E5%A4%8D%E5%90%88%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7691705577122041385"
     },
     {
-      "title": "我国秋粮开始大面积收获",
+      "title": "五星红旗映亮万里山河",
       "platform": "百度热搜/头条",
-      "hot": "15326615",
-      "url": "https://www.toutiao.com/article/7691569796610671145"
+      "hot": "22571557",
+      "url": "https://www.toutiao.com/article/7691451897554698798"
     }
   ],
   "suggested_topics": [
     {
-      "title": "伟大的中华人民共和国万岁！",
+      "title": "跟着习近平总书记一起唱响《歌唱祖国》",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "游客躲避人潮 反向涌入小县城",
+      "title": "我们的飞机不用再飞第二遍了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "张译在人民日报撰文",
+      "title": "一时恍惚分不清是在中国还是在澳洲",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "今天一起感受最美中国红",
+      "title": "中国人专属仪式感",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
