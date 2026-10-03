@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-03T09:30:33+08:00",
+  "updated_at": "2026-10-03T18:09:43+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 迈步新征程 我们自信而笃行",
-      "summary": "「迈步新征程 我们自信而笃行」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “人民就是江山”",
+      "summary": "「“人民就是江山”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 中国男足争亚运铜牌",
-      "summary": "「中国男足争亚运铜牌」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国男足时隔28年再夺亚运铜牌",
+      "summary": "「中国男足时隔28年再夺亚运铜牌」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · “人造太阳”距离点亮万家灯火有多远",
-      "summary": "「“人造太阳”距离点亮万家灯火有多远」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 景区冤种三件套 年轻人只薅不买了",
+      "summary": "「景区冤种三件套 年轻人只薅不买了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 万里边关 同升五星红旗",
-      "summary": "「万里边关 同升五星红旗」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 游客眼里的中国范儿",
+      "summary": "「游客眼里的中国范儿」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "因内存等成本暴涨，英伟达标准版 Shield TV 停产、Pro 版涨价 50%",
-        "url": "https://www.ithome.com/1/009/396.htm",
-        "summary": "<p data-vmark=\"75c3\">IT之家 10 月 3 日消息，科技媒体 Wccftech 昨日（10 月 2 日）发布博文，报道称由于内存等相关组件成本上涨，<strong>英伟达宣布停止生产标准版 Shield TV，并将 S",
+        "title": "大航跃迁自研 150 吨级火箭发动机“擎宇-11”完成核心部件研制与试验",
+        "url": "https://www.ithome.com/1/009/526.htm",
+        "summary": "<p data-vmark=\"84b7\">IT之家 10 月 3 日消息，大航跃迁今日宣布，近日，大航跃迁自研 150 吨级液氧甲烷发动机“擎宇-11”配套阀门顺利完成设计、生产及全工况地面试验，各项性能指标全部达标，<strong>实现动",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "配合宣传《GTA 6》，NBA 迈阿密热火队 11 月将以“罪城”之名出战",
-        "url": "https://www.ithome.com/1/009/395.htm",
-        "summary": "<p data-vmark=\"6481\">IT之家 10 月 3 日消息，据外媒 VGC 今天（3 日）报道，NBA 球队迈阿密热火将配合宣传《GTA 6》，以“罪城”之名出战。</p><p data-vmark=\"3e58\">名为“罪城之",
+        "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
+        "url": "https://www.ithome.com/1/009/522.htm",
+        "summary": "<p data-vmark=\"cae1\">IT之家 10 月 3 日消息，据央视新闻今日报道，目前正值国庆假期出行高峰，机场客流量大幅攀升，人员密集区域手机信号拥堵、流量消耗加快，成为不少旅客的困扰。但其实像首都机场、大兴机场等不少机场都为",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称适马将推出 50-120mm F2.8 APS-C 相机镜头",
-        "url": "https://www.ithome.com/1/009/394.htm",
-        "summary": "<p data-vmark=\"cd2e\">IT之家 10 月 3 日消息，据 Sony Alpha Rumors 消息，适马（Sigma）即将于 10 月 8 日推出新款 <strong>50-120mm f/2.8 APS-C 画幅镜头<",
+        "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
+        "url": "https://www.ithome.com/1/009/521.htm",
+        "summary": "<p data-vmark=\"e5d6\">IT之家 10 月 3 日消息，AMD 当地时间本月 1 日宣布向航天客户交付 Versal AI Core XQRVC1902 自适应 SoC 的早期样品。</p><p data-vmark=\"2",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
-        "url": "https://www.ithome.com/1/009/393.htm",
-        "summary": "<p data-vmark=\"e9a1\">IT之家 10 月 3 日消息，数码博主 @i冰宇宙 昨日（10 月 2 日）发布博文，表示：“三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核",
+        "title": "戴尔推出 2 款强固型笔电，搭载第 3 代英特尔酷睿 Ultra 处理器",
+        "url": "https://www.ithome.com/1/009/520.htm",
+        "summary": "<p data-vmark=\"274e\">IT之家 10 月 3 日消息，Dell（戴尔）当地时间本月 6 日<sub>（IT之家注：此为原始新闻稿标注时间）</sub>宣布推出 2 款基于第 3 代英特尔酷睿 Ultra 处理器的强固型笔",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "最高冲上 1200 马力，保时捷高性能纯电卡宴 Coupe 谍照曝光",
-        "url": "https://www.ithome.com/1/009/392.htm",
-        "summary": "<p data-vmark=\"63b6\">IT之家 10 月 3 日消息，保时捷今年早些时候推出了纯电动卡宴 Coupe，共提供三个版本。入门版最大功率 325kW（442 马力），S 版提升至 490kW（666 马力），Turbo 版则",
+        "title": "《黄金矿工：派对狂欢》将于 11 月 17 日登陆 Steam，支持 2–6 人多人在线游戏",
+        "url": "https://www.ithome.com/1/009/518.htm",
+        "summary": "<p data-vmark=\"1c80\">IT之家 10 月 3 日消息，《黄金矿工》新作《黄金矿工：派对狂欢》将于 11 月 17 日登陆 Steam 平台，支持 2–6 人在线多人、简体中文界面，将经典黄金矿工的抓钩玩法带入正面对决的全",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "微软工程师探究 Win11 滚动条“Shift+ 点击”直达操作，因生态碎片化应用无法完全支持",
-        "url": "https://www.ithome.com/1/009/391.htm",
-        "summary": "<p data-vmark=\"8e16\">IT之家 10 月 3 日消息，微软资深 Windows 工程师 Raymond Chen 于 9 月 22 日在其 The Old New Thing 博客上发布博文，<strong>指出用户无需",
+        "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
+        "url": "https://www.ithome.com/1/009/517.htm",
+        "summary": "<p data-vmark=\"4f6a\">IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / G",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +80,14 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+        "url": "https://sspai.com/post/114922",
+        "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。<a href=&#34;https://sspai.com/post/114922&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "本周看什么 | 最近值得一看的 8 部作品",
         "url": "https://sspai.com/post/115211",
@@ -119,14 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-        "url": "https://sspai.com/post/115153",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "迈步新征程 我们自信而笃行",
+      "title": "“人民就是江山”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%88%E6%AD%A5%E6%96%B0%E5%BE%81%E7%A8%8B+%E6%88%91%E4%BB%AC%E8%87%AA%E4%BF%A1%E8%80%8C%E7%AC%83%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%98%AF%E6%B1%9F%E5%B1%B1%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "中国男足争亚运铜牌",
+      "title": "中国男足时隔28年再夺亚运铜牌",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%BA%89%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
     },
     {
-      "title": "“人造太阳”距离点亮万家灯火有多远",
+      "title": "景区冤种三件套 年轻人只薅不买了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E8%B7%9D%E7%A6%BB%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E5%86%A4%E7%A7%8D%E4%B8%89%E4%BB%B6%E5%A5%97+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AA%E8%96%85%E4%B8%8D%E4%B9%B0%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "万里边关 同升五星红旗",
+      "title": "游客眼里的中国范儿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%87%E9%87%8C%E8%BE%B9%E5%85%B3+%E5%90%8C%E5%8D%87%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E7%9C%BC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8C%83%E5%84%BF&sa=fyb_news"
     },
     {
-      "title": "“这是国际社会前所未闻的恶性事件”",
+      "title": "游客晕倒 雪饼猴急得摘头套疏散人群",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%99%E6%98%AF%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%89%8D%E6%89%80%E6%9C%AA%E9%97%BB%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E6%99%95%E5%80%92+%E9%9B%AA%E9%A5%BC%E7%8C%B4%E6%80%A5%E5%BE%97%E6%91%98%E5%A4%B4%E5%A5%97%E7%96%8F%E6%95%A3%E4%BA%BA%E7%BE%A4&sa=fyb_news"
     },
     {
-      "title": "刺伤迪拜航空机长的副驾驶身份披露",
+      "title": "自驾回家车主：回程或要弃车打飞的",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%BA%E4%BC%A4%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%9C%BA%E9%95%BF%E7%9A%84%E5%89%AF%E9%A9%BE%E9%A9%B6%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%87%AA%E9%A9%BE%E5%9B%9E%E5%AE%B6%E8%BD%A6%E4%B8%BB%EF%BC%9A%E5%9B%9E%E7%A8%8B%E6%88%96%E8%A6%81%E5%BC%83%E8%BD%A6%E6%89%93%E9%A3%9E%E7%9A%84&sa=fyb_news"
     },
     {
-      "title": "吃自助被送急诊 胃里取出3斤残渣",
+      "title": "国足0-5惨败巴勒斯坦 现场球迷怒斥",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%90%83%E8%87%AA%E5%8A%A9%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A+%E8%83%83%E9%87%8C%E5%8F%96%E5%87%BA3%E6%96%A4%E6%AE%8B%E6%B8%A3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30-5%E6%83%A8%E8%B4%A5%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6+%E7%8E%B0%E5%9C%BA%E7%90%83%E8%BF%B7%E6%80%92%E6%96%A5&sa=fyb_news"
     },
     {
-      "title": "朝鲜：永远关闭南部边境避免接触韩国",
+      "title": "国庆档票房破5亿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%9D%E9%B2%9C%EF%BC%9A%E6%B0%B8%E8%BF%9C%E5%85%B3%E9%97%AD%E5%8D%97%E9%83%A8%E8%BE%B9%E5%A2%83%E9%81%BF%E5%85%8D%E6%8E%A5%E8%A7%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF&sa=fyb_news"
     },
     {
-      "title": "女子查出癌症花光积蓄旅游肿瘤变小",
+      "title": "郑钦文发球还是太权威了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%97%85%E6%B8%B8%E8%82%BF%E7%98%A4%E5%8F%98%E5%B0%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%8F%91%E7%90%83%E8%BF%98%E6%98%AF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "曲棍球队姑娘们赛后都哭了",
+      "title": "安东尼奥大概率留任国奥主帅",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9B%B2%E6%A3%8D%E7%90%83%E9%98%9F%E5%A7%91%E5%A8%98%E4%BB%AC%E8%B5%9B%E5%90%8E%E9%83%BD%E5%93%AD%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E5%A4%A7%E6%A6%82%E7%8E%87%E7%95%99%E4%BB%BB%E5%9B%BD%E5%A5%A5%E4%B8%BB%E5%B8%85&sa=fyb_news"
     },
     {
-      "title": "巴勒斯坦男足目前没有主场",
+      "title": "李昊 点球专家",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%94%B7%E8%B6%B3%E7%9B%AE%E5%89%8D%E6%B2%A1%E6%9C%89%E4%B8%BB%E5%9C%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E6%98%8A+%E7%82%B9%E7%90%83%E4%B8%93%E5%AE%B6&sa=fyb_news"
     },
     {
-      "title": "这些涉及假期的网传信息都是假的",
+      "title": "“水猴子拖人下水淹死”系谣言",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E5%81%87%E6%9C%9F%E7%9A%84%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%B4%E7%8C%B4%E5%AD%90%E6%8B%96%E4%BA%BA%E4%B8%8B%E6%B0%B4%E6%B7%B9%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "国足踢完5场热身赛已少4.37积分",
+      "title": "拿下点球大战！U23国足获亚运铜牌",
       "platform": "百度热搜/头条",
-      "hot": "15477447",
-      "url": "https://www.toutiao.com/trending/7692215122277846579/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692215122277846579%22%2C%22hot_board_impr_id%22%3A%2220261003093031D9DA1FF7B73F8283BAC7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E8%B6%B3%E8%B8%A2%E5%AE%8C5%E5%9C%BA%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%B7%B2%E5%B0%914.37%E7%A7%AF%E5%88%86%22%7D&rank=&style_id=40132&topic_id=7692215122277846579"
+      "hot": "36985397",
+      "url": "https://www.toutiao.com/trending/7692316930224590387/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692316930224590387%22%2C%22hot_board_impr_id%22%3A%22202610031809418A66EB718BAC68CABE80%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8B%BF%E4%B8%8B%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E8%8E%B7%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C%22%7D&rank=&style_id=40132&topic_id=7692316930224590387"
     },
     {
-      "title": "获3金1银陈妤颉说回去要补高中课程",
+      "title": "新华社：0:5给中国足球的又一记警钟",
       "platform": "百度热搜/头条",
-      "hot": "14004573",
-      "url": "https://www.toutiao.com/trending/7691127028963229759/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691127028963229759%22%2C%22hot_board_impr_id%22%3A%2220261003093031D9DA1FF7B73F8283BAC7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%B73%E9%87%911%E9%93%B6%E9%99%88%E5%A6%A4%E9%A2%89%E8%AF%B4%E5%9B%9E%E5%8E%BB%E8%A6%81%E8%A1%A5%E9%AB%98%E4%B8%AD%E8%AF%BE%E7%A8%8B%22%7D&rank=&style_id=40132&topic_id=7691127028963229759"
+      "hot": "33465771",
+      "url": "https://www.toutiao.com/trending/7692070165018296383/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692070165018296383%22%2C%22hot_board_impr_id%22%3A%22202610031809418A66EB718BAC68CABE80%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A0%3A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E5%8F%88%E4%B8%80%E8%AE%B0%E8%AD%A6%E9%92%9F%22%7D&rank=&style_id=40132&topic_id=7692070165018296383"
     },
     {
-      "title": "一抹中国红 见证跨越时代的奔赴",
+      "title": "万亿级车轮经济跑出新动能",
       "platform": "百度热搜/头条",
-      "hot": "12671862",
-      "url": "https://www.toutiao.com/article/7691885769425732138"
+      "hot": "30281082",
+      "url": "https://www.toutiao.com/article/7692071893230305807"
     }
   ],
   "suggested_topics": [
     {
-      "title": "迈步新征程 我们自信而笃行",
+      "title": "“人民就是江山”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国男足争亚运铜牌",
+      "title": "中国男足时隔28年再夺亚运铜牌",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“人造太阳”距离点亮万家灯火有多远",
+      "title": "景区冤种三件套 年轻人只薅不买了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "万里边关 同升五星红旗",
+      "title": "游客眼里的中国范儿",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“这是国际社会前所未闻的恶性事件”",
+      "title": "游客晕倒 雪饼猴急得摘头套疏散人群",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
