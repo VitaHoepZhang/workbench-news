@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T02:34:34+08:00",
+  "updated_at": "2026-10-03T09:30:33+08:00",
   "science": [
     {
       "title": "今日热点速览 · 迈步新征程 我们自信而笃行",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 全国各地为何都在“爆改地铁”",
-      "summary": "「全国各地为何都在“爆改地铁”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国男足争亚运铜牌",
+      "summary": "「中国男足争亚运铜牌」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 亚运三金到手 归来仍是高中生",
-      "summary": "「亚运三金到手 归来仍是高中生」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “人造太阳”距离点亮万家灯火有多远",
+      "summary": "「“人造太阳”距离点亮万家灯火有多远」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-        "url": "https://www.ithome.com/1/009/373.htm",
-        "summary": "<p data-vmark=\"a4b8\">IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。</p><p d",
+        "title": "因内存等成本暴涨，英伟达标准版 Shield TV 停产、Pro 版涨价 50%",
+        "url": "https://www.ithome.com/1/009/396.htm",
+        "summary": "<p data-vmark=\"75c3\">IT之家 10 月 3 日消息，科技媒体 Wccftech 昨日（10 月 2 日）发布博文，报道称由于内存等相关组件成本上涨，<strong>英伟达宣布停止生产标准版 Shield TV，并将 S",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
-        "url": "https://www.ithome.com/1/009/372.htm",
-        "summary": "<p data-vmark=\"db92\">IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。</p><p data-vmark=\"6e",
+        "title": "配合宣传《GTA 6》，NBA 迈阿密热火队 11 月将以“罪城”之名出战",
+        "url": "https://www.ithome.com/1/009/395.htm",
+        "summary": "<p data-vmark=\"6481\">IT之家 10 月 3 日消息，据外媒 VGC 今天（3 日）报道，NBA 球队迈阿密热火将配合宣传《GTA 6》，以“罪城”之名出战。</p><p data-vmark=\"3e58\">名为“罪城之",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰",
-        "url": "https://www.ithome.com/1/009/371.htm",
-        "summary": "<p data-vmark=\"7e82\">IT之家 10 月 2 日消息，极氪汽车今日宣布焕新极氪 001 色彩上新，推出全新外饰色“哑光岩灰”以及全新内饰色“冰川灰”。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 00",
+        "title": "消息称适马将推出 50-120mm F2.8 APS-C 相机镜头",
+        "url": "https://www.ithome.com/1/009/394.htm",
+        "summary": "<p data-vmark=\"cd2e\">IT之家 10 月 3 日消息，据 Sony Alpha Rumors 消息，适马（Sigma）即将于 10 月 8 日推出新款 <strong>50-120mm f/2.8 APS-C 画幅镜头<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二",
-        "url": "https://www.ithome.com/1/009/370.htm",
-        "summary": "<p data-vmark=\"19e8\">IT之家 10 月 2 日消息，在当地时间今日举行的 2026 年爱知 · 名古屋亚运会《英雄联盟》项目决赛中，韩国队以 3:0 的比分战胜中国台北队，<strong>以未失小局的全胜战绩完成对该项",
+        "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
+        "url": "https://www.ithome.com/1/009/393.htm",
+        "summary": "<p data-vmark=\"e9a1\">IT之家 10 月 3 日消息，数码博主 @i冰宇宙 昨日（10 月 2 日）发布博文，表示：“三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”",
-        "url": "https://www.ithome.com/1/009/369.htm",
-        "summary": "<p data-vmark=\"db31\">IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的",
+        "title": "最高冲上 1200 马力，保时捷高性能纯电卡宴 Coupe 谍照曝光",
+        "url": "https://www.ithome.com/1/009/392.htm",
+        "summary": "<p data-vmark=\"63b6\">IT之家 10 月 3 日消息，保时捷今年早些时候推出了纯电动卡宴 Coupe，共提供三个版本。入门版最大功率 325kW（442 马力），S 版提升至 490kW（666 马力），Turbo 版则",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
-        "url": "https://www.ithome.com/1/009/368.htm",
-        "summary": "<p data-vmark=\"9c8d\">IT之家 10 月 2 日消息，2026《无畏契约》全球冠军赛正在中国上海进行。在最近两天的第一阶段小组赛败者组首轮中，<strong>4 支 VCT CN 联赛队伍均负于对手</strong>，<",
+        "title": "微软工程师探究 Win11 滚动条“Shift+ 点击”直达操作，因生态碎片化应用无法完全支持",
+        "url": "https://www.ithome.com/1/009/391.htm",
+        "summary": "<p data-vmark=\"8e16\">IT之家 10 月 3 日消息，微软资深 Windows 工程师 Raymond Chen 于 9 月 22 日在其 The Old New Thing 博客上发布博文，<strong>指出用户无需",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E8%BF%88%E6%AD%A5%E6%96%B0%E5%BE%81%E7%A8%8B+%E6%88%91%E4%BB%AC%E8%87%AA%E4%BF%A1%E8%80%8C%E7%AC%83%E8%A1%8C&sa=fyb_news"
     },
     {
-      "title": "全国各地为何都在“爆改地铁”",
+      "title": "中国男足争亚运铜牌",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E4%B8%BA%E4%BD%95%E9%83%BD%E5%9C%A8%E2%80%9C%E7%88%86%E6%94%B9%E5%9C%B0%E9%93%81%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%BA%89%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
     },
     {
-      "title": "亚运三金到手 归来仍是高中生",
+      "title": "“人造太阳”距离点亮万家灯火有多远",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%88%B0%E6%89%8B+%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E8%B7%9D%E7%A6%BB%E7%82%B9%E4%BA%AE%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
     },
     {
       "title": "万里边关 同升五星红旗",
@@ -178,46 +178,46 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%87%E9%87%8C%E8%BE%B9%E5%85%B3+%E5%90%8C%E5%8D%87%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97&sa=fyb_news"
     },
     {
-      "title": "男子偶遇烈士纪念碑 留下国旗后哽咽",
+      "title": "“这是国际社会前所未闻的恶性事件”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%81%B6%E9%81%87%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E7%A2%91+%E7%95%99%E4%B8%8B%E5%9B%BD%E6%97%97%E5%90%8E%E5%93%BD%E5%92%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%99%E6%98%AF%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%89%8D%E6%89%80%E6%9C%AA%E9%97%BB%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "Zara新品裙子上线就售罄：6000多一条",
+      "title": "刺伤迪拜航空机长的副驾驶身份披露",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=Zara%E6%96%B0%E5%93%81%E8%A3%99%E5%AD%90%E4%B8%8A%E7%BA%BF%E5%B0%B1%E5%94%AE%E7%BD%84%EF%BC%9A6000%E5%A4%9A%E4%B8%80%E6%9D%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%BA%E4%BC%A4%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%9C%BA%E9%95%BF%E7%9A%84%E5%89%AF%E9%A9%BE%E9%A9%B6%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2&sa=fyb_news"
     },
     {
-      "title": "“饿死肿瘤”的方法竟然真找到了",
+      "title": "吃自助被送急诊 胃里取出3斤残渣",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%A5%BF%E6%AD%BB%E8%82%BF%E7%98%A4%E2%80%9D%E7%9A%84%E6%96%B9%E6%B3%95%E7%AB%9F%E7%84%B6%E7%9C%9F%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%90%83%E8%87%AA%E5%8A%A9%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A+%E8%83%83%E9%87%8C%E5%8F%96%E5%87%BA3%E6%96%A4%E6%AE%8B%E6%B8%A3&sa=fyb_news"
     },
     {
-      "title": "全球跑的中国游客 让老外过上黄金周",
+      "title": "朝鲜：永远关闭南部边境避免接触韩国",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2+%E8%AE%A9%E8%80%81%E5%A4%96%E8%BF%87%E4%B8%8A%E9%BB%84%E9%87%91%E5%91%A8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%9D%E9%B2%9C%EF%BC%9A%E6%B0%B8%E8%BF%9C%E5%85%B3%E9%97%AD%E5%8D%97%E9%83%A8%E8%BE%B9%E5%A2%83%E9%81%BF%E5%85%8D%E6%8E%A5%E8%A7%A6%E9%9F%A9%E5%9B%BD&sa=fyb_news"
     },
     {
-      "title": "两匹马高架狂奔 被笑称“宝马X2”",
+      "title": "女子查出癌症花光积蓄旅游肿瘤变小",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%A4%E5%8C%B9%E9%A9%AC%E9%AB%98%E6%9E%B6%E7%8B%82%E5%A5%94+%E8%A2%AB%E7%AC%91%E7%A7%B0%E2%80%9C%E5%AE%9D%E9%A9%ACX2%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%99%8C%E7%97%87%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%97%85%E6%B8%B8%E8%82%BF%E7%98%A4%E5%8F%98%E5%B0%8F&sa=fyb_news"
     },
     {
-      "title": "“像造车一样盖房”真的来了",
+      "title": "曲棍球队姑娘们赛后都哭了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%83%8F%E9%80%A0%E8%BD%A6%E4%B8%80%E6%A0%B7%E7%9B%96%E6%88%BF%E2%80%9D%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9B%B2%E6%A3%8D%E7%90%83%E9%98%9F%E5%A7%91%E5%A8%98%E4%BB%AC%E8%B5%9B%E5%90%8E%E9%83%BD%E5%93%AD%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "董路：国足这么踢日本可能要输0-15",
+      "title": "巴勒斯坦男足目前没有主场",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%91%A3%E8%B7%AF%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%BF%99%E4%B9%88%E8%B8%A2%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E8%A6%81%E8%BE%930-15&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%94%B7%E8%B6%B3%E7%9B%AE%E5%89%8D%E6%B2%A1%E6%9C%89%E4%B8%BB%E5%9C%BA&sa=fyb_news"
     },
     {
       "title": "这些涉及假期的网传信息都是假的",
@@ -226,21 +226,21 @@
       "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E5%81%87%E6%9C%9F%E7%9A%84%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news"
     },
     {
-      "title": "国庆买金变了 年轻人冲向黄金柜台",
+      "title": "国足踢完5场热身赛已少4.37积分",
       "platform": "百度热搜/头条",
-      "hot": "8375262",
-      "url": "https://www.toutiao.com/trending/7691634538414637102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691634538414637102%22%2C%22hot_board_impr_id%22%3A%2220261003023431FD674814D192CE1B2D10%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%BA%86%E4%B9%B0%E9%87%91%E5%8F%98%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%86%B2%E5%90%91%E9%BB%84%E9%87%91%E6%9F%9C%E5%8F%B0%22%7D&rank=&style_id=40132&topic_id=7691634538414637102"
+      "hot": "15477447",
+      "url": "https://www.toutiao.com/trending/7692215122277846579/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692215122277846579%22%2C%22hot_board_impr_id%22%3A%2220261003093031D9DA1FF7B73F8283BAC7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E8%B6%B3%E8%B8%A2%E5%AE%8C5%E5%9C%BA%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%B7%B2%E5%B0%914.37%E7%A7%AF%E5%88%86%22%7D&rank=&style_id=40132&topic_id=7692215122277846579"
     },
     {
-      "title": "博主：邵佳一的“理想主义”被碾成渣",
+      "title": "获3金1银陈妤颉说回去要补高中课程",
       "platform": "百度热搜/头条",
-      "hot": "7578251",
-      "url": "https://www.toutiao.com/trending/7692082340234792458/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692082340234792458%22%2C%22hot_board_impr_id%22%3A%2220261003023431FD674814D192CE1B2D10%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%9A%E4%B8%BB%EF%BC%9A%E9%82%B5%E4%BD%B3%E4%B8%80%E7%9A%84%E2%80%9C%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E2%80%9D%E8%A2%AB%E7%A2%BE%E6%88%90%E6%B8%A3%22%7D&rank=&style_id=40132&topic_id=7692082340234792458"
+      "hot": "14004573",
+      "url": "https://www.toutiao.com/trending/7691127028963229759/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227691127028963229759%22%2C%22hot_board_impr_id%22%3A%2220261003093031D9DA1FF7B73F8283BAC7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%B73%E9%87%911%E9%93%B6%E9%99%88%E5%A6%A4%E9%A2%89%E8%AF%B4%E5%9B%9E%E5%8E%BB%E8%A6%81%E8%A1%A5%E9%AB%98%E4%B8%AD%E8%AF%BE%E7%A8%8B%22%7D&rank=&style_id=40132&topic_id=7691127028963229759"
     },
     {
       "title": "一抹中国红 见证跨越时代的奔赴",
       "platform": "百度热搜/头条",
-      "hot": "6857085",
+      "hot": "12671862",
       "url": "https://www.toutiao.com/article/7691885769425732138"
     }
   ],
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "全国各地为何都在“爆改地铁”",
+      "title": "中国男足争亚运铜牌",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "亚运三金到手 归来仍是高中生",
+      "title": "“人造太阳”距离点亮万家灯火有多远",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "男子偶遇烈士纪念碑 留下国旗后哽咽",
+      "title": "“这是国际社会前所未闻的恶性事件”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
