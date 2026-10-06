@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-06T05:10:49+08:00",
+  "updated_at": "2026-10-06T10:34:10+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 在旅游中感悟中华文化增强文化自信",
-      "summary": "「在旅游中感悟中华文化增强文化自信」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 民生为大 把老百姓的事办实办好",
+      "summary": "「民生为大 把老百姓的事办实办好」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 放假期间 这7种照片建议别发朋友圈",
-      "summary": "「放假期间 这7种照片建议别发朋友圈」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 缅北电诈主犯随机杀人祭天",
+      "summary": "「缅北电诈主犯随机杀人祭天」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 中国收废品的大爷可能已经赚翻了",
-      "summary": "「中国收废品的大爷可能已经赚翻了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中方放弃谈判直接抓佤邦副总司令",
+      "summary": "「中方放弃谈判直接抓佤邦副总司令」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 国庆假期返程 这份安全提示请收好",
-      "summary": "「国庆假期返程 这份安全提示请收好」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · “宝藏小城”藏不住了",
+      "summary": "「“宝藏小城”藏不住了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "苹果 watchOS 27.2 开发者预览版 Beta 3 发布",
-        "url": "https://www.ithome.com/1/009/908.htm",
-        "summary": "<p style=\"text-align: center;\" data-vmark=\"0000\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p data-vmark=\"0001\"> I",
+        "title": "微软 Win11 逐步淘汰传统打印机驱动，旧设备恐面临兼容性挑战",
+        "url": "https://www.ithome.com/1/009/962.htm",
+        "summary": "<p data-vmark=\"f8a8\">IT之家 10 月 6 日消息，科技媒体 hardwareluxx 昨日（10 月 5 日）发布博文，报道称在 Windows 11 系统中，微软正在推进 Windows Ready Print，<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 visionOS 27.2 开发者预览版 Beta 3 发布",
-        "url": "https://www.ithome.com/1/009/907.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 6 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24N5103f），本次更新距离上次发布 B",
+        "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+        "url": "https://www.ithome.com/1/009/961.htm",
+        "summary": "<p data-vmark=\"8539\">IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 Ch",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 macOS 27.2 开发者预览版 Beta 3 发布",
-        "url": "https://www.ithome.com/1/009/906.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 6 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 3 更新（内部版本号：26B5101f），本次更新距离上次发布 Beta/RC 间",
+        "title": "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
+        "url": "https://www.ithome.com/1/009/960.htm",
+        "summary": "<p data-vmark=\"494e\">IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，<strong>被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 3 发布",
-        "url": "https://www.ithome.com/1/009/905.htm",
-        "summary": "<p style=\"text-align: center;\" data-vmark=\"0000\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p data-vmark=\"0001\"> I",
+        "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+        "url": "https://www.ithome.com/1/009/958.htm",
+        "summary": "<p data-vmark=\"a5d9\">IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，<strong>微软优化 Copilot AI 体验，",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
-        "url": "https://www.ithome.com/1/009/904.htm",
-        "summary": "<p data-vmark=\"0b68\">IT之家 10 月 6 日消息，美股纳斯达克指数周一（当地时间 10 月 5 日）<strong>创下盘中历史新高</strong>，多数大型股和成长股上涨。</p><p data-vmark=\"9",
+        "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
+        "url": "https://www.ithome.com/1/009/957.htm",
+        "summary": "<p data-vmark=\"04fd\">IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的<strong>多设备互助通信共享功能</str",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
-        "url": "https://www.ithome.com/1/009/903.htm",
-        "summary": "<p data-vmark=\"733b\">IT之家 10 月 5 日消息，OpenAI 今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的 ChatGPT 和 Codex 文本输出中加入机器可识别的隐形水印。",
+        "title": "Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易",
+        "url": "https://www.ithome.com/1/009/956.htm",
+        "summary": "<p data-vmark=\"e062\">IT之家 10 月 6 日消息，美国能源企业 Constellation 当地时间 9 月 30 日宣布与 Amazon（亚马逊）签署了一份长达 20 年的核电供应协议。</p><p data-vm",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,49 +133,68 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「有10万民警赴中缅边境打击涉我犯罪」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://www.toutiao.com/trending/7693322726240734766/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693322726240734766%22%2C%22hot_board_impr_id%22%3A%2220261006103408B5E5076AC17A994E7790%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%8910%E4%B8%87%E6%B0%91%E8%AD%A6%E8%B5%B4%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%89%93%E5%87%BB%E6%B6%89%E6%88%91%E7%8A%AF%E7%BD%AA%22%7D&rank=&style_id=40132&topic_id=7693322726240734766"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "在旅游中感悟中华文化增强文化自信",
+      "title": "民生为大 把老百姓的事办实办好",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E6%97%85%E6%B8%B8%E4%B8%AD%E6%84%9F%E6%82%9F%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%A2%9E%E5%BC%BA%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B0%91%E7%94%9F%E4%B8%BA%E5%A4%A7+%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E4%BA%8B%E5%8A%9E%E5%AE%9E%E5%8A%9E%E5%A5%BD&sa=fyb_news"
     },
     {
-      "title": "放假期间 这7种照片建议别发朋友圈",
+      "title": "缅北电诈主犯随机杀人祭天",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E4%B8%BB%E7%8A%AF%E9%9A%8F%E6%9C%BA%E6%9D%80%E4%BA%BA%E7%A5%AD%E5%A4%A9&sa=fyb_news"
     },
     {
-      "title": "中国收废品的大爷可能已经赚翻了",
+      "title": "中方放弃谈判直接抓佤邦副总司令",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%94%B6%E5%BA%9F%E5%93%81%E7%9A%84%E5%A4%A7%E7%88%B7%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B5%9A%E7%BF%BB%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%94%BE%E5%BC%83%E8%B0%88%E5%88%A4%E7%9B%B4%E6%8E%A5%E6%8A%93%E4%BD%A4%E9%82%A6%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4&sa=fyb_news"
     },
     {
-      "title": "国庆假期返程 这份安全提示请收好",
+      "title": "“宝藏小城”藏不住了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B+%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%9F%8E%E2%80%9D%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "明学昌畏罪自杀身亡照片曝光",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%98%8E%E5%AD%A6%E6%98%8C%E7%95%8F%E7%BD%AA%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89&sa=fyb_news"
+    },
+    {
+      "title": "游客住学生宿舍 教育局：离开还打扫了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%BD%8F%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%A6%BB%E5%BC%80%E8%BF%98%E6%89%93%E6%89%AB%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "雨中爬岳麓山遇“蘑菇大军”",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E9%9B%A8%E4%B8%AD%E7%88%AC%E5%B2%B3%E9%BA%93%E5%B1%B1%E9%81%87%E2%80%9C%E8%98%91%E8%8F%87%E5%A4%A7%E5%86%9B%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "title": "英航客机7分钟急坠8230米发7700代码",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E8%88%AA%E5%AE%A2%E6%9C%BA7%E5%88%86%E9%92%9F%E6%80%A5%E5%9D%A08230%E7%B1%B3%E5%8F%917700%E4%BB%A3%E7%A0%81&sa=fyb_news"
+    },
+    {
+      "title": "一次性座椅套垫卖爆了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%AC%A1%E6%80%A7%E5%BA%A7%E6%A4%85%E5%A5%97%E5%9E%AB%E5%8D%96%E7%88%86%E4%BA%86&sa=fyb_news"
     },
     {
       "title": "“黄金睡眠时长”出炉",
@@ -184,40 +203,10 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news"
     },
     {
-      "title": "游客下地割出9000碗米饭",
+      "title": "王心凌 你没报批不能上来",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
-    },
-    {
-      "title": "巨型“充电宝”驶进多地服务区",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%A8%E5%9E%8B%E2%80%9C%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E9%A9%B6%E8%BF%9B%E5%A4%9A%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news"
-    },
-    {
-      "title": "男子收到短信吓懵：欠费16.1亿元",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
-    },
-    {
-      "title": "巴黎现麻辣烫店：人均150排队半小时",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E7%8E%B0%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%EF%BC%9A%E4%BA%BA%E5%9D%87150%E6%8E%92%E9%98%9F%E5%8D%8A%E5%B0%8F%E6%97%B6&sa=fyb_news"
-    },
-    {
-      "title": "郑钦文晋级16强",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news"
-    },
-    {
-      "title": "孙心然0比2高芙无缘16强",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B60%E6%AF%942%E9%AB%98%E8%8A%99%E6%97%A0%E7%BC%9816%E5%BC%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%BF%83%E5%87%8C+%E4%BD%A0%E6%B2%A1%E6%8A%A5%E6%89%B9%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%9D%A5&sa=fyb_news"
     },
     {
       "title": "工人给乐山大佛掏耳朵鼻孔系AI生成",
@@ -226,43 +215,43 @@
       "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BA%BA%E7%BB%99%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%8E%8F%E8%80%B3%E6%9C%B5%E9%BC%BB%E5%AD%94%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news"
     },
     {
-      "title": "中方10分钟收网缅北四大家族重要成员",
+      "title": "有10万民警赴中缅边境打击涉我犯罪",
       "platform": "百度热搜/头条",
-      "hot": "34274726",
-      "url": "https://www.toutiao.com/trending/7693052468208992297/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693052468208992297%22%2C%22hot_board_impr_id%22%3A%22202610060510478E3A77F07166A6CEFB08%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B910%E5%88%86%E9%92%9F%E6%94%B6%E7%BD%91%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E9%87%8D%E8%A6%81%E6%88%90%E5%91%98%22%7D&rank=&style_id=40132&topic_id=7693052468208992297"
+      "hot": "35911619",
+      "url": "https://www.toutiao.com/trending/7693322726240734766/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693322726240734766%22%2C%22hot_board_impr_id%22%3A%2220261006103408B5E5076AC17A994E7790%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%8910%E4%B8%87%E6%B0%91%E8%AD%A6%E8%B5%B4%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%89%93%E5%87%BB%E6%B6%89%E6%88%91%E7%8A%AF%E7%BD%AA%22%7D&rank=&style_id=40132&topic_id=7693322726240734766"
     },
     {
-      "title": "金价大跌后国庆上海金店排长队",
+      "title": "中国足球小将两天两冠",
       "platform": "百度热搜/头条",
-      "hot": "31013054",
-      "url": "https://www.toutiao.com/trending/7693062547020398628/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693062547020398628%22%2C%22hot_board_impr_id%22%3A%22202610060510478E3A77F07166A6CEFB08%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E5%9B%BD%E5%BA%86%E4%B8%8A%E6%B5%B7%E9%87%91%E5%BA%97%E6%8E%92%E9%95%BF%E9%98%9F%22%7D&rank=&style_id=40132&topic_id=7693062547020398628"
+      "hot": "32494176",
+      "url": "https://www.toutiao.com/trending/7692712482771812371/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227692712482771812371%22%2C%22hot_board_impr_id%22%3A%2220261006103408B5E5076AC17A994E7790%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E4%B8%A4%E5%A4%A9%E4%B8%A4%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7692712482771812371"
     },
     {
-      "title": "假期过半，在照片中看见活力中国",
+      "title": "一批大国重器与重点工程迎来新突破",
       "platform": "百度热搜/头条",
-      "hot": "28061772",
-      "url": "https://www.toutiao.com/article/7693112334583087659"
+      "hot": "29401947",
+      "url": "https://www.toutiao.com/article/7693315152153805350"
     }
   ],
   "suggested_topics": [
     {
-      "title": "在旅游中感悟中华文化增强文化自信",
+      "title": "民生为大 把老百姓的事办实办好",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "放假期间 这7种照片建议别发朋友圈",
+      "title": "缅北电诈主犯随机杀人祭天",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国收废品的大爷可能已经赚翻了",
+      "title": "中方放弃谈判直接抓佤邦副总司令",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "国庆假期返程 这份安全提示请收好",
+      "title": "“宝藏小城”藏不住了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“黄金睡眠时长”出炉",
+      "title": "明学昌畏罪自杀身亡照片曝光",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
