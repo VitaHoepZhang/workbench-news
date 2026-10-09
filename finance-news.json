@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-09T03:20:46+08:00",
+  "updated_at": "2026-10-09T10:37:04+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3811.9,
-      "change": -30.29,
-      "pct": -0.79
+      "value": 3766.76,
+      "change": -45.14,
+      "pct": -1.18
     },
     {
       "name": "深证成指",
-      "value": 12620.9,
-      "change": -266.72,
-      "pct": -2.07
+      "value": 12314.18,
+      "change": -306.72,
+      "pct": -2.43
     },
     {
       "name": "创业板指",
-      "value": 3036.66,
-      "change": -98.62,
-      "pct": -3.15
+      "value": 2945.6,
+      "change": -91.06,
+      "pct": -3
     }
   ],
   "sectors": [
     {
-      "name": "蓄电池及其他电池",
-      "change": 5.19
+      "name": "有机硅",
+      "change": 5.49
     },
     {
-      "name": "锂电专用设备",
-      "change": 4.98
+      "name": "种子",
+      "change": 4.56
     },
     {
-      "name": "焦炭Ⅲ",
-      "change": 3.75
+      "name": "种植业",
+      "change": 2.43
     },
     {
-      "name": "焦炭Ⅱ",
-      "change": 3.75
+      "name": "粮食种植",
+      "change": 2.43
     },
     {
-      "name": "油气及炼化工程",
-      "change": 3.71
+      "name": "超市",
+      "change": 2.13
     },
     {
-      "name": "油服工程",
-      "change": 3.5
+      "name": "快递",
+      "change": 1.78
     },
     {
-      "name": "油田服务",
-      "change": 3.35
+      "name": "乳品",
+      "change": 1.72
     },
     {
-      "name": "电池",
-      "change": 3.34
+      "name": "粘胶",
+      "change": 1.45
     }
   ],
   "macro": [],
