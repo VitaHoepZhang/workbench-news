@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-09T10:37:04+08:00",
+  "updated_at": "2026-10-09T19:36:46+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3766.76,
-      "change": -45.14,
-      "pct": -1.18
+      "value": 3813.79,
+      "change": 1.89,
+      "pct": 0.05
     },
     {
       "name": "深证成指",
-      "value": 12314.18,
-      "change": -306.72,
-      "pct": -2.43
+      "value": 12641.86,
+      "change": 20.96,
+      "pct": 0.17
     },
     {
       "name": "创业板指",
-      "value": 2945.6,
-      "change": -91.06,
-      "pct": -3
+      "value": 3043.33,
+      "change": 6.67,
+      "pct": 0.22
     }
   ],
   "sectors": [
     {
-      "name": "有机硅",
-      "change": 5.49
+      "name": "视频媒体",
+      "change": 19.98
+    },
+    {
+      "name": "文字媒体",
+      "change": 15
     },
     {
       "name": "种子",
-      "change": 4.56
+      "change": 7.78
     },
     {
-      "name": "种植业",
-      "change": 2.43
+      "name": "影视动漫制作",
+      "change": 7.64
     },
     {
-      "name": "粮食种植",
-      "change": 2.43
+      "name": "影视院线",
+      "change": 7.06
     },
     {
-      "name": "超市",
-      "change": 2.13
+      "name": "电视广播Ⅲ",
+      "change": 6.95
     },
     {
-      "name": "快递",
-      "change": 1.78
+      "name": "电视广播Ⅱ",
+      "change": 6.95
     },
     {
-      "name": "乳品",
-      "change": 1.72
-    },
-    {
-      "name": "粘胶",
-      "change": 1.45
+      "name": "数字媒体",
+      "change": 6.76
     }
   ],
   "macro": [],
