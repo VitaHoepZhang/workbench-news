@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T02:54:08+08:00",
+  "updated_at": "2026-10-10T09:57:34+08:00",
   "science": [
     {
       "title": "今日热点速览 · 四重视角看中华民族的文化主体性",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 宋佳集齐三大奖",
-      "summary": "「宋佳集齐三大奖」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 巴拿马7.6级强震",
+      "summary": "「巴拿马7.6级强震」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 飞天奖获奖名单",
-      "summary": "「飞天奖获奖名单」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 爆发！中国资产大涨",
+      "summary": "「爆发！中国资产大涨」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
-        "url": "https://www.ithome.com/1/011/156.htm",
-        "summary": "<p data-vmark=\"6a83\">IT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。</p><p style=\"text-align: center;\"",
+        "title": "大众因高压电池可能着火在美召回 22524 辆 ID.4 汽车",
+        "url": "https://www.ithome.com/1/011/208.htm",
+        "summary": "<p data-vmark=\"8b88\">IT之家 10 月 10 日消息，据美国国家公路交通安全管理局 (NHTSA) 官网公示，Volkswagen（大众汽车）在美国宣布<strong>召回 22,524 辆 2023~2026 年款的",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接",
-        "url": "https://www.ithome.com/1/011/155.htm",
-        "summary": "<p data-vmark=\"d10e\">IT之家 10 月 9 日消息，苹果 App Store Watch 专区显示，鸿蒙星河互联 App 已正式登陆 Apple Watch 端。</p><p style=\"text-align: ce",
+        "title": "微软紧急通知：谷歌 Chromium 下月移除 XSLT 支持，恐影响远程桌面 Web 访问",
+        "url": "https://www.ithome.com/1/011/207.htm",
+        "summary": "<p data-vmark=\"0b43\">IT之家 10 月 10 日消息，科技媒体 NeoWin 昨日（10 月 9 日）发布博文，报道称微软已紧急通知各组织机构，基于 Chromium 的浏览器在 11 月更新后，<strong>可能会",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播",
-        "url": "https://www.ithome.com/1/011/154.htm",
-        "summary": "<p data-vmark=\"9657\">IT之家 10 月 9 日消息，漫威新剧《幻视任务》今日首曝两段中字片段。本剧也是《旺达幻视》三部曲的终章，<strong>将于今年 10 月 14 日在 Disney+ 开播</strong>。<",
+        "title": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持",
+        "url": "https://www.ithome.com/1/011/206.htm",
+        "summary": "<p data-vmark=\"f5e7\">IT之家 10 月 10 日消息，技嘉 (GIGABYTE) 昨日宣布，该企业率先为旗下英特尔 H610 / B760 芯片组主板<strong>提供对英特尔预计于 2027 年初发布的下代 Soc",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运",
-        "url": "https://www.ithome.com/1/011/153.htm",
-        "summary": "<p data-vmark=\"66d4\">IT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 ",
+        "title": "国内航线燃油附加费今起上调，涨 10 元 / 20 元",
+        "url": "https://www.ithome.com/1/011/205.htm",
+        "summary": "<p data-vmark=\"8826\">IT之家 10 月 10 日消息，据央视新闻报道，今天起，国内航线客票燃油附加费上调。调整后的标准为：</p><ul class=\" list-paddingleft-2\"><li><p data-",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
-        "url": "https://www.ithome.com/1/011/152.htm",
-        "summary": "<p data-vmark=\"dc90\">IT之家 10 月 9 日消息，据央视新闻报道，10 月 9 日，第 77 届国际宇航大会在土耳其闭幕。闭幕式上，国际宇航联合会为中国科学院院士、中国科学院空天信息创新研究院研究员郭华东颁发 202",
+        "title": "联想拯救者 27U-20 显示器开售：27 英寸 4K 180Hz 双模，1699 元",
+        "url": "https://www.ithome.com/1/011/204.htm",
+        "summary": "<p data-vmark=\"8e07\">IT之家 10 月 10 日消息，联想拯救者今日宣布 27U-20 显示器开售。这款新品售价 1699 元，政府补贴价 1529.1 元。</p><p style=\"text-align: cent",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "漫步者“EDF200259”耳机通过星闪测试列名，预计将成第二款支持星闪音频三方品牌耳机",
-        "url": "https://www.ithome.com/1/011/151.htm",
-        "summary": "<p data-vmark=\"08b0\">IT之家 10 月 9 日消息，星闪联盟官网显示，来自北京爱德发科技有限公司的“EDF200259”耳机已通过星闪联盟测试列名，测试集包括高清音频协议一致性测试等。</p><p data-vmark",
+        "title": "西班牙博物馆历时 18 个月用 30 台 2012 款苹果 Mac mini 打造 Cray-1 超算视觉复制品",
+        "url": "https://www.ithome.com/1/011/203.htm",
+        "summary": "<p data-vmark=\"65fc\">IT之家 10 月 10 日消息，科技媒体 Ars Technica 昨日（10 月 9 日）发布博文，报道称西班牙计算机历史博物馆纪念 Cray-1 超级计算机诞生 50 周年以及苹果公司成立 5",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -160,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E5%9B%9B%E9%87%8D%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%9A%84%E6%96%87%E5%8C%96%E4%B8%BB%E4%BD%93%E6%80%A7&sa=fyb_news"
     },
     {
-      "title": "宋佳集齐三大奖",
+      "title": "巴拿马7.6级强震",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E6%8B%BF%E9%A9%AC7.6%E7%BA%A7%E5%BC%BA%E9%9C%87&sa=fyb_news"
     },
     {
-      "title": "飞天奖获奖名单",
+      "title": "爆发！中国资产大涨",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%86%E5%8F%91%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E5%A4%A7%E6%B6%A8&sa=fyb_news"
     },
     {
       "title": "为什么要花数万亿改造地下管网",
@@ -178,10 +178,16 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E6%95%B0%E4%B8%87%E4%BA%BF%E6%94%B9%E9%80%A0%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BD%91&sa=fyb_news"
     },
     {
-      "title": "王仁君获“飞天奖”优秀男演员奖",
+      "title": "女子仅退款9斤蜜薯称有本事来拿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E2%80%9C%E9%A3%9E%E5%A4%A9%E5%A5%96%E2%80%9D%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF&sa=fyb_news"
+    },
+    {
+      "title": "普京特朗普通话 俄将向全球供应石油",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D+%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9&sa=fyb_news"
     },
     {
       "title": "多家医院、卫生院暂停夜间门诊",
@@ -190,57 +196,51 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E3%80%81%E5%8D%AB%E7%94%9F%E9%99%A2%E6%9A%82%E5%81%9C%E5%A4%9C%E9%97%B4%E9%97%A8%E8%AF%8A&sa=fyb_news"
     },
     {
-      "title": "倪萍：迟蓬今天不获奖也没关系",
+      "title": "夫妻一方出轨 向过错方要钱算敲诈吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%EF%BC%9A%E8%BF%9F%E8%93%AC%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%8E%B7%E5%A5%96%E4%B9%9F%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E4%B8%80%E6%96%B9%E5%87%BA%E8%BD%A8+%E5%90%91%E8%BF%87%E9%94%99%E6%96%B9%E8%A6%81%E9%92%B1%E7%AE%97%E6%95%B2%E8%AF%88%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "最淡泊的福建首富 静静地走了",
+      "title": "被《兰香如故》的这些台词戳中了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%80%E6%B7%A1%E6%B3%8A%E7%9A%84%E7%A6%8F%E5%BB%BA%E9%A6%96%E5%AF%8C+%E9%9D%99%E9%9D%99%E5%9C%B0%E8%B5%B0%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E7%9A%84%E8%BF%99%E4%BA%9B%E5%8F%B0%E8%AF%8D%E6%88%B3%E4%B8%AD%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "商场新“三件套”",
+      "title": "中小学春秋假 多地官宣",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%95%86%E5%9C%BA%E6%96%B0%E2%80%9C%E4%B8%89%E4%BB%B6%E5%A5%97%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%98%A5%E7%A7%8B%E5%81%87+%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3&sa=fyb_news"
     },
     {
-      "title": "马化腾姚顺雨罕见同框",
+      "title": "秦海璐颁奖前口误 王雷幽默救场",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%A7%9A%E9%A1%BA%E9%9B%A8%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%A7%A6%E6%B5%B7%E7%92%90%E9%A2%81%E5%A5%96%E5%89%8D%E5%8F%A3%E8%AF%AF+%E7%8E%8B%E9%9B%B7%E5%B9%BD%E9%BB%98%E6%95%91%E5%9C%BA&sa=fyb_news"
     },
     {
-      "title": "倪萍祝福李乃文好好活着",
+      "title": "“献血前空腹血液更干净”系谣言",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%E7%A5%9D%E7%A6%8F%E6%9D%8E%E4%B9%83%E6%96%87%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%8C%AE%E8%A1%80%E5%89%8D%E7%A9%BA%E8%85%B9%E8%A1%80%E6%B6%B2%E6%9B%B4%E5%B9%B2%E5%87%80%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "西游“打工人”被骗 妖精不一般",
+      "title": "WTT中国大满贯女单四强全部产生",
       "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E6%B8%B8%E2%80%9C%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D%E8%A2%AB%E9%AA%97+%E5%A6%96%E7%B2%BE%E4%B8%8D%E4%B8%80%E8%88%AC&sa=fyb_news"
+      "hot": "22326488",
+      "url": "https://www.toutiao.com/trending/7694589317687018034/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227694589317687018034%22%2C%22hot_board_impr_id%22%3A%2220261010095732322DB75C47892F86B935%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F%22%7D&rank=&style_id=40132&topic_id=7694589317687018034"
     },
     {
-      "title": "李子坝地下33米藏一亿现钞",
+      "title": "姚明马云现身NBA中国赛场边观赛",
       "platform": "百度热搜/头条",
-      "hot": "26009519",
-      "url": "https://www.toutiao.com/trending/7693904813129662490/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693904813129662490%22%2C%22hot_board_impr_id%22%3A%22202610100254040EE1C9BF3E04F0340C5D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%AD%90%E5%9D%9D%E5%9C%B0%E4%B8%8B33%E7%B1%B3%E8%97%8F%E4%B8%80%E4%BA%BF%E7%8E%B0%E9%92%9E%22%7D&rank=&style_id=40132&topic_id=7693904813129662490"
-    },
-    {
-      "title": "郭晶晶获授荣誉院士霍启刚直言骄傲",
-      "platform": "百度热搜/头条",
-      "hot": "23534386",
-      "url": "https://www.toutiao.com/trending/7694223561657106474/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227694223561657106474%22%2C%22hot_board_impr_id%22%3A%22202610100254040EE1C9BF3E04F0340C5D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%AD%E6%99%B6%E6%99%B6%E8%8E%B7%E6%8E%88%E8%8D%A3%E8%AA%89%E9%99%A2%E5%A3%AB%E9%9C%8D%E5%90%AF%E5%88%9A%E7%9B%B4%E8%A8%80%E9%AA%84%E5%82%B2%22%7D&rank=&style_id=40132&topic_id=7694223561657106474"
+      "hot": "20201842",
+      "url": "https://www.toutiao.com/trending/7693322083971141162/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227693322083971141162%22%2C%22hot_board_impr_id%22%3A%2220261010095732322DB75C47892F86B935%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A7%9A%E6%98%8E%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%ABNBA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E5%9C%BA%E8%BE%B9%E8%A7%82%E8%B5%9B%22%7D&rank=&style_id=40132&topic_id=7693322083971141162"
     },
     {
       "title": "走进长征展览，一起重温“伟大远征”",
       "platform": "百度热搜/头条",
-      "hot": "21294793",
+      "hot": "18279383",
       "url": "https://www.toutiao.com/article/7694225534921802240"
     }
   ],
@@ -250,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "宋佳集齐三大奖",
+      "title": "巴拿马7.6级强震",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "飞天奖获奖名单",
+      "title": "爆发！中国资产大涨",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "王仁君获“飞天奖”优秀男演员奖",
+      "title": "女子仅退款9斤蜜薯称有本事来拿",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
