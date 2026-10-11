@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-11T19:09:13+08:00",
+  "updated_at": "2026-10-12T02:13:59+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 总书记同卫生健康工作者的故事",
-      "summary": "「总书记同卫生健康工作者的故事」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 每一代人都要走好自己的长征路",
+      "summary": "「每一代人都要走好自己的长征路」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 王曼昱卫冕中国大满贯女单冠军",
-      "summary": "「王曼昱卫冕中国大满贯女单冠军」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 创造历史！郑钦文中网夺冠",
+      "summary": "「创造历史！郑钦文中网夺冠」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 古偶终于开始过日子了",
-      "summary": "「古偶终于开始过日子了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 郑钦文 排名",
+      "summary": "「郑钦文 排名」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 本周中国“硬核”成绩刷屏",
-      "summary": "「本周中国“硬核”成绩刷屏」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 这些文物见证伟大远征",
+      "summary": "「这些文物见证伟大远征」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     }
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "末日搜打撤游戏《HUNGER》10 月 19 日开启测试：在拿破仑时代疫病欧洲杀出血路",
-        "url": "https://www.ithome.com/1/011/680.htm",
-        "summary": "<p data-vmark=\"5f0b\">IT之家 10 月 11 日消息，开发商 GOOD FUN CORPORATION 宣布，旗下全新搜打撤游戏《HUNGER》即将在 Steam 平台开启 Playtest 测试，<strong>本次",
+        "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
+        "url": "https://www.ithome.com/1/011/715.htm",
+        "summary": "<p data-vmark=\"ce6c\">IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题，</p><p data-vmark=\"39f3\">据其介绍，一加 16 追求体验优先，不是",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片",
-        "url": "https://www.ithome.com/1/011/679.htm",
-        "summary": "<p data-vmark=\"f521\">IT之家 10 月 11 日消息，此前曾有传闻称，三星可能会为部分市场的 Galaxy S27 Ultra 机型使用 Exynos 2700 芯片，其余市场采用高通最新骁龙芯片。</p><p sty",
+        "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
+        "url": "https://www.ithome.com/1/011/714.htm",
+        "summary": "<p data-vmark=\"98d1\">IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。</p><p",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
-        "url": "https://www.ithome.com/1/011/678.htm",
-        "summary": "<p data-vmark=\"3c0f\">IT之家 10 月 11 日消息，《VRChat》开发商 VRChat Inc. 于 10 月 7 日公布了针对 AI 生成内容的应对方针，同步更新创作者指南。官方明确禁止使用 AI 生成误导性地图",
+        "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
+        "url": "https://www.ithome.com/1/011/713.htm",
+        "summary": "<p data-vmark=\"b193\">IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升，<strong>但有意换机的用户得提前做好涨",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "CUDA 生态优势推动 RTX Spark 笔记本热销，微软 128GB 内存版 Surface Laptop Ultra 开始在美国缺货",
-        "url": "https://www.ithome.com/1/011/677.htm",
-        "summary": "<p data-vmark=\"e595\">IT之家 10 月 11 日消息，微软美国官网显示，Surface Laptop Ultra 笔记本 128GB 统一内存、1TB SSD 配置已经缺货，该产品定价 5,899.99 美元<span",
+        "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
+        "url": "https://www.ithome.com/1/011/712.htm",
+        "summary": "<p data-vmark=\"e158\">IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动，<strong>让每一",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "开发者公布创意应用《Desktop Cleaning》，用一块“虚拟地毯”盖住电脑桌面上杂乱文件",
-        "url": "https://www.ithome.com/1/011/676.htm",
-        "summary": "<p data-vmark=\"6102\">IT之家 10 月 11 日消息，近期一位开发者 Terkel Gjervig 公布一款名为《Desktop Cleaning》的创意应用，可以在电脑桌面上铺设一块“虚拟地毯”，可盖住杂乱文件，让桌",
+        "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
+        "url": "https://www.ithome.com/1/011/711.htm",
+        "summary": "<p data-vmark=\"8ca3\">IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "开发者利用双口 USB-C 线打造“比拼手速”对战游戏，输家手机消耗自身电量给赢家充电",
-        "url": "https://www.ithome.com/1/011/675.htm",
-        "summary": "<p data-vmark=\"f4f1\">IT之家 10 月 11 日消息，据 4Gamers 报道，近期一名开发者河本健（Ken Kawamoto）脑洞大开，打造了一款基于双口 USB-C 充电线的对战游戏《Power Struggle》",
+        "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
+        "url": "https://www.ithome.com/1/011/710.htm",
+        "summary": "<p data-vmark=\"6333\">IT之家 10 月 11 日消息，小岛秀夫近日在 KOJI10 广播节目透露，他已确定客串某部真人电影和某动画。这位游戏制作人曾出演日剧《别班》，还参与过《疯狂动物城 2》日语配音。</p><p s",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -154,70 +154,70 @@
   },
   "hot_topics": [
     {
-      "title": "总书记同卫生健康工作者的故事",
+      "title": "每一代人都要走好自己的长征路",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%8C%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%B7%A5%E4%BD%9C%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%AF%8F%E4%B8%80%E4%BB%A3%E4%BA%BA%E9%83%BD%E8%A6%81%E8%B5%B0%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF&sa=fyb_news"
     },
     {
-      "title": "王曼昱卫冕中国大满贯女单冠军",
+      "title": "创造历史！郑钦文中网夺冠",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8D%AB%E5%86%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "title": "古偶终于开始过日子了",
+      "title": "郑钦文 排名",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8F%A4%E5%81%B6%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%BF%87%E6%97%A5%E5%AD%90%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87+%E6%8E%92%E5%90%8D&sa=fyb_news"
     },
     {
-      "title": "本周中国“硬核”成绩刷屏",
+      "title": "这些文物见证伟大远征",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%A1%AC%E6%A0%B8%E2%80%9D%E6%88%90%E7%BB%A9%E5%88%B7%E5%B1%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E8%A7%81%E8%AF%81%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&sa=fyb_news"
     },
     {
-      "title": "付费可进天眼 大国重器不容商业蚕食",
+      "title": "郑钦文：自己太想赢 赛前不停呕吐",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%98%E8%B4%B9%E5%8F%AF%E8%BF%9B%E5%A4%A9%E7%9C%BC+%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8D%E5%AE%B9%E5%95%86%E4%B8%9A%E8%9A%95%E9%A3%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%A4%AA%E6%83%B3%E8%B5%A2+%E8%B5%9B%E5%89%8D%E4%B8%8D%E5%81%9C%E5%91%95%E5%90%90&sa=fyb_news"
     },
     {
-      "title": "珠海回应学校家委让家长轮流看午休",
+      "title": "李娜之后苦等14年",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8F%A0%E6%B5%B7%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E5%AE%B6%E5%A7%94%E8%AE%A9%E5%AE%B6%E9%95%BF%E8%BD%AE%E6%B5%81%E7%9C%8B%E5%8D%88%E4%BC%91&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A8%9C%E4%B9%8B%E5%90%8E%E8%8B%A6%E7%AD%8914%E5%B9%B4&sa=fyb_news"
     },
     {
-      "title": "81岁马德华再现猪八戒名场面",
+      "title": "周鸿祎攀岩摔伤致左膝粉碎性骨折",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=81%E5%B2%81%E9%A9%AC%E5%BE%B7%E5%8D%8E%E5%86%8D%E7%8E%B0%E7%8C%AA%E5%85%AB%E6%88%92%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news"
     },
     {
-      "title": "马化腾带28岁青年与省委书记座谈",
+      "title": "郑钦文夺冠后拥抱教练里巴",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%B8%A628%E5%B2%81%E9%9D%92%E5%B9%B4%E4%B8%8E%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BA%A7%E8%B0%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E6%8B%A5%E6%8A%B1%E6%95%99%E7%BB%83%E9%87%8C%E5%B7%B4&sa=fyb_news"
     },
     {
-      "title": "香港警方回应“梅艳芳骨灰被盗”",
+      "title": "郑钦文决赛上演闪身步",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E8%A2%AB%E7%9B%97%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%BC%94%E9%97%AA%E8%BA%AB%E6%AD%A5&sa=fyb_news"
     },
     {
-      "title": "李连杰澄清抛妻弃子传闻",
+      "title": "郑钦文父母现场见证夺冠",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E6%BE%84%E6%B8%85%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%E4%BC%A0%E9%97%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%88%B6%E6%AF%8D%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "title": "王曼昱：这个冠军意义非凡",
+      "title": "胖东来施工现场 干净得像AI",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%EF%BC%9A%E8%BF%99%E4%B8%AA%E5%86%A0%E5%86%9B%E6%84%8F%E4%B9%89%E9%9D%9E%E5%87%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news"
     },
     {
       "title": "亲子鉴定32份报告21个非亲生？假的",
@@ -226,43 +226,43 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news"
     },
     {
-      "title": "王曼昱横扫佐藤瞳夺冠",
+      "title": "郑钦文首夺中网冠军",
       "platform": "百度热搜/头条",
-      "hot": "18576732",
-      "url": "https://www.toutiao.com/trending/7695000467810746422/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695000467810746422%22%2C%22hot_board_impr_id%22%3A%2220261011190907421597BABCFECBBA33AE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%A8%AA%E6%89%AB%E4%BD%90%E8%97%A4%E7%9E%B3%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7695000467810746422"
+      "hot": "25048143",
+      "url": "https://www.toutiao.com/trending/7694547961828851748/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227694547961828851748%22%2C%22hot_board_impr_id%22%3A%22202610120213574B670B88FBB7D96AD691%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E5%A4%BA%E4%B8%AD%E7%BD%91%E5%86%A0%E5%86%9B%22%7D&rank=&style_id=40132&topic_id=7694547961828851748"
     },
     {
-      "title": "大闸蟹价格大跌",
+      "title": "郑钦文狂揽115万美元奖金",
       "platform": "百度热搜/头条",
-      "hot": "16808922",
-      "url": "https://www.toutiao.com/trending/7695266917119954483/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695266917119954483%22%2C%22hot_board_impr_id%22%3A%2220261011190907421597BABCFECBBA33AE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C%22%7D&rank=&style_id=40132&topic_id=7695266917119954483"
+      "hot": "22664497",
+      "url": "https://www.toutiao.com/trending/7695401635786264102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695401635786264102%22%2C%22hot_board_impr_id%22%3A%22202610120213574B670B88FBB7D96AD691%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E7%8B%82%E6%8F%BD115%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7695401635786264102"
     },
     {
-      "title": "这些文物见证伟大远征",
+      "title": "节后错峰出游持续升温",
       "platform": "百度热搜/头条",
-      "hot": "15209342",
-      "url": "https://www.toutiao.com/trending/7694667051915034633/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227694667051915034633%22%2C%22hot_board_impr_id%22%3A%2220261011190907421597BABCFECBBA33AE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E8%A7%81%E8%AF%81%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81%22%7D&rank=&style_id=40132&topic_id=7694667051915034633"
+      "hot": "20507685",
+      "url": "https://www.toutiao.com/trending/7694292556233916457/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227694292556233916457%22%2C%22hot_board_impr_id%22%3A%22202610120213574B670B88FBB7D96AD691%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8A%82%E5%90%8E%E9%94%99%E5%B3%B0%E5%87%BA%E6%B8%B8%E6%8C%81%E7%BB%AD%E5%8D%87%E6%B8%A9%22%7D&rank=&style_id=40132&topic_id=7694292556233916457"
     }
   ],
   "suggested_topics": [
     {
-      "title": "总书记同卫生健康工作者的故事",
+      "title": "每一代人都要走好自己的长征路",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "王曼昱卫冕中国大满贯女单冠军",
+      "title": "创造历史！郑钦文中网夺冠",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "古偶终于开始过日子了",
+      "title": "郑钦文 排名",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "本周中国“硬核”成绩刷屏",
+      "title": "这些文物见证伟大远征",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "付费可进天眼 大国重器不容商业蚕食",
+      "title": "郑钦文：自己太想赢 赛前不停呕吐",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
