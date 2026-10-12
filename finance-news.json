@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-12T02:13:59+08:00",
+  "updated_at": "2026-10-12T09:53:14+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3813.79,
-      "change": 1.89,
-      "pct": 0.05
+      "value": 3815.98,
+      "change": 2.19,
+      "pct": 0.06
     },
     {
       "name": "深证成指",
-      "value": 12641.86,
-      "change": 20.96,
-      "pct": 0.17
+      "value": 12593.15,
+      "change": -48.71,
+      "pct": -0.39
     },
     {
       "name": "创业板指",
-      "value": 3043.33,
-      "change": 6.67,
-      "pct": 0.22
+      "value": 3033.87,
+      "change": -9.46,
+      "pct": -0.31
     }
   ],
   "sectors": [
     {
-      "name": "视频媒体",
-      "change": 19.98
-    },
-    {
       "name": "文字媒体",
-      "change": 15
+      "change": 4.36
     },
     {
-      "name": "种子",
-      "change": 7.78
+      "name": "风电零部件",
+      "change": 4.02
     },
     {
-      "name": "影视动漫制作",
-      "change": 7.64
+      "name": "逆变器",
+      "change": 3.96
     },
     {
-      "name": "影视院线",
-      "change": 7.06
+      "name": "风电设备",
+      "change": 3.75
     },
     {
-      "name": "电视广播Ⅲ",
-      "change": 6.95
+      "name": "输变电设备",
+      "change": 3.12
     },
     {
-      "name": "电视广播Ⅱ",
-      "change": 6.95
+      "name": "风电整机",
+      "change": 2.37
     },
     {
-      "name": "数字媒体",
-      "change": 6.76
+      "name": "教育出版",
+      "change": 2.13
+    },
+    {
+      "name": "水力发电",
+      "change": 1.95
     }
   ],
   "macro": [],
