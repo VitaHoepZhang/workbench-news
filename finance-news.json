@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-13T11:14:50+08:00",
+  "updated_at": "2026-10-13T20:24:45+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3759.11,
-      "change": -38.13,
-      "pct": -1
+      "value": 3800.86,
+      "change": 3.62,
+      "pct": 0.1
     },
     {
       "name": "深证成指",
-      "value": 12129.45,
-      "change": -255.42,
-      "pct": -2.06
+      "value": 12353.7,
+      "change": -31.17,
+      "pct": -0.25
     },
     {
       "name": "创业板指",
-      "value": 2885.64,
-      "change": -78.18,
-      "pct": -2.64
+      "value": 2958.34,
+      "change": -5.48,
+      "pct": -0.18
     }
   ],
   "sectors": [
     {
-      "name": "纺织化学制品",
-      "change": 3.48
-    },
-    {
-      "name": "期货",
-      "change": 2.81
+      "name": "其他数字媒体",
+      "change": 11.94
     },
     {
       "name": "印制电路板",
-      "change": 2.72
+      "change": 6.08
     },
     {
-      "name": "电商服务",
-      "change": 2.13
+      "name": "纺织化学制品",
+      "change": 5.43
     },
     {
-      "name": "防水材料",
-      "change": 2.03
+      "name": "元件",
+      "change": 4.77
     },
     {
-      "name": "百货",
-      "change": 1.96
+      "name": "地面兵装Ⅲ",
+      "change": 4.54
     },
     {
-      "name": "人工景区",
-      "change": 1.96
+      "name": "地面兵装Ⅱ",
+      "change": 4.54
     },
     {
-      "name": "跨境电商",
-      "change": 1.83
+      "name": "航海装备Ⅲ",
+      "change": 4.36
+    },
+    {
+      "name": "航海装备Ⅱ",
+      "change": 4.36
     }
   ],
   "macro": [],
