@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-13T20:24:45+08:00",
+  "updated_at": "2026-10-14T03:55:16+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 习近平出席全国卫生与健康大会",
-      "summary": "「习近平出席全国卫生与健康大会」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 习近平同博茨瓦纳总统博科会谈",
+      "summary": "「习近平同博茨瓦纳总统博科会谈」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 重庆市原市长黄奇帆被查",
-      "summary": "「重庆市原市长黄奇帆被查」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 机器狗第1次进哀牢山就拍到冥界之花",
+      "summary": "「机器狗第1次进哀牢山就拍到冥界之花」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 居民投诉月亮太亮影响睡觉白岩松回应",
-      "summary": "「居民投诉月亮太亮影响睡觉白岩松回应」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 33岁销冠确诊胃癌晚期后突然被辞退",
+      "summary": "「33岁销冠确诊胃癌晚期后突然被辞退」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "上海：到 2030 年小客车电动化率超过 40%",
-        "url": "https://www.ithome.com/1/012/557.htm",
-        "summary": "<p data-vmark=\"6fc6\">IT之家 10 月 13 日消息，上海市人民政府办公厅今日印发《上海市节能降碳和循环经济发展“十五五”规划》。其中提到，持续开展新能源车辆替代，推动城市公共领域用车全面电动化，<strong>到 2",
+        "title": "苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸",
+        "url": "https://www.ithome.com/1/012/602.htm",
+        "summary": "<p data-vmark=\"54e2\">IT之家 10 月 13 日消息，10 月 14 日凌晨 1 点，苹果通过 OTA 向用户推送新系统。升级 iOS 与 watchOS 之后，Apple Watch 用户即可开通睡眠呼吸暂停功能。这",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版发布：骁龙 8 系芯片，全栈价 3999 元起",
-        "url": "https://www.ithome.com/1/012/556.htm",
-        "summary": "<p data-vmark=\"fd6d\">IT之家 10 月 13 日消息，阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版今晚正式发布，搭载骁龙 8 系芯片，采用 16GB+256GB 规格方案，软硬模三位一体<strong>",
+        "title": "不能打电话、发短信：华为官网显示手机与手机间通信共享只支持共享网络能力（含 eSIM）",
+        "url": "https://www.ithome.com/1/012/600.htm",
+        "summary": "<p data-vmark=\"5ecf\">IT之家 10 月 13 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/1/009/957.htm\">华为在 Mate 90 系列手机上首发",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "网易唯一：《燕云十六声》预计 11 月正式支持英伟达 DLSS 5，成国内首批适配游戏",
-        "url": "https://www.ithome.com/1/012/552.htm",
-        "summary": "<p data-vmark=\"b848\">IT之家 10 月 13 日消息，《燕云十六声》官方刚刚宣布，游戏预计将于 11 月正式支持英伟达 DLSS 5 技术并同步开放抢先体验。届时，《燕云十六声》将成为国内首批、目前网易唯一一款正式支持",
+        "title": "苹果今日举办欢迎回家发布会，盘中股价再创历史新高",
+        "url": "https://www.ithome.com/1/012/599.htm",
+        "summary": "<p data-vmark=\"fff0\">IT之家 10 月 13 日消息，苹果于北京时间 10 月 13 日晚 9 点召开了一次主题为“欢迎回家”的新品发布会，正式推出旗下首款智能家庭中枢 HomeView，以及 HomePod mini",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "爱芯元智 AX8860 系列大算力芯片发布，性能对标英伟达 DGX Spark 但价格更低",
-        "url": "https://www.ithome.com/1/012/551.htm",
-        "summary": "<p data-vmark=\"5a7a\">IT之家 10 月 13 日消息，爱芯元智今日在 2026 中国国际工业博览会上正式发布 AX8860 系列大算力 AI 芯片，定位为专为大模型在边缘和端侧落地打造的算力底座。</p><p data",
+        "title": "红魔 12 Pro+ 手机官宣搭载行业首款 185Hz 全面屏，行业首发 185Hz 高刷显示控制芯片",
+        "url": "https://www.ithome.com/1/012/598.htm",
+        "summary": "<p data-vmark=\"ae6a\">IT之家 10 月 13 日消息，红魔游戏手机官方今日继续预热 12 系列新机。据介绍，<strong>红魔 12 Pro+ 将采用红魔第九代屏下技术</strong>，打造无孔全面屏，宣称“通透度",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "科学家发现迄今最大超高速自转小行星：4.18 分钟转一圈，直径约 2.53km",
-        "url": "https://www.ithome.com/1/012/550.htm",
-        "summary": "<p data-vmark=\"2004\">IT之家 10 月 13 日消息，美国华盛顿大学研究团队利用薇拉 · 鲁宾天文台的观测数据，发现了一颗直径约 2.53 公里的小行星，其自转周期仅为 4.18 分钟。</p><p data-vmar",
+        "title": "长安凯程 V919 荣耀版 8 方上市：限时 8.89 万元起，标配宁德时代电芯 CLTC 续航 355km",
+        "url": "https://www.ithome.com/1/012/597.htm",
+        "summary": "<p data-vmark=\"2170\">IT之家 10 月 13 日消息，长安凯程 V919 荣耀版 8 方今日正式上市，共推出货运智慧型和客车智慧型两款配置，官方指导价分别为 9.59 万元和 9.79 万元，限时权益价分别为 8.89",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为睿影 Z10 模块相机采用海思自研 50Mp 1 英寸 RYYB 传感器",
-        "url": "https://www.ithome.com/1/012/549.htm",
-        "summary": "<p data-vmark=\"8a7b\">IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。</p><p style=\"t",
+        "title": "华为：麒麟 9050 系列安全、音视频全面升级，是首批获权威检测的抗量子攻击移动 SoC",
+        "url": "https://www.ithome.com/1/012/596.htm",
+        "summary": "<p data-vmark=\"9431\">IT之家 10 月 13 日消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。</p><p style=\"tex",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,44 +133,20 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「居民投诉月亮太亮影响睡觉白岩松回应」涉及哪些法律点？",
+        "title": "「33岁销冠确诊胃癌晚期后突然被辞退」涉及哪些法律点？",
         "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
         "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E4%BA%AE%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%9B%9E%E5%BA%94&sa=fyb_news"
+        "url": "https://m.baidu.com/s?word=33%E5%B2%81%E9%94%80%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%90%8E%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "习近平出席全国卫生与健康大会",
+      "title": "习近平同博茨瓦纳总统博科会谈",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%85%A8%E5%9B%BD%E5%8D%AB%E7%94%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E5%A4%A7%E4%BC%9A&sa=fyb_news"
-    },
-    {
-      "title": "重庆市原市长黄奇帆被查",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5&sa=fyb_news"
-    },
-    {
-      "title": "居民投诉月亮太亮影响睡觉白岩松回应",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B1%85%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E4%BA%AE%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%9B%9E%E5%BA%94&sa=fyb_news"
-    },
-    {
-      "title": "未来五年看病就医会有哪些新变化",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E7%9C%8B%E7%97%85%E5%B0%B1%E5%8C%BB%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
-    },
-    {
-      "title": "一年中最舒服的日子来了",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E6%97%A5%E5%AD%90%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%BA%B3%E6%80%BB%E7%BB%9F%E5%8D%9A%E7%A7%91%E4%BC%9A%E8%B0%88&sa=fyb_news"
     },
     {
       "title": "机器狗第1次进哀牢山就拍到冥界之花",
@@ -179,34 +155,58 @@
       "url": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E7%8B%97%E7%AC%AC1%E6%AC%A1%E8%BF%9B%E5%93%80%E7%89%A2%E5%B1%B1%E5%B0%B1%E6%8B%8D%E5%88%B0%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1&sa=fyb_news"
     },
     {
-      "title": "男子在悬空寺做引体向上 警方已立案",
+      "title": "33岁销冠确诊胃癌晚期后突然被辞退",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%82%AC%E7%A9%BA%E5%AF%BA%E5%81%9A%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A+%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=33%E5%B2%81%E9%94%80%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%90%8E%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
     },
     {
-      "title": "北京派出11亿头“虫虫特工队”",
+      "title": "未来五年看病就医会有哪些新变化",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E6%B4%BE%E5%87%BA11%E4%BA%BF%E5%A4%B4%E2%80%9C%E8%99%AB%E8%99%AB%E7%89%B9%E5%B7%A5%E9%98%9F%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E7%9C%8B%E7%97%85%E5%B0%B1%E5%8C%BB%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
     },
     {
-      "title": "谁在买3899元的牙刷",
+      "title": "厚卫衣配短裤 妈见打",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B0%81%E5%9C%A8%E4%B9%B03899%E5%85%83%E7%9A%84%E7%89%99%E5%88%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8E%9A%E5%8D%AB%E8%A1%A3%E9%85%8D%E7%9F%AD%E8%A3%A4+%E5%A6%88%E8%A7%81%E6%89%93&sa=fyb_news"
     },
     {
-      "title": "“各位都什么原因没买一艘呢”",
+      "title": "“0糖”到底有没有糖",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%90%84%E4%BD%8D%E9%83%BD%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%E6%B2%A1%E4%B9%B0%E4%B8%80%E8%89%98%E5%91%A2%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C0%E7%B3%96%E2%80%9D%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B3%96&sa=fyb_news"
     },
     {
-      "title": "30万于都百姓甘愿同守一个秘密",
+      "title": "霸王茶姬和奥迪买一送一谁赢谁输",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=30%E4%B8%87%E4%BA%8E%E9%83%BD%E7%99%BE%E5%A7%93%E7%94%98%E6%84%BF%E5%90%8C%E5%AE%88%E4%B8%80%E4%B8%AA%E7%A7%98%E5%AF%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%8C%E5%A5%A5%E8%BF%AA%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E8%B0%81%E8%B5%A2%E8%B0%81%E8%BE%93&sa=fyb_news"
+    },
+    {
+      "title": "4800元学习机AI讲题6遍讲出6个样",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=4800%E5%85%83%E5%AD%A6%E4%B9%A0%E6%9C%BAAI%E8%AE%B2%E9%A2%986%E9%81%8D%E8%AE%B2%E5%87%BA6%E4%B8%AA%E6%A0%B7&sa=fyb_news"
+    },
+    {
+      "title": "中科院回应“住酒店可进天眼核心区”",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%AF%E8%BF%9B%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E5%8C%BA%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "title": "湖北一老人下地干活被气枪击中身亡",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8C%97%E4%B8%80%E8%80%81%E4%BA%BA%E4%B8%8B%E5%9C%B0%E5%B9%B2%E6%B4%BB%E8%A2%AB%E6%B0%94%E6%9E%AA%E5%87%BB%E4%B8%AD%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+    },
+    {
+      "title": "16岁女孩打咏春拳快出残影",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%92%8F%E6%98%A5%E6%8B%B3%E5%BF%AB%E5%87%BA%E6%AE%8B%E5%BD%B1&sa=fyb_news"
     },
     {
       "title": "长期用电动牙刷牙龈萎缩出血？误区",
@@ -215,35 +215,35 @@
       "url": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E7%94%A8%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E7%89%99%E9%BE%88%E8%90%8E%E7%BC%A9%E5%87%BA%E8%A1%80%EF%BC%9F%E8%AF%AF%E5%8C%BA&sa=fyb_news"
     },
     {
-      "title": "黄奇帆被查",
-      "platform": "百度热搜/头条",
-      "hot": "12879111",
-      "url": "https://www.toutiao.com/trending/7696089821101981750/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696089821101981750%22%2C%22hot_board_impr_id%22%3A%2220261013202440C2E117BCEA66D557B434%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7696089821101981750"
-    },
-    {
       "title": "缅北四大家族3个已被中国宣判",
       "platform": "百度热搜/头条",
-      "hot": "11653502",
-      "url": "https://www.toutiao.com/trending/7696014004717273151/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696014004717273151%22%2C%22hot_board_impr_id%22%3A%2220261013202440C2E117BCEA66D557B434%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F3%E4%B8%AA%E5%B7%B2%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%88%A4%22%7D&rank=&style_id=40132&topic_id=7696014004717273151"
+      "hot": "27442811",
+      "url": "https://www.toutiao.com/trending/7696014004717273151/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696014004717273151%22%2C%22hot_board_impr_id%22%3A%2220261014035514F3E6F97FA4280603823D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F3%E4%B8%AA%E5%B7%B2%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%88%A4%22%7D&rank=&style_id=40132&topic_id=7696014004717273151"
+    },
+    {
+      "title": "高志凯：台海若爆发战争没开战就结束",
+      "platform": "百度热搜/头条",
+      "hot": "24831282",
+      "url": "https://www.toutiao.com/trending/7696116438790438955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696116438790438955%22%2C%22hot_board_impr_id%22%3A%2220261014035514F3E6F97FA4280603823D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%BF%97%E5%87%AF%EF%BC%9A%E5%8F%B0%E6%B5%B7%E8%8B%A5%E7%88%86%E5%8F%91%E6%88%98%E4%BA%89%E6%B2%A1%E5%BC%80%E6%88%98%E5%B0%B1%E7%BB%93%E6%9D%9F%22%7D&rank=&style_id=40132&topic_id=7696116438790438955"
     },
     {
       "title": "红色热土上的新答卷",
       "platform": "百度热搜/头条",
-      "hot": "10544524",
+      "hot": "22468273",
       "url": "https://www.toutiao.com/article/7696012470624109065"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平出席全国卫生与健康大会",
+      "title": "习近平同博茨瓦纳总统博科会谈",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "重庆市原市长黄奇帆被查",
+      "title": "机器狗第1次进哀牢山就拍到冥界之花",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "居民投诉月亮太亮影响睡觉白岩松回应",
+      "title": "33岁销冠确诊胃癌晚期后突然被辞退",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -251,7 +251,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "一年中最舒服的日子来了",
+      "title": "厚卫衣配短裤 妈见打",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
