@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-13T05:48:00+08:00",
+  "updated_at": "2026-10-13T11:14:50+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3797.24,
-      "change": -16.55,
-      "pct": -0.43
+      "value": 3759.11,
+      "change": -38.13,
+      "pct": -1
     },
     {
       "name": "深证成指",
-      "value": 12384.87,
-      "change": -256.99,
-      "pct": -2.03
+      "value": 12129.45,
+      "change": -255.42,
+      "pct": -2.06
     },
     {
       "name": "创业板指",
-      "value": 2963.82,
-      "change": -79.51,
-      "pct": -2.61
+      "value": 2885.64,
+      "change": -78.18,
+      "pct": -2.64
     }
   ],
   "sectors": [
     {
-      "name": "文字媒体",
-      "change": 6.91
+      "name": "纺织化学制品",
+      "change": 3.48
     },
     {
-      "name": "视频媒体",
-      "change": 5.04
+      "name": "期货",
+      "change": 2.81
     },
     {
-      "name": "逆变器",
-      "change": 4.42
+      "name": "印制电路板",
+      "change": 2.72
     },
     {
-      "name": "影视动漫制作",
-      "change": 4.24
+      "name": "电商服务",
+      "change": 2.13
     },
     {
-      "name": "大众出版",
-      "change": 4.08
+      "name": "防水材料",
+      "change": 2.03
     },
     {
-      "name": "出版",
-      "change": 4.01
+      "name": "百货",
+      "change": 1.96
     },
     {
-      "name": "影视院线",
-      "change": 3.89
+      "name": "人工景区",
+      "change": 1.96
     },
     {
-      "name": "教育出版",
-      "change": 3.89
+      "name": "跨境电商",
+      "change": 1.83
     }
   ],
   "macro": [],
