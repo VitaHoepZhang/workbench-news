@@ -1,59 +1,7 @@
 {
-  "updated_at": "2026-10-14T09:27:21+08:00",
-  "indices": [
-    {
-      "name": "上证指数",
-      "value": 3790.63,
-      "change": -10.23,
-      "pct": -0.27
-    },
-    {
-      "name": "深证成指",
-      "value": 12308.64,
-      "change": -45.06,
-      "pct": -0.36
-    },
-    {
-      "name": "创业板指",
-      "value": 2943.01,
-      "change": -15.33,
-      "pct": -0.52
-    }
-  ],
-  "sectors": [
-    {
-      "name": "印染",
-      "change": 3.17
-    },
-    {
-      "name": "海洋捕捞",
-      "change": 1.85
-    },
-    {
-      "name": "渔业",
-      "change": 1.47
-    },
-    {
-      "name": "人工景区",
-      "change": 1.38
-    },
-    {
-      "name": "纺织化学制品",
-      "change": 1.37
-    },
-    {
-      "name": "制冷空调设备",
-      "change": 1.33
-    },
-    {
-      "name": "橡胶助剂",
-      "change": 1.22
-    },
-    {
-      "name": "水产养殖",
-      "change": 1.19
-    }
-  ],
+  "updated_at": "2026-10-14T17:52:25+08:00",
+  "indices": [],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
