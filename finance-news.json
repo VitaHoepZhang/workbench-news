@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-10-15T09:01:40+08:00",
+  "updated_at": "2026-10-15T17:33:27+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3766.7,
-      "change": -0.53,
-      "pct": -0.01
+      "value": 3707.48,
+      "change": -59.75,
+      "pct": -1.59
     },
     {
       "name": "深证成指",
-      "value": 12110.59,
-      "change": 0,
-      "pct": 0
+      "value": 11816.79,
+      "change": -293.8,
+      "pct": -2.43
     },
     {
       "name": "创业板指",
-      "value": 2866.76,
-      "change": 0,
-      "pct": 0
+      "value": 2783.17,
+      "change": -83.59,
+      "pct": -2.92
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "卫浴电器",
+      "change": 4.57
+    },
+    {
+      "name": "纺织鞋类制造",
+      "change": 3.38
+    },
+    {
+      "name": "大众出版",
+      "change": 1.37
+    },
+    {
+      "name": "电信运营商",
+      "change": 1.11
+    },
+    {
+      "name": "白酒Ⅲ",
+      "change": 1.03
+    },
+    {
+      "name": "白酒Ⅱ",
+      "change": 1.03
+    },
+    {
+      "name": "医美耗材",
+      "change": 0.91
+    },
+    {
+      "name": "出版",
+      "change": 0.68
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
