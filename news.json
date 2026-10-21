@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-10-21T02:03:10+08:00",
+  "updated_at": "2026-10-21T09:04:34+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 伟大远征 精神永续",
-      "summary": "「伟大远征 精神永续」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "前 8 月规上工业中小企业利润总额同比增长 13",
+      "summary": "前 8 月规上工业中小企业利润总额同比增长 13.8%，为 2022 年以来同期最高水平",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 菲媒：若驱逐中国大使中方必对等回应",
-      "summary": "「菲媒：若驱逐中国大使中方必对等回应」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "智驾 “小蓝灯” 迎来国标：L3 级及以上自动驾",
+      "summary": "智驾 “小蓝灯” 迎来国标：L3 级及以上自动驾驶拟启用蓝绿色标志灯",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 国家癌症中心公布发病前五癌症",
-      "summary": "「国家癌症中心公布发病前五癌症」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "工信部：坚决防范不合理创新设计和未经充分研发测试",
+      "summary": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 前三季度中国经济“成绩单”来了",
-      "summary": "「前三季度中国经济“成绩单”来了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "截至 9 月底我国智能算力规模达 2592EFL",
+      "summary": "截至 9 月底我国智能算力规模达 2592EFLOPS，同比增长 146%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台",
-        "url": "https://www.ithome.com/1/015/614.htm",
-        "summary": "<p data-vmark=\"74d1\">IT之家 10 月 20 日消息，奇妙工具箱今日数据显示，<strong>华为</strong>鸿蒙 HarmonyOS<strong> 操作系统装机量突破 9,500 万台</strong>，目前",
+        "title": "部分苹果 iPadOS 27 用户反馈隔空播放 Bug：演示时切换应用会泄露屏幕内容",
+        "url": "https://www.ithome.com/1/015/653.htm",
+        "summary": "<p data-vmark=\"f06d\">IT之家 10 月 21 日消息，科技媒体 AppleInsider 昨日（10 月 20 日）发布博文，报道称基于多名社区用户反馈，在 iPadOS 27 系统中使用隔空播放（AirPlay）演示",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为详解 Wi-Fi 7+ 端到端芯片解决方案，支持动态窄频宽、真双频并发、无缝漫游等技术",
-        "url": "https://www.ithome.com/1/015/613.htm",
-        "summary": "<p data-vmark=\"1b0f\">IT之家 10 月 20 日消息，华为官网迎来更新，详细介绍了 Wi-Fi 7+ 端到端芯片解决方案。</p><p style=\"text-align: center;\" data-vmark=\"c",
+        "title": "澳大利亚寻求组建全球联盟，共同对抗“科技巨头”伤害儿童",
+        "url": "https://www.ithome.com/1/015/652.htm",
+        "summary": "<p data-vmark=\"902b\">IT之家 10 月 21 日消息，据彭博社今天（21 日）凌晨报道，澳大利亚通信部长阿妮卡 · 威尔斯希望联合其他国家，向 Meta 等科技巨头施压，要求加强网络安全保护。</p><p data-v",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市",
-        "url": "https://www.ithome.com/1/015/610.htm",
-        "summary": "<p data-vmark=\"d734\">IT之家 10 月 20 日消息，华为乾崑智能汽车解决方案昨日宣布，<a target=\"_blank\" href=\"https://www.ithome.com/1/015/014.htm\">引望",
+        "title": "总台曝光二手平台“破解版 AI”：几块钱就能享受高阶会员，豆包、Kimi 回应",
+        "url": "https://www.ithome.com/1/015/651.htm",
+        "summary": "<p data-vmark=\"72d2\">IT之家 10 月 21 日消息，据中央广播电视总台中国之声今日报道，最近在一些二手交易平台上，有不少卖家做起了 <strong>AI 大模型付费服务的“灰色生意”</strong>，打着“破解版”",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Mac 版 Perplexity Computer 新增端侧模式，要求 36GB 统一内存",
-        "url": "https://www.ithome.com/1/015/609.htm",
-        "summary": "<p data-vmark=\"bf06\">IT之家 10 月 20 日消息，据科技媒体 9To5Mac 今天报道，Mac 版 Perplexity Computer 最近新增端侧模式，让 Computer 能够完全在设备端运行，无需互联网即",
+        "title": "苹果招聘 6G 基带工程师，提前布局下一代通信技术",
+        "url": "https://www.ithome.com/1/015/649.htm",
+        "summary": "<p data-vmark=\"b8af\">IT之家 10 月 21 日消息，苹果仍在持续研发 6G 技术，作为 5G 的下一代通信标准，6G 预计将在 2030 年前后落地。至少从 2020 年起，苹果就已经在为 6G 标准的最终落地做准备",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "比亚迪何志奇：方程豹作为品牌矩阵最年轻的一员，成立刚满三年月销已连续三个月站稳 4 万台",
-        "url": "https://www.ithome.com/1/015/608.htm",
-        "summary": "<p data-vmark=\"5772\">IT之家 10 月 20 日消息，比亚迪官方在 10 月 18 日宣布，旗下个性化品牌 —— <a target=\"_blank\" href=\"https://www.ithome.com/1/01",
+        "title": "消息称启境汽车已有规划换电车型，将“率先落地”",
+        "url": "https://www.ithome.com/1/015/648.htm",
+        "summary": "<p data-vmark=\"1953\">IT之家 10 月 21 日消息，今天（21 日）上午，据蓝鲸汽车援引知情人士消息称，启境汽车目前已有规划换电新车型，“以启境和华为乾崑的合作深度，<strong>肯定会率先落地</strong>。",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破",
-        "url": "https://www.ithome.com/1/015/607.htm",
-        "summary": "<p data-vmark=\"42a5\">IT之家 10 月 20 日消息，据科技媒体 Sammobile 今天报道，三星马来西亚总裁 Charles Kim 接受采访时表示，他乐于看见苹果 iPhone Duo 等竞争对手入局折叠屏手机市",
+        "title": "苹果 tvOS 27.2 前瞻：航拍、史努比等屏保轮着看，支持手语等",
+        "url": "https://www.ithome.com/1/015/647.htm",
+        "summary": "<p data-vmark=\"22ea\">IT之家 10 月 21 日消息，科技媒体 9to5Mac 昨日（10 月 20 日）发布博文，报道称在 tvOS 27.2 更新中，苹果公司计划为 Apple TV 4K 用户来 3 项新功能 /",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,86 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "前 8 月规上工业中小企业利润总额同比增长 13",
+        "summary": "前 8 月规上工业中小企业利润总额同比增长 13.8%，为 2022 年以来同期最高水平",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "智驾 “小蓝灯” 迎来国标：L3 级及以上自动驾",
+        "summary": "智驾 “小蓝灯” 迎来国标：L3 级及以上自动驾驶拟启用蓝绿色标志灯",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "工信部：坚决防范不合理创新设计和未经充分研发测试",
+        "summary": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "截至 9 月底我国智能算力规模达 2592EFL",
+        "summary": "截至 9 月底我国智能算力规模达 2592EFLOPS，同比增长 146%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "数据显示：全国手机用户平均每天漏接陌生来电比例达",
+        "summary": "数据显示：全国手机用户平均每天漏接陌生来电比例达 68%，25 至 40 岁职场人群更高达 76%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "14 家民营银行叫停或限制个人异地存款",
+        "summary": "14 家民营银行叫停或限制个人异地存款，有银行明年 1 月全面落地",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "人民币对美元即期汇率升破 6.68",
+        "summary": "人民币对美元即期汇率升破 6.68，收盘创 2022 年 6 月 8 日以来新高",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "2027 年男排世界杯 32 强名单出炉：中国男",
+        "summary": "2027 年男排世界杯 32 强名单出炉：中国男排时隔 37 年无缘世界杯，上一次缺席还是 1990 年",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "国家移民管理局：第三季度 1.92 亿人次出入境",
+        "summary": "国家移民管理局：第三季度 1.92 亿人次出入境同比上升 7.9%，免签入境外国人同比上升 24.1%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "泰国旅游部长回应中使馆发旅游安全预警：正常赴泰旅",
+        "summary": "泰国旅游部长回应中使馆发旅游安全预警：正常赴泰旅游应是安全的",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
       {
         "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
         "url": "https://sspai.com/prime/story/inside-release-notes-261020",
@@ -160,16 +244,16 @@
       "url": "https://m.baidu.com/s?word=%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81+%E7%B2%BE%E7%A5%9E%E6%B0%B8%E7%BB%AD&sa=fyb_news"
     },
     {
-      "title": "菲媒：若驱逐中国大使中方必对等回应",
+      "title": "满足这些条件微信聊天记录才能当证据",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%8F%B2%E5%AA%92%EF%BC%9A%E8%8B%A5%E9%A9%B1%E9%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E4%B8%AD%E6%96%B9%E5%BF%85%E5%AF%B9%E7%AD%89%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%BB%A1%E8%B6%B3%E8%BF%99%E4%BA%9B%E6%9D%A1%E4%BB%B6%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%89%8D%E8%83%BD%E5%BD%93%E8%AF%81%E6%8D%AE&sa=fyb_news"
     },
     {
-      "title": "国家癌症中心公布发病前五癌症",
+      "title": "又一地宣布：生物地理不计入中考总分",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E4%B8%AD%E8%80%83%E6%80%BB%E5%88%86&sa=fyb_news"
     },
     {
       "title": "前三季度中国经济“成绩单”来了",
@@ -178,46 +262,46 @@
       "url": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "最强厄尔尼诺：赤道太平洋由绿变蓝",
+      "title": "法国乱成一锅粥 还有人叫嚣对华强硬",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%EF%BC%9A%E8%B5%A4%E9%81%93%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%94%B1%E7%BB%BF%E5%8F%98%E8%93%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5+%E8%BF%98%E6%9C%89%E4%BA%BA%E5%8F%AB%E5%9A%A3%E5%AF%B9%E5%8D%8E%E5%BC%BA%E7%A1%AC&sa=fyb_news"
     },
     {
-      "title": "“第一次看电视剧记笔记”",
+      "title": "2岁幼童坠亡 孩子母亲怀疑丈夫作案",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E8%AE%B0%E7%AC%94%E8%AE%B0%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=2%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A1+%E5%AD%A9%E5%AD%90%E6%AF%8D%E4%BA%B2%E6%80%80%E7%96%91%E4%B8%88%E5%A4%AB%E4%BD%9C%E6%A1%88&sa=fyb_news"
     },
     {
-      "title": "淘宝崩了",
+      "title": "国家癌症中心公布发病前五癌症",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&sa=fyb_news"
     },
     {
-      "title": "上海人又排队买黄金了",
+      "title": "詹姆斯76人生涯首分",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%8F%88%E6%8E%92%E9%98%9F%E4%B9%B0%E9%BB%84%E9%87%91%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&sa=fyb_news"
     },
     {
-      "title": "00后北漂患上“扔垃圾羞耻”",
+      "title": "华为带火阔直板 安卓手机集体抄作业",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=00%E5%90%8E%E5%8C%97%E6%BC%82%E6%82%A3%E4%B8%8A%E2%80%9C%E6%89%94%E5%9E%83%E5%9C%BE%E7%BE%9E%E8%80%BB%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E5%B8%A6%E7%81%AB%E9%98%94%E7%9B%B4%E6%9D%BF+%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%8A%84%E4%BD%9C%E4%B8%9A&sa=fyb_news"
     },
     {
-      "title": "连涨5年 中信银行成了香饽饽",
+      "title": "蔡天凤前公公买绞肉机监控曝光",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9E%E6%B6%A85%E5%B9%B4+%E4%B8%AD%E4%BF%A1%E9%93%B6%E8%A1%8C%E6%88%90%E4%BA%86%E9%A6%99%E9%A5%BD%E9%A5%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news"
     },
     {
-      "title": "中年男子骑车载白发老人看哭网友",
+      "title": "队旗缝进百褶裙夹层",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%B9%B4%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E8%BD%BD%E7%99%BD%E5%8F%91%E8%80%81%E4%BA%BA%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%98%9F%E6%97%97%E7%BC%9D%E8%BF%9B%E7%99%BE%E8%A4%B6%E8%A3%99%E5%A4%B9%E5%B1%82&sa=fyb_news"
     },
     {
       "title": "“完美恋人”背后的陷阱",
@@ -226,22 +310,22 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%AE%8C%E7%BE%8E%E6%81%8B%E4%BA%BA%E2%80%9D%E8%83%8C%E5%90%8E%E7%9A%84%E9%99%B7%E9%98%B1&sa=fyb_news"
     },
     {
-      "title": "日美利剑演习是否为介入台海做准备",
+      "title": "台退将：辽宁舰再赴西太是警告日本",
       "platform": "百度热搜/头条",
-      "hot": "23866844",
-      "url": "https://www.toutiao.com/trending/7698319902914904603/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698319902914904603%22%2C%22hot_board_impr_id%22%3A%22202610210203079C3A72CC51539B5ED8DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E7%BE%8E%E5%88%A9%E5%89%91%E6%BC%94%E4%B9%A0%E6%98%AF%E5%90%A6%E4%B8%BA%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B5%B7%E5%81%9A%E5%87%86%E5%A4%87%22%7D&rank=&style_id=40132&topic_id=7698319902914904603"
+      "hot": "11472554",
+      "url": "https://www.toutiao.com/trending/7698598904883413055/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698598904883413055%22%2C%22hot_board_impr_id%22%3A%2220261021090431BF3F4F0302DC62DE040F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E9%80%80%E5%B0%86%EF%BC%9A%E8%BE%BD%E5%AE%81%E8%88%B0%E5%86%8D%E8%B5%B4%E8%A5%BF%E5%A4%AA%E6%98%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%22%7D&rank=&style_id=40132&topic_id=7698598904883413055"
     },
     {
-      "title": "马斯克被杨立昆质疑后回怼",
+      "title": "人类历史上最大的投资泡沫或正在破裂",
       "platform": "百度热搜/头条",
-      "hot": "21595613",
-      "url": "https://www.toutiao.com/trending/7698729957635132971/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698729957635132971%22%2C%22hot_board_impr_id%22%3A%22202610210203079C3A72CC51539B5ED8DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9D%A8%E7%AB%8B%E6%98%86%E8%B4%A8%E7%96%91%E5%90%8E%E5%9B%9E%E6%80%BC%22%7D&rank=&style_id=40132&topic_id=7698729957635132971"
+      "hot": "10380796",
+      "url": "https://www.toutiao.com/trending/7698732264695270953/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698732264695270953%22%2C%22hot_board_impr_id%22%3A%2220261021090431BF3F4F0302DC62DE040F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84%E6%8A%95%E8%B5%84%E6%B3%A1%E6%B2%AB%E6%88%96%E6%AD%A3%E5%9C%A8%E7%A0%B4%E8%A3%82%22%7D&rank=&style_id=40132&topic_id=7698732264695270953"
     },
     {
-      "title": "工信部：禁止车辆行驶时用零重力座椅",
+      "title": "媒体：董明珠办技校先别急着叫好",
       "platform": "百度热搜/头条",
-      "hot": "17680993",
-      "url": "https://www.toutiao.com/trending/7698667807361319433/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698667807361319433%22%2C%22hot_board_impr_id%22%3A%22202610210203079C3A72CC51539B5ED8DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%A5%E4%BF%A1%E9%83%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E8%BD%A6%E8%BE%86%E8%A1%8C%E9%A9%B6%E6%97%B6%E7%94%A8%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85%22%7D&rank=&style_id=40132&topic_id=7698667807361319433"
+      "hot": "8499077",
+      "url": "https://www.toutiao.com/trending/7698176815571140617/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698176815571140617%22%2C%22hot_board_impr_id%22%3A%2220261021090431BF3F4F0302DC62DE040F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E8%91%A3%E6%98%8E%E7%8F%A0%E5%8A%9E%E6%8A%80%E6%A0%A1%E5%85%88%E5%88%AB%E6%80%A5%E7%9D%80%E5%8F%AB%E5%A5%BD%22%7D&rank=&style_id=40132&topic_id=7698176815571140617"
     }
   ],
   "suggested_topics": [
@@ -250,11 +334,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "菲媒：若驱逐中国大使中方必对等回应",
+      "title": "满足这些条件微信聊天记录才能当证据",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "国家癌症中心公布发病前五癌症",
+      "title": "又一地宣布：生物地理不计入中考总分",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +346,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "最强厄尔尼诺：赤道太平洋由绿变蓝",
+      "title": "法国乱成一锅粥 还有人叫嚣对华强硬",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
