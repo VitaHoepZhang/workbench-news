@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:46:34+08:00",
+  "updated_at": "2026-10-22T02:09:05+08:00",
   "science": [
     {
       "title": "前 8 月规上工业中小企业利润总额同比增长 13",
@@ -33,49 +33,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "奔驰与英伟达合作开发城市辅助驾驶系统 MB.DRIVE ASSIST PRO，计划年底在德国向部分用户开放",
-        "url": "https://www.ithome.com/1/016/029.htm",
-        "summary": "<p data-vmark=\"99cc\">IT之家 10 月 21 日消息，梅赛德斯-奔驰今日宣布，旗下 <span class=\"link-text-start-with-http\">MB.DRIVE</span> ASSIST PRO ",
+        "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+        "url": "https://www.ithome.com/1/016/160.htm",
+        "summary": "<p data-vmark=\"3e86\">IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。</p><p data-vmark=\"0ad",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Synaptics 推出 Astra SR200 MCU：内置谷歌 Coral NPU，集成高带宽定制 DRAM",
-        "url": "https://www.ithome.com/1/016/027.htm",
-        "summary": "<p data-vmark=\"ea43\">IT之家 10 月 21 日消息，边缘 AI 芯片企业 Synaptics（新突思）美国当地时间 20 日宣布推出 Astra SR200 系列 xMCU。这批产品在常规微控制器的基础上<stron",
+        "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
+        "url": "https://www.ithome.com/1/016/158.htm",
+        "summary": "<p data-vmark=\"a20c\">IT之家 10 月 22 日消息，雷蛇（Razer）今晚正式发布了全新的北海巨妖萌猫版 V3 有线 RGB 游戏耳机，官方售价 799 元，10 月 26 日发货。</p><p style=\"tex",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小鹏汽车董事长何小鹏称 L3 安全性没有变好，自动驾驶应该跳过 L3",
-        "url": "https://www.ithome.com/1/016/025.htm",
-        "summary": "<p data-vmark=\"abbd\">IT之家 10 月 21 日消息，据第一财经报道，小鹏集团董事长、CEO 何小鹏今日在世界智能网联汽车大会上表示，<strong>自动驾驶应该跳过 L3</strong>。L3 模式下安全责任转移给",
+        "title": "苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍",
+        "url": "https://www.ithome.com/1/016/157.htm",
+        "summary": "<p data-vmark=\"1b47\">IT之家 10 月 21 日消息，苹果音乐（Apple Music）官方今日宣布推出全新身份标识。</p><p data-vmark=\"f972\">此次设计以“Made by Sound”（由声音塑",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "环路资本将苹果评级下调为“持有”，同步下调 iPhone 营收预期",
-        "url": "https://www.ithome.com/1/016/024.htm",
-        "summary": "<p data-vmark=\"4060\">IT之家 10 月 21 日消息，据科技媒体 macrumors 今天报道，环路资本（Loop Capital）已将苹果股票评级从“买入”下调为“持有”。该机构认为，<strong>苹果不太可能弥补",
+        "title": "NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源",
+        "url": "https://www.ithome.com/1/016/149.htm",
+        "summary": "<p data-vmark=\"2d74\">IT之家 10 月 21 日消息，美国国家航空航天局（NASA）当地时间 10 月 20 日公布了月球探测车最新研发进展及任务规划。</p><p data-vmark=\"63fd\">NASA 表示，",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "上海国际航空枢纽战略规划发布：江苏南通新机场计划明年开工、2035 年建成",
-        "url": "https://www.ithome.com/1/016/022.htm",
-        "summary": "<p data-vmark=\"c144\">IT之家 10 月 21 日消息，据央视新闻今日报道，中国民航局在最新发布的《新时代新征程上海国际航空枢纽战略规划》中提出，上海正持续推进全方位门户复合型国际航空枢纽建设，计划明年开工建设江苏南通新",
+        "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
+        "url": "https://www.ithome.com/1/016/148.htm",
+        "summary": "<p data-vmark=\"7340\">IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开放手动配置最多 8 台设备组建集群。如果是以 128G",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "支付宝 iOS 端 App 推 12.12.38 版本更新，适配 iPhone Duo 也适配液态玻璃",
-        "url": "https://www.ithome.com/1/016/018.htm",
-        "summary": "<p data-vmark=\"f827\">IT之家 10 月 21 日消息，支付宝今日面向 iOS 端推出了 12.12.38 版本的 App 更新。</p><p data-vmark=\"60a6\" style=\"text-align: c",
+        "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
+        "url": "https://www.ithome.com/1/016/147.htm",
+        "summary": "<p data-vmark=\"e604\">IT之家 10 月 21 日消息，OPPO 今日在海外市场推出 Find X10 全球版手机。新机采用 6.59 英寸 AMOLED 屏幕、双 2 亿影像和天玑 9600M 芯片。<strong>1",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -165,7 +165,15 @@
         "heat": "中"
       },
       {
-        "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+        "url": "https://sspai.com/post/116820",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
         "url": "https://sspai.com/post/116445",
         "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=&#34;https://sspai.com/post/1",
         "source": "少数派",
@@ -203,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
-        "url": "https://sspai.com/post/116661",
-        "summary": "原厂屏幕之外最省心的搭档。<a href=&#34;https://sspai.com/post/116661&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -238,115 +238,115 @@
   },
   "hot_topics": [
     {
-      "title": "红飘带闪耀新时代",
+      "title": "走好新时代的长征路",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E9%A3%98%E5%B8%A6%E9%97%AA%E8%80%80%E6%96%B0%E6%97%B6%E4%BB%A3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF&sa=fyb_news"
     },
     {
-      "title": "问界回应车辆起火",
+      "title": "年轻人盯上养老院里的新职业",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%97%AE%E7%95%8C%E5%9B%9E%E5%BA%94%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A&sa=fyb_news"
     },
     {
-      "title": "“神探”李昌钰将安葬于扬州",
+      "title": "王虹再获大奖",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%A5%9E%E6%8E%A2%E2%80%9D%E6%9D%8E%E6%98%8C%E9%92%B0%E5%B0%86%E5%AE%89%E8%91%AC%E4%BA%8E%E6%89%AC%E5%B7%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%A4%A7%E5%A5%96&sa=fyb_news"
     },
     {
-      "title": "长征精神的世界回响",
+      "title": "它们为什么都叫“长征”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9E%E5%93%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%AE%83%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E2%80%9C%E9%95%BF%E5%BE%81%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "警方回应问界汽车碰撞起火：司机遇难",
+      "title": "PHP出现严重漏洞 多国紧急下线",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%B5%B7%E7%81%AB%EF%BC%9A%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF&sa=fyb_news"
     },
     {
-      "title": "唐禹哲等9名艺人被判刑",
+      "title": "红果把观众的时间标好了价",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%94%90%E7%A6%B9%E5%93%B2%E7%AD%899%E5%90%8D%E8%89%BA%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E6%8A%8A%E8%A7%82%E4%BC%97%E7%9A%84%E6%97%B6%E9%97%B4%E6%A0%87%E5%A5%BD%E4%BA%86%E4%BB%B7&sa=fyb_news"
     },
     {
-      "title": "国产AI日韩剧走红 有人变现数百万",
+      "title": "地铁站内看书5小时被扣15元",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A7AI%E6%97%A5%E9%9F%A9%E5%89%A7%E8%B5%B0%E7%BA%A2+%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E6%95%B0%E7%99%BE%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83&sa=fyb_news"
     },
     {
-      "title": "有长寿潜质的人 身体大多有这5个表现",
+      "title": "赵露思被质疑自费购买高定",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%89%E9%95%BF%E5%AF%BF%E6%BD%9C%E8%B4%A8%E7%9A%84%E4%BA%BA+%E8%BA%AB%E4%BD%93%E5%A4%A7%E5%A4%9A%E6%9C%89%E8%BF%995%E4%B8%AA%E8%A1%A8%E7%8E%B0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E8%B4%A8%E7%96%91%E8%87%AA%E8%B4%B9%E8%B4%AD%E4%B9%B0%E9%AB%98%E5%AE%9A&sa=fyb_news"
     },
     {
-      "title": "网红国货“被迫”改名 亏损6000万",
+      "title": "14家银行叫停或限制个人异地存款",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E5%9B%BD%E8%B4%A7%E2%80%9C%E8%A2%AB%E8%BF%AB%E2%80%9D%E6%94%B9%E5%90%8D+%E4%BA%8F%E6%8D%9F6000%E4%B8%87&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news"
     },
     {
-      "title": "宝马员工争着离职",
+      "title": "曝张小斐芭莎红毯救场",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E5%B0%8F%E6%96%90%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E6%95%91%E5%9C%BA&sa=fyb_news"
     },
     {
-      "title": "36岁就义前 他平静地说了这句话",
+      "title": "纪念活动男子吹响冲锋号 全场沸腾",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=36%E5%B2%81%E5%B0%B1%E4%B9%89%E5%89%8D+%E4%BB%96%E5%B9%B3%E9%9D%99%E5%9C%B0%E8%AF%B4%E4%BA%86%E8%BF%99%E5%8F%A5%E8%AF%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E7%94%B7%E5%AD%90%E5%90%B9%E5%93%8D%E5%86%B2%E9%94%8B%E5%8F%B7+%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news"
     },
     {
-      "title": "粉红豹现身法国骚乱现场系AI伪造",
+      "title": "五部门发布骗局风险提示",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%B2%89%E7%BA%A2%E8%B1%B9%E7%8E%B0%E8%BA%AB%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E7%8E%B0%E5%9C%BA%E7%B3%BBAI%E4%BC%AA%E9%80%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%94%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%AA%97%E5%B1%80%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news"
     },
     {
-      "title": "宝马员工争着离职挤崩系统",
+      "title": "人民日报评特斯拉能飞：不必妄自菲薄",
       "platform": "百度热搜/头条",
-      "hot": "10858304",
-      "url": "https://www.toutiao.com/trending/7698685411492675622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698685411492675622%22%2C%22hot_board_impr_id%22%3A%2220261021174631C4030A16D6B92F8B8E51%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C%E6%8C%A4%E5%B4%A9%E7%B3%BB%E7%BB%9F%22%7D&rank=&style_id=40132&topic_id=7698685411492675622"
+      "hot": "8242544",
+      "url": "https://www.toutiao.com/trending/7698981088210849318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698981088210849318%22%2C%22hot_board_impr_id%22%3A%22202610220209028EF9DE98425A440E2643%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%89%B9%E6%96%AF%E6%8B%89%E8%83%BD%E9%A3%9E%EF%BC%9A%E4%B8%8D%E5%BF%85%E5%A6%84%E8%87%AA%E8%8F%B2%E8%96%84%22%7D&rank=&style_id=40132&topic_id=7698981088210849318"
     },
     {
-      "title": "3位老人开三轮车南下 签互不追责协议",
+      "title": "泽连斯基：愿保留75%领土以达和平",
       "platform": "百度热搜/头条",
-      "hot": "9825000",
-      "url": "https://www.toutiao.com/trending/7698949858920742955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698949858920742955%22%2C%22hot_board_impr_id%22%3A%2220261021174631C4030A16D6B92F8B8E51%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%223%E4%BD%8D%E8%80%81%E4%BA%BA%E5%BC%80%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%8D%97%E4%B8%8B+%E7%AD%BE%E4%BA%92%E4%B8%8D%E8%BF%BD%E8%B4%A3%E5%8D%8F%E8%AE%AE%22%7D&rank=&style_id=40132&topic_id=7698949858920742955"
+      "hot": "7458162",
+      "url": "https://www.toutiao.com/trending/7699090821399711295/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699090821399711295%22%2C%22hot_board_impr_id%22%3A%22202610220209028EF9DE98425A440E2643%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E4%BB%A5%E8%BE%BE%E5%92%8C%E5%B9%B3%22%7D&rank=&style_id=40132&topic_id=7699090821399711295"
     },
     {
-      "title": "外国友人镜头里的中国乡村全面振兴",
+      "title": "中国经济发展绿色化底色愈加鲜明",
       "platform": "百度热搜/头条",
-      "hot": "8890027",
-      "url": "https://www.toutiao.com/trending/7698917116895952906/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698917116895952906%22%2C%22hot_board_impr_id%22%3A%2220261021174631C4030A16D6B92F8B8E51%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E5%85%A8%E9%9D%A2%E6%8C%AF%E5%85%B4%22%7D&rank=&style_id=40132&topic_id=7698917116895952906"
+      "hot": "6748424",
+      "url": "https://www.toutiao.com/trending/7699023554351988774/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699023554351988774%22%2C%22hot_board_impr_id%22%3A%22202610220209028EF9DE98425A440E2643%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%BB%BF%E8%89%B2%E5%8C%96%E5%BA%95%E8%89%B2%E6%84%88%E5%8A%A0%E9%B2%9C%E6%98%8E%22%7D&rank=&style_id=40132&topic_id=7699023554351988774"
     }
   ],
   "suggested_topics": [
     {
-      "title": "红飘带闪耀新时代",
+      "title": "走好新时代的长征路",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "问界回应车辆起火",
+      "title": "年轻人盯上养老院里的新职业",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“神探”李昌钰将安葬于扬州",
+      "title": "王虹再获大奖",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "长征精神的世界回响",
+      "title": "它们为什么都叫“长征”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "警方回应问界汽车碰撞起火：司机遇难",
+      "title": "PHP出现严重漏洞 多国紧急下线",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
