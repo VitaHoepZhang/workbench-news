@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-21T09:04:34+08:00",
+  "updated_at": "2026-10-21T17:46:34+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3730.26,
-      "change": -5.11,
-      "pct": -0.14
+      "value": 3713.03,
+      "change": -22.34,
+      "pct": -0.6
     },
     {
       "name": "深证成指",
-      "value": 11801.29,
-      "change": 0,
-      "pct": 0
+      "value": 11704.35,
+      "change": -96.94,
+      "pct": -0.82
     },
     {
       "name": "创业板指",
-      "value": 2739.2,
-      "change": 0,
-      "pct": 0
+      "value": 2694.71,
+      "change": -44.49,
+      "pct": -1.62
     }
   ],
   "sectors": [
     {
-      "name": "长材",
-      "change": 0
+      "name": "广告媒体",
+      "change": 6.85
     },
     {
-      "name": "其他养殖",
-      "change": 0
+      "name": "其他数字媒体",
+      "change": 6.61
     },
     {
-      "name": "光伏设备",
-      "change": 0
+      "name": "生猪养殖",
+      "change": 3.79
     },
     {
-      "name": "医疗美容",
-      "change": 0
+      "name": "电视广播Ⅲ",
+      "change": 3.26
     },
     {
-      "name": "海洋捕捞",
-      "change": 0
+      "name": "电视广播Ⅱ",
+      "change": 3.26
     },
     {
-      "name": "视频媒体",
-      "change": 0
+      "name": "大众出版",
+      "change": 3.15
     },
     {
-      "name": "房产租赁经纪",
-      "change": 0
+      "name": "养殖业",
+      "change": 2.81
     },
     {
-      "name": "农化制品",
-      "change": 0
+      "name": "林业Ⅲ",
+      "change": 2.41
     }
   ],
   "macro": [],
