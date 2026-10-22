@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-22T09:02:38+08:00",
+  "updated_at": "2026-10-22T17:46:52+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3712.83,
-      "change": -0.2,
-      "pct": -0.01
+      "value": 3658.03,
+      "change": -55,
+      "pct": -1.48
     },
     {
       "name": "深证成指",
-      "value": 11704.35,
-      "change": 0,
-      "pct": 0
+      "value": 11357.32,
+      "change": -347.03,
+      "pct": -2.96
     },
     {
       "name": "创业板指",
-      "value": 2694.71,
-      "change": 0,
-      "pct": 0
+      "value": 2576.9,
+      "change": -117.81,
+      "pct": -4.37
     }
   ],
   "sectors": [
     {
-      "name": "院线",
-      "change": 0
+      "name": "电机Ⅲ",
+      "change": 4.13
     },
     {
-      "name": "卫浴制品",
-      "change": 0
+      "name": "电机Ⅱ",
+      "change": 4.13
     },
     {
-      "name": "汽车服务",
-      "change": 0
+      "name": "医美耗材",
+      "change": 2.35
     },
     {
-      "name": "汽车经销商",
-      "change": 0
+      "name": "医疗美容",
+      "change": 1.71
     },
     {
-      "name": "橡胶",
-      "change": 0
+      "name": "电信运营商",
+      "change": 1.18
     },
     {
-      "name": "燃气Ⅲ",
-      "change": 0
+      "name": "玻璃制造",
+      "change": 0.83
     },
     {
-      "name": "燃气Ⅱ",
-      "change": 0
+      "name": "工程机械整机",
+      "change": 0.83
     },
     {
-      "name": "大宗用纸",
-      "change": 0
+      "name": "医美服务",
+      "change": 0.75
     }
   ],
   "macro": [],
