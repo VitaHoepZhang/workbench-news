@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-10-23T17:42:13+08:00",
+  "updated_at": "2026-10-24T01:55:02+08:00",
   "science": [
     {
-      "title": "国家能源局：我国电动汽车充电基础设施总数达到 2",
-      "summary": "国家能源局：我国电动汽车充电基础设施总数达到 2477.7 万个，同比增长 37.2%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 党和人民军队铿锵前进的制胜之道",
+      "summary": "「党和人民军队铿锵前进的制胜之道」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "成都启动国三及以下柴油车淘汰报废补贴",
-      "summary": "成都启动国三及以下柴油车淘汰报废补贴，最高补贴 4.5 万元",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 网红拼豆店 倒闭潮",
+      "summary": "「网红拼豆店 倒闭潮」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "商务部：今年 1-9 月全国吸收外资 5488.",
-      "summary": "商务部：今年 1-9 月全国吸收外资 5488.1 亿元人民币，同比下降 4.3%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 哈啰顺风车 涉黄",
+      "summary": "「哈啰顺风车 涉黄」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "山东一银行办业务每天仅 3.5 小时",
-      "summary": "山东一银行办业务每天仅 3.5 小时，工作人员回应：由上级决定",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 人民子弟兵投入西藏巴青抗震救灾",
+      "summary": "「人民子弟兵投入西藏巴青抗震救灾」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "华为手环 11《无职转生》联名款在日本发售：主角四人主题，10890 日元",
-        "url": "https://www.ithome.com/1/017/165.htm",
-        "summary": "<p data-vmark=\"367f\">IT之家 10 月 23 日消息，日本 GARRACK 上架了一款基于华为手环 11 打造的《无职转生～到了异世界就拿出真本事～》联名智能手表，包括鲁迪乌斯、希露菲叶特、洛琪希和艾莉丝 4 款角色主",
+        "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
+        "url": "https://www.ithome.com/1/017/278.htm",
+        "summary": "<p data-vmark=\"47a0\">IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场查获。该男子显然不服，并辩称这属于自首。</p><p ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "超 5 万张证书被撤销，市场监管总局对 CCC 认证各环节持续开展清理整顿",
-        "url": "https://www.ithome.com/1/017/160.htm",
-        "summary": "<p data-vmark=\"6d6f\">IT之家 10 月 23 日消息，据央视新闻今日报道，市场监管总局今年对 CCC 认证各环节持续开展清理整顿。今年以来，<span class=\"color-00269a\"><strong>认证机构",
+        "title": "长城魏牌二代蓝山全球首秀定档 10 月 27 日，搭载 Hi-4 插电混动系统",
+        "url": "https://www.ithome.com/1/017/277.htm",
+        "summary": "<p data-vmark=\"eb45\">IT之家 10 月 23 日消息，长城汽车今日宣布魏牌二代蓝山全球首秀定档 10 月 27 日。新车采用方盒子设计，搭载由 2.0T 发动机组成的 Hi-4 插电混动系统。</p><p data-v",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "VGN 魔竞入耳式电竞耳机发售：2-Pin 可换线材设计，4 色可选，399 元",
-        "url": "https://www.ithome.com/1/015/521.htm",
-        "summary": "<p data-vmark=\"ef91\">IT之家 10 月 23 日消息，VGN 即将于今晚 22:00 正式发售入耳式专业电竞 HiFi 耳机魔竞 (MO)。其可选芭比粉 / 薄荷绿 / 云朵白 / 天霸限定（黑）4 种配色，<stro",
+        "title": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM",
+        "url": "https://www.ithome.com/1/017/276.htm",
+        "summary": "<p data-vmark=\"4874\">IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "索尼推出 IMX742 图像传感器：面向一次性内窥镜，支持图像信号本地数字化",
-        "url": "https://www.ithome.com/1/017/132.htm",
-        "summary": "<p data-vmark=\"4045\">IT之家 10 月 23 日消息，索尼半导体日本当地时间昨日宣布推出 IMX742 图像传感器。这一型号面向医疗场景，<strong>适用于一次性细径内窥镜</strong>。</p><p data",
+        "title": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作",
+        "url": "https://www.ithome.com/1/017/275.htm",
+        "summary": "<p data-vmark=\"696b\">IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。</p><p data-vmark=\"17bc\">会议要求，各",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "字节跳动公益基金会驰援西藏那曲，首批应急物资已发往灾区",
-        "url": "https://www.ithome.com/1/017/130.htm",
-        "summary": "<p data-vmark=\"5835\">IT之家 10 月 23 日消息，据北京字节跳动公益基金会，10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。地震发生后，国家防灾减灾救灾委员会、应急管",
+        "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
+        "url": "https://www.ithome.com/1/017/274.htm",
+        "summary": "<p data-vmark=\"ba7d\">IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "国内首部 AI 院线长片《三星堆：未来往事》上映：千万元成本，首日票房超 12.5 万元",
-        "url": "https://www.ithome.com/1/017/123.htm",
-        "summary": "<p data-vmark=\"d29b\">IT之家 10 月 23 日消息，国内首部获得国家电影局公映许可证的 AI 全流程院线长片《三星堆：未来往事》今日正式上映。截至IT之家发稿，猫眼专业版显示其首日票房超 12.5 万元，累计票房 1",
+        "title": "中国科学家在地球深处发现隐藏氧气来源：高压实验显示硅酸盐熔体可储存超 5% 额外氧",
+        "url": "https://www.ithome.com/1/017/272.htm",
+        "summary": "<p data-vmark=\"18f5\">IT之家 10 月 23 日消息，地球大气中的氧气从何而来，绝大部分人都会说光合作用。但一项新研究提出，在地球历史的某个关键节点，岩浆本身可能也曾充当过重要的氧气搬运工。</p><p data-vm",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,12 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "国家能源局：我国电动汽车充电基础设施总数达到 2",
-        "summary": "国家能源局：我国电动汽车充电基础设施总数达到 2477.7 万个，同比增长 37.2%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "成都启动国三及以下柴油车淘汰报废补贴",
-        "summary": "成都启动国三及以下柴油车淘汰报废补贴，最高补贴 4.5 万元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "商务部：今年 1-9 月全国吸收外资 5488.",
-        "summary": "商务部：今年 1-9 月全国吸收外资 5488.1 亿元人民币，同比下降 4.3%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "山东一银行办业务每天仅 3.5 小时",
-        "summary": "山东一银行办业务每天仅 3.5 小时，工作人员回应：由上级决定",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "广东多地疾控中心发 “警惕伪造健康证明” 声明：",
-        "summary": "广东多地疾控中心发 “警惕伪造健康证明” 声明：早已不开展健康体检及办理健康证",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "美团、淘宝闪购、滴滴等七家平台联合倡议：推进新就",
-        "summary": "美团、淘宝闪购、滴滴等七家平台联合倡议：推进新就业形态人员参加基本医保",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "多家快递被曝 “咨询客服就算投诉”",
-        "summary": "多家快递被曝 “咨询客服就算投诉”，有快递员称 3 年被罚上万元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "乒乓球亚锦赛：国乒女团 2 比 3 不敌日本",
-        "summary": "乒乓球亚锦赛：国乒女团 2 比 3 不敌日本，获得亚军；国乒男团 3 比 0 击败韩国，获亚锦赛 4 连冠",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "西藏那曲市巴青县 22 日 22 时发生 7.0",
-        "summary": "西藏那曲市巴青县 22 日 22 时发生 7.0 级地震，震中 5 公里范围内平均海拔约 4864 米",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "联合国最新报告首次明确 1.5℃温控目标已落空",
-        "summary": "联合国最新报告首次明确 1.5℃温控目标已落空，全球气温正加速走向上升 2.8℃的局面",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "本周看什么 | 最近值得一看的 12 部作品",
+        "url": "https://sspai.com/post/117169",
+        "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=&#34;ht",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
@@ -203,14 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-        "url": "https://sspai.com/post/115090",
-        "summary": "药物不能解决所有问题，这是是我学到的重要一课。<a href=&#34;https://sspai.com/post/115090&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -238,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "中共中央政治局召开会议",
+      "title": "党和人民军队铿锵前进的制胜之道",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E9%93%BF%E9%94%B5%E5%89%8D%E8%BF%9B%E7%9A%84%E5%88%B6%E8%83%9C%E4%B9%8B%E9%81%93&sa=fyb_news"
+    },
+    {
+      "title": "网红拼豆店 倒闭潮",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%8B%BC%E8%B1%86%E5%BA%97+%E5%80%92%E9%97%AD%E6%BD%AE&sa=fyb_news"
+    },
+    {
+      "title": "哈啰顺风车 涉黄",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%93%88%E5%95%B0%E9%A1%BA%E9%A3%8E%E8%BD%A6+%E6%B6%89%E9%BB%84&sa=fyb_news"
+    },
+    {
+      "title": "人民子弟兵投入西藏巴青抗震救灾",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE&sa=fyb_news"
+    },
+    {
+      "title": "未成年人向火锅小便 家长被判赔220万",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%91%E7%81%AB%E9%94%85%E5%B0%8F%E4%BE%BF+%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%94220%E4%B8%87&sa=fyb_news"
+    },
+    {
+      "title": "13岁女孩卖妈妈金项链 金店当面熔化",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE+%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96&sa=fyb_news"
+    },
+    {
+      "title": "红果短剧开始“筛人”",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%BC%80%E5%A7%8B%E2%80%9C%E7%AD%9B%E4%BA%BA%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "title": "新人结婚 大鹏：这照片就是我随的份子",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A+%E5%A4%A7%E9%B9%8F%EF%BC%9A%E8%BF%99%E7%85%A7%E7%89%87%E5%B0%B1%E6%98%AF%E6%88%91%E9%9A%8F%E7%9A%84%E4%BB%BD%E5%AD%90&sa=fyb_news"
+    },
+    {
+      "title": "福建前首富林秀成被批捕",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E7%A6%8F%E5%BB%BA%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9E%97%E7%A7%80%E6%88%90%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news"
+    },
+    {
+      "title": "欧阳娜娜红毯变装创意太妙了",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%BA%A2%E6%AF%AF%E5%8F%98%E8%A3%85%E5%88%9B%E6%84%8F%E5%A4%AA%E5%A6%99%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "title": "S16",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=S16&sa=fyb_news"
+    },
+    {
+      "title": "警惕涉西藏巴青7.0级地震不实信息",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%83%95%E6%B6%89%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%927.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF&sa=fyb_news"
+    },
+    {
+      "title": "西藏强震成因揭晓",
+      "platform": "百度热搜/头条",
+      "hot": "42910345",
+      "url": "https://www.toutiao.com/trending/7699809994400599593/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699809994400599593%22%2C%22hot_board_impr_id%22%3A%2220261024015500A0881ED2318CBE0870D1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E8%97%8F%E5%BC%BA%E9%9C%87%E6%88%90%E5%9B%A0%E6%8F%AD%E6%99%93%22%7D&rank=&style_id=40132&topic_id=7699809994400599593"
     },
     {
       "title": "李雪健已无法说话 仅靠表情完成演出",
       "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D+%E4%BB%85%E9%9D%A0%E8%A1%A8%E6%83%85%E5%AE%8C%E6%88%90%E6%BC%94%E5%87%BA&sa=fyb_news"
+      "hot": "38826886",
+      "url": "https://www.toutiao.com/trending/7699399358780968511/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699399358780968511%22%2C%22hot_board_impr_id%22%3A%2220261024015500A0881ED2318CBE0870D1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D+%E4%BB%85%E9%9D%A0%E8%A1%A8%E6%83%85%E5%AE%8C%E6%88%90%E6%BC%94%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7699399358780968511"
     },
     {
-      "title": "李昌钰骨灰一半葬扬州一半留美国",
+      "title": "数字看长征 回望英雄路",
       "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E6%98%8C%E9%92%B0%E9%AA%A8%E7%81%B0%E4%B8%80%E5%8D%8A%E8%91%AC%E6%89%AC%E5%B7%9E%E4%B8%80%E5%8D%8A%E7%95%99%E7%BE%8E%E5%9B%BD&sa=fyb_news"
-    },
-    {
-      "title": "全球超八成新船订单涌向中国",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E8%B6%85%E5%85%AB%E6%88%90%E6%96%B0%E8%88%B9%E8%AE%A2%E5%8D%95%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD&sa=fyb_news"
-    },
-    {
-      "title": "别把学校办成了车间",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%AB%E6%8A%8A%E5%AD%A6%E6%A0%A1%E5%8A%9E%E6%88%90%E4%BA%86%E8%BD%A6%E9%97%B4&sa=fyb_news"
-    },
-    {
-      "title": "神探李昌钰安葬 夫人扶灵痛哭",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E5%AE%89%E8%91%AC+%E5%A4%AB%E4%BA%BA%E6%89%B6%E7%81%B5%E7%97%9B%E5%93%AD&sa=fyb_news"
-    },
-    {
-      "title": "闪婚娶美国女博士的外卖小哥宣布离婚",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%97%AA%E5%A9%9A%E5%A8%B6%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A&sa=fyb_news"
-    },
-    {
-      "title": "松岛辉空男单退赛",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E7%94%B7%E5%8D%95%E9%80%80%E8%B5%9B&sa=fyb_news"
-    },
-    {
-      "title": "徐志胜被保安拦下要票",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BE%90%E5%BF%97%E8%83%9C%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%8B%A6%E4%B8%8B%E8%A6%81%E7%A5%A8&sa=fyb_news"
-    },
-    {
-      "title": "中央暗访检查组：这个说不过去了",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%AE%E6%9A%97%E8%AE%BF%E6%A3%80%E6%9F%A5%E7%BB%84%EF%BC%9A%E8%BF%99%E4%B8%AA%E8%AF%B4%E4%B8%8D%E8%BF%87%E5%8E%BB%E4%BA%86&sa=fyb_news"
-    },
-    {
-      "title": "西藏地震已造成16人遇难76人受伤",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%9016%E4%BA%BA%E9%81%87%E9%9A%BE76%E4%BA%BA%E5%8F%97%E4%BC%A4&sa=fyb_news"
-    },
-    {
-      "title": "采暖费能找人打折代缴系骗局",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%BE%E4%BA%BA%E6%89%93%E6%8A%98%E4%BB%A3%E7%BC%B4%E7%B3%BB%E9%AA%97%E5%B1%80&sa=fyb_news"
-    },
-    {
-      "title": "西藏地震地面裂缝比手宽",
-      "platform": "百度热搜/头条",
-      "hot": "33250167",
-      "url": "https://www.toutiao.com/trending/7699707790348045850/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699707790348045850%22%2C%22hot_board_impr_id%22%3A%22202610231742085544EE95F081F7292A2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%9C%B0%E9%9D%A2%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD%22%7D&rank=&style_id=40132&topic_id=7699707790348045850"
-    },
-    {
-      "title": "李昌钰夫人泪别：你等我18年 我们合葬",
-      "platform": "百度热搜/头条",
-      "hot": "24632329",
-      "url": "https://www.toutiao.com/trending/7699290534531219466/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699290534531219466%22%2C%22hot_board_impr_id%22%3A%22202610231742085544EE95F081F7292A2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E6%98%8C%E9%92%B0%E5%A4%AB%E4%BA%BA%E6%B3%AA%E5%88%AB%EF%BC%9A%E4%BD%A0%E7%AD%89%E6%88%9118%E5%B9%B4+%E6%88%91%E4%BB%AC%E5%90%88%E8%91%AC%22%7D&rank=&style_id=40132&topic_id=7699290534531219466"
-    },
-    {
-      "title": "泽连斯基：真不想打仗了",
-      "platform": "百度热搜/头条",
-      "hot": "22288253",
-      "url": "https://www.toutiao.com/trending/7699770335046143538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699770335046143538%22%2C%22hot_board_impr_id%22%3A%22202610231742085544EE95F081F7292A2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E7%9C%9F%E4%B8%8D%E6%83%B3%E6%89%93%E4%BB%97%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7699770335046143538"
+      "hot": "35132019",
+      "url": "https://www.toutiao.com/article/7699680095363007030"
     }
   ],
   "suggested_topics": [
     {
-      "title": "中共中央政治局召开会议",
+      "title": "党和人民军队铿锵前进的制胜之道",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "李雪健已无法说话 仅靠表情完成演出",
+      "title": "网红拼豆店 倒闭潮",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "李昌钰骨灰一半葬扬州一半留美国",
+      "title": "哈啰顺风车 涉黄",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "全球超八成新船订单涌向中国",
+      "title": "人民子弟兵投入西藏巴青抗震救灾",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "别把学校办成了车间",
+      "title": "未成年人向火锅小便 家长被判赔220万",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
