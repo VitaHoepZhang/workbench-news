@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-10-26T18:41:59+08:00",
+  "updated_at": "2026-10-27T03:28:10+08:00",
   "science": [
     {
-      "title": "于蕾出任 2027 羊年央视春晚总导演",
-      "summary": "于蕾出任 2027 羊年央视春晚总导演，连续第五年执导春晚",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 在新征程上持之以恒推进全面从严治党",
+      "summary": "「在新征程上持之以恒推进全面从严治党」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "亚洲最长地铁环线武汉 12 号线即将全线开通：没",
-      "summary": "亚洲最长地铁环线武汉 12 号线即将全线开通：没有传统终点站，坐一圈 96 分钟，同站进出只需 2 元",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 被张雪扔下水县委书记拿到大结果",
+      "summary": "「被张雪扔下水县委书记拿到大结果」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "31 省份去年平均工资出炉：全国城镇非私营单位年",
-      "summary": "31 省份去年平均工资出炉：全国城镇非私营单位年平均工资为 129441 元，比上年名义增长 4.3%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 人造古镇为啥集体哑火了",
+      "summary": "「人造古镇为啥集体哑火了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "上证指数、科创综指等修订：单样本权重不超 15%",
-      "summary": "上证指数、科创综指等修订：单样本权重不超 15%，26 日起正式实施",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · “看不见的外贸”畅跑全球",
+      "summary": "「“看不见的外贸”畅跑全球」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "微软 XBOX 放手：《红霞岛》开发商 Arkane Lyon 获额外一个月时间寻找收购方",
-        "url": "https://www.ithome.com/1/018/110.htm",
-        "summary": "<p data-vmark=\"cc6d\">IT之家 10 月 26 日消息，据游戏媒体 Insider Gaming 今天报道，曾经是微软 XBOX 旗下工作室的 Arkane Lyon 获得一个月额外时间，寻找收购方。</p><p sty",
+        "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
+        "url": "https://www.ithome.com/1/018/192.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
-        "url": "https://www.ithome.com/1/018/075.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 10 月 26 日消息，根据 Counterpoint Research 最新发布的全球人形机器人追踪报告，预计到 <strong>2030 年</strong>，全球人形机器人 AI 加",
+        "title": "苹果 iPadOS 26.7.2 正式版发布",
+        "url": "https://www.ithome.com/1/018/191.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.2 更新，本次更新距离上次发布正式版间隔 28 天。</p> <p style=\"text-align:",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成",
-        "url": "https://www.ithome.com/1/018/093.htm",
-        "summary": "<p data-vmark=\"1025\">IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称，<strong>2027 年国产 TOP5 厂商都会上阔直板新机</strong>，<strong>目前全都立项完成并加速测试中",
+        "title": "苹果 watchOS 27.2 正式版发布",
+        "url": "https://www.ithome.com/1/018/190.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 更新（内部版本号：24S118），本次更新距离上次发布正式版间隔 27 天。</p> <",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "上海：支持个人用户通过手机直连或便携终端接入卫星互联网",
-        "url": "https://www.ithome.com/1/018/085.htm",
-        "summary": "<p data-vmark=\"61ab\">IT之家 10 月 26 日消息，今日，上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027—2030 年）》。</p><p data-vmark=\"7d96\">IT",
+        "title": "苹果 visionOS 27.2 正式版发布",
+        "url": "https://www.ithome.com/1/018/189.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 更新（内部版本号：24N120），本次更新距离上次发布正式版间隔 28 天。</p> <",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "海南：到 2027 年新增汽车中新能源汽车比例不低于 70%，平稳推进 2030 年禁售燃油车",
-        "url": "https://www.ithome.com/1/018/063.htm",
-        "summary": "<p data-vmark=\"0bd7\">IT之家 10 月 26 日消息，今日，中共海南省委、海南省人民政府印发《关于建设生态环境友好型自由贸易港的意见》。</p><p data-vmark=\"25ea\">其中指出，培育壮大新兴绿色环保产",
+        "title": "苹果 macOS 27.2 正式版发布",
+        "url": "https://www.ithome.com/1/018/188.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 更新（内部版本号：26B123），本次更新距离上次发布正式版间隔 28 天。</p> <p style=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "一加推出品牌首款耳夹式耳机 OnePlus Buds Clip，佩戴无需分左右耳",
-        "url": "https://www.ithome.com/1/018/053.htm",
-        "summary": "<p data-vmark=\"96f7\">IT之家 10 月 26 日消息，一加现已在海外市场推出品牌首款耳夹式耳机 OnePlus Buds Clip，新品采用自适应镍钛合金 C 形耳桥，支持自动识别左右耳。</p><p style=\"t",
+        "title": "苹果 iOS/iPadOS 27.2 正式版发布",
+        "url": "https://www.ithome.com/1/018/187.htm",
+        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B119），本次更新距离上次发布正式版间隔 28 天。<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,12 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "于蕾出任 2027 羊年央视春晚总导演",
-        "summary": "于蕾出任 2027 羊年央视春晚总导演，连续第五年执导春晚",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "亚洲最长地铁环线武汉 12 号线即将全线开通：没",
-        "summary": "亚洲最长地铁环线武汉 12 号线即将全线开通：没有传统终点站，坐一圈 96 分钟，同站进出只需 2 元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "31 省份去年平均工资出炉：全国城镇非私营单位年",
-        "summary": "31 省份去年平均工资出炉：全国城镇非私营单位年平均工资为 129441 元，比上年名义增长 4.3%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "上证指数、科创综指等修订：单样本权重不超 15%",
-        "summary": "上证指数、科创综指等修订：单样本权重不超 15%，26 日起正式实施",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "金价连日大跌",
-        "summary": "金价连日大跌，深圳水贝被挤爆，网友称：比菜市场人还多",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "最新数据：三季度 17 家私募首次进入 “百亿俱",
-        "summary": "最新数据：三季度 17 家私募首次进入 “百亿俱乐部”；年内 945 家私募注销，主动注销占比超四成",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "张雪成功刷新 “改装摩托车在开阔水域行驶最远距离",
-        "summary": "张雪成功刷新 “改装摩托车在开阔水域行驶最远距离” 吉尼斯世界纪录",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "乒乓球亚锦赛落幕：中国队收获 4 金 3 银",
-        "summary": "乒乓球亚锦赛落幕：中国队收获 4 金 3 银，拿下男团、女单、男双、女双四项冠军",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "香港将上线网约车",
-        "summary": "香港将上线网约车，平台牌照预计 11 月推出，名额上限一万个，已有超 1.5 万人报考",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "英伟达 “RTX 5090 系列传闻” 掀起涨价",
-        "summary": "英伟达 “RTX 5090 系列传闻” 掀起涨价潮，深圳华强北一张显卡报价超 5 万元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/117529",
+        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/117529&#34; target=&#34;_blank&#34",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "秋冬换季护肤买什么，双 11 选购推荐",
@@ -203,94 +127,97 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "在硅谷，遇见个人计算机历史",
-        "url": "https://sspai.com/post/116128",
-        "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "「多所高校将通过数字人民币发工资」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "二十届五中全会在北京开始举行",
+      "title": "在新征程上持之以恒推进全面从严治党",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news"
     },
     {
-      "title": "国防部：中国卫星看看中国台湾很正常",
+      "title": "被张雪扔下水县委书记拿到大结果",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E7%9C%8B%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%BE%88%E6%AD%A3%E5%B8%B8&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E5%BC%A0%E9%9B%AA%E6%89%94%E4%B8%8B%E6%B0%B4%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C&sa=fyb_news"
     },
     {
-      "title": "长鑫拒绝苹果",
+      "title": "人造古镇为啥集体哑火了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E9%80%A0%E5%8F%A4%E9%95%87%E4%B8%BA%E5%95%A5%E9%9B%86%E4%BD%93%E5%93%91%E7%81%AB%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "一组数据感受中国“新”引力",
+      "title": "“看不见的外贸”畅跑全球",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%96%B0%E2%80%9D%E5%BC%95%E5%8A%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%A4%96%E8%B4%B8%E2%80%9D%E7%95%85%E8%B7%91%E5%85%A8%E7%90%83&sa=fyb_news"
     },
     {
-      "title": "县委书记被张雪扔下水 激起三朵水花",
+      "title": "15个中央巡视组组长公布",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%BC%A0%E9%9B%AA%E6%89%94%E4%B8%8B%E6%B0%B4+%E6%BF%80%E8%B5%B7%E4%B8%89%E6%9C%B5%E6%B0%B4%E8%8A%B1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83&sa=fyb_news"
     },
     {
-      "title": "“一体化电视”真的来了",
+      "title": "女子新房未入住被他人装修出租20年",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E4%BD%93%E5%8C%96%E7%94%B5%E8%A7%86%E2%80%9D%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%88%BF%E6%9C%AA%E5%85%A5%E4%BD%8F%E8%A2%AB%E4%BB%96%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%87%BA%E7%A7%9F20%E5%B9%B4&sa=fyb_news"
     },
     {
-      "title": "多所高校将通过数字人民币发工资",
+      "title": "Kimi致歉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=Kimi%E8%87%B4%E6%AD%89&sa=fyb_news"
     },
     {
-      "title": "第三个4万亿城市要来了",
+      "title": "150万开无烟酒吧倒闭 当事人回应",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%89%E4%B8%AA4%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
     },
     {
-      "title": "外交部：中方尊重巴西人民的选择",
+      "title": "62岁女子坚持健身5年多",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%B0%8A%E9%87%8D%E5%B7%B4%E8%A5%BF%E4%BA%BA%E6%B0%91%E7%9A%84%E9%80%89%E6%8B%A9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=62%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB5%E5%B9%B4%E5%A4%9A&sa=fyb_news"
     },
     {
-      "title": "从“种土豆”到“种Token”",
+      "title": "“何以中国”的答案在哪里",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E7%A7%8D%E5%9C%9F%E8%B1%86%E2%80%9D%E5%88%B0%E2%80%9C%E7%A7%8DToken%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%E7%9A%84%E7%AD%94%E6%A1%88%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
     },
     {
-      "title": "奥迪中国四环标和字母标正式分家",
+      "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%AA%E4%B8%AD%E5%9B%BD%E5%9B%9B%E7%8E%AF%E6%A0%87%E5%92%8C%E5%AD%97%E6%AF%8D%E6%A0%87%E6%AD%A3%E5%BC%8F%E5%88%86%E5%AE%B6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
     },
     {
       "title": "长期吃素能“排毒”系谣言",
@@ -299,43 +226,43 @@
       "url": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E5%90%83%E7%B4%A0%E8%83%BD%E2%80%9C%E6%8E%92%E6%AF%92%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "长鑫存储硬气拒绝苹果",
+      "title": "王兴兴两次认错 宇树暴涨1100亿",
       "platform": "百度热搜/头条",
-      "hot": "14307505",
-      "url": "https://www.toutiao.com/trending/7700013630267572250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700013630267572250%22%2C%22hot_board_impr_id%22%3A%22202610261841586BEF66E684F2064B8FB6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%A1%AC%E6%B0%94%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%22%7D&rank=&style_id=40132&topic_id=7700013630267572250"
-    },
-    {
-      "title": "中国卫星看中国台湾的大好河山很正常",
-      "platform": "百度热搜/头条",
-      "hot": "12945966",
-      "url": "https://www.toutiao.com/trending/7700879555971792959/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700879555971792959%22%2C%22hot_board_impr_id%22%3A%22202610261841586BEF66E684F2064B8FB6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%A4%A7%E5%A5%BD%E6%B2%B3%E5%B1%B1%E5%BE%88%E6%AD%A3%E5%B8%B8%22%7D&rank=&style_id=40132&topic_id=7700879555971792959"
+      "hot": "14675181",
+      "url": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700928117778419250%22%2C%22hot_board_impr_id%22%3A%222026102703280877D76103A1BBC4771AF9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250"
     },
     {
       "title": "用党的创新理论凝心铸魂",
       "platform": "百度热搜/头条",
-      "hot": "11713994",
+      "hot": "13278653",
       "url": "https://www.toutiao.com/article/7700565196494783011"
+    },
+    {
+      "title": "金银铜铝为何跌幅天差地别",
+      "platform": "百度热搜/头条",
+      "hot": "12015022",
+      "url": "https://www.toutiao.com/trending/7700938940550745651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700938940550745651%22%2C%22hot_board_impr_id%22%3A%222026102703280877D76103A1BBC4771AF9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E9%93%B6%E9%93%9C%E9%93%9D%E4%B8%BA%E4%BD%95%E8%B7%8C%E5%B9%85%E5%A4%A9%E5%B7%AE%E5%9C%B0%E5%88%AB%22%7D&rank=&style_id=40132&topic_id=7700938940550745651"
     }
   ],
   "suggested_topics": [
     {
-      "title": "二十届五中全会在北京开始举行",
+      "title": "在新征程上持之以恒推进全面从严治党",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "国防部：中国卫星看看中国台湾很正常",
+      "title": "被张雪扔下水县委书记拿到大结果",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "长鑫拒绝苹果",
+      "title": "人造古镇为啥集体哑火了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "一组数据感受中国“新”引力",
+      "title": "“看不见的外贸”畅跑全球",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "县委书记被张雪扔下水 激起三朵水花",
+      "title": "15个中央巡视组组长公布",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
