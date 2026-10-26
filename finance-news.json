@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-26T01:07:56+08:00",
+  "updated_at": "2026-10-26T08:48:16+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3690.48,
-      "change": 32.45,
-      "pct": 0.89
+      "value": 3689.34,
+      "change": -1.14,
+      "pct": -0.03
     },
     {
       "name": "深证成指",
       "value": 11673.83,
-      "change": 316.51,
-      "pct": 2.79
+      "change": 0,
+      "pct": 0
     },
     {
       "name": "创业板指",
       "value": 2684.1,
-      "change": 107.2,
-      "pct": 4.16
+      "change": 0,
+      "pct": 0
     }
   ],
   "sectors": [],
