@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-10-26T08:48:16+08:00",
+  "updated_at": "2026-10-26T18:41:59+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3689.34,
-      "change": -1.14,
-      "pct": -0.03
+      "value": 3697.52,
+      "change": 7.04,
+      "pct": 0.19
     },
     {
       "name": "深证成指",
-      "value": 11673.83,
-      "change": 0,
-      "pct": 0
+      "value": 11534.38,
+      "change": -139.45,
+      "pct": -1.19
     },
     {
       "name": "创业板指",
-      "value": 2684.1,
-      "change": 0,
-      "pct": 0
+      "value": 2638.23,
+      "change": -45.87,
+      "pct": -1.71
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "会展服务",
+      "change": 8.11
+    },
+    {
+      "name": "其他数字媒体",
+      "change": 5.35
+    },
+    {
+      "name": "烘焙食品",
+      "change": 4.72
+    },
+    {
+      "name": "视频媒体",
+      "change": 4
+    },
+    {
+      "name": "学历教育",
+      "change": 3.78
+    },
+    {
+      "name": "休闲食品",
+      "change": 3.33
+    },
+    {
+      "name": "游戏Ⅲ",
+      "change": 3.26
+    },
+    {
+      "name": "游戏Ⅱ",
+      "change": 3.26
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
