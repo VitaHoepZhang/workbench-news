@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-10-27T03:28:10+08:00",
+  "updated_at": "2026-10-27T09:39:46+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 在新征程上持之以恒推进全面从严治党",
-      "summary": "「在新征程上持之以恒推进全面从严治党」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "文旅部：今年前三季度国内居民出游人次 53.07",
+      "summary": "文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 被张雪扔下水县委书记拿到大结果",
-      "summary": "「被张雪扔下水县委书记拿到大结果」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "六个经济大省 “三季报” 出炉：除广东外其余五省",
+      "summary": "六个经济大省 “三季报” 出炉：除广东外其余五省 GDP 增速超全国，浙江、山东以 5.6% 领跑",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 人造古镇为啥集体哑火了",
-      "summary": "「人造古镇为啥集体哑火了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "商务部：今年 1 至 9 月我国批发和零售业增加",
+      "summary": "商务部：今年 1 至 9 月我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · “看不见的外贸”畅跑全球",
-      "summary": "「“看不见的外贸”畅跑全球」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "国考网上报名结束：网上报名 393.5 万人",
+      "summary": "国考网上报名结束：网上报名 393.5 万人，资格审查通过 345 万人，平均 97 人竞争一个岗位",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
-        "url": "https://www.ithome.com/1/018/192.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 ",
+        "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
+        "url": "https://www.ithome.com/1/018/239.htm",
+        "summary": "<p data-vmark=\"ee12\">IT之家 10 月 27 日消息，当地时间 26 日，据外媒 VGC 报道，EA 宣布关闭 BioWare 并取消《质量效应》系列新作后，玩家发起的挽救该系列联署请愿获得超过 20 万人支持。</p",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iPadOS 26.7.2 正式版发布",
-        "url": "https://www.ithome.com/1/018/191.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.2 更新，本次更新距离上次发布正式版间隔 28 天。</p> <p style=\"text-align:",
+        "title": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能",
+        "url": "https://www.ithome.com/1/018/238.htm",
+        "summary": "<p data-vmark=\"ace0\">IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上，<strong>其 FaceTime 设置中缺少",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 watchOS 27.2 正式版发布",
-        "url": "https://www.ithome.com/1/018/190.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 更新（内部版本号：24S118），本次更新距离上次发布正式版间隔 27 天。</p> <",
+        "title": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强",
+        "url": "https://www.ithome.com/1/018/237.htm",
+        "summary": "<p data-vmark=\"17e3\">IT之家 10 月 27 日消息，据彭博社报道，受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人工智能交易的热情重新燃起，亚洲半导体板块股票应声大涨。</p><p style",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 visionOS 27.2 正式版发布",
-        "url": "https://www.ithome.com/1/018/189.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 更新（内部版本号：24N120），本次更新距离上次发布正式版间隔 28 天。</p> <",
+        "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
+        "url": "https://www.ithome.com/1/018/236.htm",
+        "summary": "<p data-vmark=\"b5be\">IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷兰半导体封装设备制造商 Besi 的投资，<strong>使其对后者的持股比例",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 macOS 27.2 正式版发布",
-        "url": "https://www.ithome.com/1/018/188.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 更新（内部版本号：26B123），本次更新距离上次发布正式版间隔 28 天。</p> <p style=",
+        "title": "任天堂英国推出新指南，帮助家长“科学指导”子女玩游戏",
+        "url": "https://www.ithome.com/1/018/235.htm",
+        "summary": "<p data-vmark=\"7298\">IT之家 10 月 27 日消息，据外媒 VGC 报道，任天堂英国分公司推出了一份新指南，帮助对电子游戏了解不多的家长更好地指导孩子玩游戏。</p><p data-vmark=\"e3b9\">任天堂委",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 iOS/iPadOS 27.2 正式版发布",
-        "url": "https://www.ithome.com/1/018/187.htm",
-        "summary": "<p data-vmark=\"0000\"> IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B119），本次更新距离上次发布正式版间隔 28 天。<",
+        "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+        "url": "https://www.ithome.com/1/018/232.htm",
+        "summary": "<p data-vmark=\"4cbe\">今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：<a href=\"https://u.jd.com/5OFkQ4j\" target=\"_blank\" data-wap",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "文旅部：今年前三季度国内居民出游人次 53.07",
+        "summary": "文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "六个经济大省 “三季报” 出炉：除广东外其余五省",
+        "summary": "六个经济大省 “三季报” 出炉：除广东外其余五省 GDP 增速超全国，浙江、山东以 5.6% 领跑",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "商务部：今年 1 至 9 月我国批发和零售业增加",
+        "summary": "商务部：今年 1 至 9 月我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "国考网上报名结束：网上报名 393.5 万人",
+        "summary": "国考网上报名结束：网上报名 393.5 万人，资格审查通过 345 万人，平均 97 人竞争一个岗位",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "成都楼市新政细则出台：新增项目预售须主体结构封顶",
+        "summary": "成都楼市新政细则出台：新增项目预售须主体结构封顶，现房销售购房定金不超过 5%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "江苏多所高校发布通知：学校在职在编人员工资将通过",
+        "summary": "江苏多所高校发布通知：学校在职在编人员工资将通过数字人民币钱包发放，11 月起实施",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "奥迪中国四环标和字母标正式分家：四环归一汽奥迪",
+        "summary": "奥迪中国四环标和字母标正式分家：四环归一汽奥迪，字母标留给上汽奥迪",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "人民币对美元即期汇率收盘升破 6.67",
+        "summary": "人民币对美元即期汇率收盘升破 6.67，创 2022 年 6 月 8 日以来新高",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "西藏巴青地震地表破裂带首次被发现：破裂面最深约 ",
+        "summary": "西藏巴青地震地表破裂带首次被发现：破裂面最深约 3.5 米，断裂南北两侧延伸到雪山上",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "比尔・盖茨谈 AI 对人类工作的冲击：AI 创造",
+        "summary": "比尔・盖茨谈 AI 对人类工作的冲击：AI 创造 “真正富足” 前，人类将经历 20 年动荡的过渡期",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+        "url": "https://sspai.com/post/117600",
+        "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "派评 | 近期值得关注的 App",
         "url": "https://sspai.com/post/117529",
@@ -119,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-        "url": "https://sspai.com/post/114741",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -160,16 +244,16 @@
       "url": "https://m.baidu.com/s?word=%E5%9C%A8%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news"
     },
     {
-      "title": "被张雪扔下水县委书记拿到大结果",
+      "title": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E5%BC%A0%E9%9B%AA%E6%89%94%E4%B8%8B%E6%B0%B4%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BE%BD%E5%89%91%E5%9B%A0%E4%B8%BE%E6%8A%A5%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%A4%A7%E4%BD%AC%E9%81%AD%E4%B9%B0%E5%87%B6%E9%81%87%E5%AE%B3&sa=fyb_news"
     },
     {
-      "title": "人造古镇为啥集体哑火了",
+      "title": "73名省部级及以上干部被立案",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E9%80%A0%E5%8F%A4%E9%95%87%E4%B8%BA%E5%95%A5%E9%9B%86%E4%BD%93%E5%93%91%E7%81%AB%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news"
     },
     {
       "title": "“看不见的外贸”畅跑全球",
@@ -178,34 +262,34 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%A4%96%E8%B4%B8%E2%80%9D%E7%95%85%E8%B7%91%E5%85%A8%E7%90%83&sa=fyb_news"
     },
     {
-      "title": "15个中央巡视组组长公布",
+      "title": "德国总统抵达安徽开启访华行程",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B&sa=fyb_news"
     },
     {
-      "title": "女子新房未入住被他人装修出租20年",
+      "title": "74岁作家沈石溪凌晨还在直播卖书",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%88%BF%E6%9C%AA%E5%85%A5%E4%BD%8F%E8%A2%AB%E4%BB%96%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%87%BA%E7%A7%9F20%E5%B9%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=74%E5%B2%81%E4%BD%9C%E5%AE%B6%E6%B2%88%E7%9F%B3%E6%BA%AA%E5%87%8C%E6%99%A8%E8%BF%98%E5%9C%A8%E7%9B%B4%E6%92%AD%E5%8D%96%E4%B9%A6&sa=fyb_news"
     },
     {
-      "title": "Kimi致歉",
+      "title": "史上最大IPO 史上最亏AI公司",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=Kimi%E8%87%B4%E6%AD%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8&sa=fyb_news"
     },
     {
-      "title": "150万开无烟酒吧倒闭 当事人回应",
+      "title": "凯恩获金球奖",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%87%AF%E6%81%A9%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96&sa=fyb_news"
     },
     {
-      "title": "62岁女子坚持健身5年多",
+      "title": "被取消演出的大衣哥回家种地",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=62%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB5%E5%B9%B4%E5%A4%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A2%AB%E5%8F%96%E6%B6%88%E6%BC%94%E5%87%BA%E7%9A%84%E5%A4%A7%E8%A1%A3%E5%93%A5%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0&sa=fyb_news"
     },
     {
       "title": "“何以中国”的答案在哪里",
@@ -214,10 +298,10 @@
       "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%E7%9A%84%E7%AD%94%E6%A1%88%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
     },
     {
-      "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+      "title": "AL创LPL一号种子参加世界赛最差纪录",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=AL%E5%88%9BLPL%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E8%B5%9B%E6%9C%80%E5%B7%AE%E7%BA%AA%E5%BD%95&sa=fyb_news"
     },
     {
       "title": "长期吃素能“排毒”系谣言",
@@ -226,22 +310,22 @@
       "url": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E5%90%83%E7%B4%A0%E8%83%BD%E2%80%9C%E6%8E%92%E6%AF%92%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "王兴兴两次认错 宇树暴涨1100亿",
+      "title": "媒体：娱乐至死的医疗真人秀该叫停了",
       "platform": "百度热搜/头条",
-      "hot": "14675181",
-      "url": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700928117778419250%22%2C%22hot_board_impr_id%22%3A%222026102703280877D76103A1BBC4771AF9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250"
+      "hot": "14176789",
+      "url": "https://www.toutiao.com/trending/7700267800496983593/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700267800496983593%22%2C%22hot_board_impr_id%22%3A%2220261027093942C52981A3E1AFAC42C76B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB%E7%9A%84%E5%8C%BB%E7%96%97%E7%9C%9F%E4%BA%BA%E7%A7%80%E8%AF%A5%E5%8F%AB%E5%81%9C%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7700267800496983593"
+    },
+    {
+      "title": "拒让张雪打广告的县委书记为何出圈",
+      "platform": "百度热搜/头条",
+      "hot": "12827689",
+      "url": "https://www.toutiao.com/trending/7700564243686506539/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700564243686506539%22%2C%22hot_board_impr_id%22%3A%2220261027093942C52981A3E1AFAC42C76B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8B%92%E8%AE%A9%E5%BC%A0%E9%9B%AA%E6%89%93%E5%B9%BF%E5%91%8A%E7%9A%84%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E5%87%BA%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7700564243686506539"
     },
     {
       "title": "用党的创新理论凝心铸魂",
       "platform": "百度热搜/头条",
-      "hot": "13278653",
+      "hot": "11606973",
       "url": "https://www.toutiao.com/article/7700565196494783011"
-    },
-    {
-      "title": "金银铜铝为何跌幅天差地别",
-      "platform": "百度热搜/头条",
-      "hot": "12015022",
-      "url": "https://www.toutiao.com/trending/7700938940550745651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700938940550745651%22%2C%22hot_board_impr_id%22%3A%222026102703280877D76103A1BBC4771AF9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E9%93%B6%E9%93%9C%E9%93%9D%E4%B8%BA%E4%BD%95%E8%B7%8C%E5%B9%85%E5%A4%A9%E5%B7%AE%E5%9C%B0%E5%88%AB%22%7D&rank=&style_id=40132&topic_id=7700938940550745651"
     }
   ],
   "suggested_topics": [
@@ -250,11 +334,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "被张雪扔下水县委书记拿到大结果",
+      "title": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "人造古镇为啥集体哑火了",
+      "title": "73名省部级及以上干部被立案",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +346,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "15个中央巡视组组长公布",
+      "title": "德国总统抵达安徽开启访华行程",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
