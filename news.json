@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-10-27T18:09:21+08:00",
+  "updated_at": "2026-10-28T02:48:24+08:00",
   "science": [
     {
-      "title": "文旅部：今年前三季度国内居民出游人次 53.07",
-      "summary": "文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 习近平致电祝贺卢拉当选连任巴西总统",
+      "summary": "「习近平致电祝贺卢拉当选连任巴西总统」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "六个经济大省 “三季报” 出炉：除广东外其余五省",
-      "summary": "六个经济大省 “三季报” 出炉：除广东外其余五省 GDP 增速超全国，浙江、山东以 5.6% 领跑",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 外交部回应“姆巴佩遭中国公司解约”",
+      "summary": "「外交部回应“姆巴佩遭中国公司解约”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "商务部：今年 1 至 9 月我国批发和零售业增加",
-      "summary": "商务部：今年 1 至 9 月我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 中国足协第一时间与皇马严正交涉",
+      "summary": "「中国足协第一时间与皇马严正交涉」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "国考网上报名结束：网上报名 393.5 万人",
-      "summary": "国考网上报名结束：网上报名 393.5 万人，资格审查通过 345 万人，平均 97 人竞争一个岗位",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 不断开创新时代管党治党新局面",
+      "summary": "「不断开创新时代管党治党新局面」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "三星前副社长因泄露商业机密获刑 3 年，当庭收押",
-        "url": "https://www.ithome.com/1/018/590.htm",
-        "summary": "<p data-vmark=\"0e13\">IT之家 10 月 27 日消息，韩国首尔高等法院驳回了三星电子前副社长、前知识产权中心负责人安承浩的上诉，维持其因泄露三星商业机密而被判处的 3 年有期徒刑，并当庭将其收押。</p><p data",
+        "title": "京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁",
+        "url": "https://www.ithome.com/1/018/698.htm",
+        "summary": "<p data-vmark=\"1d61\">IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。</p><p data-vmark=\"1d83\">根据<a target=\"_blank\" h",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "为避免在韩国市场引发争议，苹果悄悄移除当地官网 iPad mini（A20 Pro）海报中的手部",
-        "url": "https://www.ithome.com/1/018/589.htm",
-        "summary": "<p data-vmark=\"358f\">IT之家 10 月 27 日消息，有网友发现，苹果在韩国官网展示的 iPad mini（A 20 Pro）宣传海报中去掉了手部，仅保留设备本体。</p><p data-vmark=\"d262\">IT",
+        "title": "ATK RS8 Air / Neo 电竞键盘发布：87 配列，到手价 299 元起",
+        "url": "https://www.ithome.com/1/018/697.htm",
+        "summary": "<p data-vmark=\"609d\">IT之家 10 月 27 日消息，ATK RS8 Air、RS8 Neo 系列 87 配列高性能电竞键盘今日发布，已开启定金预定，RS8 Air 到手价 349 元起，RS8 Neo 到手价 299",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "因后端 PHP 程序存在安全隐患，卡普空《街头霸王 5》PS4 与 Steam 版线上功能全面暂停",
-        "url": "https://www.ithome.com/1/018/584.htm",
-        "summary": "<p data-vmark=\"3e1c\">IT之家 10 月 27 日消息，卡普空今天发布紧急通知，将暂时停止销售 PS4 版和 Steam 版《街头霸王 5》游戏。</p><p style=\"text-align: center;\" da",
+        "title": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc",
+        "url": "https://www.ithome.com/1/018/696.htm",
+        "summary": "<p data-vmark=\"e9e9\">IT之家 10 月 27 日消息，据科技媒体 TechCrunch 今天报道，Meta 人工智能负责人罗希特 · 帕特尔（Rohit Patel）已经离开公司，他曾在 Meta 从事 AI 研发工作",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "国内商业航天最大直径，深蓝航天星云二号 5 米一子级贮箱全部交付",
-        "url": "https://www.ithome.com/1/018/579.htm",
-        "summary": "<p data-vmark=\"99fe\">IT之家 10 月 27 日消息，据深蓝航天，近期，该公司研制的星云二号 5 米直径一子级关键结构件：<strong>液氧贮箱、煤油贮箱</strong>，在深蓝航天长青基地相继完成制造下线。继二子",
+        "title": "1099 元雷蛇隐蛛迷你版 65% 磁轴键盘发布，三色键帽混搭设计",
+        "url": "https://www.ithome.com/1/018/695.htm",
+        "summary": "<p data-vmark=\"1c96\">IT之家 10 月 27 日消息，雷蛇今日宣布推出 Razer Reclusa Mini 65% 雷蛇隐蛛迷你版 65% 电竞磁轴键盘，售价 1099 元。</p><dir><a contented",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "百度网盘 11.11 年内探底：SVIP 超级会员 13 元 / 月、157 元 / 年",
-        "url": "https://www.ithome.com/1/018/570.htm",
-        "summary": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、1",
+        "title": "古尔曼爆料苹果 OLED MacBook Pro：边框收窄、转轴重新设计，触摸屏幕时不会晃动",
+        "url": "https://www.ithome.com/1/018/692.htm",
+        "summary": "<p data-vmark=\"61ca\">IT之家 10 月 27 日消息，彭博社记者马克 · 古尔曼今日在 X 平台发文称，苹果明天发布的 OLED 触控 MacBook Pro 将带来几项改进：机身厚度略微降低、屏幕边框进一步收窄、机身",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "铭瑄将“深度参与”英特尔 GPU D 系列项目研发制造，规划三形态产品",
-        "url": "https://www.ithome.com/1/018/560.htm",
-        "summary": "<p data-vmark=\"a369\">IT之家 10 月 27 日消息，铭瑄 (MAXSUN) 在其 2026 英特尔 LOEM 峰会新闻稿中提到，该企业将“深度参与”英特尔 GPU D 系列（代号 Crescent Island，简称",
+        "title": "《三角洲行动》协助警方破获游戏史最大 DMA 外挂案，涉案金额超 2000 万",
+        "url": "https://www.ithome.com/1/018/691.htm",
+        "summary": "<p data-vmark=\"0c41\">IT之家 10 月 27 日消息，《三角洲行动》官方今日宣布，在《三角洲行动》安全团队协助下，广东警方成功侦破“Foah”特大 DMA 外挂案，累计抓获犯罪嫌疑人 16 名，<strong>涉案金额",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,87 +81,7 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "文旅部：今年前三季度国内居民出游人次 53.07",
-        "summary": "文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "六个经济大省 “三季报” 出炉：除广东外其余五省",
-        "summary": "六个经济大省 “三季报” 出炉：除广东外其余五省 GDP 增速超全国，浙江、山东以 5.6% 领跑",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "商务部：今年 1 至 9 月我国批发和零售业增加",
-        "summary": "商务部：今年 1 至 9 月我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国考网上报名结束：网上报名 393.5 万人",
-        "summary": "国考网上报名结束：网上报名 393.5 万人，资格审查通过 345 万人，平均 97 人竞争一个岗位",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "成都楼市新政细则出台：新增项目预售须主体结构封顶",
-        "summary": "成都楼市新政细则出台：新增项目预售须主体结构封顶，现房销售购房定金不超过 5%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "江苏多所高校发布通知：学校在职在编人员工资将通过",
-        "summary": "江苏多所高校发布通知：学校在职在编人员工资将通过数字人民币钱包发放，11 月起实施",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "奥迪中国四环标和字母标正式分家：四环归一汽奥迪",
-        "summary": "奥迪中国四环标和字母标正式分家：四环归一汽奥迪，字母标留给上汽奥迪",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "人民币对美元即期汇率收盘升破 6.67",
-        "summary": "人民币对美元即期汇率收盘升破 6.67，创 2022 年 6 月 8 日以来新高",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "西藏巴青地震地表破裂带首次被发现：破裂面最深约 ",
-        "summary": "西藏巴青地震地表破裂带首次被发现：破裂面最深约 3.5 米，断裂南北两侧延伸到雪山上",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "比尔・盖茨谈 AI 对人类工作的冲击：AI 创造",
-        "summary": "比尔・盖茨谈 AI 对人类工作的冲击：AI 创造 “真正富足” 前，人类将经历 20 年动荡的过渡期",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "社区速递 163 | 金豪 59 调整版与九月派友剁手清单",
+        "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
         "url": "https://sspai.com/post/117633",
         "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;htt",
         "source": "少数派",
@@ -217,33 +133,31 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「持证可抵个税3600元」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E6%8C%81%E8%AF%81%E5%8F%AF%E6%8A%B5%E4%B8%AA%E7%A8%8E3600%E5%85%83&sa=fyb_news"
+        "heat": "高"
       },
       {
-        "title": "「梁文锋长期在北京租房住」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E6%A2%81%E6%96%87%E9%94%8B%E9%95%BF%E6%9C%9F%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%A7%9F%E6%88%BF%E4%BD%8F&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "矢志不渝为人民",
+      "title": "习近平致电祝贺卢拉当选连任巴西总统",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%9F%A2%E5%BF%97%E4%B8%8D%E6%B8%9D%E4%B8%BA%E4%BA%BA%E6%B0%91&sa=fyb_news"
-    },
-    {
-      "title": "人民日报刊文谈《万疆》永久免费授权",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%88%8A%E6%96%87%E8%B0%88%E3%80%8A%E4%B8%87%E7%96%86%E3%80%8B%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E6%8E%88%E6%9D%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F&sa=fyb_news"
     },
     {
       "title": "外交部回应“姆巴佩遭中国公司解约”",
@@ -252,85 +166,87 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "把严的基调长期坚持下去",
+      "title": "中国足协第一时间与皇马严正交涉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8A%8A%E4%B8%A5%E7%9A%84%E5%9F%BA%E8%B0%83%E9%95%BF%E6%9C%9F%E5%9D%9A%E6%8C%81%E4%B8%8B%E5%8E%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news"
     },
     {
-      "title": "持证可抵个税3600元",
+      "title": "不断开创新时代管党治党新局面",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8C%81%E8%AF%81%E5%8F%AF%E6%8A%B5%E4%B8%AA%E7%A8%8E3600%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
     },
     {
-      "title": "梁文锋长期在北京租房住",
+      "title": "台风烟花：是的 我又重生回来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%A2%81%E6%96%87%E9%94%8B%E9%95%BF%E6%9C%9F%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%A7%9F%E6%88%BF%E4%BD%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84+%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "皇马吧声明：绝不姑息 坚守底线",
+      "title": "大体老师不是取乐玩物",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%9A%87%E9%A9%AC%E5%90%A7%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%A7%91%E6%81%AF+%E5%9D%9A%E5%AE%88%E5%BA%95%E7%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9&sa=fyb_news"
     },
     {
-      "title": "“全球博士生职业生涯一夜清零”",
+      "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E7%90%83%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%80%E5%A4%9C%E6%B8%85%E9%9B%B6%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95&sa=fyb_news"
     },
     {
-      "title": "一斤开心果抵十斤猪肉",
+      "title": "方媛晒全家福为郭富城庆祝61岁生日",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%A4%E5%BC%80%E5%BF%83%E6%9E%9C%E6%8A%B5%E5%8D%81%E6%96%A4%E7%8C%AA%E8%82%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%96%B9%E5%AA%9B%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E4%B8%BA%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%BA%86%E7%A5%9D61%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news"
     },
     {
-      "title": "采购商的行李箱装满中国好物",
+      "title": "中国人不开的全地形车在美国有多挣钱",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%87%87%E8%B4%AD%E5%95%86%E7%9A%84%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A3%85%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%A5%BD%E7%89%A9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%BC%80%E7%9A%84%E5%85%A8%E5%9C%B0%E5%BD%A2%E8%BD%A6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E6%8C%A3%E9%92%B1&sa=fyb_news"
     },
     {
-      "title": "外交部对英警方过度执法表示强烈不满",
+      "title": "丰收时节 看稻香里的新品种",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9%E8%8B%B1%E8%AD%A6%E6%96%B9%E8%BF%87%E5%BA%A6%E6%89%A7%E6%B3%95%E8%A1%A8%E7%A4%BA%E5%BC%BA%E7%83%88%E4%B8%8D%E6%BB%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82+%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D&sa=fyb_news"
     },
     {
-      "title": "“早筛神器”能自测癌症？谣言",
+      "title": "在胖东来买酒一年多后还被退还差价",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%97%A9%E7%AD%9B%E7%A5%9E%E5%99%A8%E2%80%9D%E8%83%BD%E8%87%AA%E6%B5%8B%E7%99%8C%E7%97%87%EF%BC%9F%E8%B0%A3%E8%A8%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9C%A8%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B9%B0%E9%85%92%E4%B8%80%E5%B9%B4%E5%A4%9A%E5%90%8E%E8%BF%98%E8%A2%AB%E9%80%80%E8%BF%98%E5%B7%AE%E4%BB%B7&sa=fyb_news"
     },
     {
-      "title": "小米首个住宅小区开售",
+      "title": "深山救助流浪女 实为造假博流量",
       "platform": "百度热搜/头条",
-      "hot": "71976551",
-      "url": "https://www.toutiao.com/trending/7699854788087025206/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699854788087025206%22%2C%22hot_board_impr_id%22%3A%22202610271809184B36AC8DADD3B72D6F6E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E9%A6%96%E4%B8%AA%E4%BD%8F%E5%AE%85%E5%B0%8F%E5%8C%BA%E5%BC%80%E5%94%AE%22%7D&rank=&style_id=40132&topic_id=7699854788087025206"
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3+%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F&sa=fyb_news"
     },
     {
-      "title": "外交部回应姆巴佩发表不当言论",
+      "title": "中国足协与皇马俱乐部严正交涉",
       "platform": "百度热搜/头条",
-      "hot": "65127076",
-      "url": "https://www.toutiao.com/trending/7701273730273513023/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701273730273513023%22%2C%22hot_board_impr_id%22%3A%22202610271809184B36AC8DADD3B72D6F6E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%22%7D&rank=&style_id=40132&topic_id=7701273730273513023"
+      "hot": "125517446",
+      "url": "https://www.toutiao.com/trending/7700913460418265115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700913460418265115%22%2C%22hot_board_impr_id%22%3A%2220261028024821A32DA9A2E7FE458DF84D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%22%7D&rank=&style_id=40132&topic_id=7700913460418265115"
     },
     {
-      "title": "风清气正暖民心",
+      "title": "以议会选举或决定内塔尼亚胡政治生涯",
       "platform": "百度热搜/头条",
-      "hot": "58929415",
-      "url": "https://www.toutiao.com/article/7701116834967208463"
+      "hot": "113572882",
+      "url": "https://www.toutiao.com/trending/7700981317576458778/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700981317576458778%22%2C%22hot_board_impr_id%22%3A%2220261028024821A32DA9A2E7FE458DF84D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E8%AE%AE%E4%BC%9A%E9%80%89%E4%B8%BE%E6%88%96%E5%86%B3%E5%AE%9A%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%94%BF%E6%B2%BB%E7%94%9F%E6%B6%AF%22%7D&rank=&style_id=40132&topic_id=7700981317576458778"
+    },
+    {
+      "title": "看作风建设如何落到群众身边",
+      "platform": "百度热搜/头条",
+      "hot": "102764993",
+      "url": "https://www.toutiao.com/article/7701194734634730018"
     }
   ],
   "suggested_topics": [
     {
-      "title": "矢志不渝为人民",
-      "reason": "今日热点，可做背景梳理与深度解读"
-    },
-    {
-      "title": "人民日报刊文谈《万疆》永久免费授权",
+      "title": "习近平致电祝贺卢拉当选连任巴西总统",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -338,11 +254,15 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "把严的基调长期坚持下去",
+      "title": "中国足协第一时间与皇马严正交涉",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "持证可抵个税3600元",
+      "title": "不断开创新时代管党治党新局面",
+      "reason": "今日热点，可做背景梳理与深度解读"
+    },
+    {
+      "title": "台风烟花：是的 我又重生回来了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
