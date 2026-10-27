@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-27T09:39:46+08:00",
+  "updated_at": "2026-10-27T18:09:21+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3697.15,
-      "change": -0.37,
-      "pct": -0.01
+      "value": 3648.3,
+      "change": -49.22,
+      "pct": -1.33
     },
     {
       "name": "深证成指",
-      "value": 11592.88,
-      "change": 58.5,
-      "pct": 0.51
+      "value": 11245.73,
+      "change": -288.65,
+      "pct": -2.5
     },
     {
       "name": "创业板指",
-      "value": 2657.13,
-      "change": 18.9,
-      "pct": 0.72
+      "value": 2548.15,
+      "change": -90.08,
+      "pct": -3.41
     }
   ],
   "sectors": [
     {
       "name": "会展服务",
-      "change": 5.47
+      "change": 3.37
     },
     {
-      "name": "学历教育",
-      "change": 2.91
+      "name": "百货",
+      "change": 2.42
     },
     {
-      "name": "光伏加工设备",
-      "change": 2.86
+      "name": "粘胶",
+      "change": 2.35
     },
     {
-      "name": "商用载客车",
-      "change": 2.77
+      "name": "纺织鞋类制造",
+      "change": 2.31
     },
     {
-      "name": "燃料电池",
-      "change": 2.49
+      "name": "多业态零售",
+      "change": 1.82
     },
     {
-      "name": "半导体材料",
-      "change": 2.18
+      "name": "股份制银行Ⅲ",
+      "change": 1.61
     },
     {
-      "name": "光伏主材",
-      "change": 1.99
+      "name": "城商行Ⅲ",
+      "change": 1.55
     },
     {
-      "name": "其他专业服务",
-      "change": 1.92
+      "name": "电机Ⅲ",
+      "change": 1.38
     }
   ],
   "macro": [],
