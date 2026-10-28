@@ -1,59 +1,26 @@
 {
-  "updated_at": "2026-10-28T02:48:24+08:00",
+  "updated_at": "2026-10-28T09:51:53+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3648.3,
-      "change": -49.22,
-      "pct": -1.33
+      "value": 3673.57,
+      "change": 25.27,
+      "pct": 0.69
     },
     {
       "name": "深证成指",
-      "value": 11245.73,
-      "change": -288.65,
-      "pct": -2.5
+      "value": 11415.95,
+      "change": 170.22,
+      "pct": 1.51
     },
     {
       "name": "创业板指",
-      "value": 2548.15,
-      "change": -90.08,
-      "pct": -3.41
+      "value": 2607.31,
+      "change": 59.16,
+      "pct": 2.32
     }
   ],
-  "sectors": [
-    {
-      "name": "会展服务",
-      "change": 3.37
-    },
-    {
-      "name": "百货",
-      "change": 2.42
-    },
-    {
-      "name": "粘胶",
-      "change": 2.35
-    },
-    {
-      "name": "纺织鞋类制造",
-      "change": 2.31
-    },
-    {
-      "name": "多业态零售",
-      "change": 1.82
-    },
-    {
-      "name": "股份制银行Ⅲ",
-      "change": 1.61
-    },
-    {
-      "name": "城商行Ⅲ",
-      "change": 1.55
-    },
-    {
-      "name": "电机Ⅲ",
-      "change": 1.38
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
