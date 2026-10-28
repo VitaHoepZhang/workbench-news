@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:51:53+08:00",
+  "updated_at": "2026-10-28T18:55:41+08:00",
   "science": [
     {
       "title": "2026 胡润百富榜出炉：张一鸣身家 6700 ",
@@ -33,49 +33,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "菲尔兹奖得主博尔彻兹取消计分家庭作业：AI 作弊泛滥，仅线下考试可行",
-        "url": "https://www.ithome.com/1/018/752.htm",
-        "summary": "<p data-vmark=\"99ee\">IT之家 10 月 28 日消息，加州大学伯克利分校（UC Berkeley）一名教授宣布，不再给学生布置计分家庭作业，原因是人工智能（AI）的滥用让这类作业失去了意义。</p><p style=\"",
+        "title": "美国银行警告客户：切勿将网银密码交给 AI 助手",
+        "url": "https://www.ithome.com/1/019/146.htm",
+        "summary": "<p data-vmark=\"3bfd\">IT之家 10 月 28 日消息，据科技媒体 Android Authority 今天报道，美国银行（BofA）已开始向客户发送电子邮件，提醒他们不要将网银密码交给 AI 助手。</p><p dat",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "火狐 Firefox 浏览器 159 稳定版发布：修复 167 个漏洞，侧边栏增“已保存密码”默认按钮",
-        "url": "https://www.ithome.com/1/018/751.htm",
-        "summary": "<p data-vmark=\"528e\">IT之家 10 月 28 日消息，Mozilla 昨日（10 月 27 日）发布公告，<strong>宣布推送火狐 Firefox 浏览器 159.0 稳定版</strong>，覆盖 Windows",
+        "title": "大众升级“深耕中国，共赢全球”战略，计划 2030 年前在南美本土产品组合中率先引入中国研发技术",
+        "url": "https://www.ithome.com/1/019/145.htm",
+        "summary": "<p data-vmark=\"1422\">IT之家 10 月 28 日现场消息，在今天举行的首届大众汽车集团（中国）技术日上，大众汽车集团（中国）正式发布一体化技术矩阵“VEGA”。同时，<strong>大众还宣布“在中国，为中国”战略正在",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "英伟达发布 621.12 Game Ready 热修复驱动，解决视频播放冻结 / 黑屏问题",
-        "url": "https://www.ithome.com/1/018/749.htm",
-        "summary": "<p data-vmark=\"01f7\">IT之家 10 月 28 日消息，NVIDIA（英伟达）当地时间 21 日发布适用于 GeForce 显卡和 RTX Spark 设备的 621.12 Game Ready 热修复驱动程序，解决了多",
+        "title": "宇树科技上市后首份财报公布：2026 年前三季度归母净利润 3.87 亿元，同比增长 270.54%",
+        "url": "https://www.ithome.com/1/019/144.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 10 月 28 日消息，宇树科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul cl",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "马斯克坚定看好内存需求，称机器人所需内存将超过其他任何领域",
-        "url": "https://www.ithome.com/1/018/748.htm",
-        "summary": "<p data-vmark=\"e781\">IT之家 10 月 28 日消息，特斯拉 CEO 埃隆 · 马斯克于 10 月 27 日在社交平台 X 上表示，<strong>机器人对内存的需求将超过地球上其他所有一切</strong>，驳斥了市",
+        "title": "三花智控 2026 年前三季度营收 252.74 亿元同比增长 5.18%，归母净利润 30.67 亿元同比下降 5.4%",
+        "url": "https://www.ithome.com/1/019/143.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 10 月 28 日消息，三花智控今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul cl",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称 Solidigm 计划在美斥资 450 亿美元建设 NAND 晶圆厂",
-        "url": "https://www.ithome.com/1/018/747.htm",
-        "summary": "<p data-vmark=\"bfb5\">IT之家 10 月 28 日消息，彭博社当地时间昨日报道称，SK 海力士完全控股的 NAND 与 SSD 企业 <strong>Solidigm（思得）正就在美新建晶圆厂事宜与美国商务部洽谈</st",
+        "title": "游族网络 2026 年第三季度归母净利润 -1.11 亿元，同比下降 522.46%",
+        "url": "https://www.ithome.com/1/019/137.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 10 月 28 日消息，游族网络今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul cl",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "微软 Surface Duo 2 变“苹果 iPhone Duo”：铺路原生运行 iOS 26，双屏触控已可用",
-        "url": "https://www.ithome.com/1/018/746.htm",
-        "summary": "<p data-vmark=\"7dea\">IT之家 10 月 28 日消息，科技媒体 Windows Latest 昨日（10 月 27 日）发布博文，分享了来自开发者 @none24smu 的更多图片，展示了微软 Surface Duo ",
+        "title": "瑞昱 2026 财年前三季度报归母净利润 122.61 亿新台币：毛利率约 48.02%，涨价效益将逐步显现",
+        "url": "https://www.ithome.com/1/019/141.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 10 月 28 日消息，瑞昱今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告：</p><ul class=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -165,6 +165,30 @@
         "heat": "中"
       },
       {
+        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+        "url": "https://sspai.com/post/117725",
+        "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+        "url": "https://sspai.com/post/116990",
+        "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。<a href=&#34;https://sspai.com/post/116990&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+        "url": "https://sspai.com/post/115533",
+        "summary": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。<a href=&#34;https://sspai.com/post/115533&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
         "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
         "url": "https://sspai.com/post/117684",
         "summary": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。<a href=&#34;https://sspai.com/post/117684&#34; target=&#34;_blank&#34;>查看全",
@@ -187,166 +211,131 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-        "url": "https://sspai.com/post/115855",
-        "summary": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。<a href=&#34;https://sspai.com/post/115855&#34; target=&#34;_blank&#34;",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-        "url": "https://sspai.com/post/117600",
-        "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/117529",
-        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/117529&#34; target=&#34;_blank&#34",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「把反腐败斗争进行到底」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E6%8A%8A%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "习近平致电祝贺卢拉当选连任巴西总统",
+      "title": "把反腐败斗争进行到底",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%8A%8A%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95&sa=fyb_news"
     },
     {
-      "title": "人民日报评姆巴佩“翻车”",
+      "title": "刘延东逝世",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%80%9D%E4%B8%96&sa=fyb_news"
     },
     {
-      "title": "超市生鲜一夜间全都变质？国安部提醒",
+      "title": "刘延东遗像",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B6%85%E5%B8%82%E7%94%9F%E9%B2%9C%E4%B8%80%E5%A4%9C%E9%97%B4%E5%85%A8%E9%83%BD%E5%8F%98%E8%B4%A8%EF%BC%9F%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8F%90%E9%86%92&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%81%97%E5%83%8F&sa=fyb_news"
     },
     {
-      "title": "不断开创新时代管党治党新局面",
+      "title": "坚持用严明的纪律管全党治全党",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9D%9A%E6%8C%81%E7%94%A8%E4%B8%A5%E6%98%8E%E7%9A%84%E7%BA%AA%E5%BE%8B%E7%AE%A1%E5%85%A8%E5%85%9A%E6%B2%BB%E5%85%A8%E5%85%9A&sa=fyb_news"
     },
     {
-      "title": "沙棘 长寿果",
+      "title": "人民日报：这部日剧公然挑战人类良知",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B2%99%E6%A3%98+%E9%95%BF%E5%AF%BF%E6%9E%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%BF%99%E9%83%A8%E6%97%A5%E5%89%A7%E5%85%AC%E7%84%B6%E6%8C%91%E6%88%98%E4%BA%BA%E7%B1%BB%E8%89%AF%E7%9F%A5&sa=fyb_news"
     },
     {
-      "title": "菲军舰“跟踪”辽宁舰？全世界都笑了",
+      "title": "西班牙列车相撞已致50死179伤",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%8F%B2%E5%86%9B%E8%88%B0%E2%80%9C%E8%B7%9F%E8%B8%AA%E2%80%9D%E8%BE%BD%E5%AE%81%E8%88%B0%EF%BC%9F%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%AC%91%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B450%E6%AD%BB179%E4%BC%A4&sa=fyb_news"
     },
     {
-      "title": "别让防盗窗变成“夺命笼”",
+      "title": "中方重视姆巴佩作出的道歉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%AE%A9%E9%98%B2%E7%9B%97%E7%AA%97%E5%8F%98%E6%88%90%E2%80%9C%E5%A4%BA%E5%91%BD%E7%AC%BC%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E9%87%8D%E8%A7%86%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BD%9C%E5%87%BA%E7%9A%84%E9%81%93%E6%AD%89&sa=fyb_news"
     },
     {
-      "title": "羽毛球降价 “打球自由”回来了",
+      "title": "第一个“三机场”城市要来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%99%8D%E4%BB%B7+%E2%80%9C%E6%89%93%E7%90%83%E8%87%AA%E7%94%B1%E2%80%9D%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%89%E6%9C%BA%E5%9C%BA%E2%80%9D%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "健身吃饭上夜校 这还是地铁站吗",
+      "title": "中国发现三颗“本不该存在”的行星",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%81%A5%E8%BA%AB%E5%90%83%E9%A5%AD%E4%B8%8A%E5%A4%9C%E6%A0%A1+%E8%BF%99%E8%BF%98%E6%98%AF%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%89%E9%A2%97%E2%80%9C%E6%9C%AC%E4%B8%8D%E8%AF%A5%E5%AD%98%E5%9C%A8%E2%80%9D%E7%9A%84%E8%A1%8C%E6%98%9F&sa=fyb_news"
     },
     {
-      "title": "丰收时节 看稻香里的新品种",
+      "title": "这些“红军树”见证长征精神",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82+%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E2%80%9C%E7%BA%A2%E5%86%9B%E6%A0%91%E2%80%9D%E8%A7%81%E8%AF%81%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E&sa=fyb_news"
     },
     {
-      "title": "韩国股市大涨 触发卖出限制措施",
+      "title": "华为Mate90 全球首款四卡三待手机",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8+%E8%A7%A6%E5%8F%91%E5%8D%96%E5%87%BA%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate90+%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%9B%9B%E5%8D%A1%E4%B8%89%E5%BE%85%E6%89%8B%E6%9C%BA&sa=fyb_news"
     },
     {
-      "title": "深山救助流浪女 实为造假博流量",
+      "title": "中小学秋假怎么放？注意这些误区",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3+%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%A7%8B%E5%81%87%E6%80%8E%E4%B9%88%E6%94%BE%EF%BC%9F%E6%B3%A8%E6%84%8F%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA&sa=fyb_news"
     },
     {
-      "title": "人民日报评姆巴佩翻车",
+      "title": "国务院原副总理刘延东逝世",
       "platform": "百度热搜/头条",
-      "hot": "141019161",
-      "url": "https://www.toutiao.com/trending/7701170258211700779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701170258211700779%22%2C%22hot_board_impr_id%22%3A%2220261028095150B28C848A618113371C43%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7701170258211700779"
+      "hot": "104525219",
+      "url": "https://www.toutiao.com/trending/7701651687387332662/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701651687387332662%22%2C%22hot_board_impr_id%22%3A%2220261028185536BCD9C214A9C018F54D1E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E7%90%86%E5%88%98%E5%BB%B6%E4%B8%9C%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7701651687387332662"
     },
     {
-      "title": "看作风建设如何落到群众身边",
+      "title": "中方强烈要求美国立即停止封锁古巴",
       "platform": "百度热搜/头条",
-      "hot": "115456723",
-      "url": "https://www.toutiao.com/article/7701194734634730018"
+      "hot": "94578330",
+      "url": "https://www.toutiao.com/trending/7701568987024526898/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701568987024526898%22%2C%22hot_board_impr_id%22%3A%2220261028185536BCD9C214A9C018F54D1E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%B0%81%E9%94%81%E5%8F%A4%E5%B7%B4%22%7D&rank=&style_id=40132&topic_id=7701568987024526898"
     },
     {
-      "title": "新郎邀网友撑场面两天接待近200人",
+      "title": "因地制宜推进乡村全面振兴",
       "platform": "百度热搜/头条",
-      "hot": "104469563",
-      "url": "https://www.toutiao.com/trending/7700930446905131017/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700930446905131017%22%2C%22hot_board_impr_id%22%3A%2220261028095150B28C848A618113371C43%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E9%83%8E%E9%82%80%E7%BD%91%E5%8F%8B%E6%92%91%E5%9C%BA%E9%9D%A2%E4%B8%A4%E5%A4%A9%E6%8E%A5%E5%BE%85%E8%BF%91200%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7700930446905131017"
+      "hot": "85578012",
+      "url": "https://www.toutiao.com/article/7701506141410411018"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平致电祝贺卢拉当选连任巴西总统",
+      "title": "把反腐败斗争进行到底",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "人民日报评姆巴佩“翻车”",
+      "title": "刘延东逝世",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "超市生鲜一夜间全都变质？国安部提醒",
+      "title": "刘延东遗像",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "不断开创新时代管党治党新局面",
+      "title": "坚持用严明的纪律管全党治全党",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "沙棘 长寿果",
+      "title": "人民日报：这部日剧公然挑战人类良知",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
