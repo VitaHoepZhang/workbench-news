@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-29T02:58:10+08:00",
+  "updated_at": "2026-10-29T09:58:56+08:00",
   "science": [
     {
-      "title": "2026 胡润百富榜出炉：张一鸣身家 6700 ",
-      "summary": "2026 胡润百富榜出炉：张一鸣身家 6700 亿创新高再成中国首富，钟睒睒财富缩水 1200 亿，梁文锋首次上榜",
+      "title": "31 省经济 “三季报” 全部出炉：广东、江苏 ",
+      "summary": "31 省经济 “三季报” 全部出炉：广东、江苏 GDP 超 10 万亿元，15 省增速跑赢全国 4.6% 水平",
       "source": "60s读懂世界",
       "url": "",
       "heat": "中"
     },
     {
-      "title": "统计局：前 9 个月全国规模以上工业企业利润增长",
-      "summary": "统计局：前 9 个月全国规模以上工业企业利润增长 15.5%，电子行业利润增 1 倍",
+      "title": "商务部：今年以来消费品以旧换新带动销售额超 2 ",
+      "summary": "商务部：今年以来消费品以旧换新带动销售额超 2 万亿元，惠及超 2.5 亿人次，有力推动消费增长",
       "source": "60s读懂世界",
       "url": "",
       "heat": "中"
     },
     {
-      "title": "我国风光累计装机容量突破 20 亿千瓦",
-      "summary": "我国风光累计装机容量突破 20 亿千瓦，约占全球新能源总装机的一半",
+      "title": "央行报告：三季度末个人住房贷款余额 35.91 ",
+      "summary": "央行报告：三季度末个人住房贷款余额 35.91 万亿元，同比下降 4.1%",
       "source": "60s读懂世界",
       "url": "",
       "heat": "中"
     },
     {
-      "title": "广电总局发布新规：有线电视不得播放开机广告",
-      "summary": "广电总局发布新规：有线电视不得播放开机广告，应当在首页设立免费专区，11 月 27 日起施行",
+      "title": "惠誉上调六大国有行生存力评级",
+      "summary": "惠誉上调六大国有行生存力评级，中国银行业经营环境评分升至 bbb",
       "source": "60s读懂世界",
       "url": "",
       "heat": "中"
@@ -33,49 +33,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
-        "url": "https://www.ithome.com/1/019/251.htm",
-        "summary": "<p data-vmark=\"2b15\">IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，其核心卖点之一是配备最高 128GB 统一内存，<str",
+        "title": "华硕 ROG 幻世神电竞机箱 · 影之刃零版发售，2399 元",
+        "url": "https://www.ithome.com/1/019/317.htm",
+        "summary": "<p data-vmark=\"256f\">IT之家 10 月 29 日消息，华硕 (ASUS) 即将于今日 10:00 发售 ROG 幻世神电竞机箱 · 影之刃零版。这一型号在常规版本的 Cronox GR801 机箱基础上<strong>",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "外媒现场上手苹果首款触控 MacBook Pro (PROLED XDR 显示屏) 笔记本",
-        "url": "https://www.ithome.com/1/019/250.htm",
-        "summary": "<p data-vmark=\"3768\">IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>包括 ",
+        "title": "万代南梦宫“THE GUNDAM BASE MEMBERS”会员系统遭黑客攻击，34 万个用户邮箱地址泄露",
+        "url": "https://www.ithome.com/1/019/316.htm",
+        "summary": "<p data-vmark=\"2b87\">IT之家 10 月 29 日消息，万代南梦宫发布公告，确认旗下“THE GUNDAM BASE MEMBERS”会员系统遭黑客攻击，涉及约 34 万名用户。</p><p data-vmark=\"25",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果触屏 MacBook Pro 应用适配情况：Lightroom、达芬奇、C4D、Office 等今年晚些时候支持",
-        "url": "https://www.ithome.com/1/019/249.htm",
-        "summary": "<p data-vmark=\"f2ef\">IT之家 10 月 29 日消息，苹果今日推出首款触控屏 MacBook Pro，定价 22,999 元起。该产品采用双层串联 OLED 面板，HDR 峰值亮度可达 2,000 nits。</p><",
+        "title": "59.9 公里国内最长地铁环线：武汉地铁 12 号线全线开通、全程约 96 分钟，线路两次下穿长江",
+        "url": "https://www.ithome.com/1/019/315.htm",
+        "summary": "<p data-vmark=\"6994\">IT之家 10 月 29 日消息，据央视新闻报道，10 月 29 日，武汉地铁 12 号线全线开通运营。</p><p data-vmark=\"bb90\">经中国城市轨道交通协会确认，<strong>",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果 CEO 特努斯：MacBook Pro PROLED XDR 显示屏有多出色，亲手一触就知道",
-        "url": "https://www.ithome.com/1/019/248.htm",
-        "summary": "<p data-vmark=\"01ad\">IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>苹果公",
+        "title": "未成年人恶意传播 Hololive 成员私人信息谣言：VTuber 事务所 COVER 要求家长赔偿并承担监督责任",
+        "url": "https://www.ithome.com/1/019/314.htm",
+        "summary": "<p data-vmark=\"8d4d\">IT之家 10 月 29 日消息，VTuber 事务所 Hololive production 的运营公司 COVER 昨日发布公告宣布，已查明在网络上散布旗下 Hololive 成员私人信息的发帖",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果新 MacBook Pro 最高可选 16TB 存储空间：相比此前 8TB 翻倍，得加 5.25 万元",
-        "url": "https://www.ithome.com/1/019/247.htm",
-        "summary": "<p data-vmark=\"6bf3\">IT之家 10 月 29 日消息，苹果首款触控屏 MacBook Pro 最高可选 16TB 存储空间，相比此前 MacBook Pro 最高 8TB 翻倍。</p><p data-vmark=\"2",
+        "title": "欧盟迎来历史性里程碑时刻：今年 Q3 电动汽车销量超汽柴油车总和",
+        "url": "https://www.ithome.com/1/019/312.htm",
+        "summary": "<p data-vmark=\"e871\" style=\"text-align: start;\">IT之家 10 月 29 日消息，据外媒 insideevs 今天（29 日）凌晨报道，欧洲电动汽车销量持续攀升。今年第三季度，电动汽车销量超过",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
-        "url": "https://www.ithome.com/1/019/246.htm",
-        "summary": "<p data-vmark=\"4518\">IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 8",
+        "title": "一汽红旗全新一代天工 08 新增 620 四驱 Ultra 版本，限时权益价 21.99 万元",
+        "url": "https://www.ithome.com/1/019/311.htm",
+        "summary": "<p data-vmark=\"afba\">IT之家 10 月 29 日消息，中国一汽今日宣布，全新一代红旗天工 08 车型 620 四驱 Ultra 上市，<strong>限时权益价 21.99 万元</strong>。</p><p sty",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +85,92 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "2026 胡润百富榜出炉：张一鸣身家 6700 ",
-        "summary": "2026 胡润百富榜出炉：张一鸣身家 6700 亿创新高再成中国首富，钟睒睒财富缩水 1200 亿，梁文锋首次上榜",
+        "title": "31 省经济 “三季报” 全部出炉：广东、江苏 ",
+        "summary": "31 省经济 “三季报” 全部出炉：广东、江苏 GDP 超 10 万亿元，15 省增速跑赢全国 4.6% 水平",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "统计局：前 9 个月全国规模以上工业企业利润增长",
-        "summary": "统计局：前 9 个月全国规模以上工业企业利润增长 15.5%，电子行业利润增 1 倍",
+        "title": "商务部：今年以来消费品以旧换新带动销售额超 2 ",
+        "summary": "商务部：今年以来消费品以旧换新带动销售额超 2 万亿元，惠及超 2.5 亿人次，有力推动消费增长",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "我国风光累计装机容量突破 20 亿千瓦",
-        "summary": "我国风光累计装机容量突破 20 亿千瓦，约占全球新能源总装机的一半",
+        "title": "央行报告：三季度末个人住房贷款余额 35.91 ",
+        "summary": "央行报告：三季度末个人住房贷款余额 35.91 万亿元，同比下降 4.1%",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "广电总局发布新规：有线电视不得播放开机广告",
-        "summary": "广电总局发布新规：有线电视不得播放开机广告，应当在首页设立免费专区，11 月 27 日起施行",
+        "title": "惠誉上调六大国有行生存力评级",
+        "summary": "惠誉上调六大国有行生存力评级，中国银行业经营环境评分升至 bbb",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "中消协等三部门联合发布 “双十一” 消费提示：明",
-        "summary": "中消协等三部门联合发布 “双十一” 消费提示：明辨促销陷阱，守住真实惠",
+        "title": "第 140 届广交会第二期线下展闭展：218 个",
+        "summary": "第 140 届广交会第二期线下展闭展：218 个国家和地区 27.8 万名境外采购商到会，较上届同期增长 13.4%",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "广东实施新规：老年人买保健品支持 “7 天无理由",
-        "summary": "广东实施新规：老年人买保健品支持 “7 天无理由退货”，不接受商家 “售出不退” 的说法",
+        "title": "智驾小蓝灯新国标最新明确：仅 L3 级及以上车辆",
+        "summary": "智驾小蓝灯新国标最新明确：仅 L3 级及以上车辆可安装，车辆行驶中不允许显示表情包",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "9 月网约车行业运行数据出炉：订单量 9.81 ",
-        "summary": "9 月网约车行业运行数据出炉：订单量 9.81 亿单，聚合平台日均订单环比下降 3.3%",
+        "title": "多家工厂被曝用鸡脖子做馅料",
+        "summary": "多家工厂被曝用鸡脖子做馅料，做丸子、水饺，律师回应：符合标准的鸡脖泥可作为原料使用",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "上海出台医保门诊委托代配药新规",
-        "summary": "上海出台医保门诊委托代配药新规，加强对受托人身份信息验证",
+        "title": "科普丛书出现 “双头虾”“鱼头人身” 等图片",
+        "summary": "科普丛书出现 “双头虾”“鱼头人身” 等图片，序言表示多图由 AI 生成，出版社回应：全网下架召回",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "中国麻将在美国爆火：一副成本 30 美元的麻将",
-        "summary": "中国麻将在美国爆火：一副成本 30 美元的麻将，在美售价高达 300 至 400 美元",
+        "title": "微信输入法 AI 录音笔新功能上线：录音实时转写",
+        "summary": "微信输入法 AI 录音笔新功能上线：录音实时转写还能生成网页，支持方言识别",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
       },
       {
-        "title": "福布斯华人精英 100 人评选结果发布：郑钦文连",
-        "summary": "福布斯华人精英 100 人评选结果发布：郑钦文连续第三年入选，樊振东、赵心童首次入选",
+        "title": "澳大利亚向我国返还 2 件流失文物",
+        "summary": "澳大利亚向我国返还 2 件流失文物，分别为北宋皇陵永昌陵文官像头部和永裕陵武官像头部",
         "source": "60s读懂世界",
         "url": "",
         "category": "要闻",
         "heat": "中"
+      },
+      {
+        "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+        "url": "https://sspai.com/post/117750",
+        "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。<a href=&#34;https://sspai.com/post/117750&#34; target=&#34;_blank&#34;>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
@@ -203,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
-        "url": "https://sspai.com/post/117557",
-        "summary": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -244,16 +244,16 @@
       "url": "https://m.baidu.com/s?word=%E5%85%B3%E9%94%AE%E5%AF%86%E7%A0%81&sa=fyb_news"
     },
     {
-      "title": "刘延东逝世",
+      "title": "三丽鸥致歉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%80%9D%E4%B8%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%87%B4%E6%AD%89&sa=fyb_news"
     },
     {
-      "title": "微信新功能来了：只用动嘴",
+      "title": "特大暴雪暴雨！新一轮冷空气将来袭",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E6%9D%A5%E4%BA%86%EF%BC%9A%E5%8F%AA%E7%94%A8%E5%8A%A8%E5%98%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E6%9D%A5%E8%A2%AD&sa=fyb_news"
     },
     {
       "title": "全面从严治党为世界提供重要借鉴",
@@ -262,34 +262,34 @@
       "url": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E9%87%8D%E8%A6%81%E5%80%9F%E9%89%B4&sa=fyb_news"
     },
     {
-      "title": "巴基斯坦对台湾地区航司关闭领空",
+      "title": "“高盐刺客”就在你的餐桌上",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E9%AB%98%E7%9B%90%E5%88%BA%E5%AE%A2%E2%80%9D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A&sa=fyb_news"
     },
     {
-      "title": "人民日报评“高校教学严禁全程PPT”",
+      "title": "西媒就姆巴佩闯下大祸算了笔账",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E9%AB%98%E6%A0%A1%E6%95%99%E5%AD%A6%E4%B8%A5%E7%A6%81%E5%85%A8%E7%A8%8BPPT%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E5%AA%92%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%97%AF%E4%B8%8B%E5%A4%A7%E7%A5%B8%E7%AE%97%E4%BA%86%E7%AC%94%E8%B4%A6&sa=fyb_news"
     },
     {
-      "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
+      "title": "亲戚资助出国玩 低保资格会被取消吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%B2%E6%88%9A%E8%B5%84%E5%8A%A9%E5%87%BA%E5%9B%BD%E7%8E%A9+%E4%BD%8E%E4%BF%9D%E8%B5%84%E6%A0%BC%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "姆巴佩的道歉没发1.35亿粉的iG上",
+      "title": "乔布斯嘲讽的触屏笔记本苹果真出了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E9%81%93%E6%AD%89%E6%B2%A1%E5%8F%911.35%E4%BA%BF%E7%B2%89%E7%9A%84iG%E4%B8%8A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%94%E5%B8%83%E6%96%AF%E5%98%B2%E8%AE%BD%E7%9A%84%E8%A7%A6%E5%B1%8F%E7%AC%94%E8%AE%B0%E6%9C%AC%E8%8B%B9%E6%9E%9C%E7%9C%9F%E5%87%BA%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "唱哭薛之谦的贵州小伙被签约",
+      "title": "香氛 年轻人的“情绪搭子”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%A6%99%E6%B0%9B+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E6%83%85%E7%BB%AA%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news"
     },
     {
       "title": "中国“智造家”加速出海",
@@ -298,10 +298,10 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%99%BA%E9%80%A0%E5%AE%B6%E2%80%9D%E5%8A%A0%E9%80%9F%E5%87%BA%E6%B5%B7&sa=fyb_news"
     },
     {
-      "title": "祭祀用品印有高秀敏张少华 网友谴责",
+      "title": "小小徐更换婚礼场地 有人拉来整头猪",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%A5%AD%E7%A5%80%E7%94%A8%E5%93%81%E5%8D%B0%E6%9C%89%E9%AB%98%E7%A7%80%E6%95%8F%E5%BC%A0%E5%B0%91%E5%8D%8E+%E7%BD%91%E5%8F%8B%E8%B0%B4%E8%B4%A3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%B0%8F%E5%BE%90%E6%9B%B4%E6%8D%A2%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0+%E6%9C%89%E4%BA%BA%E6%8B%89%E6%9D%A5%E6%95%B4%E5%A4%B4%E7%8C%AA&sa=fyb_news"
     },
     {
       "title": "历史见证田头“割麦证”",
@@ -310,21 +310,21 @@
       "url": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E8%A7%81%E8%AF%81%E7%94%B0%E5%A4%B4%E2%80%9C%E5%89%B2%E9%BA%A6%E8%AF%81%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "国务院原副总理刘延东逝世",
+      "title": "云南小伙结婚数千网友赶来撑场面",
       "platform": "百度热搜/头条",
-      "hot": "39420471",
-      "url": "https://www.toutiao.com/trending/7701651687387332662/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701651687387332662%22%2C%22hot_board_impr_id%22%3A%222026102902580889613CC861BD8475F4BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E7%90%86%E5%88%98%E5%BB%B6%E4%B8%9C%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7701651687387332662"
+      "hot": "36797420",
+      "url": "https://www.toutiao.com/trending/7701360514550530111/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701360514550530111%22%2C%22hot_board_impr_id%22%3A%2220261029095854BC27E546DD8CFC85461E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%91%E5%8D%97%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E6%95%B0%E5%8D%83%E7%BD%91%E5%8F%8B%E8%B5%B6%E6%9D%A5%E6%92%91%E5%9C%BA%E9%9D%A2%22%7D&rank=&style_id=40132&topic_id=7701360514550530111"
     },
     {
-      "title": "刘延东同志遗像",
+      "title": "Hello Kitty深夜致歉",
       "platform": "百度热搜/头条",
-      "hot": "35669117",
-      "url": "https://www.toutiao.com/article/7701665417724051987"
+      "hot": "33295682",
+      "url": "https://www.toutiao.com/trending/7700202788881747499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700202788881747499%22%2C%22hot_board_impr_id%22%3A%2220261029095854BC27E546DD8CFC85461E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22Hello+Kitty%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7700202788881747499"
     },
     {
       "title": "找准发展新质生产力的着力点",
       "platform": "百度热搜/头条",
-      "hot": "32274752",
+      "hot": "30127179",
       "url": "https://www.toutiao.com/article/7701607011590341130"
     }
   ],
@@ -334,11 +334,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "刘延东逝世",
+      "title": "三丽鸥致歉",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "微信新功能来了：只用动嘴",
+      "title": "特大暴雪暴雨！新一轮冷空气将来袭",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -346,7 +346,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "巴基斯坦对台湾地区航司关闭领空",
+      "title": "“高盐刺客”就在你的餐桌上",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
