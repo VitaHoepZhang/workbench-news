@@ -1,59 +1,26 @@
 {
-  "updated_at": "2026-10-30T10:12:50+08:00",
+  "updated_at": "2026-10-30T19:08:01+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3623.65,
-      "change": -27.78,
-      "pct": -0.76
+      "value": 3599.02,
+      "change": -52.41,
+      "pct": -1.44
     },
     {
       "name": "深证成指",
-      "value": 11002.27,
-      "change": -135.93,
-      "pct": -1.22
+      "value": 10833.78,
+      "change": -304.42,
+      "pct": -2.73
     },
     {
       "name": "创业板指",
-      "value": 2468.79,
-      "change": -48.8,
-      "pct": -1.94
+      "value": 2413.63,
+      "change": -103.96,
+      "pct": -4.13
     }
   ],
-  "sectors": [
-    {
-      "name": "综合电商",
-      "change": 4.86
-    },
-    {
-      "name": "白酒Ⅲ",
-      "change": 4.13
-    },
-    {
-      "name": "白酒Ⅱ",
-      "change": 4.13
-    },
-    {
-      "name": "其他养殖",
-      "change": 3.82
-    },
-    {
-      "name": "水产养殖",
-      "change": 2.86
-    },
-    {
-      "name": "零食",
-      "change": 2.7
-    },
-    {
-      "name": "软饮料",
-      "change": 2.43
-    },
-    {
-      "name": "酒店",
-      "change": 2.32
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
