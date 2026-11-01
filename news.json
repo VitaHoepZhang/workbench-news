@@ -1,59 +1,39 @@
 {
-  "updated_at": "2026-11-01T09:34:48+08:00",
+  "updated_at": "2026-11-01T19:36:54+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 关键在全面从严治党",
-      "summary": "「关键在全面从严治党」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "生态环境部：11 月上半月局地可能出现轻度污染",
+      "summary": "生态环境部：11 月上半月局地可能出现轻度污染，京津冀中南部可能出现中度污染",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 多地小学老师转岗教中学",
-      "summary": "「多地小学老师转岗教中学」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "10 月中国制造业 PMI 为 49.3%",
+      "summary": "10 月中国制造业 PMI 为 49.3%，比上月下降 0.8 个百分点，制造业景气水平有所回落",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 江苏省委书记省长为苏超冠亚军颁奖",
-      "summary": "「江苏省委书记省长为苏超冠亚军颁奖」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "500 多项国家标准 11 月 1 日起正式实施",
+      "summary": "500 多项国家标准 11 月 1 日起正式实施，涉电动汽车、App 适老化等",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 多领域见证中国经济活力",
-      "summary": "「多领域见证中国经济活力」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "湖南长沙一街道试点 “共享儿女” 服务：每月最低",
+      "summary": "湖南长沙一街道试点 “共享儿女” 服务：每月最低 199 元，提供做饭、保洁、陪诊等 30 多项上门服务",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "《影之刃零》初体验：快意恩仇武侠路，NVIDIA DLSS 4.5 来相助",
-        "url": "https://www.ithome.com/1/020/664.htm",
-        "summary": "<p data-vmark=\"86df\">10 月 29 日，灵游坊 S-GAME 自主研发和发行，虚幻 5 引擎打造的全新功夫朋克暗黑武侠动作 RPG 游戏《影之刃零》（Phantom Blade Zero）正式发售。游戏世界观承接《雨血",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "砺算 LX 7G100 显卡获推 Windows 驱动 30.0.2260.896，修复《影之刃零》启动问题",
-        "url": "https://www.ithome.com/1/020/663.htm",
-        "summary": "<p data-vmark=\"f336\">IT之家 11 月 1 日消息，砺算 (LiSuan) 于 11 月 29 日为其消费级产品 LX 7G100 推送了 Pilot Release v30.0.2260.896 显卡驱动程序，<st",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
-        "url": "https://www.ithome.com/1/020/662.htm",
-        "summary": "<p data-vmark=\"059c\">IT之家 11 月 1 日消息，深蓝汽车今日官宣，2026 年 10 月全球销量 32602 辆，<strong>环比增长 8.01%</strong>。</p><p data-vmark=\"5dc",
-        "source": "IT之家",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：小米超 5 万辆，深蓝汽车 32602 辆",
+        "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：吉利汽车控股 31.02 万辆，同比增长约 1%",
         "url": "https://www.ithome.com/1/020/661.htm",
         "summary": "<p data-vmark=\"6ddf\">IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。</p><ul class=\" list-paddingle",
         "source": "IT之家",
@@ -61,17 +41,41 @@
         "heat": "高"
       },
       {
-        "title": "上汽 MG 品牌 10 月全球新能源销量突破 8.5 万辆，国内超 3.1 万辆",
-        "url": "https://www.ithome.com/1/020/660.htm",
-        "summary": "<p data-vmark=\"a657\">IT之家 11 月 1 日消息，上汽 MG 今日发文，2026 年 10 月 MG 品牌全球新能源销量<strong>超 8.5 万辆</strong>，国内新能源销量<strong>超 3.1 万",
+        "title": "影驰推出金属大师 T8 双塔风冷散热器：中置风扇采用滑槽式固定结构，1 年质保，229 元",
+        "url": "https://www.ithome.com/1/020/816.htm",
+        "summary": "<p data-vmark=\"b68f\">IT之家 11 月 1 日消息，影驰现已在京东上架金属大师 T8 双塔风冷散热器，该产品提供 1 年质保服务，定价为 229 元。</p><p style=\"text-align: center;\"",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "9 月首发 4499 元起 → 11 月国补 3675 元起，雷鸟鹤 6 Ultra 27 款 QD-Mini LED 电视京东 11.11 组合购",
-        "url": "https://www.ithome.com/1/020/659.htm",
-        "summary": "<p data-vmark=\"74ed\">9 月 27 日，雷鸟鹤 6 系列 27 款电视正式开售，鹤 6 Ultra 27 款定价 5528 元起、首发 4499 元起。</p><p data-vmark=\"bc8e\"><strong>鹤",
+        "title": "吉利汽车 10 月汽车总销量为 31.02 万辆，同比增长约 1%",
+        "url": "https://www.ithome.com/1/020/815.htm",
+        "summary": "<p data-vmark=\"a52f\">IT之家 11 月 1 日消息，吉利汽车今日公告，10 月汽车总销量为 31.02 万辆，同比增长约 1%；今年前 10 个月累计销量 254.57 万辆，同比增长 3%。</p><p data-v",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "华为鸿蒙 HarmonyOS 7 系统“星闪耳返”功能上线，手机自带音乐 App + 播控中心可体验",
+        "url": "https://www.ithome.com/1/020/811.htm",
+        "summary": "<p data-vmark=\"80ef\">IT之家 11 月 1 日消息，华为在 10 月底面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领",
+        "url": "https://www.ithome.com/1/020/810.htm",
+        "summary": "<p data-vmark=\"6187\">IT之家 11 月 1 日消息，开发团队 Yash Future Tech Solutions Pvt Ltd 制作并发行的益智问答游戏《Quiztopia：The Ultimate Trivia》",
+        "source": "IT之家",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "工信部赛迪研究院：我国人工智能推理数据量首超训练数据量，截至 6 月日均词元调用量超 175 万亿",
+        "url": "https://www.ithome.com/1/020/809.htm",
+        "summary": "<p data-vmark=\"110e\">IT之家 11 月 1 日消息，据央视新闻今日报道，中国电子信息产业发展研究院（简称“赛迪研究院”，英文缩写 CCID）昨日发布的《新域新质创新发展十大趋势》显示，<strong>我国人工智能推理数",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "生态环境部：11 月上半月局地可能出现轻度污染",
+        "summary": "生态环境部：11 月上半月局地可能出现轻度污染，京津冀中南部可能出现中度污染",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "10 月中国制造业 PMI 为 49.3%",
+        "summary": "10 月中国制造业 PMI 为 49.3%，比上月下降 0.8 个百分点，制造业景气水平有所回落",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "500 多项国家标准 11 月 1 日起正式实施",
+        "summary": "500 多项国家标准 11 月 1 日起正式实施，涉电动汽车、App 适老化等",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "湖南长沙一街道试点 “共享儿女” 服务：每月最低",
+        "summary": "湖南长沙一街道试点 “共享儿女” 服务：每月最低 199 元，提供做饭、保洁、陪诊等 30 多项上门服务",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "安徽一高校明确：将倒查 6 年学术论文",
+        "summary": "安徽一高校明确：将倒查 6 年学术论文，重点打击论文买卖等学术不端行为",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国首次载人登月任务乘组计划由三人组成",
+        "summary": "我国首次载人登月任务乘组计划由三人组成，其中两人将着陆月球表面，计划在 2030 年前实现中国人登陆月球",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "苹果官宣：Apple 智能接入阿里千问",
+        "summary": "苹果官宣：Apple 智能接入阿里千问，11 月 4 日开放测试，12 月正式推出",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "国际金价跌至一年来新低",
+        "summary": "国际金价跌至一年来新低，国内金饰价格年内每克跌幅已近 550 元",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "江苏首富夫妇",
+        "summary": "江苏首富夫妇，身家一年暴涨 1120 亿元，胡润直呼最意外的超级富豪",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "张雪公布入职 “张雪机车” 条件",
+        "summary": "张雪公布入职 “张雪机车” 条件，满足条件投简历 100% 入职，工资高出 30% 至 40%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+        "url": "https://sspai.com/post/116991",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "本月玩什么｜影之刃零、战争机器：事变日等",
         "url": "https://sspai.com/post/117960",
@@ -119,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-        "url": "https://sspai.com/post/116435",
-        "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=&#34;https://sspai.com/post/1",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,115 +238,115 @@
   },
   "hot_topics": [
     {
-      "title": "关键在全面从严治党",
+      "title": "以恒心守初心 从胜利走向新的胜利",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%85%B3%E9%94%AE%E5%9C%A8%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%81%92%E5%BF%83%E5%AE%88%E5%88%9D%E5%BF%83+%E4%BB%8E%E8%83%9C%E5%88%A9%E8%B5%B0%E5%90%91%E6%96%B0%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news"
     },
     {
-      "title": "多地小学老师转岗教中学",
+      "title": "二十届五中全会决定",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E5%B2%97%E6%95%99%E4%B8%AD%E5%AD%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A&sa=fyb_news"
     },
     {
-      "title": "江苏省委书记省长为苏超冠亚军颁奖",
+      "title": "爱喝茶的人赚了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E4%BA%9A%E5%86%9B%E9%A2%81%E5%A5%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B1%E5%96%9D%E8%8C%B6%E7%9A%84%E4%BA%BA%E8%B5%9A%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "多领域见证中国经济活力",
+      "title": "秋日文旅热 赏秋正当时",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%A7%8B%E6%97%A5%E6%96%87%E6%97%85%E7%83%AD+%E8%B5%8F%E7%A7%8B%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news"
     },
     {
-      "title": "29.9元3小时的无人自助KTV开遍县城",
+      "title": "“接初中生放学就像特务接头”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=29.9%E5%85%833%E5%B0%8F%E6%97%B6%E7%9A%84%E6%97%A0%E4%BA%BA%E8%87%AA%E5%8A%A9KTV%E5%BC%80%E9%81%8D%E5%8E%BF%E5%9F%8E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%8E%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E6%94%BE%E5%AD%A6%E5%B0%B1%E5%83%8F%E7%89%B9%E5%8A%A1%E6%8E%A5%E5%A4%B4%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "BLG 2比0 HLE",
+      "title": "广州夏天已超长待机226天",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=BLG+2%E6%AF%940+HLE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E5%A4%8F%E5%A4%A9%E5%B7%B2%E8%B6%85%E9%95%BF%E5%BE%85%E6%9C%BA226%E5%A4%A9&sa=fyb_news"
     },
     {
-      "title": "主教练向杨瀚森道歉",
+      "title": "为什么市面上猪尾巴越来越少见了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%BB%E6%95%99%E7%BB%83%E5%90%91%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%81%93%E6%AD%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%8C%AA%E5%B0%BE%E5%B7%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E8%A7%81%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "怎么有两个无印良品",
+      "title": "陪看：孙颖莎vs王艺迪",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%80%8E%E4%B9%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%EF%BC%9A%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA&sa=fyb_news"
     },
     {
-      "title": "孟加拉国总理拒绝向日本国旗鞠躬",
+      "title": "蒯曼击败陈熠晋级女单决赛",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E6%80%BB%E7%90%86%E6%8B%92%E7%BB%9D%E5%90%91%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E9%9E%A0%E8%BA%AC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%92%AF%E6%9B%BC%E5%87%BB%E8%B4%A5%E9%99%88%E7%86%A0%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "title": "夫妻因一餐5个菜闹到要离婚",
+      "title": "全运会“最美女记者”刘琰官宣离职",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E8%BF%90%E4%BC%9A%E2%80%9C%E6%9C%80%E7%BE%8E%E5%A5%B3%E8%AE%B0%E8%80%85%E2%80%9D%E5%88%98%E7%90%B0%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C&sa=fyb_news"
     },
     {
-      "title": "S16八强抽签：TES与iG内战",
+      "title": "央行证监会将研究支持资本市场工具",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=S16%E5%85%AB%E5%BC%BA%E6%8A%BD%E7%AD%BE%EF%BC%9ATES%E4%B8%8EiG%E5%86%85%E6%88%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E7%A0%94%E7%A9%B6%E6%94%AF%E6%8C%81%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%B7%A5%E5%85%B7&sa=fyb_news"
     },
     {
-      "title": "广西男子造谣“石场死了3个”被处罚",
+      "title": "乌鲁木齐辟谣“禁售马肉马肠制品”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E7%9F%B3%E5%9C%BA%E6%AD%BB%E4%BA%863%E4%B8%AA%E2%80%9D%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%A6%81%E5%94%AE%E9%A9%AC%E8%82%89%E9%A9%AC%E8%82%A0%E5%88%B6%E5%93%81%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "高市屡次引导外国领导人向日旗鞠躬",
+      "title": "五中全会《决定》全文发布",
       "platform": "百度热搜/头条",
-      "hot": "13797829",
-      "url": "https://www.toutiao.com/trending/7702426053759828022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702426053759828022%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%B8%82%E5%B1%A1%E6%AC%A1%E5%BC%95%E5%AF%BC%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%91%E6%97%A5%E6%97%97%E9%9E%A0%E8%BA%AC%22%7D&rank=&style_id=40132&topic_id=7702426053759828022"
+      "hot": "10743169",
+      "url": "https://www.toutiao.com/trending/7702652501526318633/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702652501526318633%22%2C%22hot_board_impr_id%22%3A%2220261101193649E7CDC86FD644ACE5F5B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E3%80%8A%E5%86%B3%E5%AE%9A%E3%80%8B%E5%85%A8%E6%96%87%E5%8F%91%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7702652501526318633"
     },
     {
-      "title": "以钉钉子精神加强党的作风建设",
+      "title": "央视曝光2388元蜜丸成本仅40元",
       "platform": "百度热搜/头条",
-      "hot": "12484792",
-      "url": "https://www.toutiao.com/trending/7702652501522189878/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702652501522189878%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E9%92%89%E9%92%89%E5%AD%90%E7%B2%BE%E7%A5%9E%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E5%BB%BA%E8%AE%BE%22%7D&rank=&style_id=40132&topic_id=7702652501522189878"
+      "hot": "9720821",
+      "url": "https://www.toutiao.com/trending/7702778990288879658/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702778990288879658%22%2C%22hot_board_impr_id%22%3A%2220261101193649E7CDC86FD644ACE5F5B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%892388%E5%85%83%E8%9C%9C%E4%B8%B8%E6%88%90%E6%9C%AC%E4%BB%8540%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7702778990288879658"
     },
     {
-      "title": "程靖淇：孙颖莎会为自己感到骄傲",
+      "title": "坚持服务党的使命任务",
       "platform": "百度热搜/头条",
-      "hot": "11296707",
-      "url": "https://www.toutiao.com/trending/7702860183898423835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702860183898423835%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A8%8B%E9%9D%96%E6%B7%87%EF%BC%9A%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BC%9A%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%22%7D&rank=&style_id=40132&topic_id=7702860183898423835"
+      "hot": "8795763",
+      "url": "https://www.toutiao.com/article/7702980541839753728"
     }
   ],
   "suggested_topics": [
     {
-      "title": "关键在全面从严治党",
+      "title": "以恒心守初心 从胜利走向新的胜利",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "多地小学老师转岗教中学",
+      "title": "二十届五中全会决定",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "江苏省委书记省长为苏超冠亚军颁奖",
+      "title": "爱喝茶的人赚了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "多领域见证中国经济活力",
+      "title": "秋日文旅热 赏秋正当时",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "29.9元3小时的无人自助KTV开遍县城",
+      "title": "“接初中生放学就像特务接头”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
