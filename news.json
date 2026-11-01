@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-11-01T01:51:06+08:00",
+  "updated_at": "2026-11-01T09:34:48+08:00",
   "science": [
     {
-      "title": "统计局：2025 年末全国人口总量保持 14 亿",
-      "summary": "统计局：2025 年末全国人口总量保持 14 亿以上规模，平均预期寿命达到 79.25 岁，居民人均可支配收入 43377 元",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 关键在全面从严治党",
+      "summary": "「关键在全面从严治党」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "财政部：1-9 月国有企业营业总收入同比下降 3",
-      "summary": "财政部：1-9 月国有企业营业总收入同比下降 3.2%，利润总额同比增长 3.0%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 多地小学老师转岗教中学",
+      "summary": "「多地小学老师转岗教中学」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "央行：11 月 2 日起每个工作日开展隔夜逆回购",
-      "summary": "央行：11 月 2 日起每个工作日开展隔夜逆回购操作招标，操作利率为 1.25%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 江苏省委书记省长为苏超冠亚军颁奖",
+      "summary": "「江苏省委书记省长为苏超冠亚军颁奖」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "国内航线燃油附加费 11 月 5 日起上调：80",
-      "summary": "国内航线燃油附加费 11 月 5 日起上调：800 公里以下收取 80 元，800 公里以上收取 140 元",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 多领域见证中国经济活力",
+      "summary": "「多领域见证中国经济活力」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
-        "url": "https://www.ithome.com/1/020/632.htm",
-        "summary": "<p data-vmark=\"d306\" style=\"text-align: left;\">IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和",
+        "title": "《影之刃零》初体验：快意恩仇武侠路，NVIDIA DLSS 4.5 来相助",
+        "url": "https://www.ithome.com/1/020/664.htm",
+        "summary": "<p data-vmark=\"86df\">10 月 29 日，灵游坊 S-GAME 自主研发和发行，虚幻 5 引擎打造的全新功夫朋克暗黑武侠动作 RPG 游戏《影之刃零》（Phantom Blade Zero）正式发售。游戏世界观承接《雨血",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
-        "url": "https://www.ithome.com/1/020/630.htm",
-        "summary": "<p data-vmark=\"5502\">IT之家 10 月 31 日消息，马斯克透露，Neuralink 第二款脑机接口设备 Blindsight（盲视）已完成工程研发，接下来只待监管部门放行。这款设备旨在帮助失明者以及从出生起就没有视觉",
+        "title": "砺算 LX 7G100 显卡获推 Windows 驱动 30.0.2260.896，修复《影之刃零》启动问题",
+        "url": "https://www.ithome.com/1/020/663.htm",
+        "summary": "<p data-vmark=\"f336\">IT之家 11 月 1 日消息，砺算 (LiSuan) 于 11 月 29 日为其消费级产品 LX 7G100 推送了 Pilot Release v30.0.2260.896 显卡驱动程序，<st",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店",
-        "url": "https://www.ithome.com/1/020/629.htm",
-        "summary": "<p data-vmark=\"cffe\">IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“<",
+        "title": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
+        "url": "https://www.ithome.com/1/020/662.htm",
+        "summary": "<p data-vmark=\"059c\">IT之家 11 月 1 日消息，深蓝汽车今日官宣，2026 年 10 月全球销量 32602 辆，<strong>环比增长 8.01%</strong>。</p><p data-vmark=\"5dc",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
-        "url": "https://www.ithome.com/1/020/628.htm",
-        "summary": "<p data-vmark=\"498b\">IT之家 10 月 31 日消息，今日，OPPO Reno 系列产品经理张若星分享 Reno17 系列全新样张，并预告新机将搭载“全焦段 4K 超清长实况”，首次将实况时长由原先 3 秒延长至 6 ",
+        "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：小米超 5 万辆，深蓝汽车 32602 辆",
+        "url": "https://www.ithome.com/1/020/661.htm",
+        "summary": "<p data-vmark=\"6ddf\">IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。</p><ul class=\" list-paddingle",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山",
-        "url": "https://www.ithome.com/1/020/627.htm",
-        "summary": "<p data-vmark=\"8d03\">IT之家 10 月 31 日消息，当地时间 30 日。据美国 CNBC 报道，鸿海计划进一步扩大 AI 服务器业务，并加大在美国的生产布局。董事长刘扬伟表示，AI 基础设施市场需求依然强劲，集团希望",
+        "title": "上汽 MG 品牌 10 月全球新能源销量突破 8.5 万辆，国内超 3.1 万辆",
+        "url": "https://www.ithome.com/1/020/660.htm",
+        "summary": "<p data-vmark=\"a657\">IT之家 11 月 1 日消息，上汽 MG 今日发文，2026 年 10 月 MG 品牌全球新能源销量<strong>超 8.5 万辆</strong>，国内新能源销量<strong>超 3.1 万",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "国铁集团：2026 年前三季度营收 9143 亿元，净利润盈利 130 亿元",
-        "url": "https://www.ithome.com/1/020/626.htm",
-        "summary": "<p data-vmark=\"f4c6\">IT之家 10 月 31 日消息，10 月 30 日，国铁集团披露了 2026 年前三季度财务决算。前三季度，国铁集团实现营业总收入 9143 亿元，净利润盈利 130 亿元，多项运输指标创历史同期",
+        "title": "9 月首发 4499 元起 → 11 月国补 3675 元起，雷鸟鹤 6 Ultra 27 款 QD-Mini LED 电视京东 11.11 组合购",
+        "url": "https://www.ithome.com/1/020/659.htm",
+        "summary": "<p data-vmark=\"74ed\">9 月 27 日，雷鸟鹤 6 系列 27 款电视正式开售，鹤 6 Ultra 27 款定价 5528 元起、首发 4499 元起。</p><p data-vmark=\"bc8e\"><strong>鹤",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -84,86 +80,6 @@
   },
   "mzu_briefing": {
     "items": [
-      {
-        "title": "统计局：2025 年末全国人口总量保持 14 亿",
-        "summary": "统计局：2025 年末全国人口总量保持 14 亿以上规模，平均预期寿命达到 79.25 岁，居民人均可支配收入 43377 元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "财政部：1-9 月国有企业营业总收入同比下降 3",
-        "summary": "财政部：1-9 月国有企业营业总收入同比下降 3.2%，利润总额同比增长 3.0%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "央行：11 月 2 日起每个工作日开展隔夜逆回购",
-        "summary": "央行：11 月 2 日起每个工作日开展隔夜逆回购操作招标，操作利率为 1.25%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国内航线燃油附加费 11 月 5 日起上调：80",
-        "summary": "国内航线燃油附加费 11 月 5 日起上调：800 公里以下收取 80 元，800 公里以上收取 140 元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "广东东莞一村发放婚育补贴：生二孩奖 1 万",
-        "summary": "广东东莞一村发放婚育补贴：生二孩奖 1 万，三孩奖 3 万，14 万元奖励当场兑现",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "山东发文推动婚育假期落实：不得暗示职工自愿放弃休",
-        "summary": "山东发文推动婚育假期落实：不得暗示职工自愿放弃休假、诱导缩短休假时长",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "A 股 10 月收官：双创指数均跌超 23%",
-        "summary": "A 股 10 月收官：双创指数均跌超 23%，两市超 4500 只个股月线收阴，银行股逆市创新高",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国际金价一度失守 3900 美元 / 盎司关口",
-        "summary": "国际金价一度失守 3900 美元 / 盎司关口，为去年 10 月以来首次",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "哈工大研制 “太阳炉”：焦点温度高达 892℃",
-        "summary": "哈工大研制 “太阳炉”：焦点温度高达 892℃，或可在月球 “烧砖盖房”",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "报告显示：中国知识产权保护指数达 81.75 分",
-        "summary": "报告显示：中国知识产权保护指数达 81.75 分，排名升至全球第 6 位",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
       {
         "title": "本月玩什么｜影之刃零、战争机器：事变日等",
         "url": "https://sspai.com/post/117960",
@@ -244,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E5%85%B3%E9%94%AE%E5%9C%A8%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news"
     },
     {
-      "title": "央视曝光：2388元的蜜丸检出镇痛药",
+      "title": "多地小学老师转岗教中学",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E5%B2%97%E6%95%99%E4%B8%AD%E5%AD%A6&sa=fyb_news"
     },
     {
-      "title": "“毛孩子”的饭碗没那么好端了",
+      "title": "江苏省委书记省长为苏超冠亚军颁奖",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E7%9A%84%E9%A5%AD%E7%A2%97%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%AB%AF%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E4%BA%9A%E5%86%9B%E9%A2%81%E5%A5%96&sa=fyb_news"
     },
     {
       "title": "多领域见证中国经济活力",
@@ -262,10 +178,34 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B&sa=fyb_news"
     },
     {
-      "title": "人民日报评朱之文被“黑粉”举报",
+      "title": "29.9元3小时的无人自助KTV开遍县城",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%9C%B1%E4%B9%8B%E6%96%87%E8%A2%AB%E2%80%9C%E9%BB%91%E7%B2%89%E2%80%9D%E4%B8%BE%E6%8A%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=29.9%E5%85%833%E5%B0%8F%E6%97%B6%E7%9A%84%E6%97%A0%E4%BA%BA%E8%87%AA%E5%8A%A9KTV%E5%BC%80%E9%81%8D%E5%8E%BF%E5%9F%8E&sa=fyb_news"
+    },
+    {
+      "title": "BLG 2比0 HLE",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=BLG+2%E6%AF%940+HLE&sa=fyb_news"
+    },
+    {
+      "title": "主教练向杨瀚森道歉",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E4%B8%BB%E6%95%99%E7%BB%83%E5%90%91%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%81%93%E6%AD%89&sa=fyb_news"
+    },
+    {
+      "title": "怎么有两个无印良品",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%80%8E%E4%B9%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81&sa=fyb_news"
+    },
+    {
+      "title": "孟加拉国总理拒绝向日本国旗鞠躬",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E6%80%BB%E7%90%86%E6%8B%92%E7%BB%9D%E5%90%91%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E9%9E%A0%E8%BA%AC&sa=fyb_news"
     },
     {
       "title": "夫妻因一餐5个菜闹到要离婚",
@@ -274,34 +214,10 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A&sa=fyb_news"
     },
     {
-      "title": "江苏首富夫妇身家一年暴涨1120亿",
+      "title": "S16八强抽签：TES与iG内战",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E9%A6%96%E5%AF%8C%E5%A4%AB%E5%A6%87%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%B9%B4%E6%9A%B4%E6%B6%A81120%E4%BA%BF&sa=fyb_news"
-    },
-    {
-      "title": "无锡队夺苏超冠军",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B&sa=fyb_news"
-    },
-    {
-      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6&sa=fyb_news"
-    },
-    {
-      "title": "DeepSeek重磅发布：AI开始指挥AI干活",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB&sa=fyb_news"
-    },
-    {
-      "title": "孙颖莎4比3早田希娜",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=S16%E5%85%AB%E5%BC%BA%E6%8A%BD%E7%AD%BE%EF%BC%9ATES%E4%B8%8EiG%E5%86%85%E6%88%98&sa=fyb_news"
     },
     {
       "title": "广西男子造谣“石场死了3个”被处罚",
@@ -310,22 +226,22 @@
       "url": "https://m.baidu.com/s?word=%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E2%80%9C%E7%9F%B3%E5%9C%BA%E6%AD%BB%E4%BA%863%E4%B8%AA%E2%80%9D%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
     },
     {
-      "title": "无锡队苏超夺冠",
+      "title": "高市屡次引导外国领导人向日旗鞠躬",
       "platform": "百度热搜/头条",
-      "hot": "21329931",
-      "url": "https://www.toutiao.com/trending/7702825143822781978/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702825143822781978%22%2C%22hot_board_impr_id%22%3A%2220261101015103A8A33764361317C9AF07%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A0%E9%94%A1%E9%98%9F%E8%8B%8F%E8%B6%85%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7702825143822781978"
-    },
-    {
-      "title": "75岁傅成玉被查",
-      "platform": "百度热搜/头条",
-      "hot": "19300120",
-      "url": "https://www.toutiao.com/trending/7702761634955214902/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702761634955214902%22%2C%22hot_board_impr_id%22%3A%2220261101015103A8A33764361317C9AF07%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2275%E5%B2%81%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7702761634955214902"
+      "hot": "13797829",
+      "url": "https://www.toutiao.com/trending/7702426053759828022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702426053759828022%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%B8%82%E5%B1%A1%E6%AC%A1%E5%BC%95%E5%AF%BC%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%91%E6%97%A5%E6%97%97%E9%9E%A0%E8%BA%AC%22%7D&rank=&style_id=40132&topic_id=7702426053759828022"
     },
     {
       "title": "以钉钉子精神加强党的作风建设",
       "platform": "百度热搜/头条",
-      "hot": "17463471",
-      "url": "https://www.toutiao.com/trending/7702652501522189878/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702652501522189878%22%2C%22hot_board_impr_id%22%3A%2220261101015103A8A33764361317C9AF07%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E9%92%89%E9%92%89%E5%AD%90%E7%B2%BE%E7%A5%9E%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E5%BB%BA%E8%AE%BE%22%7D&rank=&style_id=40132&topic_id=7702652501522189878"
+      "hot": "12484792",
+      "url": "https://www.toutiao.com/trending/7702652501522189878/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702652501522189878%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E9%92%89%E9%92%89%E5%AD%90%E7%B2%BE%E7%A5%9E%E5%8A%A0%E5%BC%BA%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E5%BB%BA%E8%AE%BE%22%7D&rank=&style_id=40132&topic_id=7702652501522189878"
+    },
+    {
+      "title": "程靖淇：孙颖莎会为自己感到骄傲",
+      "platform": "百度热搜/头条",
+      "hot": "11296707",
+      "url": "https://www.toutiao.com/trending/7702860183898423835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702860183898423835%22%2C%22hot_board_impr_id%22%3A%2220261101093445C3D84F0FBE6A6C709E83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A8%8B%E9%9D%96%E6%B7%87%EF%BC%9A%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BC%9A%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%22%7D&rank=&style_id=40132&topic_id=7702860183898423835"
     }
   ],
   "suggested_topics": [
@@ -334,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "央视曝光：2388元的蜜丸检出镇痛药",
+      "title": "多地小学老师转岗教中学",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“毛孩子”的饭碗没那么好端了",
+      "title": "江苏省委书记省长为苏超冠亚军颁奖",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -346,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "人民日报评朱之文被“黑粉”举报",
+      "title": "29.9元3小时的无人自助KTV开遍县城",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
