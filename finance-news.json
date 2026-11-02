@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-02T09:56:50+08:00",
+  "updated_at": "2026-11-02T20:59:56+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3602.51,
-      "change": 3.49,
-      "pct": 0.1
+      "value": 3638.03,
+      "change": 39.01,
+      "pct": 1.08
     },
     {
       "name": "深证成指",
-      "value": 10820.96,
-      "change": -12.82,
-      "pct": -0.12
+      "value": 11010.68,
+      "change": 176.9,
+      "pct": 1.63
     },
     {
       "name": "创业板指",
-      "value": 2408.59,
-      "change": -5.04,
-      "pct": -0.21
+      "value": 2458.7,
+      "change": 45.07,
+      "pct": 1.87
     }
   ],
   "sectors": [
     {
-      "name": "白酒Ⅲ",
-      "change": 4.82
-    },
-    {
-      "name": "白酒Ⅱ",
-      "change": 4.82
-    },
-    {
       "name": "视频媒体",
-      "change": 4.8
+      "change": 20
     },
     {
-      "name": "酒店",
-      "change": 3.67
+      "name": "教育运营及其他",
+      "change": 13.51
     },
     {
-      "name": "稀土",
-      "change": 3.36
+      "name": "文字媒体",
+      "change": 11.69
     },
     {
-      "name": "软饮料",
-      "change": 3.24
+      "name": "图片媒体",
+      "change": 9.99
     },
     {
-      "name": "百货",
-      "change": 3.17
+      "name": "数字媒体",
+      "change": 9.75
     },
     {
-      "name": "酒店餐饮",
-      "change": 3.08
+      "name": "影视动漫制作",
+      "change": 9.71
+    },
+    {
+      "name": "影视院线",
+      "change": 9.3
+    },
+    {
+      "name": "游戏Ⅲ",
+      "change": 9.06
     }
   ],
   "macro": [],
