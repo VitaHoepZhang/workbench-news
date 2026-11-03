@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-03T06:23:30+08:00",
+  "updated_at": "2026-11-03T11:45:23+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3638.03,
-      "change": 39.01,
-      "pct": 1.08
+      "value": 3612.09,
+      "change": -25.94,
+      "pct": -0.71
     },
     {
       "name": "深证成指",
-      "value": 11010.68,
-      "change": 176.9,
-      "pct": 1.63
+      "value": 10993.07,
+      "change": -17.61,
+      "pct": -0.16
     },
     {
       "name": "创业板指",
-      "value": 2458.7,
-      "change": 45.07,
-      "pct": 1.87
+      "value": 2435.6,
+      "change": -23.1,
+      "pct": -0.94
     }
   ],
   "sectors": [
     {
-      "name": "视频媒体",
-      "change": 20
+      "name": "教育运营及其他",
+      "change": 9.25
     },
     {
-      "name": "教育运营及其他",
-      "change": 13.51
+      "name": "视频媒体",
+      "change": 5.64
+    },
+    {
+      "name": "蓄电池及其他电池",
+      "change": 5.18
     },
     {
       "name": "文字媒体",
-      "change": 11.69
+      "change": 5.02
     },
     {
-      "name": "图片媒体",
-      "change": 9.99
+      "name": "涂料",
+      "change": 4.4
     },
     {
-      "name": "数字媒体",
-      "change": 9.75
+      "name": "氨纶",
+      "change": 4.17
     },
     {
-      "name": "影视动漫制作",
-      "change": 9.71
+      "name": "锂电专用设备",
+      "change": 3.87
     },
     {
-      "name": "影视院线",
-      "change": 9.3
-    },
-    {
-      "name": "游戏Ⅲ",
-      "change": 9.06
+      "name": "旅游综合",
+      "change": 3.74
     }
   ],
   "macro": [],

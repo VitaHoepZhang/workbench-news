@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-03T06:23:30+08:00",
+  "updated_at": "2026-11-03T11:45:23+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 进一步做好黄河保护治理工作",
-      "summary": "「进一步做好黄河保护治理工作」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "贴息新政激活楼市 “银十”：18 城二手房成交 ",
+      "summary": "贴息新政激活楼市 “银十”：18 城二手房成交 11.6 万套，同比增长 17.5%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 加油新规来了！11月起全国推行",
-      "summary": "「加油新规来了！11月起全国推行」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "医保局：今年前 9 个月生育津贴支出超 781 ",
+      "summary": "医保局：今年前 9 个月生育津贴支出超 781 亿元，全面实现直发个人",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 才知道改名可以改姓",
-      "summary": "「才知道改名可以改姓」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "我国拟修改税收征收管理法",
+      "summary": "我国拟修改税收征收管理法，将稳慎加强对个人的税收征管",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 乌镇峰会年年刷屏 今年看什么",
-      "summary": "「乌镇峰会年年刷屏 今年看什么」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "邮储银行重启发行部分大额存单",
+      "summary": "邮储银行重启发行部分大额存单，半年期利率最高 1.05%，国有六大行均已恢复发行",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈",
-        "url": "https://www.ithome.com/1/021/282.htm",
-        "summary": "<p class=\"v-focus\" data-vmark=\"0000\"> IT之家 11 月 3 日消息，安森美今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月",
+        "title": "明确房东不得加收水电费、违者最高罚 5 倍金额，广州新规表决通过",
+        "url": "https://www.ithome.com/1/021/483.htm",
+        "summary": "<p data-vmark=\"5c45\">IT之家 11 月 3 日消息，据广州日报 11 月 2 日报道，日前，广州市十六届人大常委会第五十四次会议表决通过《广州市租赁房屋居民生活用水用电费用代收管理规定》（以下简称《规定》），待省人大常",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”",
-        "url": "https://www.ithome.com/1/021/280.htm",
-        "summary": "<p data-vmark=\"4888\">IT之家 11 月 2 日消息，据《The Information》今日报道，苹果正在开发 HomeView 的机器人版本。这款设备传闻被称作“HomeView Ultra”或“HomeView M",
+        "title": "特努斯：全球内存涨价“前所未有”，苹果已竭尽所能消化成本",
+        "url": "https://www.ithome.com/1/021/482.htm",
+        "summary": "<p data-vmark=\"a2d8\">IT之家 11 月 3 日消息，在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）当前内存价格上涨“前所未有”，<strong>且预计 12 月季度成本还会更高，后续采购",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
-        "url": "https://www.ithome.com/1/021/279.htm",
-        "summary": "<p data-vmark=\"0790\">IT之家 11 月 2 日消息，韩国起亚汽车今日公告，2026 年 10 月，起亚在全球市场销售 291,219 辆，其中韩国国内 51,007 辆，其他 239,308 辆，904 辆专用单位，同",
+        "title": "消息称 Meta 拟通过跨境投资级债券发行筹集至少 200 亿美元",
+        "url": "https://www.ithome.com/1/021/481.htm",
+        "summary": "<p data-vmark=\"1404\">IT之家 11 月 3 日消息，彭博社当地时间 2 日报道称，Meta 正在考虑通过潜在的跨境投资级债券发行<strong>筹集至少 200 亿美元</strong><span class=\"exc",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
-        "url": "https://www.ithome.com/1/021/277.htm",
-        "summary": "<p data-vmark=\"277c\">IT之家 11 月 2 日消息，Anthropic PBC 披露，截至 9 月 30 日的第三季度营收接近 170 亿美元<span class=\"exch-money-value \">（IT之家注",
+        "title": "印度信实集团董事长安巴尼净资产升至 888 亿美元，超越字节跳动张一鸣重夺亚洲首富",
+        "url": "https://www.ithome.com/1/021/479.htm",
+        "summary": "<p data-vmark=\"20bc\">IT之家 11 月 3 日消息，印度信实工业集团（Reliance Industries）董事长穆克什・安巴尼（Mukesh Ambani）于 11 月 2 日超越字节跳动联合创始人张一鸣，重新成为",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "一体化电视全国推广部署推进会召开，加快落实终端适配",
-        "url": "https://www.ithome.com/1/021/276.htm",
-        "summary": "<p data-vmark=\"8710\">IT之家 11 月 2 日消息，11 月 2 日，国家广播电视总局联合工业和信息化部、中央广播电视总台召开一体化电视全国推广部署推进会。</p><p data-vmark=\"3e51\" style=",
+        "title": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计",
+        "url": "https://www.ithome.com/1/021/477.htm",
+        "summary": "<p data-vmark=\"8ab9\">IT之家 11 月 3 日消息，据彭博社报道，人工智能制药公司同构实验室总裁马克斯 · 贾德伯格相信，<strong>未来所有药物都将由 AI 设计</strong>，区别只在于这一目标需要多久才能",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "现代汽车 10 月销量为 32.98 万辆同比减少 6.3%，连续 13 个月下降",
-        "url": "https://www.ithome.com/1/021/275.htm",
-        "summary": "<p data-vmark=\"131c\">IT之家 11 月 2 日消息，韩国现代汽车今日公布数据，该公司在 2026 年 10 月全球市场共售出 329,773 辆，其中韩国国内 49,042 辆，海外 280,731 辆，<strong",
+        "title": "1581.8 亿美元！苹果 2027 财年最赚钱季度营收有望同比增 10%，刷新单季营收纪录",
+        "url": "https://www.ithome.com/1/021/476.htm",
+        "summary": "<p data-vmark=\"dfc9\">IT之家 11 月 3 日消息，在最新财报电话会议上，苹果首席财务官凯万 · 帕雷克（Kevan Parekh）预测 2027 财年（2026 年 9 月 27 日周日到 2027 年 9 月 25",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "贴息新政激活楼市 “银十”：18 城二手房成交 ",
+        "summary": "贴息新政激活楼市 “银十”：18 城二手房成交 11.6 万套，同比增长 17.5%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "医保局：今年前 9 个月生育津贴支出超 781 ",
+        "summary": "医保局：今年前 9 个月生育津贴支出超 781 亿元，全面实现直发个人",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国拟修改税收征收管理法",
+        "summary": "我国拟修改税收征收管理法，将稳慎加强对个人的税收征管",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "邮储银行重启发行部分大额存单",
+        "summary": "邮储银行重启发行部分大额存单，半年期利率最高 1.05%，国有六大行均已恢复发行",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "央行将股票回购增持再贷款利率从 1.25% 降至",
+        "summary": "央行将股票回购增持再贷款利率从 1.25% 降至 1%，专家：将进一步提振市场、稳定信心",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "央行将于 11 月 3 日开展证券、基金、保险公",
+        "summary": "央行将于 11 月 3 日开展证券、基金、保险公司互换便利操作，互换期限 1 年",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "证监会稳市再加码：拟优化护盘式回购、鼓励 18 ",
+        "summary": "证监会稳市再加码：拟优化护盘式回购、鼓励 18 只主动 ETF 加快建仓",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "“三桶油” 前三季度净利超 3138 亿元",
+        "summary": "“三桶油” 前三季度净利超 3138 亿元，超过 2025 年全年净利润总和",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "首届 CMG 世界机器人登泰山大赛收官：宇树 A",
+        "summary": "首届 CMG 世界机器人登泰山大赛收官：宇树 A2 机器狗以 43 分 41 秒完成 3100 余级台阶夺得冠军",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "苹果将于 11 月 6 日开售五款新品",
+        "summary": "苹果将于 11 月 6 日开售五款新品，涵盖 MacBook Pro、iMac 和 iPad mini 等产品线",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+        "url": "https://sspai.com/post/118232",
+        "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=&#34;https://sspai.com/post/118232&#34; target=&#34;_bl",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "派评 | 近期值得关注的 App",
         "url": "https://sspai.com/post/118240",
@@ -119,139 +211,131 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "本月玩什么｜影之刃零、战争机器：事变日等",
-        "url": "https://sspai.com/post/117960",
-        "summary": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=&#34;https://sspai.com/post/117960&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "「央行：再贷款利率由1.25%降至1%」涉及哪些法律点？",
+        "title": "「社保欠缴处罚有了全国统一尺度」涉及哪些法律点？",
         "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
         "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25&sa=fyb_news"
+        "url": "https://m.baidu.com/s?word=%E7%A4%BE%E4%BF%9D%E6%AC%A0%E7%BC%B4%E5%A4%84%E7%BD%9A%E6%9C%89%E4%BA%86%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%B0%BA%E5%BA%A6&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "进一步做好黄河保护治理工作",
+      "title": "让母亲河永续惠泽子孙后代",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%AE%A9%E6%AF%8D%E4%BA%B2%E6%B2%B3%E6%B0%B8%E7%BB%AD%E6%83%A0%E6%B3%BD%E5%AD%90%E5%AD%99%E5%90%8E%E4%BB%A3&sa=fyb_news"
     },
     {
-      "title": "加油新规来了！11月起全国推行",
+      "title": "江苏教育厅厅长回应学生在校时间超长",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%8111%E6%9C%88%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E5%8E%85%E5%8E%85%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E6%97%B6%E9%97%B4%E8%B6%85%E9%95%BF&sa=fyb_news"
     },
     {
-      "title": "才知道改名可以改姓",
+      "title": "男子被拐30余年认亲后拉黑养家断联",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%89%8D%E7%9F%A5%E9%81%93%E6%94%B9%E5%90%8D%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%A7%93&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8B%9030%E4%BD%99%E5%B9%B4%E8%AE%A4%E4%BA%B2%E5%90%8E%E6%8B%89%E9%BB%91%E5%85%BB%E5%AE%B6%E6%96%AD%E8%81%94&sa=fyb_news"
     },
     {
-      "title": "乌镇峰会年年刷屏 今年看什么",
+      "title": "一组数据看黄河治理80年",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%B9%B4%E5%B9%B4%E5%88%B7%E5%B1%8F+%E4%BB%8A%E5%B9%B4%E7%9C%8B%E4%BB%80%E4%B9%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E9%BB%84%E6%B2%B3%E6%B2%BB%E7%90%8680%E5%B9%B4&sa=fyb_news"
     },
     {
-      "title": "李佳琦直播间半小时卖出2万亿Token",
+      "title": "九寨沟游客冲突",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81&sa=fyb_news"
     },
     {
-      "title": "终于不用看开机广告了",
+      "title": "最强厄尔尼诺要来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E7%9C%8B%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "“中部第二城”或许要变了",
+      "title": "爸爸魔改电视 儿子看10分钟弹1道题",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E9%83%A8%E7%AC%AC%E4%BA%8C%E5%9F%8E%E2%80%9D%E6%88%96%E8%AE%B8%E8%A6%81%E5%8F%98%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E9%AD%94%E6%94%B9%E7%94%B5%E8%A7%86+%E5%84%BF%E5%AD%90%E7%9C%8B10%E5%88%86%E9%92%9F%E5%BC%B91%E9%81%93%E9%A2%98&sa=fyb_news"
     },
     {
-      "title": "央行：再贷款利率由1.25%降至1%",
+      "title": "社保欠缴处罚有了全国统一尺度",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%A4%BE%E4%BF%9D%E6%AC%A0%E7%BC%B4%E5%A4%84%E7%BD%9A%E6%9C%89%E4%BA%86%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%B0%BA%E5%BA%A6&sa=fyb_news"
     },
     {
-      "title": "《后会友期》大爆 “泼天富贵”砸向谁",
+      "title": "清华毕业生英国留学疑遭电诈后失联",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%88%86+%E2%80%9C%E6%B3%BC%E5%A4%A9%E5%AF%8C%E8%B4%B5%E2%80%9D%E7%A0%B8%E5%90%91%E8%B0%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E8%8B%B1%E5%9B%BD%E7%95%99%E5%AD%A6%E7%96%91%E9%81%AD%E7%94%B5%E8%AF%88%E5%90%8E%E5%A4%B1%E8%81%94&sa=fyb_news"
     },
     {
-      "title": "文班亚马：少林寺的训练太难了",
+      "title": "全网都在说的烧心梗可能是癌前病变",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%EF%BC%9A%E5%B0%91%E6%9E%97%E5%AF%BA%E7%9A%84%E8%AE%AD%E7%BB%83%E5%A4%AA%E9%9A%BE%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E8%AF%B4%E7%9A%84%E7%83%A7%E5%BF%83%E6%A2%97%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%E5%89%8D%E7%97%85%E5%8F%98&sa=fyb_news"
     },
     {
-      "title": "倪妮考驾照科目三挂了两次",
+      "title": "《后会友期》导演：主打一个听劝",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%80%AA%E5%A6%AE%E8%80%83%E9%A9%BE%E7%85%A7%E7%A7%91%E7%9B%AE%E4%B8%89%E6%8C%82%E4%BA%86%E4%B8%A4%E6%AC%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%90%AC%E5%8A%9D&sa=fyb_news"
     },
     {
-      "title": "网民编造“花260万登顶珠峰”被罚",
+      "title": "网民编造“村霸拦路抢劫”被处罚",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E2%80%9C%E8%8A%B1260%E4%B8%87%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0%E2%80%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E2%80%9C%E6%9D%91%E9%9C%B8%E6%8B%A6%E8%B7%AF%E6%8A%A2%E5%8A%AB%E2%80%9D%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
     },
     {
-      "title": "中国公务团组人员被瑞典警方拘押",
+      "title": "国际油价大幅下跌",
       "platform": "百度热搜/头条",
-      "hot": "16506947",
-      "url": "https://www.toutiao.com/trending/7703489065979084809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703489065979084809%22%2C%22hot_board_impr_id%22%3A%22202611030623274281977D3975ADAA986C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%9B%A2%E7%BB%84%E4%BA%BA%E5%91%98%E8%A2%AB%E7%91%9E%E5%85%B8%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8A%BC%22%7D&rank=&style_id=40132&topic_id=7703489065979084809"
+      "hot": "13488551",
+      "url": "https://www.toutiao.com/trending/7703735791394164274/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703735791394164274%22%2C%22hot_board_impr_id%22%3A%2220261103114519D8E662EFC7FA82D438FC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%22%7D&rank=&style_id=40132&topic_id=7703735791394164274"
     },
     {
-      "title": "男子彩票中1113万过期2天兑奖被拒",
+      "title": "国内三艘现役航母全部出海有何意味",
       "platform": "百度热搜/头条",
-      "hot": "14936103",
-      "url": "https://www.toutiao.com/trending/7703435058945802259/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703435058945802259%22%2C%22hot_board_impr_id%22%3A%22202611030623274281977D3975ADAA986C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD1113%E4%B8%87%E8%BF%87%E6%9C%9F2%E5%A4%A9%E5%85%91%E5%A5%96%E8%A2%AB%E6%8B%92%22%7D&rank=&style_id=40132&topic_id=7703435058945802259"
+      "hot": "12204945",
+      "url": "https://www.toutiao.com/trending/7703470303904694835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703470303904694835%22%2C%22hot_board_impr_id%22%3A%2220261103114519D8E662EFC7FA82D438FC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%86%85%E4%B8%89%E8%89%98%E7%8E%B0%E5%BD%B9%E8%88%AA%E6%AF%8D%E5%85%A8%E9%83%A8%E5%87%BA%E6%B5%B7%E6%9C%89%E4%BD%95%E6%84%8F%E5%91%B3%22%7D&rank=&style_id=40132&topic_id=7703470303904694835"
     },
     {
-      "title": "一批重大工程建设正酣",
+      "title": "折射产业结构向新向优向好",
       "platform": "百度热搜/头条",
-      "hot": "13514745",
-      "url": "https://www.toutiao.com/article/7703481173737030184"
+      "hot": "11043491",
+      "url": "https://www.toutiao.com/article/7703579759648719375"
     }
   ],
   "suggested_topics": [
     {
-      "title": "进一步做好黄河保护治理工作",
+      "title": "让母亲河永续惠泽子孙后代",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "加油新规来了！11月起全国推行",
+      "title": "江苏教育厅厅长回应学生在校时间超长",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "才知道改名可以改姓",
+      "title": "男子被拐30余年认亲后拉黑养家断联",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "乌镇峰会年年刷屏 今年看什么",
+      "title": "一组数据看黄河治理80年",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "李佳琦直播间半小时卖出2万亿Token",
+      "title": "九寨沟游客冲突",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
