@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-03T11:45:23+08:00",
+  "updated_at": "2026-11-03T20:33:45+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3612.09,
-      "change": -25.94,
-      "pct": -0.71
+      "value": 3608.1,
+      "change": -29.93,
+      "pct": -0.82
     },
     {
       "name": "深证成指",
-      "value": 10993.07,
-      "change": -17.61,
-      "pct": -0.16
+      "value": 10876.99,
+      "change": -133.69,
+      "pct": -1.21
     },
     {
       "name": "创业板指",
-      "value": 2435.6,
-      "change": -23.1,
-      "pct": -0.94
+      "value": 2391.65,
+      "change": -67.05,
+      "pct": -2.73
     }
   ],
   "sectors": [
     {
       "name": "教育运营及其他",
-      "change": 9.25
-    },
-    {
-      "name": "视频媒体",
-      "change": 5.64
-    },
-    {
-      "name": "蓄电池及其他电池",
-      "change": 5.18
-    },
-    {
-      "name": "文字媒体",
-      "change": 5.02
+      "change": 9.84
     },
     {
       "name": "涂料",
-      "change": 4.4
+      "change": 5.07
     },
     {
       "name": "氨纶",
       "change": 4.17
     },
     {
-      "name": "锂电专用设备",
-      "change": 3.87
+      "name": "视频媒体",
+      "change": 3.89
     },
     {
-      "name": "旅游综合",
-      "change": 3.74
+      "name": "蓄电池及其他电池",
+      "change": 3.76
+    },
+    {
+      "name": "医美服务",
+      "change": 3.29
+    },
+    {
+      "name": "其他运输设备",
+      "change": 3.27
+    },
+    {
+      "name": "水产饲料",
+      "change": 3.08
     }
   ],
   "macro": [],
