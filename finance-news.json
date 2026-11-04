@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-11-04T04:12:11+08:00",
+  "updated_at": "2026-11-04T10:47:12+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3608.1,
-      "change": -29.93,
-      "pct": -0.82
+      "value": 3599.95,
+      "change": -8.15,
+      "pct": -0.23
     },
     {
       "name": "深证成指",
-      "value": 10876.99,
-      "change": -133.69,
-      "pct": -1.21
+      "value": 10884.45,
+      "change": 7.46,
+      "pct": 0.07
     },
     {
       "name": "创业板指",
-      "value": 2391.65,
-      "change": -67.05,
-      "pct": -2.73
+      "value": 2393.14,
+      "change": 1.49,
+      "pct": 0.06
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "视频媒体",
+      "change": 4.5
+    },
+    {
+      "name": "文字媒体",
+      "change": 3.56
+    },
+    {
+      "name": "数字芯片设计",
+      "change": 3.1
+    },
+    {
+      "name": "机器人",
+      "change": 2.85
+    },
+    {
+      "name": "其他数字媒体",
+      "change": 2.79
+    },
+    {
+      "name": "模拟芯片设计",
+      "change": 2.66
+    },
+    {
+      "name": "半导体设备",
+      "change": 2.45
+    },
+    {
+      "name": "影视动漫制作",
+      "change": 2.38
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
