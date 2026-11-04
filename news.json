@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-11-04T20:43:36+08:00",
+  "updated_at": "2026-11-05T04:28:53+08:00",
   "science": [
     {
-      "title": "中国气象局确认：最强厄尔尼诺将明显影响我国",
-      "summary": "中国气象局确认：最强厄尔尼诺将明显影响我国，预计今冬全国气温总体偏高，呈前冬冷、后冬暖的特点",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 不断开创黄河保护治理工作新局面",
+      "summary": "「不断开创黄河保护治理工作新局面」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "央行宣布 11 月 15 日起上调金融机构外汇存",
-      "summary": "央行宣布 11 月 15 日起上调金融机构外汇存款准备金率，由现行的 4% 提高到 6%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · “如果这钱能提出来 我警察不当了”",
+      "summary": "「“如果这钱能提出来 我警察不当了”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "A 股融资余额降至 2.30 万亿元",
-      "summary": "A 股融资余额降至 2.30 万亿元，创出 2025 年 9 月以来逾一年新低",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 央视曝光新型兼职骗局",
+      "summary": "「央视曝光新型兼职骗局」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "乘联分会：10 月全国新能源乘用车厂商批发销量预",
-      "summary": "乘联分会：10 月全国新能源乘用车厂商批发销量预估达 180 万辆，同比增长 12%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 中国智能经济新形态加速崛起",
+      "summary": "「中国智能经济新形态加速崛起」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "Steam 客户端 Beta 版更新发布：修复窗口黑屏问题，优化 \" 成就集 \" 统计逻辑",
-        "url": "https://www.ithome.com/1/021/875.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 4 日消息，Valve 已向 Steam 预览（Beta）通道推送最新客户端更新，本次更新主要修复 Steam 窗口偶发的黑屏闪烁问题，并针对上月刚开启测试的 \" 成就集（Ach",
+        "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
+        "url": "https://www.ithome.com/1/022/472.htm",
+        "summary": "<p data-vmark=\"055a\">IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "蔚来李斌：现在出货量最多的具身智能体就是智能电动汽车",
-        "url": "https://www.ithome.com/1/022/423.htm",
-        "summary": "<p data-vmark=\"60ad\">IT之家 11 月 4 日消息，在今天的 2026 年世界互联网大会乌镇峰会互联网企业家论坛，蔚来创始人、董事长、CEO 李斌分享了自己对行业的看法。</p><p data-vmark=\"45e1\"",
+        "title": "微信鸿蒙版 App 推 8.0.23.34 正式版更新，更多用户灰度合并发图功能",
+        "url": "https://www.ithome.com/1/022/470.htm",
+        "summary": "<p data-vmark=\"de7d\">IT之家 11 月 4 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.34 正式版更新。</p><p style=\"text-align: cente",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "倍思推出 Sleep SK1 蓝牙睡眠音箱：专门用于放置在枕下使用，184 元",
-        "url": "https://www.ithome.com/1/022/422.htm",
-        "summary": "<p data-vmark=\"6701\">IT之家 11 月 4 日消息，倍思现已在京东上架一款 Sleep SK1 蓝牙睡眠音箱，该产品专门用于放置在枕下使用，<strong>定价为 184 元</strong>，部分地区国补后低至 17",
+        "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
+        "url": "https://www.ithome.com/1/022/469.htm",
+        "summary": "<p data-vmark=\"873a\">IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞<a href=\"https://www.ithome.com/0/8",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "惠普任命葛兰素史克前 CEO 艾玛 · 沃姆斯利为新任 CEO，明年 1 月正式履职",
-        "url": "https://www.ithome.com/1/022/421.htm",
-        "summary": "<p data-vmark=\"e4e8\">IT之家 11 月 4 日消息，惠普公司（HP Inc.）宣布，任命英国制药企业葛兰素史克（GSK）前首席执行官艾玛 · 沃姆斯利（Emma Walmsley）出任公司新任 CEO。这意味着，在惠普",
+        "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
+        "url": "https://www.ithome.com/1/022/468.htm",
+        "summary": "<p data-vmark=\"3a25\">北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "任天堂《塞尔达传说：时之笛》重制版媒体评测解禁：M 站均分 96 分成今年评分最高游戏",
-        "url": "https://www.ithome.com/1/022/420.htm",
-        "summary": "<p data-vmark=\"ae99\">IT之家 11 月 4 日消息，任天堂备受期待的《塞尔达传说：时之笛》重制版将于明天正式发售，媒体评测已于今天解禁。结果相当出色，甚至可以说好得令人惊喜。截至本文撰写时，该作在 Metacritic",
+        "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
+        "url": "https://www.ithome.com/1/022/461.htm",
+        "summary": "<p data-vmark=\"d9ce\">IT之家 11 月 4 日消息，法国公共血液服务机构法国血液中心 (EFS) 当地时间本月 3 日发布声明确认，<strong>其三个场地的冷库监控与控制系统由于供应商的关系成为本月 2 日黑客“升",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作",
-        "url": "https://www.ithome.com/1/022/419.htm",
-        "summary": "<p data-vmark=\"0b94\">IT之家 11 月 4 日消息，在今天的 2026 年世界互联网大会乌镇峰会互联网企业家论坛，蔚来创始人、董事长、CEO 李斌分享了自己对行业的看法。</p><p data-vmark=\"c3e8\"",
+        "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
+        "url": "https://www.ithome.com/1/022/459.htm",
+        "summary": "<p data-vmark=\"a14e\">IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个开发者预览版，为国行用户带来了「Apple 智能与 Siri」。</p><p data-vmark=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,12 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "中国气象局确认：最强厄尔尼诺将明显影响我国",
-        "summary": "中国气象局确认：最强厄尔尼诺将明显影响我国，预计今冬全国气温总体偏高，呈前冬冷、后冬暖的特点",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "央行宣布 11 月 15 日起上调金融机构外汇存",
-        "summary": "央行宣布 11 月 15 日起上调金融机构外汇存款准备金率，由现行的 4% 提高到 6%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "A 股融资余额降至 2.30 万亿元",
-        "summary": "A 股融资余额降至 2.30 万亿元，创出 2025 年 9 月以来逾一年新低",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "乘联分会：10 月全国新能源乘用车厂商批发销量预",
-        "summary": "乘联分会：10 月全国新能源乘用车厂商批发销量预估达 180 万辆，同比增长 12%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "全国放心消费平台正式上线：可扫码查看附近放心消费",
-        "summary": "全国放心消费平台正式上线：可扫码查看附近放心消费商家，美团外卖、淘宝闪购、京东外卖等已接入",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "江西赣州一低保家庭女孩赴香港观看演唱会",
-        "summary": "江西赣州一低保家庭女孩赴香港观看演唱会，当地证实：已取消家庭低保资格",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "力箭二号遥二运载火箭发射成功",
-        "summary": "力箭二号遥二运载火箭发射成功，一次将 18 颗卫星送入预定轨道",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "机构：腾讯以 12.8 亿用户蝉联中国互联网第一",
-        "summary": "机构：腾讯以 12.8 亿用户蝉联中国互联网第一，绿泡泡月活破 1.5 亿",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国际电信联盟：2026 年全球网民估计约为 63",
-        "summary": "国际电信联盟：2026 年全球网民估计约为 63 亿人，占世界人口的 76%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "2036 年夏奥会举办权申办意向名单确定：德国、",
-        "summary": "2036 年夏奥会举办权申办意向名单确定：德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "url": "https://sspai.com/post/117713",
+        "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=&#34;https://sspai.com/post/117713&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
@@ -203,46 +127,49 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-        "url": "https://sspai.com/post/118211",
-        "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=&#34;https://sspai.com/post/118211&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "「男子诈骗被抓后因无法考公崩溃」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8A%93%E5%90%8E%E5%9B%A0%E6%97%A0%E6%B3%95%E8%80%83%E5%85%AC%E5%B4%A9%E6%BA%83&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "“做强做优做大实体经济”",
+      "title": "不断开创黄河保护治理工作新局面",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%E5%B7%A5%E4%BD%9C%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
     },
     {
-      "title": "A股大反攻原因找到了",
+      "title": "“如果这钱能提出来 我警察不当了”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%A4%A7%E5%8F%8D%E6%94%BB%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A6%82%E6%9E%9C%E8%BF%99%E9%92%B1%E8%83%BD%E6%8F%90%E5%87%BA%E6%9D%A5+%E6%88%91%E8%AD%A6%E5%AF%9F%E4%B8%8D%E5%BD%93%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "上海飞泰国曼谷一客机因风挡破裂返航",
+      "title": "央视曝光新型兼职骗局",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E4%B8%80%E5%AE%A2%E6%9C%BA%E5%9B%A0%E9%A3%8E%E6%8C%A1%E7%A0%B4%E8%A3%82%E8%BF%94%E8%88%AA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80&sa=fyb_news"
     },
     {
       "title": "中国智能经济新形态加速崛起",
@@ -251,46 +178,46 @@
       "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BD%A2%E6%80%81%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7&sa=fyb_news"
     },
     {
-      "title": "女子点一杯饮品入座 店家称需点两杯",
+      "title": "“社恐”到这种程度 可能是生病了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%82%B9%E4%B8%80%E6%9D%AF%E9%A5%AE%E5%93%81%E5%85%A5%E5%BA%A7+%E5%BA%97%E5%AE%B6%E7%A7%B0%E9%9C%80%E7%82%B9%E4%B8%A4%E6%9D%AF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%A4%BE%E6%81%90%E2%80%9D%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6+%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%9F%E7%97%85%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "开心果大涨价",
+      "title": "红果超越豆包",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BC%80%E5%BF%83%E6%9E%9C%E5%A4%A7%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E8%B6%85%E8%B6%8A%E8%B1%86%E5%8C%85&sa=fyb_news"
     },
     {
-      "title": "西南交大通报一硕士论文被指抄袭",
+      "title": "特斯拉、SpaceX股价大跌",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%A5%BF%E5%8D%97%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E3%80%81SpaceX%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C&sa=fyb_news"
     },
     {
-      "title": "卫龙老板的35岁表弟接过出海难题",
+      "title": "陈建平教授逝世享年63岁",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%8D%AB%E9%BE%99%E8%80%81%E6%9D%BF%E7%9A%8435%E5%B2%81%E8%A1%A8%E5%BC%9F%E6%8E%A5%E8%BF%87%E5%87%BA%E6%B5%B7%E9%9A%BE%E9%A2%98&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B9%B3%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B463%E5%B2%81&sa=fyb_news"
     },
     {
-      "title": "51岁阿姨参加健美比赛 体脂率12%",
+      "title": "“我的富商男友竟是电诈嫌犯”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=51%E5%B2%81%E9%98%BF%E5%A7%A8%E5%8F%82%E5%8A%A0%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B+%E4%BD%93%E8%84%82%E7%8E%8712%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%91%E7%9A%84%E5%AF%8C%E5%95%86%E7%94%B7%E5%8F%8B%E7%AB%9F%E6%98%AF%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "男子诈骗被抓后因无法考公崩溃",
+      "title": "杨议演出时骂观众 当地文旅仍在核查",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8A%93%E5%90%8E%E5%9B%A0%E6%97%A0%E6%B3%95%E8%80%83%E5%85%AC%E5%B4%A9%E6%BA%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%A8%E8%AE%AE%E6%BC%94%E5%87%BA%E6%97%B6%E9%AA%82%E8%A7%82%E4%BC%97+%E5%BD%93%E5%9C%B0%E6%96%87%E6%97%85%E4%BB%8D%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news"
     },
     {
-      "title": "英特尔正面硬刚台积电",
+      "title": "中概股集体走强 百度大涨超4%",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E7%89%B9%E5%B0%94%E6%AD%A3%E9%9D%A2%E7%A1%AC%E5%88%9A%E5%8F%B0%E7%A7%AF%E7%94%B5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A8%E8%B6%854%25&sa=fyb_news"
     },
     {
       "title": "气象部门辟谣多地气温-32℃",
@@ -299,35 +226,35 @@
       "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9-32%E2%84%83&sa=fyb_news"
     },
     {
-      "title": "董宇辉官宣新品牌",
+      "title": "新疆军区数千名新兵夜间紧急拉动演练",
       "platform": "百度热搜/头条",
-      "hot": "14942124",
-      "url": "https://www.toutiao.com/trending/7704155399839056435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704155399839056435%22%2C%22hot_board_impr_id%22%3A%2220261104204332B64654B77CB51E52F17A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%98%E5%AE%A3%E6%96%B0%E5%93%81%E7%89%8C%22%7D&rank=&style_id=40132&topic_id=7704155399839056435"
+      "hot": "21584908",
+      "url": "https://www.toutiao.com/trending/7704168520272855562/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704168520272855562%22%2C%22hot_board_impr_id%22%3A%2220261105042852DB0053B93D5A5727259A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E7%96%86%E5%86%9B%E5%8C%BA%E6%95%B0%E5%8D%83%E5%90%8D%E6%96%B0%E5%85%B5%E5%A4%9C%E9%97%B4%E7%B4%A7%E6%80%A5%E6%8B%89%E5%8A%A8%E6%BC%94%E7%BB%83%22%7D&rank=&style_id=40132&topic_id=7704168520272855562"
+    },
+    {
+      "title": "高市早苗以怪异姿势面见日本天皇",
+      "platform": "百度热搜/头条",
+      "hot": "19530832",
+      "url": "https://www.toutiao.com/trending/7703198021613731891/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703198021613731891%22%2C%22hot_board_impr_id%22%3A%2220261105042852DB0053B93D5A5727259A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A5%E6%80%AA%E5%BC%82%E5%A7%BF%E5%8A%BF%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%22%7D&rank=&style_id=40132&topic_id=7703198021613731891"
     },
     {
       "title": "新技术、新成果亮相互联网之光博览会",
       "platform": "百度热搜/头条",
-      "hot": "13520193",
+      "hot": "17672228",
       "url": "https://www.toutiao.com/article/7704247999190319670"
-    },
-    {
-      "title": "未来黄金上涨的理由还成立吗",
-      "platform": "百度热搜/头条",
-      "hot": "12233576",
-      "url": "https://www.toutiao.com/trending/7704250263690808883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704250263690808883%22%2C%22hot_board_impr_id%22%3A%2220261104204332B64654B77CB51E52F17A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%AA%E6%9D%A5%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%90%86%E7%94%B1%E8%BF%98%E6%88%90%E7%AB%8B%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7704250263690808883"
     }
   ],
   "suggested_topics": [
     {
-      "title": "“做强做优做大实体经济”",
+      "title": "不断开创黄河保护治理工作新局面",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "A股大反攻原因找到了",
+      "title": "“如果这钱能提出来 我警察不当了”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "上海飞泰国曼谷一客机因风挡破裂返航",
+      "title": "央视曝光新型兼职骗局",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -335,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "女子点一杯饮品入座 店家称需点两杯",
+      "title": "“社恐”到这种程度 可能是生病了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
