@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-05T04:28:53+08:00",
+  "updated_at": "2026-11-05T10:55:56+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 不断开创黄河保护治理工作新局面",
-      "summary": "「不断开创黄河保护治理工作新局面」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "发改委：“十五五” 时期",
+      "summary": "发改委：“十五五” 时期，我国将新建约 1.5 万公里铁路；时速 400 公里高铁将稳步推进商业化运营",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · “如果这钱能提出来 我警察不当了”",
-      "summary": "「“如果这钱能提出来 我警察不当了”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "5 部门：到 2030 年我国单位 GDP 能耗",
+      "summary": "5 部门：到 2030 年我国单位 GDP 能耗、用水量、建设用地使用面积比 2025 年分别降低 10% 左右、10%、15%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 央视曝光新型兼职骗局",
-      "summary": "「央视曝光新型兼职骗局」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "商务部：前 9 个月我国服务进出口同比增长 8.",
+      "summary": "商务部：前 9 个月我国服务进出口同比增长 8.5%，其中出口增长 14.8%，进口增长 4.8%",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 中国智能经济新形态加速崛起",
-      "summary": "「中国智能经济新形态加速崛起」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "官方正式确认：四川已消除血吸虫病",
+      "summary": "官方正式确认：四川已消除血吸虫病，四川曾是我国血吸虫病重流行省之一",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
-        "url": "https://www.ithome.com/1/022/472.htm",
-        "summary": "<p data-vmark=\"055a\">IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu",
+        "title": "摩托罗拉 moto one 手机曝光：高通第五代骁龙 8 芯片，12GB 内存",
+        "url": "https://www.ithome.com/1/022/552.htm",
+        "summary": "<p data-vmark=\"5e29\">IT之家 11 月 5 日消息，科技媒体 GSMArena 昨日（11 月 4 日）发布博文，<strong>报道称基于无线充电联盟（WPC）最新认证信息，摩托罗拉正在筹备一款 One 系列智能手机",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "微信鸿蒙版 App 推 8.0.23.34 正式版更新，更多用户灰度合并发图功能",
-        "url": "https://www.ithome.com/1/022/470.htm",
-        "summary": "<p data-vmark=\"de7d\">IT之家 11 月 4 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.34 正式版更新。</p><p style=\"text-align: cente",
+        "title": "国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售",
+        "url": "https://www.ithome.com/1/022/551.htm",
+        "summary": "<p data-vmark=\"4636\">IT之家 11 月 5 日消息，据国铁集团官方，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，<strong>11 月 25 日 0 时起始发开行的普速旅客列车、11 月 24 日 18",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
-        "url": "https://www.ithome.com/1/022/469.htm",
-        "summary": "<p data-vmark=\"873a\">IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞<a href=\"https://www.ithome.com/0/8",
+        "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
+        "url": "https://www.ithome.com/1/022/550.htm",
+        "summary": "<p data-vmark=\"68b1\">IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称谷歌携手演员亨利 · 卡维尔（Henry Cavill）合作，<strong>官",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
-        "url": "https://www.ithome.com/1/022/468.htm",
-        "summary": "<p data-vmark=\"3a25\">北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早",
+        "title": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本",
+        "url": "https://www.ithome.com/1/022/548.htm",
+        "summary": "<p data-vmark=\"ee59\">IT之家 11 月 5 日消息，洛斐 (Lofree) 现已面向海外市场推出小顺青春版 2 (Flow Lite 2) 机械键盘。这一产品采用极简风格设计，<strong>基于凯华定制 Echo 矮",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
-        "url": "https://www.ithome.com/1/022/461.htm",
-        "summary": "<p data-vmark=\"d9ce\">IT之家 11 月 4 日消息，法国公共血液服务机构法国血液中心 (EFS) 当地时间本月 3 日发布声明确认，<strong>其三个场地的冷库监控与控制系统由于供应商的关系成为本月 2 日黑客“升",
+        "title": "五菱星光 L 五座版汽车通过工信部申报",
+        "url": "https://www.ithome.com/1/022/547.htm",
+        "summary": "<p data-vmark=\"e924\">IT之家 11 月 5 日消息，工信部 11 月 3 日晚发布第 413 批《道路机动车辆生产企业及产品公告》变更扩展产品公示，五菱星光 L 汽车的五座版进行了申报。</p><p style=\"te",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
-        "url": "https://www.ithome.com/1/022/459.htm",
-        "summary": "<p data-vmark=\"a14e\">IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个开发者预览版，为国行用户带来了「Apple 智能与 Siri」。</p><p data-vmark=",
+        "title": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合",
+        "url": "https://www.ithome.com/1/022/545.htm",
+        "summary": "<p data-vmark=\"4ea6\">IT之家 11 月 5 日消息，比亚迪今日官宣与 vivo 达成战略合作，实现 AI 智能体跨端融合，共建智慧出行新生态。</p><p data-vmark=\"f272\" style=\"text-a",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "发改委：“十五五” 时期",
+        "summary": "发改委：“十五五” 时期，我国将新建约 1.5 万公里铁路；时速 400 公里高铁将稳步推进商业化运营",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "5 部门：到 2030 年我国单位 GDP 能耗",
+        "summary": "5 部门：到 2030 年我国单位 GDP 能耗、用水量、建设用地使用面积比 2025 年分别降低 10% 左右、10%、15%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "商务部：前 9 个月我国服务进出口同比增长 8.",
+        "summary": "商务部：前 9 个月我国服务进出口同比增长 8.5%，其中出口增长 14.8%，进口增长 4.8%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "官方正式确认：四川已消除血吸虫病",
+        "summary": "官方正式确认：四川已消除血吸虫病，四川曾是我国血吸虫病重流行省之一",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "硫磺熏笋乱象曝光后",
+        "summary": "硫磺熏笋乱象曝光后，多地发通告：严禁工业硫磺用于任何食用农产品",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "广东拟规定：手机、电话手表不得入校",
+        "summary": "广东拟规定：手机、电话手表不得入校，义务教育阶段不得张榜公布考试成绩",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "市场监管总局发布汽车召回通告：超 80 万辆汽车",
+        "summary": "市场监管总局发布汽车召回通告：超 80 万辆汽车将被召回，涉及奥迪、丰田、大众等多个品牌",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "央行：下调股票回购增持再贷款利率 0.25 个百",
+        "summary": "央行：下调股票回购增持再贷款利率 0.25 个百分点至 1%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "报告显示：红果用户数量超越豆包",
+        "summary": "报告显示：红果用户数量超越豆包，移动互联网用户加速流向短剧和 AI",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "第 140 届广交会闭幕：共 35.2 万名境外",
+        "summary": "第 140 届广交会闭幕：共 35.2 万名境外采购商到会，比上届增长 12.2%，创历史新高",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+        "url": "https://sspai.com/post/118498",
+        "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
         "url": "https://sspai.com/post/117713",
@@ -119,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-        "url": "https://sspai.com/post/118317",
-        "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=&#34;https://sspai.com/post/118317&#34; target=&#34;_blank&#34;",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,70 +238,70 @@
   },
   "hot_topics": [
     {
-      "title": "不断开创黄河保护治理工作新局面",
+      "title": "全面从严治党 全面从严治军",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%E5%B7%A5%E4%BD%9C%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A+%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%86%9B&sa=fyb_news"
     },
     {
-      "title": "“如果这钱能提出来 我警察不当了”",
+      "title": "马兴瑞被提起公诉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A6%82%E6%9E%9C%E8%BF%99%E9%92%B1%E8%83%BD%E6%8F%90%E5%87%BA%E6%9D%A5+%E6%88%91%E8%AD%A6%E5%AF%9F%E4%B8%8D%E5%BD%93%E4%BA%86%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89&sa=fyb_news"
     },
     {
-      "title": "央视曝光新型兼职骗局",
+      "title": "“偷拍黑产”调查：约14万女性被偷拍",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news"
     },
     {
-      "title": "中国智能经济新形态加速崛起",
+      "title": "透过丰收景象看到“三个一”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BD%A2%E6%80%81%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%80%8F%E8%BF%87%E4%B8%B0%E6%94%B6%E6%99%AF%E8%B1%A1%E7%9C%8B%E5%88%B0%E2%80%9C%E4%B8%89%E4%B8%AA%E4%B8%80%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "“社恐”到这种程度 可能是生病了",
+      "title": "“结婚录像迎来了它真正的观众”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%A4%BE%E6%81%90%E2%80%9D%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6+%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%9F%E7%97%85%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%BB%93%E5%A9%9A%E5%BD%95%E5%83%8F%E8%BF%8E%E6%9D%A5%E4%BA%86%E5%AE%83%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%A7%82%E4%BC%97%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "红果超越豆包",
+      "title": "《嫁金钗》忘删AI水印",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E8%B6%85%E8%B6%8A%E8%B1%86%E5%8C%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0&sa=fyb_news"
     },
     {
-      "title": "特斯拉、SpaceX股价大跌",
+      "title": "女子花1200万买商铺 开门营业时傻眼",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E3%80%81SpaceX%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news"
     },
     {
-      "title": "陈建平教授逝世享年63岁",
+      "title": "高市早苗面见日本天皇姿势被批丢人",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B9%B3%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B463%E5%B2%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E5%A7%BF%E5%8A%BF%E8%A2%AB%E6%89%B9%E4%B8%A2%E4%BA%BA&sa=fyb_news"
     },
     {
-      "title": "“我的富商男友竟是电诈嫌犯”",
+      "title": "曝勇士拒绝给波尔津吉斯支付薪水",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%91%E7%9A%84%E5%AF%8C%E5%95%86%E7%94%B7%E5%8F%8B%E7%AB%9F%E6%98%AF%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9B%9D%E5%8B%87%E5%A3%AB%E6%8B%92%E7%BB%9D%E7%BB%99%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E6%94%AF%E4%BB%98%E8%96%AA%E6%B0%B4&sa=fyb_news"
     },
     {
-      "title": "杨议演出时骂观众 当地文旅仍在核查",
+      "title": "男子花光积蓄买7斤黄金亏了114万",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%A8%E8%AE%AE%E6%BC%94%E5%87%BA%E6%97%B6%E9%AA%82%E8%A7%82%E4%BC%97+%E5%BD%93%E5%9C%B0%E6%96%87%E6%97%85%E4%BB%8D%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E4%B9%B07%E6%96%A4%E9%BB%84%E9%87%91%E4%BA%8F%E4%BA%86114%E4%B8%87&sa=fyb_news"
     },
     {
-      "title": "中概股集体走强 百度大涨超4%",
+      "title": "郭士强：全力拿下沙特和黎巴嫩",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A8%E8%B6%854%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%AD%E5%A3%AB%E5%BC%BA%EF%BC%9A%E5%85%A8%E5%8A%9B%E6%8B%BF%E4%B8%8B%E6%B2%99%E7%89%B9%E5%92%8C%E9%BB%8E%E5%B7%B4%E5%AB%A9&sa=fyb_news"
     },
     {
       "title": "气象部门辟谣多地气温-32℃",
@@ -226,43 +310,43 @@
       "url": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9-32%E2%84%83&sa=fyb_news"
     },
     {
-      "title": "新疆军区数千名新兵夜间紧急拉动演练",
+      "title": "福建舰的这一“弹”到底有多猛",
       "platform": "百度热搜/头条",
-      "hot": "21584908",
-      "url": "https://www.toutiao.com/trending/7704168520272855562/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704168520272855562%22%2C%22hot_board_impr_id%22%3A%2220261105042852DB0053B93D5A5727259A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E7%96%86%E5%86%9B%E5%8C%BA%E6%95%B0%E5%8D%83%E5%90%8D%E6%96%B0%E5%85%B5%E5%A4%9C%E9%97%B4%E7%B4%A7%E6%80%A5%E6%8B%89%E5%8A%A8%E6%BC%94%E7%BB%83%22%7D&rank=&style_id=40132&topic_id=7704168520272855562"
+      "hot": "28421734",
+      "url": "https://www.toutiao.com/trending/7703607834747355190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703607834747355190%22%2C%22hot_board_impr_id%22%3A%2220261105105554D0D10452F97A3873DD43%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%9A%84%E8%BF%99%E4%B8%80%E2%80%9C%E5%BC%B9%E2%80%9D%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%8C%9B%22%7D&rank=&style_id=40132&topic_id=7703607834747355190"
     },
     {
-      "title": "高市早苗以怪异姿势面见日本天皇",
+      "title": "历史昭示未来，奋斗成就伟业",
       "platform": "百度热搜/头条",
-      "hot": "19530832",
-      "url": "https://www.toutiao.com/trending/7703198021613731891/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227703198021613731891%22%2C%22hot_board_impr_id%22%3A%2220261105042852DB0053B93D5A5727259A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A5%E6%80%AA%E5%BC%82%E5%A7%BF%E5%8A%BF%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%22%7D&rank=&style_id=40132&topic_id=7703198021613731891"
+      "hot": "25717049",
+      "url": "https://www.toutiao.com/article/7704463532959498787"
     },
     {
-      "title": "新技术、新成果亮相互联网之光博览会",
+      "title": "51岁阿姨参加健美比赛 体脂率12%",
       "platform": "百度热搜/头条",
-      "hot": "17672228",
-      "url": "https://www.toutiao.com/article/7704247999190319670"
+      "hot": "23269748",
+      "url": "https://www.toutiao.com/trending/7704283013869223945/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704283013869223945%22%2C%22hot_board_impr_id%22%3A%2220261105105554D0D10452F97A3873DD43%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2251%E5%B2%81%E9%98%BF%E5%A7%A8%E5%8F%82%E5%8A%A0%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B+%E4%BD%93%E8%84%82%E7%8E%8712%25%22%7D&rank=&style_id=40132&topic_id=7704283013869223945"
     }
   ],
   "suggested_topics": [
     {
-      "title": "不断开创黄河保护治理工作新局面",
+      "title": "全面从严治党 全面从严治军",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“如果这钱能提出来 我警察不当了”",
+      "title": "马兴瑞被提起公诉",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "央视曝光新型兼职骗局",
+      "title": "“偷拍黑产”调查：约14万女性被偷拍",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国智能经济新形态加速崛起",
+      "title": "透过丰收景象看到“三个一”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "“社恐”到这种程度 可能是生病了",
+      "title": "“结婚录像迎来了它真正的观众”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
