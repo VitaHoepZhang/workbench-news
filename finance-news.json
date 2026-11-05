@@ -1,26 +1,59 @@
 {
-  "updated_at": "2026-11-05T10:55:56+08:00",
+  "updated_at": "2026-11-05T20:53:13+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3684.4,
-      "change": -1.77,
-      "pct": -0.05
+      "value": 3689.91,
+      "change": 3.74,
+      "pct": 0.1
     },
     {
       "name": "深证成指",
-      "value": 11509.15,
-      "change": 173.46,
-      "pct": 1.53
+      "value": 11471.09,
+      "change": 135.4,
+      "pct": 1.19
     },
     {
       "name": "创业板指",
-      "value": 2583.19,
-      "change": 38.46,
-      "pct": 1.51
+      "value": 2566.8,
+      "change": 22.07,
+      "pct": 0.87
     }
   ],
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "光伏辅材",
+      "change": 9.94
+    },
+    {
+      "name": "光伏加工设备",
+      "change": 9.58
+    },
+    {
+      "name": "视频媒体",
+      "change": 9.27
+    },
+    {
+      "name": "光伏电池组件",
+      "change": 8.83
+    },
+    {
+      "name": "光伏设备",
+      "change": 8.45
+    },
+    {
+      "name": "涂料",
+      "change": 8.01
+    },
+    {
+      "name": "白银",
+      "change": 7.27
+    },
+    {
+      "name": "氨纶",
+      "change": 5.99
+    }
+  ],
   "macro": [],
   "policy": [],
   "watch": []
