@@ -1,38 +1,57 @@
 {
-  "updated_at": "2026-11-06T04:44:52+08:00",
-  "indices": [],
-  "sectors": [
+  "updated_at": "2026-11-06T10:56:04+08:00",
+  "indices": [
     {
-      "name": "光伏辅材",
-      "change": 9.94
+      "name": "上证指数",
+      "value": 3652.51,
+      "change": -37.4,
+      "pct": -1.01
     },
     {
-      "name": "光伏加工设备",
-      "change": 9.58
+      "name": "深证成指",
+      "value": 11239.14,
+      "change": -231.95,
+      "pct": -2.02
+    },
+    {
+      "name": "创业板指",
+      "value": 2487.19,
+      "change": -79.61,
+      "pct": -3.1
+    }
+  ],
+  "sectors": [
+    {
+      "name": "种子",
+      "change": 5.53
     },
     {
       "name": "视频媒体",
-      "change": 9.27
+      "change": 4.06
     },
     {
-      "name": "光伏电池组件",
-      "change": 8.83
+      "name": "卫浴电器",
+      "change": 3.63
     },
     {
-      "name": "光伏设备",
-      "change": 8.45
+      "name": "种植业",
+      "change": 3.48
     },
     {
-      "name": "涂料",
-      "change": 8.01
+      "name": "其他种植业",
+      "change": 2.5
     },
     {
-      "name": "白银",
-      "change": 7.27
+      "name": "纺织鞋类制造",
+      "change": 2.18
     },
     {
-      "name": "氨纶",
-      "change": 5.99
+      "name": "电信运营商",
+      "change": 1.93
+    },
+    {
+      "name": "粘胶",
+      "change": 1.75
     }
   ],
   "macro": [],
