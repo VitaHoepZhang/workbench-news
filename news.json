@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-07T04:00:06+08:00",
+  "updated_at": "2026-11-07T10:25:50+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 习近平同加蓬总统恩圭马会谈",
-      "summary": "「习近平同加蓬总统恩圭马会谈」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "数据显示：北京、上海、广州、重庆、深圳、成都 6",
+      "summary": "数据显示：北京、上海、广州、重庆、深圳、成都 6 座城市住户存款超 3 万亿元",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 一双“电动鞋”售价7999元",
-      "summary": "「一双“电动鞋”售价7999元」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "税收征管法修订草案公开征求意见：对税款滞纳金设置",
+      "summary": "税收征管法修订草案公开征求意见：对税款滞纳金设置了两倍封顶限制，取消复议前清税的规定",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 125台公交车退役电池卖了300万元",
-      "summary": "「125台公交车退役电池卖了300万元」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "机票退改签 “猫腻” 多",
+      "summary": "机票退改签 “猫腻” 多，京津冀三地消协组织敦促 10 家航司、5 家平台限期整改",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 进博会如何连接世界",
-      "summary": "「进博会如何连接世界」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "我国流感活动波动上升",
+      "summary": "我国流感活动波动上升，一周内报告 106 起流感样病例暴发疫情，其中 23 起为混合型",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "今日立冬：倏忽秋又尽，今朝恰立冬",
-        "url": "https://www.ithome.com/1/023/601.htm",
-        "summary": "<p data-vmark=\"4866\">IT之家 11 月 7 日消息，立冬是农历二十四节气之一，也是中国传统节日之一；时间点在公历每年 11 月 7-8 日之间。</p><p data-vmark=\"7a2f\">①今日立冬，冬天来了。水",
+        "title": "神舟二十四号载人飞行任务标识发布，首次中外航天员联合飞行",
+        "url": "https://www.ithome.com/1/023/647.htm",
+        "summary": "<p data-vmark=\"78eb\">IT之家 11 月 7 日消息，据央视新闻报道，今天，神舟二十四号载人飞行任务标识正式发布。</p><p data-vmark=\"bfa4\">据介绍，标识以地球为视觉背景，<strong>主体显示神",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为 MatePad Edge 获鸿蒙 7.0.0.111SP16 升级：预置融合开发引擎，支持电脑模式运行 Linux 环境",
-        "url": "https://www.ithome.com/1/023/600.htm",
-        "summary": "<p data-vmark=\"4b54\">IT之家 11 月 6 日消息，华为官方账号“智慧办公产品经理”今日宣布，MatePad Edge 二合一平板电脑已开启鸿蒙 <strong>HarmonyOS 7.0.0.111SP16</str",
+        "title": "踏浪出征！中国第 43 次南极考察起航，“雪龙”号等三船共同保障",
+        "url": "https://www.ithome.com/1/023/646.htm",
+        "summary": "<p data-vmark=\"10d3\">IT之家 11 月 7 日消息，新华网今天（11 月 7 日）报道，<strong>由自然资源部组织的中国第 43 次南极考察队出征，开启新一轮南极科学考察。</strong>起航仪式当天上午在海南",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "不法分子冒名发送虚假短信谎称车辆涉气囊召回，上汽通用官方发布声明提醒车主提高警惕",
-        "url": "https://www.ithome.com/1/023/599.htm",
-        "summary": "<p data-vmark=\"0f79\">IT之家 11 月 6 日消息，上汽通用汽车官方今晚发布声明，称近日有不法分子冒用“上汽通用”名义，向凯迪拉克、别克、雪佛兰品牌车主发送虚假短信，<strong>谎称车辆涉及气囊召回</strong",
+        "title": "中国“天宫”空间站将迎首位外籍航天员，巴基斯坦载荷专家确认参加神舟二十四号任务并乘神二十三飞船返回",
+        "url": "https://www.ithome.com/1/023/645.htm",
+        "summary": "<p data-vmark=\"9890\">IT之家 11 月 7 日消息，中国载人航天工程办公室今日宣布，神舟二十四号载人飞行任务将有 1 名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。</p><p ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "R 星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然发现事件",
-        "url": "https://www.ithome.com/1/023/598.htm",
-        "summary": "<p data-vmark=\"524c\">IT之家 11 月 6 日消息，据游戏媒体 GameRant 今天报道，《GTA6》里最有趣的事件，可能永远不会以地图图标形式出现。玩家驾车穿过街道时，可能突然遇上街头赛车；沿着人行道散步时，警察可",
+        "title": "华为风驰散热支架开售：首创压电风冷散热，299 元",
+        "url": "https://www.ithome.com/1/023/644.htm",
+        "summary": "<p data-vmark=\"539c\">IT之家 11 月 7 日消息，华为风驰散热支架今日 10:08 正式开售，售价 299 元，首创压电风冷散热。</p><p data-vmark=\"a6d1\" style=\"text-align:",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "OpenAI CEO 奥尔特曼警示：未来人类可能无法从 AI 手中夺回控制权",
-        "url": "https://www.ithome.com/1/023/596.htm",
-        "summary": "<p data-vmark=\"5abb\">IT之家 11 月 6 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（IT之家注：Sam Altman）最近出席 Raj Shamani 播客时表示，人工智能可能通过两种方式走向失控：一是人类",
+        "title": "定价 1748 元：索尼官宣因生产问题延迟发售 PULSE Elevate 音箱",
+        "url": "https://www.ithome.com/1/023/643.htm",
+        "summary": "<p data-vmark=\"56bb\">IT之家 11 月 7 日消息，索尼 PlayStation 官方博客于 11 月 6 日更新状态，<strong>表示因生产问题，将推迟发售 PULSE Elevate 音箱。该产品原定于 11 ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
-        "url": "https://www.ithome.com/1/023/584.htm",
-        "summary": "<p data-vmark=\"084d\">IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp，<strong>SK 集团会长崔泰源担任董事会主席</strong>。<",
+        "title": "卫冕冠军 T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，11 月 9 日半决赛对阵 BLG",
+        "url": "https://www.ithome.com/1/023/642.htm",
+        "summary": "<p data-vmark=\"36ff\">IT之家 11 月 7 日消息，《英雄联盟》2026 全球总决赛淘汰赛 1/4 决赛落幕，最终 lCK 三号种子 T1 以 3:1 的成绩成功战胜 LEC 三号种子 KC 拿到最后一张 S16 四强",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,86 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "数据显示：北京、上海、广州、重庆、深圳、成都 6",
+        "summary": "数据显示：北京、上海、广州、重庆、深圳、成都 6 座城市住户存款超 3 万亿元",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "税收征管法修订草案公开征求意见：对税款滞纳金设置",
+        "summary": "税收征管法修订草案公开征求意见：对税款滞纳金设置了两倍封顶限制，取消复议前清税的规定",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "机票退改签 “猫腻” 多",
+        "summary": "机票退改签 “猫腻” 多，京津冀三地消协组织敦促 10 家航司、5 家平台限期整改",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国流感活动波动上升",
+        "summary": "我国流感活动波动上升，一周内报告 106 起流感样病例暴发疫情，其中 23 起为混合型",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "男子 5 年入职 25 家公司骗薪 13 万：入",
+        "summary": "男子 5 年入职 25 家公司骗薪 13 万：入职后只拿底薪，50 元雇人扮客户，多线到岗打卡却无一单业务",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "太原一小学招 “跟岗教师”",
+        "summary": "太原一小学招 “跟岗教师”，无薪资不包食宿、备用上岗；校方回应：考虑不够周全，该招募目前已停止",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "125 台公交车退役电池卖了 300 万元 ",
+        "summary": "125 台公交车退役电池卖了 300 万元 ，溢价率超 119%，其中含锂、镍、钴等战略金属",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "工信部新规明确：推动 App 开发者声明是否同意",
+        "summary": "工信部新规明确：推动 App 开发者声明是否同意智能体调用",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国国内发明专利有效量已经超过 580 万件",
+        "summary": "我国国内发明专利有效量已经超过 580 万件，每万人口高价值发明专利拥有量达到 17.2 件",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "中国空间站制备出已知最冷物质：铷原子云降至 9.",
+        "summary": "中国空间站制备出已知最冷物质：铷原子云降至 9.7 皮开尔文，逼近绝对零度，刷新低温纪录",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
       {
         "title": "本周看什么 | 最近值得一看的 9 部作品",
         "url": "https://sspai.com/post/118623",
@@ -133,125 +217,125 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「智慧教室会侵犯学生隐私系误读」涉及哪些法律点？",
+        "title": "「收1.98万误转账去派出所归还却遭起诉」涉及哪些法律点？",
         "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
         "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB&sa=fyb_news"
+        "url": "https://m.baidu.com/s?word=%E6%94%B61.98%E4%B8%87%E8%AF%AF%E8%BD%AC%E8%B4%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E5%BD%92%E8%BF%98%E5%8D%B4%E9%81%AD%E8%B5%B7%E8%AF%89&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "习近平同加蓬总统恩圭马会谈",
+      "title": "见证全过程人民民主的庄严一票",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8A%A0%E8%93%AC%E6%80%BB%E7%BB%9F%E6%81%A9%E5%9C%AD%E9%A9%AC%E4%BC%9A%E8%B0%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%A7%81%E8%AF%81%E5%85%A8%E8%BF%87%E7%A8%8B%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E7%9A%84%E5%BA%84%E4%B8%A5%E4%B8%80%E7%A5%A8&sa=fyb_news"
     },
     {
-      "title": "一双“电动鞋”售价7999元",
+      "title": "收1.98万误转账去派出所归还却遭起诉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%94%B61.98%E4%B8%87%E8%AF%AF%E8%BD%AC%E8%B4%A6%E5%8E%BB%E6%B4%BE%E5%87%BA%E6%89%80%E5%BD%92%E8%BF%98%E5%8D%B4%E9%81%AD%E8%B5%B7%E8%AF%89&sa=fyb_news"
     },
     {
-      "title": "125台公交车退役电池卖了300万元",
+      "title": "金价、银价都跌了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=125%E5%8F%B0%E5%85%AC%E4%BA%A4%E8%BD%A6%E9%80%80%E5%BD%B9%E7%94%B5%E6%B1%A0%E5%8D%96%E4%BA%86300%E4%B8%87%E5%85%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%87%91%E4%BB%B7%E3%80%81%E9%93%B6%E4%BB%B7%E9%83%BD%E8%B7%8C%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "进博会如何连接世界",
+      "title": "首套首条首台 本周多项硬核成果上新",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A6%82%E4%BD%95%E8%BF%9E%E6%8E%A5%E4%B8%96%E7%95%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%A6%96%E5%A5%97%E9%A6%96%E6%9D%A1%E9%A6%96%E5%8F%B0+%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A1%B9%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E4%B8%8A%E6%96%B0&sa=fyb_news"
     },
     {
-      "title": "6城住户存款超3万亿",
+      "title": "立冬时节 这5个部位注意防寒",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=6%E5%9F%8E%E4%BD%8F%E6%88%B7%E5%AD%98%E6%AC%BE%E8%B6%853%E4%B8%87%E4%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E6%97%B6%E8%8A%82+%E8%BF%995%E4%B8%AA%E9%83%A8%E4%BD%8D%E6%B3%A8%E6%84%8F%E9%98%B2%E5%AF%92&sa=fyb_news"
     },
     {
-      "title": "17岁职校生手搓充电宝 校长现场拍板",
+      "title": "中国第三个4万亿城市要来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=17%E5%B2%81%E8%81%8C%E6%A0%A1%E7%94%9F%E6%89%8B%E6%90%93%E5%85%85%E7%94%B5%E5%AE%9D+%E6%A0%A1%E9%95%BF%E7%8E%B0%E5%9C%BA%E6%8B%8D%E6%9D%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E4%B8%AA4%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "女子带娃仅点6元豆芽连吃7碗米饭",
+      "title": "夫妻入职药企不足一个月1死1瘫痪",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E4%BB%85%E7%82%B96%E5%85%83%E8%B1%86%E8%8A%BD%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C%E8%8D%AF%E4%BC%81%E4%B8%8D%E8%B6%B3%E4%B8%80%E4%B8%AA%E6%9C%881%E6%AD%BB1%E7%98%AB%E7%97%AA&sa=fyb_news"
     },
     {
-      "title": "圆通总裁潘水苗心疼儿子Tim工作辛苦",
+      "title": "“盛家最争气俩孩子相聚了”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim%E5%B7%A5%E4%BD%9C%E8%BE%9B%E8%8B%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9B%9B%E5%AE%B6%E6%9C%80%E4%BA%89%E6%B0%94%E4%BF%A9%E5%AD%A9%E5%AD%90%E7%9B%B8%E8%81%9A%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "美国股市为何暴跌",
+      "title": "T1淘汰KC 半决赛将战BLG",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=T1%E6%B7%98%E6%B1%B0KC+%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98BLG&sa=fyb_news"
     },
     {
-      "title": "陈都灵发言 大气",
+      "title": "100万一棵的罗汉松从新楼盘里消失了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E9%83%BD%E7%81%B5%E5%8F%91%E8%A8%80+%E5%A4%A7%E6%B0%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=100%E4%B8%87%E4%B8%80%E6%A3%B5%E7%9A%84%E7%BD%97%E6%B1%89%E6%9D%BE%E4%BB%8E%E6%96%B0%E6%A5%BC%E7%9B%98%E9%87%8C%E6%B6%88%E5%A4%B1%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "谷爱凌谈不要过度美化吃苦",
+      "title": "“我画地为牢啊厉娜”为什么这么痛",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%88%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%90%83%E8%8B%A6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E5%95%8A%E5%8E%89%E5%A8%9C%E2%80%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E7%97%9B&sa=fyb_news"
     },
     {
-      "title": "智慧教室会侵犯学生隐私系误读",
+      "title": "当剧本量身定做 你的经验还够用吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%BC%9A%E4%BE%B5%E7%8A%AF%E5%AD%A6%E7%94%9F%E9%9A%90%E7%A7%81%E7%B3%BB%E8%AF%AF%E8%AF%BB&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BD%93%E5%89%A7%E6%9C%AC%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%81%9A+%E4%BD%A0%E7%9A%84%E7%BB%8F%E9%AA%8C%E8%BF%98%E5%A4%9F%E7%94%A8%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "上海原市长龚正等12名正部履新职",
+      "title": "立冬有哪些老传统",
       "platform": "百度热搜/头条",
-      "hot": "12002226",
-      "url": "https://www.toutiao.com/trending/7704959725117210662/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704959725117210662%22%2C%22hot_board_impr_id%22%3A%22202611070400038FD67E07726A58CE065E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A%E6%B5%B7%E5%8E%9F%E5%B8%82%E9%95%BF%E9%BE%9A%E6%AD%A3%E7%AD%8912%E5%90%8D%E6%AD%A3%E9%83%A8%E5%B1%A5%E6%96%B0%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7704959725117210662"
+      "hot": "15206153",
+      "url": "https://www.toutiao.com/trending/7704886668104483379/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704886668104483379%22%2C%22hot_board_impr_id%22%3A%2220261107102547C75A756A4765C5F86FEF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%AB%8B%E5%86%AC%E6%9C%89%E5%93%AA%E4%BA%9B%E8%80%81%E4%BC%A0%E7%BB%9F%22%7D&rank=&style_id=40132&topic_id=7704886668104483379"
     },
     {
-      "title": "一组数据感受中国经济强劲脉动",
+      "title": "台湾寺庙地下搜出近800公斤金银",
       "platform": "百度热搜/头条",
-      "hot": "10860063",
-      "url": "https://www.toutiao.com/article/7704952446535090738"
+      "hot": "13759096",
+      "url": "https://www.toutiao.com/trending/7705035448019730495/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705035448019730495%22%2C%22hot_board_impr_id%22%3A%2220261107102547C75A756A4765C5F86FEF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6%22%7D&rank=&style_id=40132&topic_id=7705035448019730495"
     },
     {
-      "title": "存款利率拐点来了？有储户存500万",
+      "title": "互联网发展和治理的中国方案",
       "platform": "百度热搜/头条",
-      "hot": "9826591",
-      "url": "https://www.toutiao.com/trending/7704890136399511606/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704890136399511606%22%2C%22hot_board_impr_id%22%3A%22202611070400038FD67E07726A58CE065E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E6%8B%90%E7%82%B9%E6%9D%A5%E4%BA%86%EF%BC%9F%E6%9C%89%E5%82%A8%E6%88%B7%E5%AD%98500%E4%B8%87%22%7D&rank=&style_id=40132&topic_id=7704890136399511606"
+      "hot": "12449745",
+      "url": "https://www.toutiao.com/article/7704909583222866442"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平同加蓬总统恩圭马会谈",
+      "title": "见证全过程人民民主的庄严一票",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "一双“电动鞋”售价7999元",
+      "title": "收1.98万误转账去派出所归还却遭起诉",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "125台公交车退役电池卖了300万元",
+      "title": "金价、银价都跌了",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "进博会如何连接世界",
+      "title": "首套首条首台 本周多项硬核成果上新",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "6城住户存款超3万亿",
+      "title": "立冬时节 这5个部位注意防寒",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
