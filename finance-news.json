@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-09T02:25:03+08:00",
+  "updated_at": "2026-11-09T10:09:49+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3649.18,
-      "change": -40.73,
-      "pct": -1.1
+      "value": 3675.09,
+      "change": 25.91,
+      "pct": 0.71
     },
     {
       "name": "深证成指",
-      "value": 11175.78,
-      "change": -295.31,
-      "pct": -2.57
+      "value": 11279.17,
+      "change": 103.39,
+      "pct": 0.93
     },
     {
       "name": "创业板指",
-      "value": 2465.23,
-      "change": -101.57,
-      "pct": -3.96
+      "value": 2500.51,
+      "change": 35.28,
+      "pct": 1.43
     }
   ],
   "sectors": [
     {
-      "name": "视频媒体",
-      "change": 6.25
+      "name": "其他数字媒体",
+      "change": 8.37
     },
     {
-      "name": "种子",
-      "change": 4.64
+      "name": "院线",
+      "change": 5.91
+    },
+    {
+      "name": "文字媒体",
+      "change": 5.42
+    },
+    {
+      "name": "航天装备Ⅲ",
+      "change": 5.35
+    },
+    {
+      "name": "航天装备Ⅱ",
+      "change": 5.35
     },
     {
       "name": "卫浴电器",
-      "change": 3.46
+      "change": 4.64
     },
     {
-      "name": "其他养殖",
-      "change": 3.18
+      "name": "机器人",
+      "change": 4.56
     },
     {
-      "name": "电信运营商",
-      "change": 2.87
-    },
-    {
-      "name": "种植业",
-      "change": 2.72
-    },
-    {
-      "name": "纺织鞋类制造",
-      "change": 2.69
-    },
-    {
-      "name": "医美服务",
-      "change": 2.64
+      "name": "通信线缆及配套",
+      "change": 4.43
     }
   ],
   "macro": [],

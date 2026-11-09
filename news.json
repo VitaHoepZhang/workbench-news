@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-09T02:25:03+08:00",
+  "updated_at": "2026-11-09T10:09:49+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 感悟五年规划的中国智慧",
-      "summary": "「感悟五年规划的中国智慧」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "大风寒潮双预警齐发：湖北、湖南、江西、福建、广西",
+      "summary": "大风寒潮双预警齐发：湖北、湖南、江西、福建、广西、广东等地降温 10 至 12℃，局地降温 14℃以上",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 油价一周暴跌超16%",
-      "summary": "「油价一周暴跌超16%」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "两场 “星星相吸” 天象将于 11 月 10 日",
+      "summary": "两场 “星星相吸” 天象将于 11 月 10 日、16 日亮相：金星合角宿一、火星合木星，肉眼可见",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 大连英博夺得中超冠军",
-      "summary": "「大连英博夺得中超冠军」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "全国各地错峰放秋假",
+      "summary": "全国各地错峰放秋假，11 月多条跨省航线、热门目的地机酒价格走高",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 红色新闻人的浴血征程",
-      "summary": "「红色新闻人的浴血征程」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "全国多地中小学调整上学时间：推迟到校、取消早读",
+      "summary": "全国多地中小学调整上学时间：推迟到校、取消早读，有小学将一二年级推迟至早上 9:00 到校",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
-        "url": "https://www.ithome.com/1/024/014.htm",
-        "summary": "<p data-vmark=\"5c43\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦",
+        "title": "东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售",
+        "url": "https://www.ithome.com/1/024/058.htm",
+        "summary": "<p data-vmark=\"af6c\">IT之家 11 月 9 日消息，东风日产今日宣布 The New NX7 全球首秀 11 月 13 日见，将正式开启预售。</p><p data-vmark=\"ca72\" style=\"text-a",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
-        "url": "https://www.ithome.com/1/024/013.htm",
-        "summary": "<p data-vmark=\"bff0\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 A",
+        "title": "荣耀 700 系列手机背屏爆料：2 亿像素自拍、小游戏、灵动通知、行业独家支持 XXXX",
+        "url": "https://www.ithome.com/1/024/057.htm",
+        "summary": "<p data-vmark=\"3370\">IT之家 11 月 9 日消息，微博博主 @数码闲聊站 今日发文称，荣耀 700 系列手机已在部分门店展出。该机的 ID 设计迎来大换代，配备 6.57 英寸中屏 +0.98mm 窄边框 + 原生背",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品",
-        "url": "https://www.ithome.com/1/024/012.htm",
-        "summary": "<p data-vmark=\"7464\">IT之家 11 月 8 日消息，美国 CNBC 分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发<strong>一款前所未有的机器人产品</strong>。</p><p dat",
+        "title": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0",
+        "url": "https://www.ithome.com/1/024/055.htm",
+        "summary": "<p data-vmark=\"ac21\">IT之家 11 月 9 日消息，领克汽车今日发布 2027 款领克 08 EM-P 答网友问，其中提到，2026 款领克 08 EM-P 将于年内进行 LYNK FlymeAuto 2.5.0 版本",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
-        "url": "https://www.ithome.com/1/024/011.htm",
-        "summary": "<p data-vmark=\"5210\">IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色。今天（8 日）凌晨，特斯拉 CEO 马斯克在 X 上透露，公司还将进一步改进 Cyber",
+        "title": "美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO",
+        "url": "https://www.ithome.com/1/024/053.htm",
+        "summary": "<p data-vmark=\"b178\">IT之家 11 月 9 日消息，当地时间 11 月 8 日，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中，<a target=\"_blank\" href=\"https://www.i",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务",
-        "url": "https://www.ithome.com/1/024/010.htm",
-        "summary": "<p data-vmark=\"21c3\">IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破",
+        "title": "LG 车辆通信控制模块率先获 TÜV 莱茵 ASIL D 认证，已被捷尼赛思 GV90 采用",
+        "url": "https://www.ithome.com/1/024/054.htm",
+        "summary": "<p data-vmark=\"e922\">IT之家 11 月 9 日消息，LG 电子当地时间今日宣布，其为<a target=\"_blank\" href=\"https://www.ithome.com/0/992/143.htm\">捷尼赛思",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元",
-        "url": "https://www.ithome.com/1/024/009.htm",
-        "summary": "<p data-vmark=\"5373\">IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。</p>",
+        "title": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺",
+        "url": "https://www.ithome.com/1/024/052.htm",
+        "summary": "<p data-vmark=\"0240\">IT之家 11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文，回应英伟达 CEO 黄仁勋的出轨风波。</p><p data-vmark=\"9b89\">据悉，红杉资本合伙人肖恩",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "大风寒潮双预警齐发：湖北、湖南、江西、福建、广西",
+        "summary": "大风寒潮双预警齐发：湖北、湖南、江西、福建、广西、广东等地降温 10 至 12℃，局地降温 14℃以上",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "两场 “星星相吸” 天象将于 11 月 10 日",
+        "summary": "两场 “星星相吸” 天象将于 11 月 10 日、16 日亮相：金星合角宿一、火星合木星，肉眼可见",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "全国各地错峰放秋假",
+        "summary": "全国各地错峰放秋假，11 月多条跨省航线、热门目的地机酒价格走高",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "全国多地中小学调整上学时间：推迟到校、取消早读",
+        "summary": "全国多地中小学调整上学时间：推迟到校、取消早读，有小学将一二年级推迟至早上 9:00 到校",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "大连英博夺得 2026 赛季中超联赛冠军",
+        "summary": "大连英博夺得 2026 赛季中超联赛冠军，大连文体旅集团：感谢山东老铁，旗下景区对山东老铁免费 100 天",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "鹤岗一 67 平米房屋被一元起拍",
+        "summary": "鹤岗一 67 平米房屋被一元起拍，封顶价 11 元，超两万人报名参与，因委托方申请，第二场拍卖已经中止",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "县城消费崛起：至少 13 个县域人均消费支出超 ",
+        "summary": "县城消费崛起：至少 13 个县域人均消费支出超 5.3 万元，比肩北上广深",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国新一代光刻机模型亮相：关键零部件国产化率突破",
+        "summary": "我国新一代光刻机模型亮相：关键零部件国产化率突破 90%，已实现规模化量产",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "苏州大三男生宿舍 “手搓” AI 漫剧",
+        "summary": "苏州大三男生宿舍 “手搓” AI 漫剧，不到一年营收超 300 万元，其中一部爆款更是收获 15 亿次播放",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "国际油价回调",
+        "summary": "国际油价回调，布伦特油价本周累计跌超 16%，创 2020 年以来最大跌幅",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "派早报：特斯拉将停产 Cybertruck",
+        "url": "https://sspai.com/post/118805",
+        "summary": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "苹果产品那些不够颠覆，却值得被学习的细节",
         "url": "https://sspai.com/post/118114",
@@ -119,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-        "url": "https://sspai.com/post/118587",
-        "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=&#34;https://sspai.com/post/118587&#34; target=&#34;_bla",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -160,34 +244,40 @@
       "url": "https://m.baidu.com/s?word=%E6%84%9F%E6%82%9F%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7&sa=fyb_news"
     },
     {
-      "title": "油价一周暴跌超16%",
+      "title": "BLG战胜T1 挺进S16决赛",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=BLG%E6%88%98%E8%83%9CT1+%E6%8C%BA%E8%BF%9BS16%E5%86%B3%E8%B5%9B&sa=fyb_news"
     },
     {
-      "title": "大连英博夺得中超冠军",
+      "title": "重大突破！中国新一代光刻机模型亮相",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A%E5%A4%BA%E5%BE%97%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%89%E5%88%BB%E6%9C%BA%E6%A8%A1%E5%9E%8B%E4%BA%AE%E7%9B%B8&sa=fyb_news"
     },
     {
-      "title": "红色新闻人的浴血征程",
+      "title": "“把想法带到中国就能实现”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%BA%A2%E8%89%B2%E6%96%B0%E9%97%BB%E4%BA%BA%E7%9A%84%E6%B5%B4%E8%A1%80%E5%BE%81%E7%A8%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%8A%8A%E6%83%B3%E6%B3%95%E5%B8%A6%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%B0%B1%E8%83%BD%E5%AE%9E%E7%8E%B0%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "疑秦始皇儿子头骨面容复原图公布",
+      "title": "最强厄尔尼诺来了 这个冬天怎么过",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%E5%85%AC%E5%B8%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%9D%A5%E4%BA%86+%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%80%8E%E4%B9%88%E8%BF%87&sa=fyb_news"
     },
     {
-      "title": "蓉城主帅：我非常失望非常绝望",
+      "title": "央视曝光后 江西赣州连夜成立调查组",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%93%89%E5%9F%8E%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B%E9%9D%9E%E5%B8%B8%E7%BB%9D%E6%9C%9B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%A5%BF%E8%B5%A3%E5%B7%9E%E8%BF%9E%E5%A4%9C%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news"
+    },
+    {
+      "title": "老人数量第一次比孩子多",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%95%B0%E9%87%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E5%AD%A9%E5%AD%90%E5%A4%9A&sa=fyb_news"
     },
     {
       "title": "20公斤陨石砸进石家庄农田",
@@ -196,28 +286,22 @@
       "url": "https://m.baidu.com/s?word=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news"
     },
     {
-      "title": "72岁赵雅芝原相机状态",
+      "title": "疑秦始皇儿子头骨面容复原图公布",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%8A%B6%E6%80%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%E5%85%AC%E5%B8%83&sa=fyb_news"
     },
     {
-      "title": "陈妍希 还是当年那个沈佳宜",
+      "title": "演员王雷跪地庆祝大连英博夺冠",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%99%88%E5%A6%8D%E5%B8%8C+%E8%BF%98%E6%98%AF%E5%BD%93%E5%B9%B4%E9%82%A3%E4%B8%AA%E6%B2%88%E4%BD%B3%E5%AE%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E7%8E%8B%E9%9B%B7%E8%B7%AA%E5%9C%B0%E5%BA%86%E7%A5%9D%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "title": "武磊梅开二度",
+      "title": "Xun艺高人胆大",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%AD%A6%E7%A3%8A%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&sa=fyb_news"
-    },
-    {
-      "title": "李若彤怼脸拍毫无年龄感",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%80%BC%E8%84%B8%E6%8B%8D%E6%AF%AB%E6%97%A0%E5%B9%B4%E9%BE%84%E6%84%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=Xun%E8%89%BA%E9%AB%98%E4%BA%BA%E8%83%86%E5%A4%A7&sa=fyb_news"
     },
     {
       "title": "南京辟谣“31岁医生被刺身亡”",
@@ -226,22 +310,22 @@
       "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E2%80%9C31%E5%B2%81%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "疑似秦始皇儿子头骨面容复原图公布",
+      "title": "BLG 3-1战胜T1晋级决赛",
       "platform": "百度热搜/头条",
-      "hot": "18174262",
-      "url": "https://www.toutiao.com/trending/7704831444702711331/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704831444702711331%22%2C%22hot_board_impr_id%22%3A%2220261109022501E5B8A9E071BA27DA6D7D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7704831444702711331"
+      "hot": "21748762",
+      "url": "https://www.toutiao.com/trending/7705980444109442579/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705980444109442579%22%2C%22hot_board_impr_id%22%3A%2220261109100946752AA2BB4B8134760C27%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22BLG+3-1%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%22%7D&rank=&style_id=40132&topic_id=7705980444109442579"
     },
     {
-      "title": "大连主帅被泼啤酒滑倒光速变脸",
+      "title": "胖东来：哪怕赔付到破产也要坚守原则",
       "platform": "百度热搜/头条",
-      "hot": "16444752",
-      "url": "https://www.toutiao.com/trending/7705772355208908326/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705772355208908326%22%2C%22hot_board_impr_id%22%3A%2220261109022501E5B8A9E071BA27DA6D7D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E8%BF%9E%E4%B8%BB%E5%B8%85%E8%A2%AB%E6%B3%BC%E5%95%A4%E9%85%92%E6%BB%91%E5%80%92%E5%85%89%E9%80%9F%E5%8F%98%E8%84%B8%22%7D&rank=&style_id=40132&topic_id=7705772355208908326"
+      "hot": "19679093",
+      "url": "https://www.toutiao.com/trending/7705818197575942683/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705818197575942683%22%2C%22hot_board_impr_id%22%3A%2220261109100946752AA2BB4B8134760C27%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%83%96%E4%B8%9C%E6%9D%A5%EF%BC%9A%E5%93%AA%E6%80%95%E8%B5%94%E4%BB%98%E5%88%B0%E7%A0%B4%E4%BA%A7%E4%B9%9F%E8%A6%81%E5%9D%9A%E5%AE%88%E5%8E%9F%E5%88%99%22%7D&rank=&style_id=40132&topic_id=7705818197575942683"
     },
     {
-      "title": "从进博会看先进制造业汇聚创新动能",
+      "title": "进博会上的“运动经济”观察",
       "platform": "百度热搜/头条",
-      "hot": "14879827",
-      "url": "https://www.toutiao.com/article/7705585459073745459"
+      "hot": "17806380",
+      "url": "https://www.toutiao.com/article/7705771724243059240"
     }
   ],
   "suggested_topics": [
@@ -250,19 +334,19 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "油价一周暴跌超16%",
+      "title": "BLG战胜T1 挺进S16决赛",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "大连英博夺得中超冠军",
+      "title": "重大突破！中国新一代光刻机模型亮相",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "红色新闻人的浴血征程",
+      "title": "“把想法带到中国就能实现”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "疑秦始皇儿子头骨面容复原图公布",
+      "title": "最强厄尔尼诺来了 这个冬天怎么过",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
