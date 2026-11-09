@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-09T10:09:49+08:00",
+  "updated_at": "2026-11-09T21:31:45+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3675.09,
-      "change": 25.91,
-      "pct": 0.71
+      "value": 3660.79,
+      "change": 11.61,
+      "pct": 0.32
     },
     {
       "name": "深证成指",
-      "value": 11279.17,
-      "change": 103.39,
-      "pct": 0.93
+      "value": 11145.49,
+      "change": -30.29,
+      "pct": -0.27
     },
     {
       "name": "创业板指",
-      "value": 2500.51,
-      "change": 35.28,
-      "pct": 1.43
+      "value": 2458.56,
+      "change": -6.67,
+      "pct": -0.27
     }
   ],
   "sectors": [
     {
-      "name": "其他数字媒体",
-      "change": 8.37
+      "name": "焦炭Ⅲ",
+      "change": 5.39
     },
     {
-      "name": "院线",
-      "change": 5.91
-    },
-    {
-      "name": "文字媒体",
-      "change": 5.42
-    },
-    {
-      "name": "航天装备Ⅲ",
-      "change": 5.35
-    },
-    {
-      "name": "航天装备Ⅱ",
-      "change": 5.35
+      "name": "焦炭Ⅱ",
+      "change": 5.39
     },
     {
       "name": "卫浴电器",
-      "change": 4.64
+      "change": 5.1
     },
     {
-      "name": "机器人",
-      "change": 4.56
+      "name": "汽车综合服务",
+      "change": 4.15
     },
     {
-      "name": "通信线缆及配套",
-      "change": 4.43
+      "name": "煤炭",
+      "change": 3.47
+    },
+    {
+      "name": "燃气Ⅲ",
+      "change": 3.25
+    },
+    {
+      "name": "燃气Ⅱ",
+      "change": 3.25
+    },
+    {
+      "name": "动力煤",
+      "change": 3.22
     }
   ],
   "macro": [],
