@@ -1,38 +1,57 @@
 {
-  "updated_at": "2026-11-12T11:27:46+08:00",
-  "indices": [],
+  "updated_at": "2026-11-12T21:29:17+08:00",
+  "indices": [
+    {
+      "name": "上证指数",
+      "value": 3655.83,
+      "change": -24.81,
+      "pct": -0.67
+    },
+    {
+      "name": "深证成指",
+      "value": 11197.98,
+      "change": -191.76,
+      "pct": -1.68
+    },
+    {
+      "name": "创业板指",
+      "value": 2509.43,
+      "change": -62.64,
+      "pct": -2.44
+    }
+  ],
   "sectors": [
     {
       "name": "水产养殖",
-      "change": 4.36
+      "change": 4.15
+    },
+    {
+      "name": "地面兵装Ⅲ",
+      "change": 3.19
+    },
+    {
+      "name": "地面兵装Ⅱ",
+      "change": 3.19
     },
     {
       "name": "卫浴电器",
-      "change": 3.52
-    },
-    {
-      "name": "渔业",
-      "change": 3.16
-    },
-    {
-      "name": "稀土",
-      "change": 3.1
-    },
-    {
-      "name": "半导体设备",
-      "change": 2.71
-    },
-    {
-      "name": "金融信息服务",
-      "change": 2.44
+      "change": 2.8
     },
     {
       "name": "百货",
-      "change": 2.42
+      "change": 2.7
     },
     {
-      "name": "集成电路制造",
-      "change": 2.31
+      "name": "渔业",
+      "change": 2.54
+    },
+    {
+      "name": "水产饲料",
+      "change": 1.51
+    },
+    {
+      "name": "林业Ⅲ",
+      "change": 1.45
     }
   ],
   "macro": [],
