@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-13T10:59:49+08:00",
+  "updated_at": "2026-11-13T20:45:56+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3660.49,
-      "change": 4.66,
-      "pct": 0.13
+      "value": 3634.35,
+      "change": -21.48,
+      "pct": -0.59
     },
     {
       "name": "深证成指",
-      "value": 11126.45,
-      "change": -71.53,
-      "pct": -0.64
+      "value": 10968.79,
+      "change": -229.19,
+      "pct": -2.05
     },
     {
       "name": "创业板指",
-      "value": 2471.31,
-      "change": -38.12,
-      "pct": -1.52
+      "value": 2426.08,
+      "change": -83.35,
+      "pct": -3.32
     }
   ],
   "sectors": [
     {
       "name": "院线",
-      "change": 11.5
+      "change": 12.5
     },
     {
       "name": "影视院线",
-      "change": 4.44
+      "change": 4.39
     },
     {
       "name": "生猪养殖",
-      "change": 3.81
+      "change": 3.46
     },
     {
       "name": "畜禽饲料",
-      "change": 3.5
+      "change": 2.96
     },
     {
-      "name": "水产养殖",
-      "change": 2.7
-    },
-    {
-      "name": "电视广播Ⅲ",
-      "change": 2.65
-    },
-    {
-      "name": "电视广播Ⅱ",
-      "change": 2.65
+      "name": "其他数字媒体",
+      "change": 2.13
     },
     {
       "name": "影视动漫制作",
-      "change": 2.42
+      "change": 2.08
+    },
+    {
+      "name": "电视广播Ⅲ",
+      "change": 1.9
+    },
+    {
+      "name": "电视广播Ⅱ",
+      "change": 1.9
     }
   ],
   "macro": [],
