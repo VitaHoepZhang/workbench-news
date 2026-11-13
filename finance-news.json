@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-13T04:58:59+08:00",
+  "updated_at": "2026-11-13T10:59:49+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3655.83,
-      "change": -24.81,
-      "pct": -0.67
+      "value": 3660.49,
+      "change": 4.66,
+      "pct": 0.13
     },
     {
       "name": "深证成指",
-      "value": 11197.98,
-      "change": -191.76,
-      "pct": -1.68
+      "value": 11126.45,
+      "change": -71.53,
+      "pct": -0.64
     },
     {
       "name": "创业板指",
-      "value": 2509.43,
-      "change": -62.64,
-      "pct": -2.44
+      "value": 2471.31,
+      "change": -38.12,
+      "pct": -1.52
     }
   ],
   "sectors": [
     {
+      "name": "院线",
+      "change": 11.5
+    },
+    {
+      "name": "影视院线",
+      "change": 4.44
+    },
+    {
+      "name": "生猪养殖",
+      "change": 3.81
+    },
+    {
+      "name": "畜禽饲料",
+      "change": 3.5
+    },
+    {
       "name": "水产养殖",
-      "change": 4.15
-    },
-    {
-      "name": "地面兵装Ⅲ",
-      "change": 3.19
-    },
-    {
-      "name": "地面兵装Ⅱ",
-      "change": 3.19
-    },
-    {
-      "name": "卫浴电器",
-      "change": 2.8
-    },
-    {
-      "name": "百货",
       "change": 2.7
     },
     {
-      "name": "渔业",
-      "change": 2.54
+      "name": "电视广播Ⅲ",
+      "change": 2.65
     },
     {
-      "name": "水产饲料",
-      "change": 1.51
+      "name": "电视广播Ⅱ",
+      "change": 2.65
     },
     {
-      "name": "林业Ⅲ",
-      "change": 1.45
+      "name": "影视动漫制作",
+      "change": 2.42
     }
   ],
   "macro": [],
