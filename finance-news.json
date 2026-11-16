@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-16T03:25:28+08:00",
+  "updated_at": "2026-11-16T10:26:19+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3634.35,
-      "change": -21.48,
-      "pct": -0.59
+      "value": 3611.09,
+      "change": -23.26,
+      "pct": -0.64
     },
     {
       "name": "深证成指",
-      "value": 10968.79,
-      "change": -229.19,
-      "pct": -2.05
+      "value": 10800.51,
+      "change": -168.28,
+      "pct": -1.53
     },
     {
       "name": "创业板指",
-      "value": 2426.08,
-      "change": -83.35,
-      "pct": -3.32
+      "value": 2365.89,
+      "change": -60.19,
+      "pct": -2.48
     }
   ],
   "sectors": [
     {
+      "name": "教育运营及其他",
+      "change": 5.73
+    },
+    {
       "name": "院线",
-      "change": 12.5
+      "change": 4.36
     },
     {
-      "name": "影视院线",
-      "change": 4.39
+      "name": "汽车经销商",
+      "change": 4.26
     },
     {
-      "name": "生猪养殖",
+      "name": "视频媒体",
       "change": 3.46
     },
     {
-      "name": "畜禽饲料",
-      "change": 2.96
+      "name": "厨房小家电",
+      "change": 3.41
     },
     {
-      "name": "其他数字媒体",
-      "change": 2.13
+      "name": "冰洗",
+      "change": 2.78
     },
     {
-      "name": "影视动漫制作",
-      "change": 2.08
+      "name": "蓄电池及其他电池",
+      "change": 2.57
     },
     {
-      "name": "电视广播Ⅲ",
-      "change": 1.9
-    },
-    {
-      "name": "电视广播Ⅱ",
-      "change": 1.9
+      "name": "汽车服务",
+      "change": 2.54
     }
   ],
   "macro": [],
