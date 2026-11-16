@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-16T10:26:19+08:00",
+  "updated_at": "2026-11-16T21:17:32+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3611.09,
-      "change": -23.26,
-      "pct": -0.64
+      "value": 3602.57,
+      "change": -31.78,
+      "pct": -0.87
     },
     {
       "name": "深证成指",
-      "value": 10800.51,
-      "change": -168.28,
-      "pct": -1.53
+      "value": 10690.78,
+      "change": -278.01,
+      "pct": -2.53
     },
     {
       "name": "创业板指",
-      "value": 2365.89,
-      "change": -60.19,
-      "pct": -2.48
+      "value": 2320.02,
+      "change": -106.06,
+      "pct": -4.37
     }
   ],
   "sectors": [
     {
       "name": "教育运营及其他",
-      "change": 5.73
+      "change": 6.83
     },
     {
-      "name": "院线",
-      "change": 4.36
+      "name": "氨纶",
+      "change": 5.15
     },
     {
       "name": "汽车经销商",
-      "change": 4.26
-    },
-    {
-      "name": "视频媒体",
-      "change": 3.46
+      "change": 4.45
     },
     {
       "name": "厨房小家电",
-      "change": 3.41
+      "change": 4.36
+    },
+    {
+      "name": "院线",
+      "change": 3.38
     },
     {
       "name": "冰洗",
-      "change": 2.78
+      "change": 3.36
     },
     {
-      "name": "蓄电池及其他电池",
-      "change": 2.57
+      "name": "电信运营商",
+      "change": 3.28
     },
     {
-      "name": "汽车服务",
-      "change": 2.54
+      "name": "白色家电",
+      "change": 3.02
     }
   ],
   "macro": [],
