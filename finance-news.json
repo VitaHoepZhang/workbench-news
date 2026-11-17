@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-17T12:50:11+08:00",
+  "updated_at": "2026-11-17T22:02:02+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3602.07,
-      "change": -0.5,
-      "pct": -0.01
+      "value": 3584.58,
+      "change": -17.99,
+      "pct": -0.5
     },
     {
       "name": "深证成指",
-      "value": 10764.88,
-      "change": 74.1,
-      "pct": 0.69
+      "value": 10638.52,
+      "change": -52.26,
+      "pct": -0.49
     },
     {
       "name": "创业板指",
-      "value": 2336.8,
-      "change": 16.78,
-      "pct": 0.72
+      "value": 2292.2,
+      "change": -27.82,
+      "pct": -1.2
     }
   ],
   "sectors": [
     {
       "name": "集成电路制造",
-      "change": 7.41
-    },
-    {
-      "name": "半导体设备",
-      "change": 5.94
-    },
-    {
-      "name": "半导体材料",
-      "change": 5.89
-    },
-    {
-      "name": "集成电路封测",
-      "change": 5.32
-    },
-    {
-      "name": "电子化学品Ⅲ",
-      "change": 5.18
-    },
-    {
-      "name": "电子化学品Ⅱ",
-      "change": 5.18
+      "change": 5.82
     },
     {
       "name": "橡胶助剂",
-      "change": 5.04
+      "change": 3.32
     },
     {
-      "name": "光学元件",
-      "change": 4.7
+      "name": "厨房小家电",
+      "change": 3.2
+    },
+    {
+      "name": "半导体材料",
+      "change": 2.67
+    },
+    {
+      "name": "钼",
+      "change": 2.38
+    },
+    {
+      "name": "品牌消费电子",
+      "change": 2.35
+    },
+    {
+      "name": "纯碱",
+      "change": 2.28
+    },
+    {
+      "name": "半导体设备",
+      "change": 2.19
     }
   ],
   "macro": [],

@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-11-17T12:50:11+08:00",
+  "updated_at": "2026-11-17T22:02:02+08:00",
   "science": [
     {
-      "title": "中央气象台：未来 10 天受频繁的冷空气影响",
-      "summary": "中央气象台：未来 10 天受频繁的冷空气影响，北方大部地区较常年同期气温偏低",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 习近平会见智利总统卡斯特",
+      "summary": "「习近平会见智利总统卡斯特」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "狮子座流星雨将于 11 月 18 日迎来极大期",
-      "summary": "狮子座流星雨将于 11 月 18 日迎来极大期，最佳观测窗口为 18 日凌晨至天亮前",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 广东人放弃背心人字拖 白衬衫整起",
+      "summary": "「广东人放弃背心人字拖 白衬衫整起」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "11 月旅游 “淡季” 变 “旺季”：冰雪亲子研",
-      "summary": "11 月旅游 “淡季” 变 “旺季”：冰雪亲子研学游需求预计增长 30% 以上",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · U19国足2比1韩国夺冠",
+      "summary": "「U19国足2比1韩国夺冠」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "统计局：10 月规模以上工业增加值同比增长 4.",
-      "summary": "统计局：10 月规模以上工业增加值同比增长 4.8%，社会消费品零售总额同比增长 0.4%",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · APEC工商领导人峰会聚焦哪些议题",
+      "summary": "「APEC工商领导人峰会聚焦哪些议题」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "奇瑞 2027 款瑞虎 5x 高能版上市，限时优惠价 6.99 万元起",
-        "url": "https://www.ithome.com/1/028/221.htm",
-        "summary": "<p data-vmark=\"8e83\">IT之家 11 月 17 日消息，2027 款瑞虎 5x 高能版今日正式上市，共推出舒适型、豪华型 2 款车型，官方指导价分别为 7.79 万元和 8.39 万元，限时优惠价分别为 6.99 万元和",
+        "title": "Alphabet 旗下药物 AI 企业 Isomorphic Labs 完成 50 亿美元 C 轮融资",
+        "url": "https://www.ithome.com/1/028/533.htm",
+        "summary": "<p data-vmark=\"061b\">IT之家 11 月 17 日消息，由诺贝尔奖得主 Demis Hassabis（戴米斯 · 哈萨比斯）领导的 Alphabet 旗下 AI 赋能药物研发企业 Isomorphic Labs 当地时间",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练",
-        "url": "https://www.ithome.com/1/028/220.htm",
-        "summary": "<p data-vmark=\"f018\">IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。</p><p data-vmark=\"5089\">宇",
+        "title": "黄仁勋卸任英伟达 CEO 后 X 账号企业徽章等被移除，马斯克回应免费恢复蓝标",
+        "url": "https://www.ithome.com/1/028/532.htm",
+        "summary": "<p data-vmark=\"9a9c\">IT之家 11 月 17 日消息，英伟达前 CEO 黄仁勋的官方 X 账号 @JensenHuang 今天（11 月 17 日）更新，在个人账号中移除了原本标注的“CEO”职务头衔和企业徽标等，账号",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称京东方 / 华星 / 天马 / 维信诺等屏厂积极送测阔直板，安卓阵营 2027 年将迎集中爆发",
-        "url": "https://www.ithome.com/1/028/219.htm",
-        "summary": "<p data-vmark=\"a992\">IT之家 11 月 17 日消息，微博博主 @数码闲聊站 今日发文称，京东方 / 华星 / 天马 / 维信诺等面板厂商都在积极送测阔直板，<strong>安卓阵营的阔直板会在明年迎来集中爆发</st",
+        "title": "2026 广州车展展车总数将达 1106 台：含 707 台新能源车、115 台首发车型",
+        "url": "https://www.ithome.com/1/028/531.htm",
+        "summary": "<p data-vmark=\"6d72\">IT之家 11 月 17 日消息，根据第二十四届广州国际汽车展览会新闻发布会官方，2026 年 11 月 27 日至 12 月 6 日，第二十四届广州国际汽车展览会（IT之家注：Auto Guang",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "奇瑞捷途 X70M 上市，官方指导价 6.59 万至 8.09 万元",
-        "url": "https://www.ithome.com/1/028/218.htm",
-        "summary": "<p data-vmark=\"95fb\">IT之家 11 月 17 日消息，捷途 X70M 今日正式上市，官方指导价为 6.59 万至 8.09 万元，同时推出包含惊喜礼、金融礼、生态礼和质保礼在内的 4 大购车权益。</p><ul cla",
+        "title": "多家知名网站遭篡改，攻击者窃取加密货币并入侵 iPhone",
+        "url": "https://www.ithome.com/1/028/530.htm",
+        "summary": "<p data-vmark=\"a47a\">IT之家 11 月 17 日消息，据路透社报道，全球访问量最高的一些网站遭到恶意代码攻击，涉及 Zoom、汇丰银行、益博睿（Equifax）、美国有线电视新闻网（CNN）、Salesforce 和宜",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称阿里调整员工回流政策，知情人士否认“史上最严”说法",
-        "url": "https://www.ithome.com/1/028/217.htm",
-        "summary": "<p data-vmark=\"b138\">IT之家 11 月 17 日消息，据新浪科技今日报道，有市场消息称，近日阿里巴巴发布最新通知，员工回流政策有所调整。</p><p data-vmark=\"c6e7\">即日起，<strong>从阿里集",
+        "title": "亚马逊 AWS 将向黑石出售并回租 50 亿美元数据中心资产",
+        "url": "https://www.ithome.com/1/028/529.htm",
+        "summary": "<p data-vmark=\"c3be\">IT之家 11 月 17 日消息，Blackstone（黑石）旗下上市信托 BXDC 当地时间昨日宣布已同 AWS（亚马逊云科技）达成一项协议，<strong>后者将出售并回租总价值 50 亿美元<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "摩托罗拉预告新机：预计为 Edge 70 Neo，搭载高通骁龙 7s Gen 3 芯片",
-        "url": "https://www.ithome.com/1/028/215.htm",
-        "summary": "<p data-vmark=\"4d9a\">IT之家 11 月 17 日消息，摩托罗拉前天在 X 平台预热一款新机，名称暂未公布。结合此前爆料图片来看，我们可以预测这款机型是 Edge 70 Neo。</p><p style=\"text-al",
+        "title": "期权市场预计，英伟达财报发布后市值或出现 3350 亿美元波动",
+        "url": "https://www.ithome.com/1/028/528.htm",
+        "summary": "<p data-vmark=\"6ece\">IT之家 11 月 17 日消息，据路透社报道，英伟达将于北京时间 18 日凌晨公布第三季度财报，期权市场预期，财报发布后公司<strong>市值的波动幅度可能达到 3,350 亿美元<span c",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,20 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "中央气象台：未来 10 天受频繁的冷空气影响",
-        "summary": "中央气象台：未来 10 天受频繁的冷空气影响，北方大部地区较常年同期气温偏低",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+        "url": "https://sspai.com/post/119184",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
-        "title": "狮子座流星雨将于 11 月 18 日迎来极大期",
-        "summary": "狮子座流星雨将于 11 月 18 日迎来极大期，最佳观测窗口为 18 日凌晨至天亮前",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "11 月旅游 “淡季” 变 “旺季”：冰雪亲子研",
-        "summary": "11 月旅游 “淡季” 变 “旺季”：冰雪亲子研学游需求预计增长 30% 以上",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "统计局：10 月规模以上工业增加值同比增长 4.",
-        "summary": "统计局：10 月规模以上工业增加值同比增长 4.8%，社会消费品零售总额同比增长 0.4%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "10 月 70 城房价出炉：一线城市房价接近止跌",
-        "summary": "10 月 70 城房价出炉：一线城市房价接近止跌，二手房交易连续多月跑赢新房",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "医疗服务价格改革 8 年账本：个人卫生支出占比下",
-        "summary": "医疗服务价格改革 8 年账本：个人卫生支出占比下降 1.6 个百分点",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "DeepSeek 因算力不足对 App / 网页",
-        "summary": "DeepSeek 因算力不足对 App / 网页版限额使用：7 天不活跃长对话不再支持，单次输入上限缩至约 4 万字",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国际金价跌破 3900 美元",
-        "summary": "国际金价跌破 3900 美元，国内金饰克价年内回撤超 540 元，50 克金镯高点入手已缩水超 2.7 万元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "深圳成为中国内地首个外贸总值超 5 万亿元城市",
-        "summary": "深圳成为中国内地首个外贸总值超 5 万亿元城市，前 10 月进出口同比增四成",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "中俄美三国元首将在深圳会晤",
-        "summary": "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
+        "url": "https://sspai.com/post/118976",
+        "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
@@ -195,22 +127,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-        "url": "https://sspai.com/post/119012",
-        "summary": "能切换老设备音质的媒体播放器。<a href=&#34;https://sspai.com/post/119012&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：逾十万人次联署要求黄仁勋复职",
-        "url": "https://sspai.com/post/119119",
-        "summary": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -238,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "习近平主席引航亚太开放合作",
+      "title": "习近平会见智利总统卡斯特",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%BC%95%E8%88%AA%E4%BA%9A%E5%A4%AA%E5%BC%80%E6%94%BE%E5%90%88%E4%BD%9C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%8D%A1%E6%96%AF%E7%89%B9&sa=fyb_news"
     },
     {
-      "title": "俄美运输机已率先抵达深圳",
+      "title": "广东人放弃背心人字拖 白衬衫整起",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%94%BE%E5%BC%83%E8%83%8C%E5%BF%83%E4%BA%BA%E5%AD%97%E6%8B%96+%E7%99%BD%E8%A1%AC%E8%A1%AB%E6%95%B4%E8%B5%B7&sa=fyb_news"
     },
     {
-      "title": "APEC来了 华强北生意爆了",
+      "title": "U19国足2比1韩国夺冠",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=APEC%E6%9D%A5%E4%BA%86+%E5%8D%8E%E5%BC%BA%E5%8C%97%E7%94%9F%E6%84%8F%E7%88%86%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0&sa=fyb_news"
     },
     {
-      "title": "APEC“中国年”",
+      "title": "APEC工商领导人峰会聚焦哪些议题",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98&sa=fyb_news"
     },
     {
-      "title": "特朗普将成首位到访深圳的在任美总统",
+      "title": "普京携强大阵容访问深圳",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%88%90%E9%A6%96%E4%BD%8D%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E7%9A%84%E5%9C%A8%E4%BB%BB%E7%BE%8E%E6%80%BB%E7%BB%9F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E6%90%BA%E5%BC%BA%E5%A4%A7%E9%98%B5%E5%AE%B9%E8%AE%BF%E9%97%AE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
     },
     {
-      "title": "高达近800℃！被窝被它暖“没”了",
+      "title": "最差密码榜单公布 123456再登顶",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%B7%AE%E5%AF%86%E7%A0%81%E6%A6%9C%E5%8D%95%E5%85%AC%E5%B8%83+123456%E5%86%8D%E7%99%BB%E9%A1%B6&sa=fyb_news"
     },
     {
-      "title": "360集团副总裁卜思南被带走调查",
+      "title": "深圳上空惊现“鲲鹏展翅”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=360%E9%9B%86%E5%9B%A2%E5%89%AF%E6%80%BB%E8%A3%81%E5%8D%9C%E6%80%9D%E5%8D%97%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%B8%8A%E7%A9%BA%E6%83%8A%E7%8E%B0%E2%80%9C%E9%B2%B2%E9%B9%8F%E5%B1%95%E7%BF%85%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "打工者的拖鞋梳子都成了展品",
+      "title": "花花一个眼神藏了800个心眼子",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%89%93%E5%B7%A5%E8%80%85%E7%9A%84%E6%8B%96%E9%9E%8B%E6%A2%B3%E5%AD%90%E9%83%BD%E6%88%90%E4%BA%86%E5%B1%95%E5%93%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%8A%B1%E8%8A%B1%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E8%97%8F%E4%BA%86800%E4%B8%AA%E5%BF%83%E7%9C%BC%E5%AD%90&sa=fyb_news"
     },
     {
-      "title": "“公安局的 怎么会要钱呢！”",
+      "title": "APEC灯光秀",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%AC%E5%AE%89%E5%B1%80%E7%9A%84+%E6%80%8E%E4%B9%88%E4%BC%9A%E8%A6%81%E9%92%B1%E5%91%A2%EF%BC%81%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=APEC%E7%81%AF%E5%85%89%E7%A7%80&sa=fyb_news"
     },
     {
-      "title": "用24小时 看深圳的APEC日常故事",
+      "title": "三次东道主 这次有什么不一样",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%94%A824%E5%B0%8F%E6%97%B6+%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84APEC%E6%97%A5%E5%B8%B8%E6%95%85%E4%BA%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%89%E6%AC%A1%E4%B8%9C%E9%81%93%E4%B8%BB+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news"
     },
     {
-      "title": "APEC现场王兴兴埋头看议程",
+      "title": "冬天不穿秋裤会变成老寒腿吗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=APEC%E7%8E%B0%E5%9C%BA%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9F%8B%E5%A4%B4%E7%9C%8B%E8%AE%AE%E7%A8%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%A9%BF%E7%A7%8B%E8%A3%A4%E4%BC%9A%E5%8F%98%E6%88%90%E8%80%81%E5%AF%92%E8%85%BF%E5%90%97&sa=fyb_news"
     },
     {
-      "title": "别让谣言骗了你",
+      "title": "小米：相关内容纯属虚构",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%AE%A9%E8%B0%A3%E8%A8%80%E9%AA%97%E4%BA%86%E4%BD%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E7%BA%AF%E5%B1%9E%E8%99%9A%E6%9E%84&sa=fyb_news"
     },
     {
-      "title": "中国女保镖贴身保护墨西哥总统",
+      "title": "深圳市民给APEC晚宴疯狂安利猪脚饭",
       "platform": "百度热搜/头条",
-      "hot": "24951754",
-      "url": "https://www.toutiao.com/trending/7708634390238249003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708634390238249003%22%2C%22hot_board_impr_id%22%3A%22202611171250087F1089896F3F079FAE32%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%22%7D&rank=&style_id=40132&topic_id=7708634390238249003"
+      "hot": "25773079",
+      "url": "https://www.toutiao.com/trending/7708571384561074203/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708571384561074203%22%2C%22hot_board_impr_id%22%3A%22202611172201556B8DAF5A2D052488F355%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E7%BB%99APEC%E6%99%9A%E5%AE%B4%E7%96%AF%E7%8B%82%E5%AE%89%E5%88%A9%E7%8C%AA%E8%84%9A%E9%A5%AD%22%7D&rank=&style_id=40132&topic_id=7708571384561074203"
     },
     {
-      "title": "APEC“中国年”经贸成果丰硕",
+      "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
       "platform": "百度热搜/头条",
-      "hot": "22577281",
-      "url": "https://www.toutiao.com/article/7708732717420085794"
+      "hot": "23320446",
+      "url": "https://www.toutiao.com/trending/7709069472107348022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709069472107348022%22%2C%22hot_board_impr_id%22%3A%22202611172201556B8DAF5A2D052488F355%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E7%8E%B0%E5%9C%BA%E5%93%8D%E8%B5%B7%E7%86%9F%E6%82%89%E7%9A%84%E6%AD%8C%22%7D&rank=&style_id=40132&topic_id=7709069472107348022"
     },
     {
-      "title": "越共中央总书记苏林抵达深圳",
+      "title": "APEC工商领导人峰会今天聚焦哪些议题",
       "platform": "百度热搜/头条",
-      "hot": "20428768",
-      "url": "https://www.toutiao.com/trending/7708923411052888585/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708923411052888585%22%2C%22hot_board_impr_id%22%3A%22202611171250087F1089896F3F079FAE32%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B6%8A%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%8B%8F%E6%9E%97%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%22%7D&rank=&style_id=40132&topic_id=7708923411052888585"
+      "hot": "21101212",
+      "url": "https://www.toutiao.com/trending/7708221528491658793/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708221528491658793%22%2C%22hot_board_impr_id%22%3A%22202611172201556B8DAF5A2D052488F355%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%8A%E5%A4%A9%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7708221528491658793"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平主席引航亚太开放合作",
+      "title": "习近平会见智利总统卡斯特",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "俄美运输机已率先抵达深圳",
+      "title": "广东人放弃背心人字拖 白衬衫整起",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "APEC来了 华强北生意爆了",
+      "title": "U19国足2比1韩国夺冠",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "APEC“中国年”",
+      "title": "APEC工商领导人峰会聚焦哪些议题",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "特朗普将成首位到访深圳的在任美总统",
+      "title": "普京携强大阵容访问深圳",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
