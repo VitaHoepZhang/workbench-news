@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-18T11:55:28+08:00",
+  "updated_at": "2026-11-18T21:37:02+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3570.21,
-      "change": -14.37,
-      "pct": -0.4
+      "value": 3587.83,
+      "change": 3.25,
+      "pct": 0.09
     },
     {
       "name": "深证成指",
-      "value": 10558.59,
-      "change": -79.93,
-      "pct": -0.75
+      "value": 10659.41,
+      "change": 20.89,
+      "pct": 0.2
     },
     {
       "name": "创业板指",
-      "value": 2278.82,
-      "change": -13.38,
-      "pct": -0.58
+      "value": 2311.62,
+      "change": 19.42,
+      "pct": 0.85
     }
   ],
   "sectors": [
     {
-      "name": "冰洗",
-      "change": 4.46
-    },
-    {
       "name": "通信工程及服务",
-      "change": 4.02
-    },
-    {
-      "name": "白色家电",
-      "change": 3.44
-    },
-    {
-      "name": "厨房小家电",
-      "change": 2.83
-    },
-    {
-      "name": "彩电",
-      "change": 2.73
+      "change": 4.52
     },
     {
       "name": "通信服务",
-      "change": 2.57
+      "change": 3.5
     },
     {
       "name": "印制电路板",
-      "change": 1.91
+      "change": 3.13
     },
     {
-      "name": "焦炭Ⅲ",
-      "change": 1.89
+      "name": "冰洗",
+      "change": 2.81
+    },
+    {
+      "name": "通信应用增值服务",
+      "change": 2.69
+    },
+    {
+      "name": "橡胶助剂",
+      "change": 2.64
+    },
+    {
+      "name": "彩电",
+      "change": 2.48
+    },
+    {
+      "name": "元件",
+      "change": 2.46
     }
   ],
   "macro": [],
