@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-19T11:53:53+08:00",
+  "updated_at": "2026-11-19T22:03:24+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3571.99,
-      "change": -15.84,
-      "pct": -0.44
+      "value": 3577.62,
+      "change": -10.21,
+      "pct": -0.28
     },
     {
       "name": "深证成指",
-      "value": 10604.52,
-      "change": -54.89,
-      "pct": -0.51
+      "value": 10583.2,
+      "change": -76.21,
+      "pct": -0.71
     },
     {
       "name": "创业板指",
-      "value": 2297.02,
-      "change": -14.6,
-      "pct": -0.63
+      "value": 2293.34,
+      "change": -18.28,
+      "pct": -0.79
     }
   ],
   "sectors": [
     {
       "name": "集成电路制造",
-      "change": 6.94
+      "change": 5
     },
     {
       "name": "集成电路封测",
-      "change": 4.36
-    },
-    {
-      "name": "稀土",
-      "change": 2.1
+      "change": 2.65
     },
     {
       "name": "氨纶",
-      "change": 1.71
+      "change": 2.05
     },
     {
-      "name": "半导体设备",
-      "change": 1.5
+      "name": "稀土",
+      "change": 1.69
     },
     {
       "name": "航空运输",
-      "change": 1.42
-    },
-    {
-      "name": "彩电",
-      "change": 1.38
-    },
-    {
-      "name": "分立器件",
       "change": 1.32
+    },
+    {
+      "name": "半导体设备",
+      "change": 1.07
+    },
+    {
+      "name": "光伏主材",
+      "change": 0.67
+    },
+    {
+      "name": "空调",
+      "change": 0.63
     }
   ],
   "macro": [],

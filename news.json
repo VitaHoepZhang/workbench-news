@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-11-19T11:53:53+08:00",
+  "updated_at": "2026-11-19T22:03:24+08:00",
   "science": [
     {
-      "title": "国家防灾减灾救灾委：预测今冬北方强降温降雪、南方",
-      "summary": "国家防灾减灾救灾委：预测今冬北方强降温降雪、南方阶段性低温雨雪冰冻灾害风险突出",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 中俄美元首和平宣言",
+      "summary": "「中俄美元首和平宣言」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "我国境内最晚直立人化石被发现",
-      "summary": "我国境内最晚直立人化石被发现，改写直立人生态适应认知",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 中俄美元首会晤",
+      "summary": "「中俄美元首会晤」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "广西就 “广西人游广西” 行动征求意见：鼓励探索",
-      "summary": "广西就 “广西人游广西” 行动征求意见：鼓励探索每月一周 2.5 天弹性休假，落实中小学春秋假",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 习主席主持 普京、特朗普先后发言",
+      "summary": "「习主席主持 普京、特朗普先后发言」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "湖南慈利县给 80 周岁至 89 周岁老人",
-      "summary": "湖南慈利县给 80 周岁至 89 周岁老人，每人每月发 5 元高龄补贴；当地：县里自筹资金，多了财政难以承担",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 30年 第一次叫“倡议”",
+      "summary": "「30年 第一次叫“倡议”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "阿维塔 06T Max 先锋版 11 月 25 日上市：保留 896 线激光雷达与 ADS 5，取消主驾零重力座椅",
-        "url": "https://www.ithome.com/1/029/213.htm",
-        "summary": "<p data-vmark=\"bc6d\">IT之家 11 月 19 日消息，阿维塔 06T 宣布将增推一款 Max 先锋版车型，上市时间定在 11 月 25 日。</p><p data-vmark=\"b4f0\" style=\"text-al",
+        "title": "威刚推出 XPG INVADER X MINI Chroma 系列机箱：四色可选，预装 5 把 ARGB 风扇",
+        "url": "https://www.ithome.com/1/029/689.htm",
+        "summary": "<p data-vmark=\"7f66\">IT之家 11 月 19 日消息，威刚现已推出 INVADER X MINI Chroma 系列机箱，新品主打多彩配色，采用海景房设计。</p><p style=\"text-align: cente",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "红魔 12 Pro+ 氘锋透明冰蓝配色 11 月 24 日开售，16GB+512GB 版 7499 元",
-        "url": "https://www.ithome.com/1/029/210.htm",
-        "summary": "<p data-vmark=\"998a\">IT之家 11 月 19 日消息，红魔游戏手机今日宣布，红魔 12Pro+「氘锋透明冰蓝」现已开启预约，11 月 24 日 10:00 开售。</p><p data-vmark=\"37f7\">京东平",
+        "title": "AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元",
+        "url": "https://www.ithome.com/1/029/688.htm",
+        "summary": "<p data-vmark=\"9370\">IT之家 11 月 19 日消息，借助免费开放的 AI 模型，从扫描版书籍和档案中提取文字的成本已经大幅下降。</p><p style=\"text-align: center;\" data-vmar",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "酷态科 10 Ultra 确认存在低压设备损坏隐患，已 OTA 推送修复固件",
-        "url": "https://www.ithome.com/1/029/209.htm",
-        "summary": "<p data-vmark=\"6d86\">IT之家 11 月 19 日消息，酷态科就 10 Ultra 充电器（型号 AD1204U）被曝出的安全隐患作出回应。</p><p data-vmark=\"e6da\">酷态科方面确认，产品在极低概率",
+        "title": "欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断",
+        "url": "https://www.ithome.com/1/029/687.htm",
+        "summary": "<p data-vmark=\"e097\">IT之家 11 月 19 日消息，据路透社报道，当地时间 19 日，欧盟委员会证实遭受了利用 AI 工具进行的网络攻击。有关此事的调查尚未结束，事态规模暂难判断。</p><p data-vmark=",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "彭博社：英伟达寻找接替黄仁勋新掌门，猎头已接触 Arm CEO 哈斯",
-        "url": "https://www.ithome.com/1/029/207.htm",
-        "summary": "<p data-vmark=\"ca40\">IT之家 11 月 19 日消息，彭博社今天（11 月 19 日）发布博文，<strong>报道称英伟达董事会聘请的猎头公司海德思哲（Heidrick &amp; Struggles）已接触 Arm",
+        "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
+        "url": "https://www.ithome.com/1/029/686.htm",
+        "summary": "<p data-vmark=\"7843\">IT之家 11 月 19 日消息，据《科创板日报》今天报道，快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后，可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称大众将在部分燃油车型中以谷歌地图替换自家 VW-Navi 导航",
-        "url": "https://www.ithome.com/1/029/203.htm",
-        "summary": "<p data-vmark=\"eba6\">IT之家 11 月 19 日消息，据德媒《商报》(handelsblatt) 当地时间昨日报道，Volkswagen（大众汽车）计划于 2027 年 10 月完成 MQB evo 平台燃油车型对谷歌",
+        "title": "政府补贴 1000 元：iPhone 18 Pro Max 京东 10999 → 9745 元随时结束",
+        "url": "https://www.ithome.com/1/029/685.htm",
+        "summary": "<p data-vmark=\"095d\">京东自营 iPhone 18 Pro/ Max 直降 300 元，今日大多数地区可叠加 1000 元政府补贴，实付金额如下：</p><dir><a contenteditable=\"false\" h",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "魏少军教授预测：2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%",
-        "url": "https://www.ithome.com/1/029/202.htm",
-        "summary": "<p data-vmark=\"3833\">IT之家 11 月 19 日消息，据爱集微报道，在 11 月 19 日 ~20 日的 2026 集成电路发展论坛（北京）暨三十二届集成电路设计业展览会上，中国半导体行业协会集成电路设计分会主任魏少军",
+        "title": "27.99 万元起：比亚迪方程豹钛 9 上市，定位大六座方盒子",
+        "url": "https://www.ithome.com/1/029/684.htm",
+        "summary": "<p data-vmark=\"6f66\">IT之家 11 月 19 日消息，比亚迪方程豹钛 9 汽车今日正式上市。新车首发 DMS 超级混动全能平台，主打硬派外观，采用六座布局。全系标配天神之眼 B 辅助驾驶、云辇-A 车身控制，定义全维硬",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,36 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "国家防灾减灾救灾委：预测今冬北方强降温降雪、南方",
-        "summary": "国家防灾减灾救灾委：预测今冬北方强降温降雪、南方阶段性低温雨雪冰冻灾害风险突出",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "给 Apple 的 2026 年打分，请你一起参与",
+        "url": "https://sspai.com/post/119191",
+        "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
-        "title": "我国境内最晚直立人化石被发现",
-        "summary": "我国境内最晚直立人化石被发现，改写直立人生态适应认知",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "新玩意 256｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/119287",
+        "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
-        "title": "广西就 “广西人游广西” 行动征求意见：鼓励探索",
-        "summary": "广西就 “广西人游广西” 行动征求意见：鼓励探索每月一周 2.5 天弹性休假，落实中小学春秋假",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+        "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
+        "summary": "<p>[......]</p><a href=&#34;https://sspai.com/prime/story/system-app-protection-override-macos-27-3&#34; target=&#34;_bl",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
-        "title": "湖南慈利县给 80 周岁至 89 周岁老人",
-        "summary": "湖南慈利县给 80 周岁至 89 周岁老人，每人每月发 5 元高龄补贴；当地：县里自筹资金，多了财政难以承担",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "江南大学将大学英语改为选修",
-        "summary": "江南大学将大学英语改为选修，四六级、雅思托福等可认定学分，学校：符合免修条件才可不上课",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "多所高校要求师生在论文发表前完成备案",
-        "summary": "多所高校要求师生在论文发表前完成备案，否则不纳入科研成果",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "江苏发文规范平台经济发展：依法打击算法霸权、数据",
-        "summary": "江苏发文规范平台经济发展：依法打击算法霸权、数据滥用",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "现货黄金价格失守 3800 美元",
-        "summary": "现货黄金价格失守 3800 美元，创 14 个月新低；国内品牌金饰克价已七连跌，较年内高点跌超 570 元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "报告显示：2025 年中国的专利申请量约 190",
-        "summary": "报告显示：2025 年中国的专利申请量约 190 万件，位居全球第一，大幅领先美国、日本等国",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "海关总署：前 10 个月我国与 APEC 其他经",
-        "summary": "海关总署：前 10 个月我国与 APEC 其他经济体贸易增长 25.4%，占我国进出口总值的 60.4%",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+        "url": "https://sspai.com/post/119039",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
@@ -176,38 +124,6 @@
         "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
         "url": "https://sspai.com/post/118985",
         "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
-        "url": "https://sspai.com/post/118732",
-        "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=&#34;https://sspai.com/post/118732&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
-        "url": "https://sspai.com/post/119193",
-        "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=&#34;https://sspai.com/post/119193&#34; t",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
-        "url": "https://sspai.com/post/118975",
-        "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。<a href=&#34;https://sspai.com/post/118975&#34;",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
-        "url": "https://sspai.com/post/119210",
-        "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。<a href=&#34;https://sspai.com/post/119210&#34; target=&#34;_blank&#34;>查看全文",
         "source": "少数派",
         "category": "科技",
         "heat": "高"
@@ -238,115 +154,115 @@
   },
   "hot_topics": [
     {
-      "title": "与时偕行 共创亚太光明未来",
+      "title": "中俄美元首和平宣言",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%8E%E6%97%B6%E5%81%95%E8%A1%8C+%E5%85%B1%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%85%89%E6%98%8E%E6%9C%AA%E6%9D%A5&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "习近平主持APEC领导人非正式会议",
+      "title": "中俄美元首会晤",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4&sa=fyb_news"
     },
     {
-      "title": "APEC全家福",
+      "title": "习主席主持 普京、特朗普先后发言",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=APEC%E5%85%A8%E5%AE%B6%E7%A6%8F&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%BB%E6%8C%81+%E6%99%AE%E4%BA%AC%E3%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E5%90%8E%E5%8F%91%E8%A8%80&sa=fyb_news"
     },
     {
-      "title": "APEC时间 外媒记者点赞深圳",
+      "title": "30年 第一次叫“倡议”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=APEC%E6%97%B6%E9%97%B4+%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "中俄美元首会晤是真正的历史性事件",
+      "title": "APEC红蓝围巾是两大非遗",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E4%BA%8B%E4%BB%B6&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=APEC%E7%BA%A2%E8%93%9D%E5%9B%B4%E5%B7%BE%E6%98%AF%E4%B8%A4%E5%A4%A7%E9%9D%9E%E9%81%97&sa=fyb_news"
     },
     {
-      "title": "集体合影前外宾在做什么",
+      "title": "比亚迪发布折叠方向盘",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%E5%89%8D%E5%A4%96%E5%AE%BE%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98&sa=fyb_news"
     },
     {
-      "title": "普京笔不离手记重点 特朗普专注聆听",
+      "title": "特朗普离开深圳做标志性挥拳动作",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E7%AC%94%E4%B8%8D%E7%A6%BB%E6%89%8B%E8%AE%B0%E9%87%8D%E7%82%B9+%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%B3%A8%E8%81%86%E5%90%AC&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%A0%87%E5%BF%97%E6%80%A7%E6%8C%A5%E6%8B%B3%E5%8A%A8%E4%BD%9C&sa=fyb_news"
     },
     {
-      "title": "格力电器成被执行人",
+      "title": "应该全面禁止并彻底销毁核武器",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%BA%94%E8%AF%A5%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%B9%B6%E5%BD%BB%E5%BA%95%E9%94%80%E6%AF%81%E6%A0%B8%E6%AD%A6%E5%99%A8&sa=fyb_news"
     },
     {
-      "title": "特朗普谈欢迎仪式：我对此心怀感激",
+      "title": "还有30个国家GDP比深圳高",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E5%BF%83%E6%80%80%E6%84%9F%E6%BF%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BF%98%E6%9C%8930%E4%B8%AA%E5%9B%BD%E5%AE%B6GDP%E6%AF%94%E6%B7%B1%E5%9C%B3%E9%AB%98&sa=fyb_news"
     },
     {
-      "title": "从一枚车厘子读懂亚太合作的甜头",
+      "title": "APEC礼物别出心裁",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%80%E6%9E%9A%E8%BD%A6%E5%8E%98%E5%AD%90%E8%AF%BB%E6%87%82%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E7%9A%84%E7%94%9C%E5%A4%B4&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=APEC%E7%A4%BC%E7%89%A9%E5%88%AB%E5%87%BA%E5%BF%83%E8%A3%81&sa=fyb_news"
     },
     {
-      "title": "特朗普和普京握手并拍了拍肩膀",
+      "title": "特朗普点赞深圳：这座城市近乎完美",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E6%8F%A1%E6%89%8B%E5%B9%B6%E6%8B%8D%E4%BA%86%E6%8B%8D%E8%82%A9%E8%86%80&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3%EF%BC%9A%E8%BF%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E&sa=fyb_news"
     },
     {
-      "title": "摘掉小番茄“甜=长胖”标签",
+      "title": "“监管要求上报基金AI敞口”不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%91%98%E6%8E%89%E5%B0%8F%E7%95%AA%E8%8C%84%E2%80%9C%E7%94%9C%3D%E9%95%BF%E8%83%96%E2%80%9D%E6%A0%87%E7%AD%BE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "特朗普感激中国",
+      "title": "王毅到机场送别特朗普",
       "platform": "百度热搜/头条",
-      "hot": "50646243",
-      "url": "https://www.toutiao.com/trending/7709399404008230463/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709399404008230463%22%2C%22hot_board_impr_id%22%3A%22202611191153495482F2E96C41123682FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E6%BF%80%E4%B8%AD%E5%9B%BD%22%7D&rank=&style_id=40132&topic_id=7709399404008230463"
+      "hot": "26874952",
+      "url": "https://www.toutiao.com/trending/7709633676031643199/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709633676031643199%22%2C%22hot_board_impr_id%22%3A%2220261119220322CE56D307822BACDC1CE6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%AF%85%E5%88%B0%E6%9C%BA%E5%9C%BA%E9%80%81%E5%88%AB%E7%89%B9%E6%9C%97%E6%99%AE%22%7D&rank=&style_id=40132&topic_id=7709633676031643199"
     },
     {
-      "title": "构建亚太共同体的中国贡献",
+      "title": "亚太同心 共话合作新愿景",
       "platform": "百度热搜/头条",
-      "hot": "45826615",
-      "url": "https://www.toutiao.com/article/7709501967411708451"
+      "hot": "24317462",
+      "url": "https://www.toutiao.com/article/7709793782950003251"
     },
     {
-      "title": "二手房价格连涨8个月",
+      "title": "马斯克在空军一号看中美元首互动",
       "platform": "百度热搜/头条",
-      "hot": "41465636",
-      "url": "https://www.toutiao.com/trending/7709711646221946411/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709711646221946411%22%2C%22hot_board_impr_id%22%3A%22202611191153495482F2E96C41123682FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%BF%9E%E6%B6%A88%E4%B8%AA%E6%9C%88%22%7D&rank=&style_id=40132&topic_id=7709711646221946411"
+      "hot": "22003350",
+      "url": "https://www.toutiao.com/trending/7709633676031725119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709633676031725119%22%2C%22hot_board_impr_id%22%3A%2220261119220322CE56D307822BACDC1CE6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7709633676031725119"
     }
   ],
   "suggested_topics": [
     {
-      "title": "与时偕行 共创亚太光明未来",
+      "title": "中俄美元首和平宣言",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "习近平主持APEC领导人非正式会议",
+      "title": "中俄美元首会晤",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "APEC全家福",
+      "title": "习主席主持 普京、特朗普先后发言",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "APEC时间 外媒记者点赞深圳",
+      "title": "30年 第一次叫“倡议”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中俄美元首会晤是真正的历史性事件",
+      "title": "APEC红蓝围巾是两大非遗",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
