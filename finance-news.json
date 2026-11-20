@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-20T05:42:12+08:00",
+  "updated_at": "2026-11-20T11:46:19+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3577.62,
-      "change": -10.21,
-      "pct": -0.28
+      "value": 3521.4,
+      "change": -56.22,
+      "pct": -1.57
     },
     {
       "name": "深证成指",
-      "value": 10583.2,
-      "change": -76.21,
-      "pct": -0.71
+      "value": 10365.76,
+      "change": -217.44,
+      "pct": -2.05
     },
     {
       "name": "创业板指",
-      "value": 2293.34,
-      "change": -18.28,
-      "pct": -0.79
+      "value": 2245.61,
+      "change": -47.73,
+      "pct": -2.08
     }
   ],
   "sectors": [
     {
-      "name": "集成电路制造",
-      "change": 5
+      "name": "其他数字媒体",
+      "change": 15
     },
     {
-      "name": "集成电路封测",
-      "change": 2.65
+      "name": "视频媒体",
+      "change": 7.18
     },
     {
-      "name": "氨纶",
-      "change": 2.05
+      "name": "印制电路板",
+      "change": 3.41
     },
     {
-      "name": "稀土",
-      "change": 1.69
+      "name": "广告媒体",
+      "change": 3.12
     },
     {
-      "name": "航空运输",
-      "change": 1.32
+      "name": "水产养殖",
+      "change": 3.08
     },
     {
-      "name": "半导体设备",
-      "change": 1.07
+      "name": "文字媒体",
+      "change": 2.78
     },
     {
-      "name": "光伏主材",
-      "change": 0.67
+      "name": "生猪养殖",
+      "change": 2.59
     },
     {
-      "name": "空调",
-      "change": 0.63
+      "name": "种子",
+      "change": 2.53
     }
   ],
   "macro": [],
