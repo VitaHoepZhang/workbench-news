@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-23T04:25:12+08:00",
+  "updated_at": "2026-11-23T11:18:19+08:00",
   "indices": [
     {
       "name": "上证指数",
-      "value": 3533.79,
-      "change": -43.83,
-      "pct": -1.23
+      "value": 3495.7,
+      "change": -38.09,
+      "pct": -1.08
     },
     {
       "name": "深证成指",
-      "value": 10256.39,
-      "change": -326.81,
-      "pct": -3.09
+      "value": 10261.91,
+      "change": 5.52,
+      "pct": 0.05
     },
     {
       "name": "创业板指",
-      "value": 2212.13,
-      "change": -81.21,
-      "pct": -3.54
+      "value": 2231.4,
+      "change": 19.27,
+      "pct": 0.87
     }
   ],
   "sectors": [
     {
       "name": "其他数字媒体",
-      "change": 15
+      "change": 11.85
     },
     {
       "name": "视频媒体",
-      "change": 3.19
+      "change": 9.76
     },
     {
-      "name": "国有大型银行Ⅲ",
-      "change": 2.39
+      "name": "院线",
+      "change": 5.31
     },
     {
-      "name": "核力发电",
-      "change": 1.49
+      "name": "文字媒体",
+      "change": 4.28
     },
     {
-      "name": "电信运营商",
-      "change": 1.46
+      "name": "影视院线",
+      "change": 3.65
     },
     {
-      "name": "广告媒体",
-      "change": 1.27
+      "name": "机器人",
+      "change": 3.51
     },
     {
-      "name": "股份制银行Ⅲ",
-      "change": 1.05
+      "name": "印制电路板",
+      "change": 3.31
     },
     {
-      "name": "水产养殖",
-      "change": 0.9
+      "name": "影视动漫制作",
+      "change": 3.14
     }
   ],
   "macro": [],
