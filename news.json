@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-23T23:36:12+08:00",
+  "updated_at": "2026-11-24T09:05:57+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 亚太经合组织深圳会议蕴含深刻启迪",
-      "summary": "「亚太经合组织深圳会议蕴含深刻启迪」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "广州电动自行车新规 12 月 15 日起施行：部",
+      "summary": "广州电动自行车新规 12 月 15 日起施行：部分路段工作日 8 时至 19 时禁行，部分路段全天 24 小时禁行",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 英伟达董事会恢复黄仁勋CEO职务",
-      "summary": "「英伟达董事会恢复黄仁勋CEO职务」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "上海地铁票价时隔 21 年调整",
+      "summary": "上海地铁票价时隔 21 年调整，平均每人次提高 0.9 元，12 月 1 日执行",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 特朗普：让黄仁勋复职正确且恰当",
-      "summary": "「特朗普：让黄仁勋复职正确且恰当」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "我国首个牙膏强制性国家标准即将出台：禁止明示或暗",
+      "summary": "我国首个牙膏强制性国家标准即将出台：禁止明示或暗示医疗作用",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 探秘中国高铁的强大“内核”",
-      "summary": "「探秘中国高铁的强大“内核”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "深圳卫健委提醒：清洁神器魔力擦别乱用",
+      "summary": "深圳卫健委提醒：清洁神器魔力擦别乱用，每磨损 1 克释放 650 万个微塑料",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级",
-        "url": "https://www.ithome.com/1/031/229.htm",
-        "summary": "<p data-vmark=\"33d7\">IT之家 11 月 23 日消息，据用户反馈，微信鸿蒙版 App 今晚开启了 <strong>8.0.24.19</strong> 大版本的邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 ",
+        "title": "消息称苹果 iPhone 18e 背面配 28*35mm 凸起模组：仍是单摄，外观向高端款靠拢",
+        "url": "https://www.ithome.com/1/031/272.htm",
+        "summary": "<p data-vmark=\"a86c\">IT之家 11 月 24 日消息，科技媒体 engadget 昨日（11 月 23 日）发布博文，报道称其已查阅 iPhone 18e 的 CAD 设计图（原文中并未给出），称苹果正在为其考虑全新的",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排",
-        "url": "https://www.ithome.com/1/031/228.htm",
-        "summary": "<p data-vmark=\"e1d0\">IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— <a target=\"_blank\" href=\"https://www.ithome.com/1/030/120.htm\">华",
+        "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，而 GPT-5.6 Sol、Terra 将于 12 月 23 日退役",
+        "url": "https://www.ithome.com/1/031/271.htm",
+        "summary": "<p data-vmark=\"aa5d\">IT之家 11 月 24 日消息，OpenAI 今日宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，在此前于 ChatGPT Work 和 Codex 平台亮相不到一周后，进一步扩",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
-        "url": "https://www.ithome.com/1/031/219.htm",
-        "summary": "<p data-vmark=\"d93a\">IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— <a target=\"_blank\" href=\"https://www.ithome.com/1/030/120.htm\">华",
+        "title": "美国俄勒冈州、弗吉尼亚州起诉 SpaceX，指控 Grok AI 生成儿童性虐待图像",
+        "url": "https://www.ithome.com/1/031/270.htm",
+        "summary": "<p data-vmark=\"0a56\">IT之家 11 月 24 日消息，美国弗吉尼亚州、俄勒冈州已起诉 SpaceXSI，<strong>指控该公司旗下 AI 模型 Grok 并未阻止生成儿童性虐待图像</strong>，并从中获利。<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”",
-        "url": "https://www.ithome.com/1/031/218.htm",
-        "summary": "<p data-vmark=\"9242\">IT之家 11 月 23 日消息，英伟达今日宣布，<a href=\"https://www.ithome.com/1/031/207.htm\" target=\"_blank\">即日起恢复黄仁勋（Je",
+        "title": "我国前 10 月全社会用电量同比增长 3.7%，全国互联网等数据服务业用电增速超 40%",
+        "url": "https://www.ithome.com/1/031/269.htm",
+        "summary": "<p data-vmark=\"414b\">IT之家 11 月 24 日消息，国家能源局 11 月 23 日发布 1 至 10 月全社会用电量数据。</p><p data-vmark=\"bd1e\">数据显示，<strong>今年前 10 个月",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功",
-        "url": "https://www.ithome.com/1/031/216.htm",
-        "summary": "<p data-vmark=\"9ddd\">IT之家 11 月 23 日消息，英伟达今日宣布，<a href=\"https://www.ithome.com/1/031/207.htm\" target=\"_blank\"><strong>即日起",
+        "title": "《GTA 6》泄露案黑客被判 7 年监禁：曾入侵 Rockstar 并泄露 90 段视频，获准附条件离开监狱",
+        "url": "https://www.ithome.com/1/031/267.htm",
+        "summary": "<p data-vmark=\"9c17\">IT之家 11 月 24 日消息，据英国广播公司（BBC）报道，曾参与《侠盗猎车手 6》（GTA 6）早期泄露事件的黑客阿里昂 · 库尔塔伊（Arion Kurtaj）已被英国法院判处 7 年监禁。",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元",
-        "url": "https://www.ithome.com/1/031/217.htm",
-        "summary": "<p data-vmark=\"de45\">IT之家 11 月 23 日消息，今日英伟达美股开盘跳涨 32%，市值增加超 1 万亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.68 万亿元人",
+        "title": "微软酝酿改版 Edge 浏览器首次启动引导体验：大页面变小窗口，可导入谷歌账户数据",
+        "url": "https://www.ithome.com/1/031/266.htm",
+        "summary": "<p data-vmark=\"09a0\">IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文，<strong>分享了一组在 Windows 11 系统上测试的截图，展示了 Microsoft Edg",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,86 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "广州电动自行车新规 12 月 15 日起施行：部",
+        "summary": "广州电动自行车新规 12 月 15 日起施行：部分路段工作日 8 时至 19 时禁行，部分路段全天 24 小时禁行",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "上海地铁票价时隔 21 年调整",
+        "summary": "上海地铁票价时隔 21 年调整，平均每人次提高 0.9 元，12 月 1 日执行",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我国首个牙膏强制性国家标准即将出台：禁止明示或暗",
+        "summary": "我国首个牙膏强制性国家标准即将出台：禁止明示或暗示医疗作用",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "深圳卫健委提醒：清洁神器魔力擦别乱用",
+        "summary": "深圳卫健委提醒：清洁神器魔力擦别乱用，每磨损 1 克释放 650 万个微塑料",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "四部门：支持有条件幼儿园开设托班招收 2 岁至 ",
+        "summary": "四部门：支持有条件幼儿园开设托班招收 2 岁至 3 岁幼儿，打造 “一刻钟托育服务圈”，建设更多托位",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "新版国际高血压指南发布：高压 130、低压 80",
+        "summary": "新版国际高血压指南发布：高压 130、低压 80 起被定义为血压升高，要尽早干预",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "中国足协发布《红图计划》：统一理念重塑青训体系",
+        "summary": "中国足协发布《红图计划》：统一理念重塑青训体系，包括四个优先、五大培养支柱",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "韦东奕攻克近 140 年难题获奖",
+        "summary": "韦东奕攻克近 140 年难题获奖，斩获杰出青年中关村奖，50 万元奖金归个人所有",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "高校向学生发 Token：有大学每人每周送 1 ",
+        "summary": "高校向学生发 Token：有大学每人每周送 1 亿 Token 的使用额度",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "日媒：中国品牌新车份额在全球 39 个市场超越日",
+        "summary": "日媒：中国品牌新车份额在全球 39 个市场超越日本车企，其中 8 个市场位于欧洲",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
       {
         "title": "派评 | 近期值得关注的 App",
         "url": "https://sspai.com/post/119438",
@@ -160,16 +244,16 @@
       "url": "https://m.baidu.com/s?word=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA&sa=fyb_news"
     },
     {
-      "title": "英伟达董事会恢复黄仁勋CEO职务",
+      "title": "特朗普评价黄仁勋复职决定",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%BB%B7%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%86%B3%E5%AE%9A&sa=fyb_news"
     },
     {
-      "title": "特朗普：让黄仁勋复职正确且恰当",
+      "title": "多地景区密集免票",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E6%AD%A3%E7%A1%AE%E4%B8%94%E6%81%B0%E5%BD%93&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E6%99%AF%E5%8C%BA%E5%AF%86%E9%9B%86%E5%85%8D%E7%A5%A8&sa=fyb_news"
     },
     {
       "title": "探秘中国高铁的强大“内核”",
@@ -178,28 +262,16 @@
       "url": "https://m.baidu.com/s?word=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "胖东来一店将关闭 羽绒服亮成本价",
+      "title": "关乎“养老钱” 人社部公开征求意见",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD+%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%85%B3%E4%B9%8E%E2%80%9C%E5%85%BB%E8%80%81%E9%92%B1%E2%80%9D+%E4%BA%BA%E7%A4%BE%E9%83%A8%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&sa=fyb_news"
     },
     {
-      "title": "蔡磊发文悼念廖建文",
+      "title": "中方就以总理等被发逮捕令表态",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87&sa=fyb_news"
-    },
-    {
-      "title": "安睡裤广告吐槽月经气味大被罚45万",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%AE%89%E7%9D%A1%E8%A3%A4%E5%B9%BF%E5%91%8A%E5%90%90%E6%A7%BD%E6%9C%88%E7%BB%8F%E6%B0%94%E5%91%B3%E5%A4%A7%E8%A2%AB%E7%BD%9A45%E4%B8%87&sa=fyb_news"
-    },
-    {
-      "title": "特朗普：没证据表明黄仁勋有不法行为",
-      "platform": "百度热搜/头条",
-      "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B2%A1%E8%AF%81%E6%8D%AE%E8%A1%A8%E6%98%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E4%B8%8D%E6%B3%95%E8%A1%8C%E4%B8%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%BB%A5%E6%80%BB%E7%90%86%E7%AD%89%E8%A2%AB%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4%E8%A1%A8%E6%80%81&sa=fyb_news"
     },
     {
       "title": "女子嫌对面楼老旧自费7.3万刷漆",
@@ -208,16 +280,28 @@
       "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86&sa=fyb_news"
     },
     {
-      "title": "青稚凌晨直播超30万人在线观看",
+      "title": "睡够了还是累？可能是“低精力”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%9D%92%E7%A8%9A%E5%87%8C%E6%99%A8%E7%9B%B4%E6%92%AD%E8%B6%8530%E4%B8%87%E4%BA%BA%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%9D%A1%E5%A4%9F%E4%BA%86%E8%BF%98%E6%98%AF%E7%B4%AF%EF%BC%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E2%80%9C%E4%BD%8E%E7%B2%BE%E5%8A%9B%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "谢军被查 中国石油表态",
+      "title": "印尼女子发现丈夫出轨叫挖掘机拆房",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B0%A2%E5%86%9B%E8%A2%AB%E6%9F%A5+%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%A1%A8%E6%80%81&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%8D%B0%E5%B0%BC%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%8F%AB%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8B%86%E6%88%BF&sa=fyb_news"
+    },
+    {
+      "title": "李雪琴瘦到认不出",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA&sa=fyb_news"
+    },
+    {
+      "title": "胖东来一店将关闭 羽绒服亮成本价",
+      "platform": "百度热搜/头条",
+      "hot": "热",
+      "url": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD+%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news"
     },
     {
       "title": "网民发免费摘甘蔗谣言被拘",
@@ -226,21 +310,21 @@
       "url": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E5%8F%91%E5%85%8D%E8%B4%B9%E6%91%98%E7%94%98%E8%94%97%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98&sa=fyb_news"
     },
     {
-      "title": "A股午后为何直线拉升",
+      "title": "女孩坐1小时地铁到金店买黄金",
       "platform": "百度热搜/头条",
-      "hot": "9846727",
-      "url": "https://www.toutiao.com/trending/7711013178485784618/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711013178485784618%22%2C%22hot_board_impr_id%22%3A%2220261123233609536EF894C9B9CE9A09D8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22A%E8%82%A1%E5%8D%88%E5%90%8E%E4%B8%BA%E4%BD%95%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%22%7D&rank=&style_id=40132&topic_id=7711013178485784618"
+      "hot": "41101297",
+      "url": "https://www.toutiao.com/trending/7711312107027137034/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711312107027137034%22%2C%22hot_board_impr_id%22%3A%2220261124090554D7E87EF09068D8BD2A39%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%A9%E5%9D%901%E5%B0%8F%E6%97%B6%E5%9C%B0%E9%93%81%E5%88%B0%E9%87%91%E5%BA%97%E4%B9%B0%E9%BB%84%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7711312107027137034"
     },
     {
-      "title": "黄仁勋：很荣幸回到英伟达",
+      "title": "特朗普承认促成黄仁勋回归",
       "platform": "百度热搜/头条",
-      "hot": "8909687",
-      "url": "https://www.toutiao.com/trending/7711369945560387135/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711369945560387135%22%2C%22hot_board_impr_id%22%3A%2220261123233609536EF894C9B9CE9A09D8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E5%BE%88%E8%8D%A3%E5%B9%B8%E5%9B%9E%E5%88%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%22%7D&rank=&style_id=40132&topic_id=7711369945560387135"
+      "hot": "37189991",
+      "url": "https://www.toutiao.com/trending/7711388741448761883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711388741448761883%22%2C%22hot_board_impr_id%22%3A%2220261124090554D7E87EF09068D8BD2A39%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E4%BF%83%E6%88%90%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%22%7D&rank=&style_id=40132&topic_id=7711388741448761883"
     },
     {
       "title": "亚太共赴开放创新合作之约",
       "platform": "百度热搜/头条",
-      "hot": "8061818",
+      "hot": "33650895",
       "url": "https://www.toutiao.com/article/7711134868674986536"
     }
   ],
@@ -250,11 +334,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "英伟达董事会恢复黄仁勋CEO职务",
+      "title": "特朗普评价黄仁勋复职决定",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "特朗普：让黄仁勋复职正确且恰当",
+      "title": "多地景区密集免票",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -262,7 +346,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "胖东来一店将关闭 羽绒服亮成本价",
+      "title": "关乎“养老钱” 人社部公开征求意见",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
