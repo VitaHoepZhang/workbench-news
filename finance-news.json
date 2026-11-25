@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T23:14:13+08:00",
+  "updated_at": "2026-11-26T06:38:35+08:00",
   "indices": [
     {
       "name": "上证指数",
@@ -20,40 +20,7 @@
       "pct": -4.19
     }
   ],
-  "sectors": [
-    {
-      "name": "水产养殖",
-      "change": 5.57
-    },
-    {
-      "name": "文化用品",
-      "change": 3.65
-    },
-    {
-      "name": "渔业",
-      "change": 2.98
-    },
-    {
-      "name": "氮肥",
-      "change": 2.25
-    },
-    {
-      "name": "超市",
-      "change": 2.07
-    },
-    {
-      "name": "百货",
-      "change": 1.84
-    },
-    {
-      "name": "线下药店",
-      "change": 1.57
-    },
-    {
-      "name": "其他养殖",
-      "change": 1.37
-    }
-  ],
+  "sectors": [],
   "macro": [],
   "policy": [],
   "watch": []
