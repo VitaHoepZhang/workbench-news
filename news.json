@@ -1,81 +1,77 @@
 {
-  "updated_at": "2026-11-25T13:07:25+08:00",
+  "updated_at": "2026-11-25T23:14:13+08:00",
   "science": [
     {
-      "title": "神舟二十四号飞船 11 月 25 日 8 时 1",
-      "summary": "神舟二十四号飞船 11 月 25 日 8 时 18 分发射；巴基斯坦航天员将随神舟二十三号飞船返回",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 习近平对党内法规工作作出重要指示",
+      "summary": "「习近平对党内法规工作作出重要指示」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "国内油价 26 日 24 时或迎来二连跌：92 ",
-      "summary": "国内油价 26 日 24 时或迎来二连跌：92 号汽油有望重回 7 元时代，加满一箱油或能少花 17 元",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 国内月底会暖到离谱",
+      "summary": "「国内月底会暖到离谱」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "央行长短 “组合拳” 11 月 25 日落地：8",
-      "summary": "央行长短 “组合拳” 11 月 25 日落地：8000 亿元 MLF + 5000 亿元逆回购",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 399元羽绒服卖疯 高价品牌脸被打肿",
+      "summary": "「399元羽绒服卖疯 高价品牌脸被打肿」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     },
     {
-      "title": "教育部拟出新规：教材价值导向有问题将立即停用",
-      "summary": "教育部拟出新规：教材价值导向有问题将立即停用，质量不高或更新不及时也将被淘汰",
-      "source": "60s读懂世界",
-      "url": "",
-      "heat": "中"
+      "title": "今日热点速览 · 中外航天员在中国空间站合影",
+      "summary": "「中外航天员在中国空间站合影」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "source": "热点速览",
+      "heat": "高"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "华为将在 ISSCC 2027 展示五层混合键合 HBM、逻辑芯片 3D 堆叠等先进技术",
-        "url": "https://www.ithome.com/1/032/090.htm",
-        "summary": "<p data-vmark=\"cb76\">IT之家 11 月 25 日消息，根据 IEEE 官方 11 月 23 日公布的 ISSCC 2027 会议议程草案，华为将在明年举行的国际固态电路会议（ISSCC）上展示多项芯片及先进封装技术，涉",
+        "title": "态度反转：消息称亚马逊与 Meta 洽谈合作，或将开放商城给 Muse AI 购物助手",
+        "url": "https://www.ithome.com/1/032/515.htm",
+        "summary": "<p data-vmark=\"44ec\">IT之家 11 月 25 日消息，有消息显示，亚马逊对 Meta 旗下 AI 智能体 Muse 的态度或许正在转变。两大巨头正在洽谈一项合作，希望让 Muse 直接接入亚马逊电商平台。</p><p ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "高盛：美国数据中心建设热潮有望持续至 2028 年，推高电力与天然气需求",
-        "url": "https://www.ithome.com/1/032/089.htm",
-        "summary": "<p data-vmark=\"b04f\">IT之家 11 月 25 日消息，据智通财经报道，高盛集团表示，受人工智能热潮推动，<strong>美国数据中心电力容量的强劲增长态势有望持续至 2028 年。</strong>随着数据中心在数量、",
+        "title": "古尔曼：苹果内部已测试 iPad 运行 macOS，但暂无面向消费者落地计划",
+        "url": "https://www.ithome.com/1/032/503.htm",
+        "summary": "<p data-vmark=\"4163\">IT之家 11 月 25 日消息，iPad 早已用上和 Mac 同源的 Apple Silicon 芯片，很多用户都希望苹果能允许直接在平板上运行 macOS，摆脱目前 iPadOS 不够顺手的窗口",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "《三体》电影版编剧陈宇：已集中写剧本两年多时间，自己和张艺谋压力都非常大",
-        "url": "https://www.ithome.com/1/032/087.htm",
-        "summary": "<p data-vmark=\"55b6\">IT之家 11 月 25 日消息，据新浪电影报道，在 11 月 24 日的新浪潮论坛 X 2026 嘉兴南湖吴天明青年电影展对话活动中，《三体》电影版编剧陈宇透露目前项目进度。</p><p data",
+        "title": "蔚来总裁秦力洪：当价格战打不动时，长期价值会重新回到舞台中心",
+        "url": "https://www.ithome.com/1/032/502.htm",
+        "summary": "<p data-vmark=\"745a\">IT之家 11 月 25 日消息，今天是蔚来公司十二周年，第三届 NIO IN 蔚来创新科技日于广州举办。</p><p data-vmark=\"5915\">据新浪科技报道，谈及未来公司规划，蔚来联合",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "消息称国产 Jeep 首款车型 2027 年推出，搭载 Momenta 高阶智驾",
-        "url": "https://www.ithome.com/1/032/086.htm",
-        "summary": "<p data-vmark=\"c66f\">IT之家 11 月 25 日消息，据财联社今天报道，Jeep 品牌未来三年将在华推出多款车型，产品价格从入门级到主流市场，并延伸至豪华产品赛道，包含燃油、插混及纯电车型。</p><p style=\"",
+        "title": "小米“米家洗衣机健康洗 Pro 双筒洗烘 2kg”开售：双筒独立洗烘，国补到手价 2199 元",
+        "url": "https://www.ithome.com/1/032/500.htm",
+        "summary": "<p data-vmark=\"6791\">IT之家 11 月 25 日消息，小米“米家洗衣机健康洗 Pro 双筒洗烘 2kg”今晚正式开售，建议零售价 2999 元，电商平台标价 2587 元，<strong>国补到手价 2199 元</s",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "约 23 年里至少 5 次尝试：微软再战“人脉”，Win11 小部件可直达聊天",
-        "url": "https://www.ithome.com/1/032/084.htm",
-        "summary": "<p data-vmark=\"8195\">IT之家 11 月 25 日消息，科技媒体 NeoWin 今天（11 月 25 日）发布博文，报道称<strong><a target=\"_blank\" href=\"https://www.itho",
+        "title": "华为陈海波称设计鸿蒙一大重要考虑是性能：HarmonyOS“全栈熵减”，实现终端性能持续提升",
+        "url": "https://www.ithome.com/1/032/499.htm",
+        "summary": "<p data-vmark=\"0c52\">IT之家 11 月 25 日现场消息，在今天的 HarmonyOS 创新技术沟通会上，华为 Fellow、鸿蒙首席科学家陈海波登台，介绍了鸿蒙 HarmonyOS 系统的设计。</p><p styl",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
-        "url": "https://www.ithome.com/1/032/062.htm",
-        "summary": "<p data-vmark=\"2dc9\">IT之家 11 月 25 日消息，据新浪科技报道，众擎机器人创始人兼 CEO 赵同阳今日在众擎机器人全球开发者大会表示，人形机器人正处在从整机量产走向商业化应用的关键阶段，下一阶段的竞争不再只是能不",
+        "title": "设计时速 350 公里：济滨高铁试运行，山东最大地下高铁站同步测试",
+        "url": "https://www.ithome.com/1/032/498.htm",
+        "summary": "<p data-vmark=\"6900\">IT之家 11 月 25 日消息，据央视新闻报道，11 月 25 日 8:30，55301 次试验动车组列车从济南东站平稳驶出，标志着新建天津至潍坊高速铁路济南联络线 —— 济滨高铁的联调联试圆满结",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -85,84 +81,20 @@
   "mzu_briefing": {
     "items": [
       {
-        "title": "神舟二十四号飞船 11 月 25 日 8 时 1",
-        "summary": "神舟二十四号飞船 11 月 25 日 8 时 18 分发射；巴基斯坦航天员将随神舟二十三号飞船返回",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "翻开 2027， 值得入手的新年日历推荐",
+        "url": "https://sspai.com/post/119264",
+        "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...<a href=&#34;htt",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
-        "title": "国内油价 26 日 24 时或迎来二连跌：92 ",
-        "summary": "国内油价 26 日 24 时或迎来二连跌：92 号汽油有望重回 7 元时代，加满一箱油或能少花 17 元",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "央行长短 “组合拳” 11 月 25 日落地：8",
-        "summary": "央行长短 “组合拳” 11 月 25 日落地：8000 亿元 MLF + 5000 亿元逆回购",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "教育部拟出新规：教材价值导向有问题将立即停用",
-        "summary": "教育部拟出新规：教材价值导向有问题将立即停用，质量不高或更新不及时也将被淘汰",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "广州楼市 “卖旧买新” 新政策：扩大范围至六个区",
-        "summary": "广州楼市 “卖旧买新” 新政策：扩大范围至六个区，并延长补贴期限",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "四川修订消费者权益保护条例",
-        "summary": "四川修订消费者权益保护条例，鼓励实体店也能 “无理由退货”",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "国产可口可乐不再标生产日期",
-        "summary": "国产可口可乐不再标生产日期，客服回应：新国标允许保质期 6 个月以上可只标到期日",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "我国牵头制定 78 项人工智能国际标准",
-        "summary": "我国牵头制定 78 项人工智能国际标准，涉及数据治理、人机交互等",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "厦航拟购买 50 架波音 737-8",
-        "summary": "厦航拟购买 50 架波音 737-8，波音时隔九年再获中国大规模订单",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
-      },
-      {
-        "title": "菲律宾对中国公民 14 天免签入境政策延长一年",
-        "summary": "菲律宾对中国公民 14 天免签入境政策延长一年，中使馆提醒：免签仅适用于旅游、商务目的",
-        "source": "60s读懂世界",
-        "url": "",
-        "category": "要闻",
-        "heat": "中"
+        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+        "url": "https://sspai.com/post/119310",
+        "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。<a href=&#34;https://sspai.com/post/119310&#34; target=&#34;_",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
       },
       {
         "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
@@ -195,158 +127,131 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "写在动荡之后：漫步巴黎的寻常一日",
-        "url": "https://sspai.com/post/119412",
-        "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=&#34;https://sspai.com/post/119412&#34; target=&#34;_blank&#34;>查看全文</a>",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-        "url": "https://sspai.com/post/119460",
-        "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
-        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
+        "title": "「中国消费者的钱 正在重新分配」涉及哪些法律点？",
+        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
         "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "买到问题商品，消费者维权的 3 条路",
-        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
-        "source": "普法",
-        "heat": "高"
-      },
-      {
-        "title": "加班费三档标准：1.5 / 2 / 3 倍",
-        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
-        "source": "普法",
-        "heat": "高"
+        "heat": "高",
+        "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E9%92%B1+%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%88%86%E9%85%8D&sa=fyb_news"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "习近平总书记深情寄语航天工作者",
+      "title": "习近平对党内法规工作作出重要指示",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B7%B1%E6%83%85%E5%AF%84%E8%AF%AD%E8%88%AA%E5%A4%A9%E5%B7%A5%E4%BD%9C%E8%80%85&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
     },
     {
-      "title": "巴基斯坦航天界全程观看直播",
+      "title": "国内月底会暖到离谱",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E7%95%8C%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1&sa=fyb_news"
     },
     {
-      "title": "义乌老板用AI接下不敢接的单",
+      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E7%94%A8AI%E6%8E%A5%E4%B8%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E7%9A%84%E5%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
     },
     {
-      "title": "照护“一老一小” 服务体系如何搭建",
+      "title": "中外航天员在中国空间站合影",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%85%A7%E6%8A%A4%E2%80%9C%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E2%80%9D+%E6%9C%8D%E5%8A%A1%E4%BD%93%E7%B3%BB%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news"
     },
     {
-      "title": "特朗普说的漂亮帽子可能不在中国菜上",
+      "title": "中国消费者的钱 正在重新分配",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9A%84%E6%BC%82%E4%BA%AE%E5%B8%BD%E5%AD%90%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%8F%9C%E4%B8%8A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E9%92%B1+%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%88%86%E9%85%8D&sa=fyb_news"
     },
     {
-      "title": "涉案金额超150亿元 舒某某被引渡回国",
+      "title": "“最佳睡眠时长”找到了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E8%B6%85150%E4%BA%BF%E5%85%83+%E8%88%92%E6%9F%90%E6%9F%90%E8%A2%AB%E5%BC%95%E6%B8%A1%E5%9B%9E%E5%9B%BD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E2%80%9D%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "巴基斯坦人齐唱国歌欢呼鼓掌",
+      "title": "“转人工转人工 给我转人工”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E9%BD%90%E5%94%B1%E5%9B%BD%E6%AD%8C%E6%AC%A2%E5%91%BC%E9%BC%93%E6%8E%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%BD%AC%E4%BA%BA%E5%B7%A5%E8%BD%AC%E4%BA%BA%E5%B7%A5+%E7%BB%99%E6%88%91%E8%BD%AC%E4%BA%BA%E5%B7%A5%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "《持械入宋》片尾出现真人面孔",
+      "title": "沈阳高颜值保洁大叔宣布离职",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E7%89%87%E5%B0%BE%E5%87%BA%E7%8E%B0%E7%9C%9F%E4%BA%BA%E9%9D%A2%E5%AD%94&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%88%E9%98%B3%E9%AB%98%E9%A2%9C%E5%80%BC%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%AE%A3%E5%B8%83%E7%A6%BB%E8%81%8C&sa=fyb_news"
     },
     {
-      "title": "高颜值学霸转行当演员 高考667分",
+      "title": "《千年等一回》的间奏居然是China",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A6%E9%9C%B8%E8%BD%AC%E8%A1%8C%E5%BD%93%E6%BC%94%E5%91%98+%E9%AB%98%E8%80%83667%E5%88%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
     },
     {
-      "title": "郎永淳离开央视创业后现在怎么样了",
+      "title": "谷爱凌受伤肩膀脱臼 本人致歉",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%83%8E%E6%B0%B8%E6%B7%B3%E7%A6%BB%E5%BC%80%E5%A4%AE%E8%A7%86%E5%88%9B%E4%B8%9A%E5%90%8E%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
     },
     {
-      "title": "康师傅没做成的生意 好欢螺能做成吗",
+      "title": "朱亚文版朱瞻基翻红",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%BA%B7%E5%B8%88%E5%82%85%E6%B2%A1%E5%81%9A%E6%88%90%E7%9A%84%E7%94%9F%E6%84%8F+%E5%A5%BD%E6%AC%A2%E8%9E%BA%E8%83%BD%E5%81%9A%E6%88%90%E5%90%97&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%BF%BB%E7%BA%A2&sa=fyb_news"
     },
     {
-      "title": "护卫银发与童心 让网络温暖无虞",
+      "title": "天津滨海新区试点免中考升学不实",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%8A%A4%E5%8D%AB%E9%93%B6%E5%8F%91%E4%B8%8E%E7%AB%A5%E5%BF%83+%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%B8%A9%E6%9A%96%E6%97%A0%E8%99%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E8%AF%95%E7%82%B9%E5%85%8D%E4%B8%AD%E8%80%83%E5%8D%87%E5%AD%A6%E4%B8%8D%E5%AE%9E&sa=fyb_news"
     },
     {
-      "title": "神舟二十四号载人飞船发射成功",
+      "title": "巴主持人激动播报：这是最自豪时刻",
       "platform": "百度热搜/头条",
-      "hot": "47331972",
-      "url": "https://www.toutiao.com/trending/7711902226125622835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711902226125622835%22%2C%22hot_board_impr_id%22%3A%2220261125130723543E6527484B1D9D6D9B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%22%7D&rank=&style_id=40132&topic_id=7711902226125622835"
+      "hot": "24280750",
+      "url": "https://www.toutiao.com/trending/7711148758385786943/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711148758385786943%22%2C%22hot_board_impr_id%22%3A%2220261125231411AFFD66B18F4074513BD6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%B4%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%BF%80%E5%8A%A8%E6%92%AD%E6%8A%A5%EF%BC%9A%E8%BF%99%E6%98%AF%E6%9C%80%E8%87%AA%E8%B1%AA%E6%97%B6%E5%88%BB%22%7D&rank=&style_id=40132&topic_id=7711148758385786943"
     },
     {
-      "title": "巴基斯坦各界围观神24发射",
+      "title": "陈吉宁被查 上海市政府党组等表态",
       "platform": "百度热搜/头条",
-      "hot": "42827739",
-      "url": "https://www.toutiao.com/trending/7711945575519948298/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711945575519948298%22%2C%22hot_board_impr_id%22%3A%2220261125130723543E6527484B1D9D6D9B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%84%E7%95%8C%E5%9B%B4%E8%A7%82%E7%A5%9E24%E5%8F%91%E5%B0%84%22%7D&rank=&style_id=40132&topic_id=7711945575519948298"
+      "hot": "21970131",
+      "url": "https://www.toutiao.com/trending/7712055880123944475/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712055880123944475%22%2C%22hot_board_impr_id%22%3A%2220261125231411AFFD66B18F4074513BD6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5+%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%94%BF%E5%BA%9C%E5%85%9A%E7%BB%84%E7%AD%89%E8%A1%A8%E6%80%81%22%7D&rank=&style_id=40132&topic_id=7712055880123944475"
     },
     {
-      "title": "经济活力足 消费市场旺",
+      "title": "中外航天员在中国空间站“太空会师”",
       "platform": "百度热搜/头条",
-      "hot": "38752141",
-      "url": "https://www.toutiao.com/article/7711740711707623951"
+      "hot": "19879397",
+      "url": "https://www.toutiao.com/video/7712010953189884479"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平总书记深情寄语航天工作者",
+      "title": "习近平对党内法规工作作出重要指示",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "巴基斯坦航天界全程观看直播",
+      "title": "国内月底会暖到离谱",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "义乌老板用AI接下不敢接的单",
+      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "照护“一老一小” 服务体系如何搭建",
+      "title": "中外航天员在中国空间站合影",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "特朗普说的漂亮帽子可能不在中国菜上",
+      "title": "中国消费者的钱 正在重新分配",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
