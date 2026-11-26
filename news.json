@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-26T06:38:35+08:00",
+  "updated_at": "2026-11-26T12:33:30+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 习近平对党内法规工作作出重要指示",
-      "summary": "「习近平对党内法规工作作出重要指示」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "新一轮冷空气来袭：北方多地降温显著",
+      "summary": "新一轮冷空气来袭：北方多地降温显著，局地降温可达 10℃；南方将迎小阳春，部分地区最高温超 20℃，入冬或继续推迟",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 国内月底会暖到离谱",
-      "summary": "「国内月底会暖到离谱」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "济滨高铁试运行：滨州到济南压缩至半小时",
+      "summary": "济滨高铁试运行：滨州到济南压缩至半小时，鲁北四地将告别无高铁历史",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 399元羽绒服卖疯 高价品牌脸被打肿",
-      "summary": "「399元羽绒服卖疯 高价品牌脸被打肿」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "报告：2026 年成品油终端需求同比下降近 9%",
+      "summary": "报告：2026 年成品油终端需求同比下降近 9%，未来 10 年国内汽柴油萎缩超四成",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 中外航天员在中国空间站合影",
-      "summary": "「中外航天员在中国空间站合影」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "滴滴升级司机保障计划：明年将在 20 城推出暖心",
+      "summary": "滴滴升级司机保障计划：明年将在 20 城推出暖心餐，补贴后最低 7.9 元",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "蛮啾《蓝色星原：旅谣》今日公测：两百余种奇波可捕捉骑乘，登陆 PC、iOS、安卓、鸿蒙与 PS5",
-        "url": "https://www.ithome.com/1/032/534.htm",
-        "summary": "<p data-vmark=\"d1d7\">IT之家 11 月 26 日消息，由《碧蓝航线》开发商蛮啾网络打造的幻想大世界 RPG《蓝色星原：旅谣》将于 11 月 26 日 10:00 正式开启公测，登陆 PC、iOS、安卓、鸿蒙与 PS5 ",
+        "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
+        "url": "https://www.ithome.com/1/032/722.htm",
+        "summary": "<p data-vmark=\"1760\">IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能，<strong>探索如何将 GPU 的",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案",
-        "url": "https://www.ithome.com/1/032/533.htm",
-        "summary": "<p data-vmark=\"f559\">IT之家 11 月 25 日消息，奕境汽车品牌总经理曾清林刚刚发文，分享了 70% 和 90% 两组数据：</p><blockquote><ul class=\"medium-size list-pa",
+        "title": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器",
+        "url": "https://www.ithome.com/1/032/720.htm",
+        "summary": "<p data-vmark=\"b167\">IT之家 11 月 26 日消息，据渠道消息源 @视讯堂 爆料，显示器品牌泰坦军团 (Titan Army) 在本月 22~23 日在四川成都举行的中国区电竞沙龙上宣布了多款新品的规划。</p><p",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本",
-        "url": "https://www.ithome.com/1/032/531.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，北汽 T700 完成申报。</p><p data-vmark=\"0001\">本次申报的车型由北",
+        "title": "新“万里长江第一隧”，世界最长公路水下盾构隧道成功穿越长江",
+        "url": "https://www.ithome.com/1/032/719.htm",
+        "summary": "<p data-vmark=\"9bb0\">IT之家 11 月 26 日消息，据央视新闻报道，11 月 26 日上午 9 时许，<span class=\"color-00269a\">由我国自主研制的国产 16 米级超大直径盾构机“江海号”顺利",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐",
-        "url": "https://www.ithome.com/1/032/530.htm",
-        "summary": "<p data-vmark=\"db01\">IT之家 11 月 25 日消息，据公众号“大厂产品”分享，微信也有了自己的音乐产品。打开微信发现页中的听一听，<strong>进入「我的-个人歌单」会看到个人歌单下显示有微信音乐</strong>",
+        "title": "腾讯《英雄联盟电竞经理》宣布 2027 年 1 月 26 日停运，今日起停止游戏充值和新用户注册",
+        "url": "https://www.ithome.com/1/032/718.htm",
+        "summary": "<p data-vmark=\"8e15\">IT之家 11 月 26 日消息，腾讯今日发布公告称，由于游戏开发及运营策略调整，《英雄联盟电竞经理》将于 <strong>2027 年 1 月 26 日 11 时</strong>正式停止运营。<",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV",
-        "url": "https://www.ithome.com/1/032/529.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，<strong>零跑 C19 增程版与纯电版完成申报</strong>。</p><p data",
+        "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
+        "url": "https://www.ithome.com/1/032/716.htm",
+        "summary": "<p data-vmark=\"ff12\">IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，<strong>称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "岚图梦想家 8 申报：纯电 / 插混可选，7 座中大型 MPV",
-        "url": "https://www.ithome.com/1/032/528.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，岚图汽车全新中大型 MPV 岚图梦想家 8 完成申报，涵盖纯电动、插电式混合动力共三款车型。<",
+        "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
+        "url": "https://www.ithome.com/1/032/714.htm",
+        "summary": "<p data-vmark=\"1202\">IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024）<span class=\"color-00269a",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,102 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "新一轮冷空气来袭：北方多地降温显著",
+        "summary": "新一轮冷空气来袭：北方多地降温显著，局地降温可达 10℃；南方将迎小阳春，部分地区最高温超 20℃，入冬或继续推迟",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "济滨高铁试运行：滨州到济南压缩至半小时",
+        "summary": "济滨高铁试运行：滨州到济南压缩至半小时，鲁北四地将告别无高铁历史",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "报告：2026 年成品油终端需求同比下降近 9%",
+        "summary": "报告：2026 年成品油终端需求同比下降近 9%，未来 10 年国内汽柴油萎缩超四成",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "滴滴升级司机保障计划：明年将在 20 城推出暖心",
+        "summary": "滴滴升级司机保障计划：明年将在 20 城推出暖心餐，补贴后最低 7.9 元",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "中疾控：我国艾滋病治疗成功比例达 95% 以上",
+        "summary": "中疾控：我国艾滋病治疗成功比例达 95% 以上，我国艾滋处低流行水平",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "深圳女子穿楚服看楚展被误认穿 “和服”",
+        "summary": "深圳女子穿楚服看楚展被误认穿 “和服”，馆方回应：立即开展培训",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "现货黄金跌破 3500 美元关口",
+        "summary": "现货黄金跌破 3500 美元关口，为去年 9 月以来最低水平，较年内高点回撤近四成",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "1-10 月我国全行业对外直接投资 9411.3",
+        "summary": "1-10 月我国全行业对外直接投资 9411.3 亿元人民币，同比下降 8.9%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "全球科技创新中心 100 强发布：中美上榜城市分",
+        "summary": "全球科技创新中心 100 强发布：中美上榜城市分别为 23 座和 26 座，占据全球一半；旧金山、纽约和北京居前三",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "欧盟发布混动汽车进口配额公告：中国获得 19.2",
+        "summary": "欧盟发布混动汽车进口配额公告：中国获得 19.2 万辆配额居首，成最大进口源",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "我用AI做了一张两千年的中国历史地图",
+        "url": "https://sspai.com/post/117510",
+        "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=&#34;https://sspai.com/post/117510&#34; target=&#34;_blank&#34;>查看全文</a>",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
+      {
+        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+        "url": "https://sspai.com/post/119560",
+        "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。<a href=&#34;https://sspai.com/post/119560&#34; target=&#34;_blank&#34;>查看全",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "翻开 2027， 值得入手的新年日历推荐",
         "url": "https://sspai.com/post/119264",
@@ -111,147 +211,142 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-        "url": "https://sspai.com/post/119492",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
-      },
-      {
-        "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
-        "url": "https://sspai.com/post/119035",
-        "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=&#34;htt",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
   "legal_briefing": {
     "items": [
       {
-        "title": "「中国消费者的钱 正在重新分配」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E9%92%B1+%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%88%86%E9%85%8D&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
   "hot_topics": [
     {
-      "title": "习近平对党内法规工作作出重要指示",
+      "title": "“开放是深圳与生俱来的基因”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%85%9A%E5%86%85%E6%B3%95%E8%A7%84%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%80%E6%94%BE%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%B8%8E%E7%94%9F%E4%BF%B1%E6%9D%A5%E7%9A%84%E5%9F%BA%E5%9B%A0%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "国内月底会暖到离谱",
+      "title": "“天下第一财神庙”重新开放",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%86%85%E6%9C%88%E5%BA%95%E4%BC%9A%E6%9A%96%E5%88%B0%E7%A6%BB%E8%B0%B1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E2%80%9D%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE&sa=fyb_news"
     },
     {
-      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
+      "title": "蔡磊已进入渐冻症终末期",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F&sa=fyb_news"
     },
     {
-      "title": "中外航天员在中国空间站合影",
+      "title": "“购物开箱”打开认知中国新视角",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%B4%AD%E7%89%A9%E5%BC%80%E7%AE%B1%E2%80%9D%E6%89%93%E5%BC%80%E8%AE%A4%E7%9F%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%86%E8%A7%92&sa=fyb_news"
     },
     {
-      "title": "中国消费者的钱 正在重新分配",
+      "title": "人民日报评“小学生只上半天学”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E9%92%B1+%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%88%86%E9%85%8D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%AA%E4%B8%8A%E5%8D%8A%E5%A4%A9%E5%AD%A6%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "“最佳睡眠时长”找到了",
+      "title": "APEC礼宾车陆续返还全国各地车主",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%9C%80%E4%BD%B3%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E2%80%9D%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=APEC%E7%A4%BC%E5%AE%BE%E8%BD%A6%E9%99%86%E7%BB%AD%E8%BF%94%E8%BF%98%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E8%BD%A6%E4%B8%BB&sa=fyb_news"
     },
     {
-      "title": "沈伯洋承认曾接受境外经费补助",
+      "title": "沈阳高颜值保洁大叔回应辞职原因",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%89%BF%E8%AE%A4%E6%9B%BE%E6%8E%A5%E5%8F%97%E5%A2%83%E5%A4%96%E7%BB%8F%E8%B4%B9%E8%A1%A5%E5%8A%A9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B2%88%E9%98%B3%E9%AB%98%E9%A2%9C%E5%80%BC%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%BA%94%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0&sa=fyb_news"
     },
     {
-      "title": "朱亚文版朱瞻基翻红",
+      "title": "妻子与蔡磊见面全程没说话",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%9C%B1%E4%BA%9A%E6%96%87%E7%89%88%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%BF%BB%E7%BA%A2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E4%B8%8E%E8%94%A1%E7%A3%8A%E8%A7%81%E9%9D%A2%E5%85%A8%E7%A8%8B%E6%B2%A1%E8%AF%B4%E8%AF%9D&sa=fyb_news"
     },
     {
-      "title": "《千年等一回》的间奏居然是China",
+      "title": "郭涛儿子回应进圈：想子承父业",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E%E3%80%8B%E7%9A%84%E9%97%B4%E5%A5%8F%E5%B1%85%E7%84%B6%E6%98%AFChina&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E5%9B%9E%E5%BA%94%E8%BF%9B%E5%9C%88%EF%BC%9A%E6%83%B3%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A&sa=fyb_news"
     },
     {
-      "title": "谷爱凌受伤肩膀脱臼 本人致歉",
+      "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%97%E4%BC%A4%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC+%E6%9C%AC%E4%BA%BA%E8%87%B4%E6%AD%89&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D&sa=fyb_news"
     },
     {
-      "title": "多方回应患者诊所内倒地离世",
+      "title": "李维嘉回应追星王菲",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E6%82%A3%E8%80%85%E8%AF%8A%E6%89%80%E5%86%85%E5%80%92%E5%9C%B0%E7%A6%BB%E4%B8%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%9E%E5%BA%94%E8%BF%BD%E6%98%9F%E7%8E%8B%E8%8F%B2&sa=fyb_news"
     },
     {
-      "title": "天津滨海新区试点免中考升学不实",
+      "title": "别被冲锋衣“无氟”营销带偏",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E8%AF%95%E7%82%B9%E5%85%8D%E4%B8%AD%E8%80%83%E5%8D%87%E5%AD%A6%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%A2%AB%E5%86%B2%E9%94%8B%E8%A1%A3%E2%80%9C%E6%97%A0%E6%B0%9F%E2%80%9D%E8%90%A5%E9%94%80%E5%B8%A6%E5%81%8F&sa=fyb_news"
     },
     {
-      "title": "金价大跌金店挤爆 抢黄金的人在抢啥",
+      "title": "普京爱吃粤菜离开前还打包上飞机",
       "platform": "百度热搜/头条",
-      "hot": "27320275",
-      "url": "https://www.toutiao.com/trending/7712119512744594985/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712119512744594985%22%2C%22hot_board_impr_id%22%3A%2220261126063833F90E2F3CCCDC22CE3B2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E6%8C%A4%E7%88%86+%E6%8A%A2%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%8A%A2%E5%95%A5%22%7D&rank=&style_id=40132&topic_id=7712119512744594985"
+      "hot": "27397179",
+      "url": "https://www.toutiao.com/trending/7711992074043818047/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711992074043818047%22%2C%22hot_board_impr_id%22%3A%2220261126123327D69663C159B2BFAA6EBB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E7%88%B1%E5%90%83%E7%B2%A4%E8%8F%9C%E7%A6%BB%E5%BC%80%E5%89%8D%E8%BF%98%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9E%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7711992074043818047"
     },
     {
-      "title": "AI正在帮忙抓贪官",
+      "title": "陈吉宁落马5天前曾现身",
       "platform": "百度热搜/头条",
-      "hot": "24720407",
-      "url": "https://www.toutiao.com/trending/7712002196388905023/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712002196388905023%22%2C%22hot_board_impr_id%22%3A%2220261126063833F90E2F3CCCDC22CE3B2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7712002196388905023"
+      "hot": "24789992",
+      "url": "https://www.toutiao.com/trending/7712289618116480538/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712289618116480538%22%2C%22hot_board_impr_id%22%3A%2220261126123327D69663C159B2BFAA6EBB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB%22%7D&rank=&style_id=40132&topic_id=7712289618116480538"
     },
     {
-      "title": "中外航天员在中国空间站“太空会师”",
+      "title": "神舟二十四号任务有哪些新看点",
       "platform": "百度热搜/头条",
-      "hot": "22367949",
-      "url": "https://www.toutiao.com/video/7712010953189884479"
+      "hot": "22430913",
+      "url": "https://www.toutiao.com/article/7712070359566254628"
     }
   ],
   "suggested_topics": [
     {
-      "title": "习近平对党内法规工作作出重要指示",
+      "title": "“开放是深圳与生俱来的基因”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "国内月底会暖到离谱",
+      "title": "“天下第一财神庙”重新开放",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "399元羽绒服卖疯 高价品牌脸被打肿",
+      "title": "蔡磊已进入渐冻症终末期",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中外航天员在中国空间站合影",
+      "title": "“购物开箱”打开认知中国新视角",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国消费者的钱 正在重新分配",
+      "title": "人民日报评“小学生只上半天学”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
