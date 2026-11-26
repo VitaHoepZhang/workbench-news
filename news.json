@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:38:58+08:00",
+  "updated_at": "2026-11-27T06:28:45+08:00",
   "science": [
     {
       "title": "今日热点速览 · 大河奔涌启新章",
@@ -8,14 +8,14 @@
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 车卖疯了 钱去哪了",
-      "summary": "「车卖疯了 钱去哪了」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 政府机关、事业单位带头过紧日子",
+      "summary": "「政府机关、事业单位带头过紧日子」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
     {
-      "title": "今日热点速览 · 中纪委连打三“虎”",
-      "summary": "「中纪委连打三“虎”」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
+      "title": "今日热点速览 · 中国六座城市跻身世界一线",
+      "summary": "「中国六座城市跻身世界一线」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
       "source": "热点速览",
       "heat": "高"
     },
@@ -29,49 +29,49 @@
   "tech_briefing": {
     "items": [
       {
-        "title": "宁德时代后市场服务品牌“宁家服务”直营体验中心在全国 12 城开业，全球服务网点已达 1441 个",
-        "url": "https://www.ithome.com/1/033/104.htm",
-        "summary": "<p data-vmark=\"85d8\">IT之家 11 月 26 日消息，据宁德时代消息，宁德时代后市场服务品牌宁家服务的直营体验中心昨日在保定、无锡、西安、淄博、郑州等 12 座城市同步开业。至此，<strong>宁家服务直营体验中心已",
+        "title": "Epic 喜加一：《Bread and Fred》游戏免费领取",
+        "url": "https://www.ithome.com/1/033/132.htm",
+        "summary": "<p data-vmark=\"0000\">IT之家 11 月 27 日消息，Epic 本周送出的游戏是《Bread and Fred》，下周送出的游戏是《Strange Antiquities》。</p><p data-vmark=\"000",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "让渐冻症患者“开口说话”，我国首例无线侵入式汉语脑机接口临床试验成功开展",
-        "url": "https://www.ithome.com/1/033/101.htm",
-        "summary": "<p data-vmark=\"4a8d\">IT之家 11 月 26 日消息，复旦大学今日发文，介绍了脑机接口的里程碑新突破：成功开展了<strong>我国首例无线侵入式汉语脑机接口临床试验</strong>，让渐冻症患者实现了“靠意念就能交",
+        "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
+        "url": "https://www.ithome.com/1/033/131.htm",
+        "summary": "<p data-vmark=\"4883\">IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。</p><p s",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "深蓝汽车成华为星驰首批合作伙伴，双 07 率先搭载全新辅助驾驶系统",
-        "url": "https://www.ithome.com/1/033/100.htm",
-        "summary": "<p data-vmark=\"f2ae\">IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，<a href=\"https://www.ithome.com/1/033/066.htm\" target=\"_blan",
+        "title": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算",
+        "url": "https://www.ithome.com/1/033/130.htm",
+        "summary": "<p data-vmark=\"6f67\">IT之家 11 月 26 日消息，在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 &amp; 小",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "保时捷发布 911 GT3 Tribute to 911 GT1，纪念珠海夺冠 30 周年",
-        "url": "https://www.ithome.com/1/033/099.htm",
-        "summary": "<p data-vmark=\"cdfd\">IT之家 11 月 26 日消息，保时捷的 Sonderwunsch 定制部门昨日在广州发布了 911 GT3 Tribute to 911 GT1，纪念 911 GT1 在中国首个获国际汽联（FI",
+        "title": "宁德时代预告 30#巧克力电池：首发 100kWh 版本，支持实现 3s 级零百加速",
+        "url": "https://www.ithome.com/1/033/129.htm",
+        "summary": "<p data-vmark=\"85ad\">IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧克力换电达成合作，并发布了智能补能解决方案",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "手机一碰过闸：微信 iOS 端 8.0.80 版本上线 NFC 交通卡",
-        "url": "https://www.ithome.com/1/033/098.htm",
-        "summary": "<p data-vmark=\"49f8\">IT之家 11 月 26 日消息，今年 10 月，<a href=\"https://www.ithome.com/1/016/838.htm\" target=\"_blank\">微信 iOS 平台迎来",
+        "title": "阿维塔陈卓：已有超过 5000 名华为员工自费成为阿维塔车主",
+        "url": "https://www.ithome.com/1/033/128.htm",
+        "summary": "<p data-vmark=\"bf4b\">IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，阿维塔科技董事长陈卓登台，分享了与华为合作的历程。</p><p style=\"text-align: center;\" ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "Counterpoint：2026 年第三季度美国智能手机出货量同比下降 9%，苹果份额升至 57%",
-        "url": "https://www.ithome.com/1/033/093.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 26 日消息，根据 Counterpoint Research 最新发布的美国市场监测报告，2026 年第三季度（7 — 9 月），美国智能手机整体出货量同比下降 9%。全球存储",
+        "title": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台",
+        "url": "https://www.ithome.com/1/033/127.htm",
+        "summary": "<p data-vmark=\"8d3b\">IT之家 11 月 26 日消息，光荣特库摩（Koei）宣布旗下游戏《仁王 3 完全版（NIOH 3 Complete Edition）》将于 2027 年 1 月 28 日发售，该版本主要还收录了",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -133,11 +133,22 @@
   "legal_briefing": {
     "items": [
       {
-        "title": "「俄空天军副总司令被捕」涉及哪些法律点？",
-        "summary": "该热点与上述法律关键词相关，具体法律定性以官方通报为准；涉及劳动/消费/合同纠纷可先咨询 12348 法律援助热线。",
+        "title": "被裁员，经济补偿 N / N+1 / 2N 怎么算？",
+        "summary": "经济补偿按工作年限算：每满一年一个月工资（N）；无过失性辞退未提前 30 天通知加一个月（N+1）；违法解除按二倍（2N）。",
         "source": "普法",
-        "heat": "高",
-        "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95&sa=fyb_news"
+        "heat": "高"
+      },
+      {
+        "title": "买到问题商品，消费者维权的 3 条路",
+        "summary": "先与商家协商；协商不成可向 12315 投诉；数额较大可起诉。网购 7 天无理由退货是法定权利。",
+        "source": "普法",
+        "heat": "高"
+      },
+      {
+        "title": "加班费三档标准：1.5 / 2 / 3 倍",
+        "summary": "工作日延时 150%、休息日不补休 200%、法定节假日 300%。保留加班记录是维权关键证据。",
+        "source": "普法",
+        "heat": "高"
       }
     ]
   },
@@ -149,16 +160,16 @@
       "url": "https://m.baidu.com/s?word=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0&sa=fyb_news"
     },
     {
-      "title": "车卖疯了 钱去哪了",
+      "title": "政府机关、事业单位带头过紧日子",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E5%8D%96%E7%96%AF%E4%BA%86+%E9%92%B1%E5%8E%BB%E5%93%AA%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E3%80%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90&sa=fyb_news"
     },
     {
-      "title": "中纪委连打三“虎”",
+      "title": "中国六座城市跻身世界一线",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%AD%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%B7%BB%E8%BA%AB%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%BF&sa=fyb_news"
     },
     {
       "title": "从世界经济版图看中国经济之韧",
@@ -167,28 +178,28 @@
       "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7&sa=fyb_news"
     },
     {
-      "title": "王虹再获国际大奖",
+      "title": "车卖疯了 钱去哪了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%9B%BD%E9%99%85%E5%A4%A7%E5%A5%96&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E5%8D%96%E7%96%AF%E4%BA%86+%E9%92%B1%E5%8E%BB%E5%93%AA%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "武大通报：教师曾某某被免职",
+      "title": "中国男篮80比82不敌沙特",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%E6%AF%9482%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9&sa=fyb_news"
     },
     {
-      "title": "董明珠：某些车企就是瞎搞 该灭就灭",
+      "title": "董明珠回应不招留学生争议",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%9F%90%E4%BA%9B%E8%BD%A6%E4%BC%81%E5%B0%B1%E6%98%AF%E7%9E%8E%E6%90%9E+%E8%AF%A5%E7%81%AD%E5%B0%B1%E7%81%AD&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE&sa=fyb_news"
     },
     {
-      "title": "俄空天军副总司令被捕",
+      "title": "警方通报3人可可西里失联被找到",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
     },
     {
       "title": "周琦肘击对手被驱逐",
@@ -203,10 +214,10 @@
       "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2&sa=fyb_news"
     },
     {
-      "title": "陪看男篮世预赛：中国男篮vs沙特",
+      "title": "U17国足32分钟进4球",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%B2%99%E7%89%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B332%E5%88%86%E9%92%9F%E8%BF%9B4%E7%90%83&sa=fyb_news"
     },
     {
       "title": "湖北一网民微信群内造谣被处罚",
@@ -215,22 +226,22 @@
       "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8C%97%E4%B8%80%E7%BD%91%E6%B0%91%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%86%85%E9%80%A0%E8%B0%A3%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
     },
     {
-      "title": "遭举报的武大女教授已被免职",
+      "title": "中纪委连打三“虎”",
       "platform": "百度热搜/头条",
-      "hot": "11333381",
-      "url": "https://www.toutiao.com/trending/7712441565330866226/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712441565330866226%22%2C%22hot_board_impr_id%22%3A%22202611262238556FD9B2840D5E099D2AE1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%81%AD%E4%B8%BE%E6%8A%A5%E7%9A%84%E6%AD%A6%E5%A4%A7%E5%A5%B3%E6%95%99%E6%8E%88%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7712441565330866226"
+      "hot": "12580925",
+      "url": "https://www.toutiao.com/trending/7712428794472284223/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712428794472284223%22%2C%22hot_board_impr_id%22%3A%222026112706284364A29EC60CF5A2D44AFA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7712428794472284223"
+    },
+    {
+      "title": "新郎发言落泪 新娘大喊不要哭冷死了",
+      "platform": "百度热搜/头条",
+      "hot": "11383691",
+      "url": "https://www.toutiao.com/trending/7712074897082630666/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712074897082630666%22%2C%22hot_board_impr_id%22%3A%222026112706284364A29EC60CF5A2D44AFA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E9%83%8E%E5%8F%91%E8%A8%80%E8%90%BD%E6%B3%AA+%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%93%AD%E5%86%B7%E6%AD%BB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7712074897082630666"
     },
     {
       "title": "一组数据看世界屋脊上的中国速度",
       "platform": "百度热搜/头条",
-      "hot": "9278987",
+      "hot": "10300390",
       "url": "https://www.toutiao.com/article/7712354717136994850"
-    },
-    {
-      "title": "董明珠：汽车产业害虫该灭就灭",
-      "platform": "百度热搜/头条",
-      "hot": "8395975",
-      "url": "https://www.toutiao.com/trending/7711716716862000683/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711716716862000683%22%2C%22hot_board_impr_id%22%3A%22202611262238556FD9B2840D5E099D2AE1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E5%AE%B3%E8%99%AB%E8%AF%A5%E7%81%AD%E5%B0%B1%E7%81%AD%22%7D&rank=&style_id=40132&topic_id=7711716716862000683"
     }
   ],
   "suggested_topics": [
@@ -239,11 +250,11 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "车卖疯了 钱去哪了",
+      "title": "政府机关、事业单位带头过紧日子",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中纪委连打三“虎”",
+      "title": "中国六座城市跻身世界一线",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
@@ -251,7 +262,7 @@
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "王虹再获国际大奖",
+      "title": "车卖疯了 钱去哪了",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
