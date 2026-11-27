@@ -1,77 +1,81 @@
 {
-  "updated_at": "2026-11-27T06:28:45+08:00",
+  "updated_at": "2026-11-27T12:37:37+08:00",
   "science": [
     {
-      "title": "今日热点速览 · 大河奔涌启新章",
-      "summary": "「大河奔涌启新章」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "6G 要来了！三部委：到 2030 年建成覆盖完",
+      "summary": "6G 要来了！三部委：到 2030 年建成覆盖完善、性能领先的新一代通信网",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 政府机关、事业单位带头过紧日子",
-      "summary": "「政府机关、事业单位带头过紧日子」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "国际科技创新中心指数 2026 发布：北京首次跃",
+      "summary": "国际科技创新中心指数 2026 发布：北京首次跃升全球第二，上海、粤港澳大湾区稳居前十",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 中国六座城市跻身世界一线",
-      "summary": "「中国六座城市跻身世界一线」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "中国首例无线侵入式汉语脑机接口临床试验完成",
+      "summary": "中国首例无线侵入式汉语脑机接口临床试验完成，让渐冻症患者 “开口说话”",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     },
     {
-      "title": "今日热点速览 · 从世界经济版图看中国经济之韧",
-      "summary": "「从世界经济版图看中国经济之韧」为今日高热度话题，点击热榜可查看详情；持续关注权威媒体报道可了解最新进展。",
-      "source": "热点速览",
-      "heat": "高"
+      "title": "数学家王虹获颁 2026 年度索菲・热尔曼奖",
+      "summary": "数学家王虹获颁 2026 年度索菲・热尔曼奖，是第二位获得此奖的中国人",
+      "source": "60s读懂世界",
+      "url": "",
+      "heat": "中"
     }
   ],
   "tech_briefing": {
     "items": [
       {
-        "title": "Epic 喜加一：《Bread and Fred》游戏免费领取",
-        "url": "https://www.ithome.com/1/033/132.htm",
-        "summary": "<p data-vmark=\"0000\">IT之家 11 月 27 日消息，Epic 本周送出的游戏是《Bread and Fred》，下周送出的游戏是《Strange Antiquities》。</p><p data-vmark=\"000",
+        "title": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起",
+        "url": "https://www.ithome.com/1/033/319.htm",
+        "summary": "<p data-vmark=\"e8e1\">IT之家 11 月 27 日消息，全新深蓝 L07 AI 激光版车型今日在 2026 广州车展上市，<strong>限时权益价 14.99 万元起</strong>。</p><ul class=\" ",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
-        "url": "https://www.ithome.com/1/033/131.htm",
-        "summary": "<p data-vmark=\"4883\">IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。</p><p s",
+        "title": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
+        "url": "https://www.ithome.com/1/033/309.htm",
+        "summary": "<p data-vmark=\"c17d\">IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，报道称在《务实工程师》（The Pragmatic Engineer）播客节目中，微软首",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算",
-        "url": "https://www.ithome.com/1/033/130.htm",
-        "summary": "<p data-vmark=\"6f67\">IT之家 11 月 26 日消息，在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 &amp; 小",
+        "title": "长三角铁路首次：安徽淮阜、淮蚌、巢马三条高铁同日开通，和县、濉溪、固镇、蒙城、利辛 5 县结束不通高铁的历史",
+        "url": "https://www.ithome.com/1/033/295.htm",
+        "summary": "<p data-vmark=\"2b66\">IT之家 11 月 27 日消息，安徽巢马高铁、淮蚌高铁、淮阜高铁三条线路今日集中开通运营。至此，安徽全省高铁里程突破 3300 公里，覆盖 16 市 44 县。长三角铁路营业里程超过 1.58 万",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "宁德时代预告 30#巧克力电池：首发 100kWh 版本，支持实现 3s 级零百加速",
-        "url": "https://www.ithome.com/1/033/129.htm",
-        "summary": "<p data-vmark=\"85ad\">IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧克力换电达成合作，并发布了智能补能解决方案",
+        "title": "庆祝宝可梦 30 周年，CASETiFY 公布系列像素风数码配饰",
+        "url": "https://www.ithome.com/1/033/291.htm",
+        "summary": "<p data-vmark=\"23e6\">IT之家 11 月 27 日消息，数码配件制造商 CASETiFY 当地时间本月 25 日面向日本市场公布了<strong>多款像素风《宝可梦》IP 保护壳与配饰</strong>。这些纪念《宝可梦",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "阿维塔陈卓：已有超过 5000 名华为员工自费成为阿维塔车主",
-        "url": "https://www.ithome.com/1/033/128.htm",
-        "summary": "<p data-vmark=\"bf4b\">IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，阿维塔科技董事长陈卓登台，分享了与华为合作的历程。</p><p style=\"text-align: center;\" ",
+        "title": "全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型",
+        "url": "https://www.ithome.com/1/033/283.htm",
+        "summary": "<p data-vmark=\"5323\" style=\"text-align: justify;\">IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
       },
       {
-        "title": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台",
-        "url": "https://www.ithome.com/1/033/127.htm",
-        "summary": "<p data-vmark=\"8d3b\">IT之家 11 月 26 日消息，光荣特库摩（Koei）宣布旗下游戏《仁王 3 完全版（NIOH 3 Complete Edition）》将于 2027 年 1 月 28 日发售，该版本主要还收录了",
+        "title": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
+        "url": "https://www.ithome.com/1/033/282.htm",
+        "summary": "<p data-vmark=\"3d1b\">IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。</p><p d",
         "source": "IT之家",
         "category": "科技",
         "heat": "高"
@@ -80,6 +84,94 @@
   },
   "mzu_briefing": {
     "items": [
+      {
+        "title": "6G 要来了！三部委：到 2030 年建成覆盖完",
+        "summary": "6G 要来了！三部委：到 2030 年建成覆盖完善、性能领先的新一代通信网",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "国际科技创新中心指数 2026 发布：北京首次跃",
+        "summary": "国际科技创新中心指数 2026 发布：北京首次跃升全球第二，上海、粤港澳大湾区稳居前十",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "中国首例无线侵入式汉语脑机接口临床试验完成",
+        "summary": "中国首例无线侵入式汉语脑机接口临床试验完成，让渐冻症患者 “开口说话”",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "数学家王虹获颁 2026 年度索菲・热尔曼奖",
+        "summary": "数学家王虹获颁 2026 年度索菲・热尔曼奖，是第二位获得此奖的中国人",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "中疾控发布提示：全国流感活动整体处于中流行水平",
+        "summary": "中疾控发布提示：全国流感活动整体处于中流行水平，南、北方省份流感病毒检测阳性率上升",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "北京对重点群体给予社保补贴",
+        "summary": "北京对重点群体给予社保补贴，个人缴费享 25% 补贴",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "医保上线新功能：参保人可便捷查询个人用药情况、购",
+        "summary": "医保上线新功能：参保人可便捷查询个人用药情况、购药记录，范围覆盖全国所有定点医疗机构和定点零售药店",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "美团、淘宝闪购官宣：全面取消超时扣款处罚；货拉拉",
+        "summary": "美团、淘宝闪购官宣：全面取消超时扣款处罚；货拉拉承诺将整体抽成比例降至约 9%",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "宁夏一彩票店中出 774.1 万元大奖 兑奖期已",
+        "summary": "宁夏一彩票店中出 774.1 万元大奖 兑奖期已过半，至今无人领奖",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "雀巢澳版 “Alfamino” 1 + 段奶粉检",
+        "summary": "雀巢澳版 “Alfamino” 1 + 段奶粉检出 “呕吐毒素”，品牌称涉事产品未进入中国大陆市场",
+        "source": "60s读懂世界",
+        "url": "",
+        "category": "要闻",
+        "heat": "中"
+      },
+      {
+        "title": "派早报：1Password 确认内部系统遭入侵等",
+        "url": "https://sspai.com/post/119632",
+        "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。<a href=&#34;https://sspai.com/post/119632&#34; target=&#34",
+        "source": "少数派",
+        "category": "科技",
+        "heat": "高"
+      },
       {
         "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
         "url": "https://sspai.com/post/116773",
@@ -119,14 +211,6 @@
         "source": "少数派",
         "category": "科技",
         "heat": "高"
-      },
-      {
-        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-        "url": "https://sspai.com/post/119310",
-        "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。<a href=&#34;https://sspai.com/post/119310&#34; target=&#34;_",
-        "source": "少数派",
-        "category": "科技",
-        "heat": "高"
       }
     ]
   },
@@ -154,115 +238,115 @@
   },
   "hot_topics": [
     {
-      "title": "大河奔涌启新章",
+      "title": "依规治党 永远在路上",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%BE%9D%E8%A7%84%E6%B2%BB%E5%85%9A+%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A&sa=fyb_news"
     },
     {
-      "title": "政府机关、事业单位带头过紧日子",
+      "title": "海康威视取消大小周却遭员工抵制",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E3%80%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E5%8D%B4%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6&sa=fyb_news"
     },
     {
-      "title": "中国六座城市跻身世界一线",
+      "title": "“电视回来了”才能“观众回来了”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%AD%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%B7%BB%E8%BA%AB%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%BF&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%94%B5%E8%A7%86%E5%9B%9E%E6%9D%A5%E4%BA%86%E2%80%9D%E6%89%8D%E8%83%BD%E2%80%9C%E8%A7%82%E4%BC%97%E5%9B%9E%E6%9D%A5%E4%BA%86%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "从世界经济版图看中国经济之韧",
+      "title": "新一代通信网承载“万物智联”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E6%89%BF%E8%BD%BD%E2%80%9C%E4%B8%87%E7%89%A9%E6%99%BA%E8%81%94%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "车卖疯了 钱去哪了",
+      "title": "许多年轻人为何开始“重新养父母”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%BD%A6%E5%8D%96%E7%96%AF%E4%BA%86+%E9%92%B1%E5%8E%BB%E5%93%AA%E4%BA%86&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E8%AE%B8%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E2%80%9C%E9%87%8D%E6%96%B0%E5%85%BB%E7%88%B6%E6%AF%8D%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "中国男篮80比82不敌沙特",
+      "title": "中国最大饺子IPO来了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%E6%AF%9482%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90IPO%E6%9D%A5%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "董明珠回应不招留学生争议",
+      "title": "冰箱里的肉千万别再泡水化冻了",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%86%B0%E7%AE%B1%E9%87%8C%E7%9A%84%E8%82%89%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E6%B3%A1%E6%B0%B4%E5%8C%96%E5%86%BB%E4%BA%86&sa=fyb_news"
     },
     {
-      "title": "警方通报3人可可西里失联被找到",
+      "title": "A股大科技“奇迹日”",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=A%E8%82%A1%E5%A4%A7%E7%A7%91%E6%8A%80%E2%80%9C%E5%A5%87%E8%BF%B9%E6%97%A5%E2%80%9D&sa=fyb_news"
     },
     {
-      "title": "周琦肘击对手被驱逐",
+      "title": "女子称因年龄超40岁被酒店拒绝入住",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%91%A8%E7%90%A6%E8%82%98%E5%87%BB%E5%AF%B9%E6%89%8B%E8%A2%AB%E9%A9%B1%E9%80%90&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9B%A0%E5%B9%B4%E9%BE%84%E8%B6%8540%E5%B2%81%E8%A2%AB%E9%85%92%E5%BA%97%E6%8B%92%E7%BB%9D%E5%85%A5%E4%BD%8F&sa=fyb_news"
     },
     {
-      "title": "周杰伦转发中国台北帖文绿媒破防",
+      "title": "央视主持人罕见不解质疑郭士强换人",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%BD%95%E8%A7%81%E4%B8%8D%E8%A7%A3%E8%B4%A8%E7%96%91%E9%83%AD%E5%A3%AB%E5%BC%BA%E6%8D%A2%E4%BA%BA&sa=fyb_news"
     },
     {
-      "title": "U17国足32分钟进4球",
+      "title": "三只松鼠员工用鼠取名",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B332%E5%88%86%E9%92%9F%E8%BF%9B4%E7%90%83&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%94%A8%E9%BC%A0%E5%8F%96%E5%90%8D&sa=fyb_news"
     },
     {
-      "title": "湖北一网民微信群内造谣被处罚",
+      "title": "求职季 这些风险要避开",
       "platform": "百度热搜/头条",
       "hot": "热",
-      "url": "https://m.baidu.com/s?word=%E6%B9%96%E5%8C%97%E4%B8%80%E7%BD%91%E6%B0%91%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%86%85%E9%80%A0%E8%B0%A3%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
+      "url": "https://m.baidu.com/s?word=%E6%B1%82%E8%81%8C%E5%AD%A3+%E8%BF%99%E4%BA%9B%E9%A3%8E%E9%99%A9%E8%A6%81%E9%81%BF%E5%BC%80&sa=fyb_news"
     },
     {
-      "title": "中纪委连打三“虎”",
+      "title": "商务部：政府机关带头过紧日子",
       "platform": "百度热搜/头条",
-      "hot": "12580925",
-      "url": "https://www.toutiao.com/trending/7712428794472284223/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712428794472284223%22%2C%22hot_board_impr_id%22%3A%222026112706284364A29EC60CF5A2D44AFA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7712428794472284223"
+      "hot": "17997661",
+      "url": "https://www.toutiao.com/trending/7712390729003401252/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712390729003401252%22%2C%22hot_board_impr_id%22%3A%2220261127123735CCE7A246D505FBCFA28B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7712390729003401252"
     },
     {
-      "title": "新郎发言落泪 新娘大喊不要哭冷死了",
+      "title": "三只松鼠员工必须用“鼠”取名字",
       "platform": "百度热搜/头条",
-      "hot": "11383691",
-      "url": "https://www.toutiao.com/trending/7712074897082630666/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712074897082630666%22%2C%22hot_board_impr_id%22%3A%222026112706284364A29EC60CF5A2D44AFA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E9%83%8E%E5%8F%91%E8%A8%80%E8%90%BD%E6%B3%AA+%E6%96%B0%E5%A8%98%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%93%AD%E5%86%B7%E6%AD%BB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7712074897082630666"
+      "hot": "16284957",
+      "url": "https://www.toutiao.com/trending/7712472413543792703/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712472413543792703%22%2C%22hot_board_impr_id%22%3A%2220261127123735CCE7A246D505FBCFA28B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E2%80%9C%E9%BC%A0%E2%80%9D%E5%8F%96%E5%90%8D%E5%AD%97%22%7D&rank=&style_id=40132&topic_id=7712472413543792703"
     },
     {
-      "title": "一组数据看世界屋脊上的中国速度",
+      "title": "延时看神舟二十四号与绚烂朝霞同框",
       "platform": "百度热搜/头条",
-      "hot": "10300390",
-      "url": "https://www.toutiao.com/article/7712354717136994850"
+      "hot": "14735238",
+      "url": "https://www.toutiao.com/article/7712448016912761371"
     }
   ],
   "suggested_topics": [
     {
-      "title": "大河奔涌启新章",
+      "title": "依规治党 永远在路上",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "政府机关、事业单位带头过紧日子",
+      "title": "海康威视取消大小周却遭员工抵制",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "中国六座城市跻身世界一线",
+      "title": "“电视回来了”才能“观众回来了”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "从世界经济版图看中国经济之韧",
+      "title": "新一代通信网承载“万物智联”",
       "reason": "今日热点，可做背景梳理与深度解读"
     },
     {
-      "title": "车卖疯了 钱去哪了",
+      "title": "许多年轻人为何开始“重新养父母”",
       "reason": "今日热点，可做背景梳理与深度解读"
     }
   ]
